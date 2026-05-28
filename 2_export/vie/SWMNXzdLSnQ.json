@@ -1,0 +1,857 @@
+{
+    "videoId": "SWMNXzdLSnQ",
+    "language": {
+        "iso3": "vie",
+        "subtitleLanguage": "vi",
+        "humanReadable": "Vietnamese"
+    },
+    "segments": [
+        {
+            "index": 1,
+            "startTimestamp": "00:00:00.000",
+            "endTimestamp": "00:00:04.739",
+            "vocab": {
+                "hi": "hi",
+                "xin chào": "hello; hi",
+                "các bạn": "you all; everyone (plural 'you')",
+                "có ... không": "do ...?; is there ...? (yes/no question structure)",
+                "bạn nào": "anyone; which of you",
+                "muốn": "want",
+                "ăn": "eat",
+                "phở gà": "chicken pho",
+                "với": "with",
+                "mình": "me"
+            }
+        },
+        {
+            "index": 2,
+            "startTimestamp": "00:00:05.259",
+            "endTimestamp": "00:00:11.159",
+            "vocab": {
+                "đối với": "for; regarding",
+                "người Việt Nam": "Vietnamese people",
+                "mình": "myself; me; we (informal, inclusive)",
+                "thì": "then; as for (topic marker)",
+                "phở gà": "chicken pho",
+                "rất đỗi": "very; extremely",
+                "quen thuộc": "familiar",
+                "hôm nay": "today",
+                "vào bếp": "go into the kitchen; start cooking",
+                "làm": "make; cook; do",
+                "với": "with",
+                "nha": "okay?; let's (softener, suggestion)"
+            }
+        },
+        {
+            "index": 3,
+            "startTimestamp": "00:00:11.980",
+            "endTimestamp": "00:00:17.549",
+            "vocab": {
+                "đây": "this",
+                "con gà": "chicken",
+                "người ta": "people; they (general subject)",
+                "chuyên dùng": "specialize in using; commonly used",
+                "nấu súp": "cook soup",
+                "nước dùng": "broth; stock",
+                "rất là ngọt": "very sweet (in taste; flavorful)"
+            }
+        },
+        {
+            "index": 4,
+            "startTimestamp": "00:00:18.160",
+            "endTimestamp": "00:00:24.840",
+            "vocab": {
+                "thịt": "meat",
+                "của nó": "its; of it",
+                "ngon": "delicious; tasty",
+                "nhưng": "but",
+                "không ... bằng": "not as ... as",
+                "con gà đi bộ": "free-range chicken; walking chicken (Vietnamese term for free-range)",
+                "Việt Nam": "Vietnam",
+                "mình": "our; my (colloquial, inclusive)",
+                "đâu": "at all; really (emphasizer, negative)",
+                "gà này": "this chicken",
+                "họ": "they",
+                "bán": "sell",
+                "ở dạng": "in the form of; as",
+                "đông đá": "frozen"
+            }
+        },
+        {
+            "index": 5,
+            "startTimestamp": "00:00:25.090",
+            "endTimestamp": "00:00:29.909",
+            "vocab": {
+                "nếu": "if",
+                "các bạn": "you (plural); you guys",
+                "không": "not",
+                "vội vàng": "in a hurry; hurried",
+                "mình": "I; me",
+                "mua về": "buy (and bring) home",
+                "bỏ": "put; place",
+                "trong": "in; inside",
+                "tủ lạnh": "fridge; refrigerator",
+                "cho": "let; for",
+                "nó": "it",
+                "rã đông": "defrost; thaw",
+                "từ từ": "slowly; gradually"
+            }
+        },
+        {
+            "index": 6,
+            "startTimestamp": "00:00:30.310",
+            "endTimestamp": "00:00:35.369",
+            "vocab": {
+                "bình thường": "normally; usually",
+                "mua về": "buy (and bring home)",
+                "để": "put; leave",
+                "trong tủ lạnh": "in the fridge",
+                "đến ngày hôm sau": "until the next day",
+                "thì": "then (sequence marker)",
+                "lấy ra": "take out",
+                "rửa sạch sẽ": "wash clean",
+                "rồi": "then; after that",
+                "nấu": "cook"
+            }
+        },
+        {
+            "index": 7,
+            "startTimestamp": "00:00:36.370",
+            "endTimestamp": "00:00:41.219",
+            "vocab": {
+                "cách": "way; method",
+                "mình": "I; me; my (informal)",
+                "nấu": "cook",
+                "rất là": "very",
+                "đơn giản": "simple",
+                "không có": "not have; no",
+                "cầu kỳ": "elaborate; complicated",
+                "gì hết": "at all; anything (emphatic negation)",
+                "ai cũng": "everyone; anyone",
+                "có thể": "can; able to",
+                "được": "possible; able to (passive/resultative marker)"
+            }
+        },
+        {
+            "index": 8,
+            "startTimestamp": "00:00:41.890",
+            "endTimestamp": "00:00:45.750",
+            "vocab": {
+                "mình": "I; me (informal, self-reference)",
+                "không": "not; no",
+                "có": "have; (used for emphasis/negation)",
+                "để nguyên": "leave whole; keep intact",
+                "con gà": "chicken",
+                "lóc": "debone; separate (meat from bone)",
+                "cánh": "wing",
+                "đùi": "thigh; leg",
+                "ra riêng": "separately; apart"
+            }
+        },
+        {
+            "index": 9,
+            "startTimestamp": "00:00:46.210",
+            "endTimestamp": "00:00:51.029",
+            "vocab": {
+                "lóc nhỏ ra": "cut into small pieces",
+                "như vậy": "like that; this way",
+                "để vô": "put in; place in",
+                "trong nồi": "in the pot",
+                "gọn gàng": "neat; tidy",
+                "nấu": "cook",
+                "chín đều hơn": "cook more evenly"
+            }
+        },
+        {
+            "index": 10,
+            "startTimestamp": "00:00:51.430",
+            "endTimestamp": "00:00:57.869",
+            "vocab": {
+                "không cần phải": "no need to; don't have to",
+                "canh": "watch; keep an eye on",
+                "trở mặt": "flip over (cooking context)",
+                "con gà": "chicken",
+                "lóc gà": "debone chicken; fillet chicken",
+                "không khó đâu": "not hard; not difficult",
+                "đùi": "thigh",
+                "cánh gà": "chicken wing",
+                "khớp": "joint (anatomy)",
+                "hai cái": "two (classifier for objects)",
+                "á": "(sentence-ending particle; softens statement, adds emphasis)"
+            }
+        },
+        {
+            "index": 11,
+            "startTimestamp": "00:00:58.210",
+            "endTimestamp": "00:01:01.679",
+            "vocab": {
+                "các bạn": "you (plural); you guys",
+                "chỉ cần": "just need to; only need to",
+                "bẽ": "break (by bending)",
+                "chút xíu": "a little bit; a tiny bit",
+                "là": "then; so (result marker)",
+                "mình": "I; we (informal, inclusive)",
+                "cắt": "cut",
+                "ra": "out (resultative particle)",
+                "được": "can; able to (possibility/result)",
+                "thôi à": "that's all; just (emphasizing simplicity)"
+            }
+        },
+        {
+            "index": 12,
+            "startTimestamp": "00:01:17.570",
+            "endTimestamp": "00:01:30.389",
+            "vocab": {
+                "đó": "that",
+                "nguyên": "whole; entire",
+                "cái đùi": "thigh (of chicken)",
+                "luôn": "completely; entirely (emphasis particle)",
+                "như vậy": "like that; in that way",
+                "cái mình gà": "chicken body",
+                "các bạn": "you (plural; polite)",
+                "có thể": "can; may",
+                "để nguyên": "leave whole; leave as is",
+                "hoặc là": "or",
+                "bẻ đôi": "break in half",
+                "ra": "out; off (resultative particle)",
+                "giống như": "like; similar to",
+                "mình": "I; me (casual)"
+            }
+        },
+        {
+            "index": 13,
+            "startTimestamp": "00:01:33.120",
+            "endTimestamp": "00:01:39.320",
+            "vocab": {
+                "gà": "chicken",
+                "vịt": "duck",
+                "trên": "on; above",
+                "phao câu": "tail (of poultry)",
+                "có": "have; there is",
+                "một": "one; a",
+                "cái": "classifier for objects",
+                "túi dầu": "oil gland; oil sac",
+                "cắt": "cut",
+                "bỏ đi": "remove; throw away",
+                "để": "so that; in order to",
+                "không": "not",
+                "bị": "be (passive marker)",
+                "hôi": "smelly; stinky"
+            }
+        },
+        {
+            "index": 14,
+            "startTimestamp": "00:01:40.310",
+            "endTimestamp": "00:01:45.560",
+            "vocab": {
+                "nhiều người": "many people",
+                "rất thích": "really like; very much like",
+                "ăn": "eat",
+                "phao câu": "chicken tail (culinary term; fatty part of chicken)",
+                "bộ phận": "part; section (of a body)",
+                "tích tụ": "accumulate; build up",
+                "mỡ": "fat",
+                "cholesterol": "cholesterol"
+            }
+        },
+        {
+            "index": 15,
+            "startTimestamp": "00:01:45.960",
+            "endTimestamp": "00:01:50.839",
+            "vocab": {
+                "nhiều nhất": "most; the most",
+                "trong": "in; inside",
+                "cơ thể": "body",
+                "con gà": "chicken",
+                "vì vậy": "therefore; so",
+                "mình": "I; we; one (casual, general subject)",
+                "ăn": "eat",
+                "nhiều": "a lot; much; many",
+                "nó": "it",
+                "sẽ": "will (future marker)",
+                "không tốt": "not good",
+                "cho": "for",
+                "sức khỏe": "health"
+            }
+        },
+        {
+            "index": 16,
+            "startTimestamp": "00:01:51.930",
+            "endTimestamp": "00:01:57.849",
+            "vocab": {
+                "xếp": "arrange; put in order",
+                "gà": "chicken",
+                "vào": "into; in",
+                "nồi": "pot",
+                "các bạn": "you (plural); you guys",
+                "không cần phải": "don't need to; no need to",
+                "cân đo đong đếm": "measure exactly; weigh and measure",
+                "coi": "see; check; consider",
+                "bao nhiêu": "how much; how many",
+                "lít nước": "liters of water",
+                "đâu": "(sentence-ending particle for emphasis or negation)"
+            }
+        },
+        {
+            "index": 17,
+            "startTimestamp": "00:01:58.070",
+            "endTimestamp": "00:02:01.660",
+            "vocab": {
+                "mình": "I; we (casual, inclusive)",
+                "cứ": "just; simply (indicating proceeding without hesitation)",
+                "cho": "let; allow; put",
+                "nước": "water",
+                "ngập": "submerge; cover (with liquid)",
+                "con gà": "chicken",
+                "khoảng": "about; around; approximately",
+                "một lóng tay": "one finger-joint (measurement unit; about 2-3 cm)",
+                "là được": "that's enough; that's fine (indicating sufficiency)"
+            }
+        },
+        {
+            "index": 18,
+            "startTimestamp": "00:02:02.210",
+            "endTimestamp": "00:02:09.490",
+            "vocab": {
+                "mình": "I; me (casual, humble)",
+                "cho": "put; add",
+                "vô": "in; into",
+                "đây": "here",
+                "2 củ hành tây": "2 onions",
+                "bắc lên bếp": "put on the stove",
+                "để": "leave; let",
+                "nắp vung": "lid (of a pot)",
+                "hé": "slightly open",
+                "một chút xíu": "a little bit; just a bit",
+                "nấu": "cook; boil",
+                "cho sôi": "bring to a boil"
+            }
+        },
+        {
+            "index": 19,
+            "startTimestamp": "00:02:10.340",
+            "endTimestamp": "00:02:13.899",
+            "vocab": {
+                "mình": "I; me; my (casual, self-reference)",
+                "để": "let; leave; allow",
+                "nắp vung": "lid (of a pot)",
+                "hở": "open; ajar; not fully closed",
+                "như vậy": "like that; in that way",
+                "nồi nước": "pot of water",
+                "sẽ": "will (future marker)",
+                "không": "not; no",
+                "bị": "become; get (passive marker, often negative)",
+                "đục": "cloudy; murky"
+            }
+        },
+        {
+            "index": 20,
+            "startTimestamp": "00:02:14.720",
+            "endTimestamp": "00:02:20.600",
+            "vocab": {
+                "nấu sôi": "boil",
+                "vớt bọt": "skim foam; remove foam",
+                "bỏ đi": "discard; throw away",
+                "nồi nước": "pot of water; broth",
+                "trong veo": "clear; transparent",
+                "lúc này": "now; at this time",
+                "luôn nè": "right now; immediately (emphatic particle)"
+            }
+        },
+        {
+            "index": 21,
+            "startTimestamp": "00:02:28.170",
+            "endTimestamp": "00:02:31.940",
+            "vocab": {
+                "nếu": "if",
+                "thành nồi": "pot wall; side of the pot",
+                "có": "have; there is",
+                "nhiều": "many; much; a lot of",
+                "bọt": "foam; bubbles",
+                "bám": "stick; cling",
+                "mình": "I; me; myself (casual, refers to speaker)",
+                "lấy": "take; get",
+                "1 miếng": "a piece",
+                "giấy bếp": "kitchen paper; paper towel",
+                "lau đi": "wipe off; clean off ('đi' adds sense of 'away' or completion)"
+            }
+        },
+        {
+            "index": 22,
+            "startTimestamp": "00:02:32.580",
+            "endTimestamp": "00:02:37.040",
+            "vocab": {
+                "chỉ cần": "just need; only need",
+                "chú ý": "pay attention; notice",
+                "một chút xíu": "a little bit; a tiny bit",
+                "thôi": "only; just (emphasis/limitation particle)",
+                "nồi nước dùng": "pot of broth; soup pot",
+                "của mình": "my; our (possessive, informal)",
+                "trong": "clear (of liquid)",
+                "thơm ngon": "delicious; tasty; fragrant"
+            }
+        },
+        {
+            "index": 23,
+            "startTimestamp": "00:02:37.590",
+            "endTimestamp": "00:02:47.720",
+            "vocab": {
+                "nêm": "season; add (flavoring)",
+                "vô": "in; into",
+                "muỗng cà phê": "teaspoon",
+                "muối": "salt",
+                "bột nêm": "seasoning powder",
+                "hoặc là": "or",
+                "bột súp gà": "chicken soup powder; chicken bouillon powder"
+            }
+        },
+        {
+            "index": 24,
+            "startTimestamp": "00:02:53.700",
+            "endTimestamp": "00:03:01.399",
+            "vocab": {
+                "muỗng cà phê": "teaspoon",
+                "tiêu hột": "whole pepper; peppercorn",
+                "viên": "piece; lump (classifier for small solid items)",
+                "đường phèn": "rock sugar",
+                "nhỏ": "small",
+                "nước dùng": "broth; soup base",
+                "vị ngọt thanh": "light sweetness; delicate sweetness"
+            }
+        },
+        {
+            "index": 25,
+            "startTimestamp": "00:03:02.130",
+            "endTimestamp": "00:03:06.529",
+            "vocab": {
+                "nếu không": "if not",
+                "có": "have; there is",
+                "đường phèn": "rock sugar",
+                "mình": "I; we",
+                "cho": "add; put in; give",
+                "một": "one; a",
+                "muỗng cà phê": "teaspoon",
+                "đường cát": "granulated sugar",
+                "bình thường": "normal; regular (note: here means 'regular' as opposed to 'rock' sugar)"
+            }
+        },
+        {
+            "index": 26,
+            "startTimestamp": "00:03:07.650",
+            "endTimestamp": "00:03:12.860",
+            "vocab": {
+                "muỗng cà phê": "teaspoon",
+                "nước mắm": "fish sauce",
+                "giúp": "help",
+                "nồi phở": "pho pot; pot of pho",
+                "đậm đà": "rich; flavorful",
+                "thơm ngon": "delicious; fragrant"
+            }
+        },
+        {
+            "index": 27,
+            "startTimestamp": "00:03:18.519",
+            "endTimestamp": "00:03:27.130",
+            "vocab": {
+                "củ hành tím": "purple onion; shallot",
+                "cắt lát mỏng": "slice thinly; thinly sliced",
+                "đậy kín nắp vung": "cover tightly; put the lid on tightly",
+                "lửa trung bình": "medium heat"
+            }
+        },
+        {
+            "index": 28,
+            "startTimestamp": "00:03:27.740",
+            "endTimestamp": "00:03:33.639",
+            "vocab": {
+                "bếp": "stove",
+                "mình": "I; my; we; our (casual, self-reference)",
+                "số": "number; setting",
+                "để": "set; put; leave",
+                "tính từ lúc này trở đi": "from now on; starting now",
+                "nấu": "cook",
+                "phút": "minute",
+                "nữa": "more; additional; further"
+            }
+        },
+        {
+            "index": 29,
+            "startTimestamp": "00:03:34.340",
+            "endTimestamp": "00:03:39.820",
+            "vocab": {
+                "sau": "after",
+                "45 phút": "45 minutes",
+                "mình": "I; me; my (casual, self-reference)",
+                "lấy": "take",
+                "một": "a; one",
+                "cây đũa": "a chopstick",
+                "cắm vô": "stick into; insert into",
+                "gà": "chicken",
+                "thử": "try; test",
+                "coi": "see; check",
+                "nó": "it",
+                "mềm": "soft; tender",
+                "vừa ý": "satisfactory; to one's liking",
+                "chưa": "yet (question particle)"
+            }
+        },
+        {
+            "index": 30,
+            "startTimestamp": "00:03:40.220",
+            "endTimestamp": "00:03:43.089",
+            "vocab": {
+                "với": "with",
+                "thời gian nấu": "cooking time",
+                "như vậy": "like that; such; that way",
+                "thì": "then; so (particle indicating result)",
+                "con gà": "chicken",
+                "mềm": "tender; soft",
+                "vừa ăn": "just right to eat; suitable to eat"
+            }
+        },
+        {
+            "index": 31,
+            "startTimestamp": "00:03:43.460",
+            "endTimestamp": "00:03:46.510",
+            "vocab": {
+                "mình": "I; me; my (casual, humble)",
+                "nêm nếm": "season; taste (food)",
+                "lại": "again; re-",
+                "cho vừa": "to suit; to fit",
+                "khẩu vị": "taste; palate",
+                "gia đình": "family"
+            }
+        },
+        {
+            "index": 32,
+            "startTimestamp": "00:03:46.730",
+            "endTimestamp": "00:03:50.320",
+            "vocab": {
+                "các bạn": "you (plural); everyone",
+                "lưu ý": "note; pay attention",
+                "là": "that; is (linking word)",
+                "mình": "I; me (informal)",
+                "cần": "need",
+                "nêm": "season (food)",
+                "đậm vị": "strong flavor; rich taste",
+                "hơn": "more; than",
+                "một chút xíu": "a little bit; just a bit"
+            }
+        },
+        {
+            "index": 33,
+            "startTimestamp": "00:03:50.690",
+            "endTimestamp": "00:03:54.460",
+            "vocab": {
+                "nên": "should; so; thus",
+                "như vậy": "like that; in this way",
+                "khi": "when",
+                "cho vô": "put in; add in",
+                "bánh phở": "pho noodles",
+                "vừa ăn": "just right (to eat); tasty",
+                "không bị": "not be; not get",
+                "lạc": "bland; tasteless (note: in this context, refers to lacking flavor)"
+            }
+        },
+        {
+            "index": 34,
+            "startTimestamp": "00:03:54.710",
+            "endTimestamp": "00:03:58.299",
+            "vocab": {
+                "và": "and",
+                "ở đây": "here",
+                "thì": "(topic marker; then)",
+                "mình": "I; we (informal)",
+                "nêm": "season; add seasoning",
+                "thêm": "add; additionally",
+                "gần": "about; nearly",
+                "1 muỗng cà phê": "1 teaspoon",
+                "muối": "salt"
+            }
+        },
+        {
+            "index": 35,
+            "startTimestamp": "00:03:58.670",
+            "endTimestamp": "00:04:02.350",
+            "vocab": {
+                "nếu": "if",
+                "bạn nào": "any of you; whoever",
+                "có": "have; do",
+                "ăn": "eat",
+                "bột ngọt": "MSG; monosodium glutamate",
+                "thì": "then (conditional marker)",
+                "mình": "I; we (casual, humble)",
+                "nêm": "season; add (flavoring)",
+                "thêm": "add; more",
+                "nửa": "half",
+                "muỗng cà phê": "teaspoon"
+            }
+        },
+        {
+            "index": 36,
+            "startTimestamp": "00:04:03.290",
+            "endTimestamp": "00:04:07.179",
+            "vocab": {
+                "nấu": "cook",
+                "từ nãy tới giờ": "since earlier; up to now",
+                "mới chỉ": "only just; just now",
+                "là": "is; to be",
+                "soup": "soup",
+                "chứ": "but; rather; actually (contrastive particle)",
+                "chưa": "not yet",
+                "có được": "able to; can (emphasizing possibility)",
+                "gọi là": "called; considered",
+                "phở": "pho (Vietnamese noodle soup)"
+            }
+        },
+        {
+            "index": 37,
+            "startTimestamp": "00:04:07.580",
+            "endTimestamp": "00:04:13.119",
+            "vocab": {
+                "trong": "in; inside",
+                "nước dùng": "broth; soup base",
+                "Phở": "Pho (Vietnamese noodle soup)",
+                "phải": "must; have to",
+                "có": "have; contain",
+                "hoa hồi": "star anise",
+                "thảo quả": "black cardamom",
+                "Quế": "cinnamon",
+                "gừng": "ginger",
+                "hạt tiêu": "peppercorn; black pepper"
+            }
+        },
+        {
+            "index": 38,
+            "startTimestamp": "00:04:13.610",
+            "endTimestamp": "00:04:17.769",
+            "vocab": {
+                "quế": "cinnamon",
+                "gừng": "ginger",
+                "khử mùi": "deodorize; remove odor",
+                "hoa hồi": "star anise",
+                "thảo quả": "black cardamom",
+                "dậy mùi": "enhance aroma; bring out fragrance"
+            }
+        },
+        {
+            "index": 39,
+            "startTimestamp": "00:04:18.290",
+            "endTimestamp": "00:04:20.890",
+            "vocab": {
+                "bạn nào": "whoever; anyone (of you)",
+                "có": "have",
+                "đủ": "enough",
+                "nguyên liệu": "ingredients",
+                "thì": "then (conditional marker)",
+                "mình": "I; me",
+                "cho vô": "put in; add in"
+            }
+        },
+        {
+            "index": 40,
+            "startTimestamp": "00:04:21.920",
+            "endTimestamp": "00:04:29.930",
+            "vocab": {
+                "cho mỗi loại": "for each type",
+                "1 ít": "a little; a bit",
+                "đối với": "regarding; for",
+                "phở gà": "chicken pho",
+                "gia đình mình": "my family",
+                "thích": "like",
+                "mùi thơm nhẹ": "light fragrance; mild aroma",
+                "của": "of",
+                "hồi": "star anise",
+                "vì vậy": "therefore; so",
+                "chỉ": "only",
+                "sử dụng": "use",
+                "3 hoa hồi": "3 star anise flowers",
+                "thôi": "only; just (limiting particle)"
+            }
+        },
+        {
+            "index": 41,
+            "startTimestamp": "00:04:30.660",
+            "endTimestamp": "00:04:37.219",
+            "vocab": {
+                "mình": "I; we (casual, self-reference)",
+                "không": "not",
+                "vớt": "take out; scoop out",
+                "gà": "chicken",
+                "ra": "out",
+                "mà": "but; rather (contrastive particle)",
+                "để nguyên": "leave as is; keep intact",
+                "trong": "in; inside",
+                "nồi": "pot",
+                "tắt bếp": "turn off the stove",
+                "đạy": "cover (with a lid)",
+                "nắp vung": "lid (of a pot)",
+                "để": "put; leave",
+                "ở đây": "here"
+            }
+        },
+        {
+            "index": 42,
+            "startTimestamp": "00:04:37.500",
+            "endTimestamp": "00:04:46.430",
+            "vocab": {
+                "mình": "I; me (casual, self-reference)",
+                "đi": "go; (here: proceed to do something)",
+                "luộc": "boil",
+                "bánh phở": "pho noodles",
+                "sau đó": "after that; then",
+                "trở lại": "return; come back",
+                "vớt": "take out; scoop out",
+                "gà": "chicken",
+                "ra": "out",
+                "khoảng chừng": "about; approximately",
+                "20 tới 30 phút": "20 to 30 minutes",
+                "cho": "for; to",
+                "ra tô": "into the bowl"
+            }
+        },
+        {
+            "index": 43,
+            "startTimestamp": "00:04:48.560",
+            "endTimestamp": "00:04:55.389",
+            "vocab": {
+                "đây": "this",
+                "là": "is; are",
+                "một trong những": "one of",
+                "con gà": "chicken",
+                "rẻ tiền": "cheap; inexpensive",
+                "nhất": "most",
+                "nước Đức": "Germany",
+                "màu": "color",
+                "không": "not",
+                "được": "be; become (passive/ability marker)",
+                "đẹp": "beautiful; nice",
+                "nhưng": "but",
+                "ăn": "eat; eating",
+                "khá": "quite; fairly",
+                "ngon": "delicious; tasty",
+                "các bạn": "you (plural; addressing listeners)",
+                "đó": "that (emphatic/final particle)"
+            }
+        },
+        {
+            "index": 44,
+            "startTimestamp": "00:04:55.909",
+            "endTimestamp": "00:05:00.429",
+            "vocab": {
+                "khi": "when",
+                "ăn": "eat; eating",
+                "thì": "(particle indicating result or emphasis)",
+                "mình": "I; we; one (informal, general)",
+                "hay": "often; usually",
+                "lọc": "remove; filter",
+                "hết": "all; completely",
+                "xương": "bone",
+                "cái này": "this",
+                "tùy vào": "depends on",
+                "gia đình": "family",
+                "mỗi người": "each person; everyone"
+            }
+        },
+        {
+            "index": 45,
+            "startTimestamp": "00:05:01.069",
+            "endTimestamp": "00:05:05.498",
+            "vocab": {
+                "để nguyên": "leave whole; keep as is",
+                "cái đùi": "the thigh",
+                "cũng được": "is also okay; can also",
+                "lọc xương": "debone; remove bone",
+                "hoặc": "or",
+                "cắt": "cut",
+                "theo ý muốn": "as desired; as you wish",
+                "của mình": "your own; one's own"
+            }
+        },
+        {
+            "index": 46,
+            "startTimestamp": "00:05:06.469",
+            "endTimestamp": "00:05:13.299",
+            "vocab": {
+                "con gà": "chicken",
+                "này": "this",
+                "1,2kg": "1.2kg",
+                "mình": "I; we; myself (casual, speaker)",
+                "nấu": "cook",
+                "được": "can; able to",
+                "5 tô phở": "5 bowls of pho",
+                "cho": "give; for",
+                "theo": "with; according to",
+                "gốc hành": "onion root; scallion base",
+                "hành lá": "scallion; green onion"
+            }
+        },
+        {
+            "index": 47,
+            "startTimestamp": "00:05:14.060",
+            "endTimestamp": "00:05:20.560",
+            "vocab": {
+                "nếu": "if",
+                "bạn nào": "any of you; whoever",
+                "có": "have",
+                "ngò": "cilantro; coriander",
+                "thì": "then",
+                "mình": "I; we (casual, humble)",
+                "cho": "add; put in; give",
+                "nấu lại": "reboil; cook again",
+                "nồi": "pot",
+                "nước dùng": "broth; soup base",
+                "cho sôi": "bring to a boil",
+                "rồi": "then; after that",
+                "múc": "ladle; scoop",
+                "vào": "into",
+                "măm măm": "eat; munch (childish, playful)",
+                "thôi": "just; that's all (ending particle, softens command)"
+            }
+        },
+        {
+            "index": 48,
+            "startTimestamp": "00:05:21.199",
+            "endTimestamp": "00:05:26.318",
+            "vocab": {
+                "cảm ơn": "thank you",
+                "cả nhà": "everyone; all of you (lit. whole family)",
+                "đã": "already; past marker",
+                "đồng hành": "accompany; go along with",
+                "cùng": "with; together",
+                "video": "video",
+                "của mình": "my; mine (possessive, informal)",
+                "nếu": "if",
+                "các bạn": "you all; you guys (plural, informal)",
+                "thấy": "see; find; think",
+                "thông tin": "information",
+                "hữu ích": "useful"
+            }
+        },
+        {
+            "index": 49,
+            "startTimestamp": "00:05:26.629",
+            "endTimestamp": "00:05:34.049",
+            "vocab": {
+                "thì": "then; so (discourse marker)",
+                "nhớ": "remember",
+                "đăng ký": "subscribe; register",
+                "Kênh": "channel",
+                "để": "to; in order to",
+                "theo dõi": "follow; keep up with",
+                "tiếp": "next; continue",
+                "các": "plural marker",
+                "món ăn": "dish; food",
+                "khác": "other",
+                "của mình": "my; mine (possessive, informal)",
+                "nha": "okay; please (softener, friendly)",
+                "hẹn gặp lại": "see you again",
+                "các bạn": "you all; everyone (plural, informal)",
+                "ở": "at; in",
+                "video": "video",
+                "lần sau": "next time",
+                "đó": "there; that (ending particle, emphasis)"
+            }
+        }
+    ]
+}

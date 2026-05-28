@@ -1,0 +1,475 @@
+{
+    "videoId": "y5Ua7Y7wSKc",
+    "language": {
+        "iso3": "vie",
+        "subtitleLanguage": "vi",
+        "humanReadable": "Vietnamese"
+    },
+    "segments": [
+        {
+            "index": 1,
+            "startTimestamp": "00:00:00.000",
+            "endTimestamp": "00:00:43.880",
+            "vocab": {
+                "cho tôi": "give me; for me",
+                "cái tivi": "the TV",
+                "xin chào": "hello; hi",
+                "tất cả các bạn": "all of you; everyone",
+                "ngày hôm nay": "today",
+                "mình": "I; me (informal)",
+                "giới thiệu": "introduce",
+                "một cái cây": "a tree; a plant",
+                "thực vật": "plant; vegetation",
+                "có sẵn": "available; existing",
+                "xung quanh": "around; surrounding",
+                "chúng ta": "we; us (inclusive)",
+                "đó": "that; there (demonstrative)"
+            }
+        },
+        {
+            "index": 2,
+            "startTimestamp": "00:00:41.969",
+            "endTimestamp": "00:00:51.530",
+            "vocab": {
+                "chính là": "exactly; precisely; is",
+                "cái": "thing; (classifier for objects)",
+                "cây sả": "lemongrass plant",
+                "Anh": "you (male); brother",
+                "còn lại": "remaining; left",
+                "các bạn": "you all; friends",
+                "đã": "already (past marker)",
+                "thấy": "see; saw",
+                "sàn": "floor",
+                "này": "this",
+                "nó": "it",
+                "có": "have; there is/are",
+                "mặc": "wear; put on",
+                "trong": "in; inside",
+                "hộ": "household; family (contextual, may refer to a group or unit)"
+            }
+        },
+        {
+            "index": 3,
+            "startTimestamp": "00:00:49.850",
+            "endTimestamp": "00:01:11.270",
+            "vocab": {
+                "gia đình": "family",
+                "của": "of; 's (possessive)",
+                "chúng ta": "we; our; us",
+                "món ăn": "dish; food",
+                "hàng ngày": "daily; everyday",
+                "đặc biệt": "special",
+                "có lẽ": "maybe; perhaps",
+                "dân nhậu": "drinkers; people who drink alcohol (note: informal)",
+                "các bạn": "you (plural); you guys",
+                "không": "not; no",
+                "làm": "do; make",
+                "cái": "classifier for objects (note: used before nouns)",
+                "cây sả": "lemongrass plant",
+                "ở trong": "in; inside",
+                "món nhậu": "drinking dish; food eaten with alcohol",
+                "Ok": "okay",
+                "thì": "then; so (particle, marks result or consequence)",
+                "mình": "I; me (informal)",
+                "sẽ": "will (future marker)",
+                "uống": "drink"
+            }
+        },
+        {
+            "index": 4,
+            "startTimestamp": "00:01:09.380",
+            "endTimestamp": "00:01:23.780",
+            "vocab": {
+                "hàng ngày": "daily; every day",
+                "giúp cho": "help; assist",
+                "cơ thể": "body",
+                "chúng ta": "we; us; our",
+                "khỏe mạnh": "healthy; strong",
+                "hơn": "more; -er (comparative)",
+                "món": "dish; item",
+                "trạm xăng": "gas station",
+                "Ừ thì": "well then; so",
+                "thế thì": "then; in that case",
+                "cái này": "this (thing)",
+                "tác dụng": "effect; function; use",
+                "gì": "what",
+                "ngày hôm nay": "today",
+                "mình": "I; me (informal)",
+                "sẽ": "will (future marker)",
+                "giúp": "help"
+            }
+        },
+        {
+            "index": 5,
+            "startTimestamp": "00:01:21.619",
+            "endTimestamp": "00:01:37.670",
+            "vocab": {
+                "các bạn": "you (plural); you guys",
+                "cách": "way; method",
+                "chế biến": "process; prepare",
+                "chả": "pork sausage; meatloaf (Vietnamese dish)",
+                "thành": "become; turn into",
+                "thức uống": "drink; beverage",
+                "hàng ngày": "daily; every day",
+                "tốt cho sức khỏe": "good for health",
+                "trứng": "egg",
+                "món": "dish; food",
+                "sạc": "charge; recharge (note: may be a mishearing or typo here)",
+                "cái gì": "what",
+                "xảy": "happen (short for 'xảy ra')",
+                "tác dụng": "effect; function"
+            }
+        },
+        {
+            "index": 6,
+            "startTimestamp": "00:01:34.759",
+            "endTimestamp": "00:01:44.659",
+            "vocab": {
+                "có": "have; there is/are",
+                "tác dụng": "effect; function",
+                "tiếp": "continue; next",
+                "cụ thể": "specific; concrete",
+                "mình": "I; me (informal)",
+                "để": "put; leave; to (for purpose)",
+                "ở dưới": "below; under",
+                "phần mô tả": "description section",
+                "các bạn": "you (plural; informal)",
+                "có thể": "can; be able to",
+                "bấm": "click; press",
+                "xuống đây": "down here",
+                "xem": "see; watch; view",
+                "nhé": "(softener; suggestion/encouragement particle)"
+            }
+        },
+        {
+            "index": 7,
+            "startTimestamp": "00:01:42.560",
+            "endTimestamp": "00:01:52.970",
+            "vocab": {
+                "sẽ": "will (future marker)",
+                "nói sơ qua": "briefly talk; briefly mention",
+                "cái sảy": "the stalk (note: 'sảy' may be a typo for 'thân' or 'stalk')",
+                "cây sả": "lemongrass",
+                "chất": "substance; compound",
+                "ship Lan": "citral (note: likely a mishearing or misspelling of 'citral', a compound in lemongrass)",
+                "tế bào ung thư": "cancer cell",
+                "chậm": "slow; slow down"
+            }
+        },
+        {
+            "index": 8,
+            "startTimestamp": "00:01:50.630",
+            "endTimestamp": "00:02:02.820",
+            "vocab": {
+                "phát triển": "develop; development",
+                "ngăn chặn": "prevent; block",
+                "tế bào ung thư": "cancer cell",
+                "ở trong": "in; inside",
+                "cơ thể": "body",
+                "chúng ta": "we; our; us",
+                "khả năng": "ability; capability",
+                "giúp cho": "help; assist",
+                "việc bị ung": "the act of getting cancer (note: 'ung' is short for 'ung thư' = cancer)"
+            }
+        },
+        {
+            "index": 9,
+            "startTimestamp": "00:02:02.149",
+            "endTimestamp": "00:02:13.560",
+            "vocab": {
+                "thư em": "your letter; your message (context-dependent, possibly a mishearing or typo)",
+                "hỗ trợ": "support; assist",
+                "cơ thể": "body",
+                "chúng ta": "we; us; our",
+                "giảm thiểu": "reduce; minimize",
+                "việc": "thing; matter; act",
+                "mắc": "get; contract (illness)",
+                "ung thư": "cancer",
+                "thứ hai": "second; secondly",
+                "nữa": "also; in addition; furthermore",
+                "tốt cho": "good for",
+                "đường tiêu": "digestive tract; digestion (short for 'đường tiêu hóa')"
+            }
+        },
+        {
+            "index": 10,
+            "startTimestamp": "00:02:11.490",
+            "endTimestamp": "00:02:18.480",
+            "vocab": {
+                "hóa": "transform; change (context: chemical/biological process)",
+                "kích thích": "stimulate; excite",
+                "đường ruột": "intestine; gut",
+                "chúng ta": "we; us; our",
+                "giúp": "help",
+                "ít gặp": "rarely encounter; less likely to have",
+                "các": "the; (plural marker)"
+            }
+        },
+        {
+            "index": 11,
+            "startTimestamp": "00:02:16.200",
+            "endTimestamp": "00:02:28.680",
+            "vocab": {
+                "bệnh": "disease; illness",
+                "về": "about; regarding",
+                "đường tiêu hóa": "digestive tract; digestive system",
+                "như": "such as; like",
+                "đầy hơi": "bloating; flatulence",
+                "khó tiêu": "indigestion; difficult digestion",
+                "Ngoài ra": "besides; in addition",
+                "tính chất": "property; characteristic",
+                "giảm": "reduce; decrease",
+                "huyết áp": "blood pressure",
+                "và": "and",
+                "một cái": "one thing; an aspect (note: vague reference)"
+            }
+        },
+        {
+            "index": 12,
+            "startTimestamp": "00:02:26.730",
+            "endTimestamp": "00:02:42.690",
+            "vocab": {
+                "công dụng": "use; function; benefit",
+                "nữa": "also; in addition",
+                "muốn": "want",
+                "chia sẻ": "share",
+                "các bạn": "you (plural); everyone (informal)",
+                "đó chính là": "that is; namely",
+                "giảm": "reduce; decrease",
+                "cholesterol trong máu": "cholesterol in the blood",
+                "cách chế biến": "way of processing; method of preparation",
+                "cây sả": "lemongrass",
+                "như thế nào": "how; in what way",
+                "theo chân": "follow (literally: follow the footsteps)"
+            }
+        },
+        {
+            "index": 13,
+            "startTimestamp": "00:02:40.080",
+            "endTimestamp": "00:02:51.950",
+            "vocab": {
+                "mình": "I; we (informal)",
+                "chúng ta": "we (inclusive)",
+                "sẽ": "will (future marker)",
+                "chuẩn bị": "prepare",
+                "như vậy": "like that; in that way",
+                "nhẹ": "light; gentle (here: lightly; simply)",
+                "làm": "make; do",
+                "món": "dish; item",
+                "trà": "tea",
+                "sẵn": "ready; prepared",
+                "coi như": "regard as; consider as",
+                "chúng nó": "they; them (informal, for things/animals)",
+                "cái": "classifier (for things)",
+                "thức uống": "drink; beverage",
+                "hàng ngày": "daily; every day",
+                "nha": "okay?; right? (softener particle)",
+                "các bạn": "you (plural; friends)",
+                "cùng": "together",
+                "theo": "follow"
+            }
+        },
+        {
+            "index": 14,
+            "startTimestamp": "00:02:49.709",
+            "endTimestamp": "00:05:12.849",
+            "vocab": {
+                "dõi": "follow; watch",
+                "cách": "way; method",
+                "chế biến": "process; prepare (food)",
+                "món": "dish; food",
+                "cá": "fish",
+                "bây giờ": "now",
+                "bắt đầu": "start; begin",
+                "chúng ta": "we; us",
+                "đi tìm": "go find; search",
+                "xả": "rinse; wash (context: food preparation)",
+                "chuẩn bị": "prepare; get ready",
+                "nha": "okay; please (particle, softens request)",
+                "à": "(particle, indicates confirmation or emphasis)",
+                "ừ": "uh; yes (casual affirmation)"
+            }
+        },
+        {
+            "index": 15,
+            "startTimestamp": "00:05:10.890",
+            "endTimestamp": "00:05:23.709",
+            "vocab": {
+                "âm nhạc": "music",
+                "nguyên liệu": "ingredients; materials",
+                "chúng ta": "we; us",
+                "bao gồm": "include",
+                "kết thúc": "finish; end",
+                "hãy": "let's (suggestion particle)",
+                "đặt": "put; place",
+                "ra": "out",
+                "để": "so that; in order to",
+                "nấu": "cook",
+                "dễ": "easy; easily",
+                "tiết ra": "release; secrete"
+            }
+        },
+        {
+            "index": 16,
+            "startTimestamp": "00:05:20.860",
+            "endTimestamp": "00:05:32.090",
+            "vocab": {
+                "cái": "classifier (thing/object)",
+                "tinh dầu": "essential oil",
+                "của": "of; belonging to",
+                "nó": "it; its",
+                "tiếp theo": "next; following",
+                "nữa": "more; further; also",
+                "là": "is; are; to be",
+                "một": "a; one",
+                "quả": "classifier (fruit/round object)",
+                "chanh": "lemon",
+                "có": "have; there is",
+                "một chút": "a little; a bit",
+                "trà Á": "Asian tea",
+                "mật ong": "honey",
+                "đó": "that",
+                "tất cả": "all; everything",
+                "những": "plural marker (for nouns)"
+            }
+        },
+        {
+            "index": 17,
+            "startTimestamp": "00:05:30.350",
+            "endTimestamp": "00:05:41.960",
+            "vocab": {
+                "cái nguyên liệu": "ingredient; material",
+                "của chúng ta": "of ours; our",
+                "nó": "it",
+                "chỉ": "only; just",
+                "như thế thôi": "just like that; that's all",
+                "rất đơn giản": "very simple",
+                "rất dễ": "very easy",
+                "khiến": "make; cause",
+                "ai cũng có thể": "anyone can; everyone can",
+                "kiếm được": "find; get",
+                "rồi": "already; then (particle)",
+                "với lần này": "this time; for this time"
+            }
+        },
+        {
+            "index": 18,
+            "startTimestamp": "00:05:39.350",
+            "endTimestamp": "00:07:56.680",
+            "vocab": {
+                "khách sạn": "hotel",
+                "chúng ta": "we; us",
+                "sử dụng": "use",
+                "khoảng": "about; approximately",
+                "một lít nước": "one liter of water",
+                "đun": "boil",
+                "cái gì": "what; something",
+                "ở mỗi": "in each; at each",
+                "lớp 4": "class 4; grade 4",
+                "hoàn thành": "complete; finish",
+                "rồi": "already; then (completed action)",
+                "tự nhiên": "naturally; automatically"
+            }
+        },
+        {
+            "index": 19,
+            "startTimestamp": "00:07:54.640",
+            "endTimestamp": "00:08:06.940",
+            "vocab": {
+                "sẽ": "will",
+                "thay thế": "replace; substitute",
+                "cho": "for; let",
+                "nó": "it",
+                "uống": "drink",
+                "nước trà": "tea",
+                "không bình thường": "not normal; unusual",
+                "hàng ngày": "daily; every day",
+                "chúng ta": "we; us",
+                "buồn": "sad",
+                "nhiều": "much; a lot",
+                "được": "can; able to",
+                "chà sạch": "scrub clean; clean thoroughly",
+                "tranh lạnh": "avoid cold (note: 'tranh' likely typo for 'tránh' = avoid)",
+                "tốt cho": "good for",
+                "sức khỏe": "health",
+                "có": "have; there is"
+            }
+        },
+        {
+            "index": 20,
+            "startTimestamp": "00:08:04.450",
+            "endTimestamp": "00:08:15.720",
+            "vocab": {
+                "nó": "it",
+                "sẽ": "will",
+                "giảm": "reduce; decrease",
+                "nguy cơ": "risk",
+                "ngăn ngừa": "prevent",
+                "mình": "oneself; me; us (informal)",
+                "đâu": "anywhere; at all (contextual, often used for emphasis or negation)",
+                "cũng như": "as well as; also",
+                "huyết áp": "blood pressure",
+                "chúng ta": "we; us",
+                "hệ tiêu hóa": "digestive system"
+            }
+        },
+        {
+            "index": 21,
+            "startTimestamp": "00:08:16.920",
+            "endTimestamp": "00:08:27.200",
+            "vocab": {
+                "trong": "in; inside",
+                "máu": "blood",
+                "Ok": "okay; ok",
+                "của mình": "my; mine",
+                "hết rồi": "all done; finished",
+                "nếu": "if",
+                "các bạn": "you (plural); you guys",
+                "thấy": "see; find; think",
+                "hay": "good; interesting",
+                "phải": "must; have to",
+                "ý nghĩa": "meaningful; significant"
+            }
+        },
+        {
+            "index": 22,
+            "startTimestamp": "00:08:26.650",
+            "endTimestamp": "00:08:34.160",
+            "vocab": {
+                "hãy": "please; let's (polite suggestion)",
+                "đăng ký": "register; subscribe",
+                "ủng hộ": "support",
+                "giúp": "help",
+                "mình": "me; myself (informal, friendly)",
+                "nhé": "okay?; please (softener, seeking agreement)",
+                "bấm": "press; click",
+                "nút": "button",
+                "Kênh": "channel",
+                "ở phía dưới này": "down here; below",
+                "like": "like (as in social media)",
+                "chia sẻ": "share"
+            }
+        },
+        {
+            "index": 23,
+            "startTimestamp": "00:08:32.390",
+            "endTimestamp": "00:08:53.440",
+            "vocab": {
+                "con mình": "my child",
+                "nó": "it; he; she (referring to child)",
+                "giúp": "help",
+                "mình": "me; us (informal, friendly)",
+                "để mà": "so that; in order to",
+                "chúng mình": "we; us (inclusive, informal)",
+                "còn": "still; also; remain",
+                "động lực": "motivation",
+                "tìm thêm": "find more; look for more",
+                "bài thuốc dân gian": "folk remedy; traditional remedy",
+                "nó hai nữa": "it's also good; it's beneficial too (note: 'hai' is likely 'hay', meaning 'good' or 'interesting')",
+                "gửi các bạn": "send to you all; share with you",
+                "nhé": "okay; please (softening particle)",
+                "à": "right?; you know (ending particle, seeking agreement or attention)"
+            }
+        }
+    ]
+}
