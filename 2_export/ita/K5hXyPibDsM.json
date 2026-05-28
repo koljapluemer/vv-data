@@ -1,0 +1,1470 @@
+{
+    "videoId": "K5hXyPibDsM",
+    "language": {
+        "iso3": "ita",
+        "subtitleLanguage": "it",
+        "humanReadable": "Italian"
+    },
+    "segments": [
+        {
+            "index": 1,
+            "startTimestamp": "00:00:00.000",
+            "endTimestamp": "00:00:05.480",
+            "vocab": {
+                "ciao": "hello; hi",
+                "a tutti": "everyone; all",
+                "benvenuti": "welcome",
+                "su": "on; about (context: on a channel/platform)",
+                "io sono": "I am",
+                "oggi": "today",
+                "voglio": "I want",
+                "parlare di": "talk about; speak about",
+                "come": "how",
+                "sviluppare": "develop"
+            }
+        },
+        {
+            "index": 2,
+            "startTimestamp": "00:00:05.480",
+            "endTimestamp": "00:00:15.520",
+            "vocab": {
+                "una resistenza": "an endurance; a resistance",
+                "pazzesca": "crazy; incredible",
+                "in arrampicata": "in climbing",
+                "ho da poco": "I recently; I just",
+                "pubblicato": "published",
+                "sul mio canale Instagram": "on my Instagram channel",
+                "un video": "a video",
+                "ha riscosso": "has received; has gained",
+                "molto successo": "a lot of success",
+                "che parlava proprio di": "that was exactly about; that talked specifically about",
+                "uno dei metodi": "one of the methods"
+            }
+        },
+        {
+            "index": 3,
+            "startTimestamp": "00:00:15.520",
+            "endTimestamp": "00:00:22.640",
+            "vocab": {
+                "abbiamo": "we have",
+                "a disposizione": "available; at our disposal",
+                "allenare": "to train",
+                "cosiddetta": "so-called",
+                "endurance": "endurance (note: English loanword)",
+                "continuità": "continuity",
+                "ha avuto": "has had",
+                "un sacco di": "a lot of; lots of"
+            }
+        },
+        {
+            "index": 4,
+            "startTimestamp": "00:00:22.640",
+            "endTimestamp": "00:00:27.440",
+            "vocab": {
+                "successo": "success; happened (note: can mean 'success' as a noun or 'happened' as past participle of 'succedere')",
+                "e quindi": "and therefore; and so",
+                "voglio": "I want",
+                "approfondire": "to deepen; to explore further",
+                "questo": "this",
+                "argomento": "topic; subject",
+                "quest'oggi": "today (note: more formal/literary than 'oggi')",
+                "insieme a": "together with",
+                "voi": "you (plural)"
+            }
+        },
+        {
+            "index": 5,
+            "startTimestamp": "00:00:27.440",
+            "endTimestamp": "00:00:36.800",
+            "vocab": {
+                "video": "video",
+                "vi invito": "I invite you",
+                "iscrivervi": "to subscribe; to sign up",
+                "questo canale": "this channel",
+                "attivando": "activating; turning on",
+                "campanella delle notifiche": "notification bell",
+                "per": "to; in order to",
+                "rimanere": "to stay; to remain",
+                "sempre": "always",
+                "aggiornati": "updated",
+                "su": "on; about",
+                "tutti": "all",
+                "futuri": "future",
+                "che": "that; which",
+                "pubblicherò": "I will publish",
+                "venitemi a trovare": "come visit me"
+            }
+        },
+        {
+            "index": 6,
+            "startTimestamp": "00:00:36.800",
+            "endTimestamp": "00:00:42.920",
+            "vocab": {
+                "su": "on",
+                "dove": "where",
+                "cerco di": "I try to",
+                "pubblicare": "to publish; to post",
+                "quasi": "almost",
+                "ogni giorno": "every day",
+                "ogni due giorni": "every two days"
+            }
+        },
+        {
+            "index": 7,
+            "startTimestamp": "00:00:42.920",
+            "endTimestamp": "00:00:53.360",
+            "vocab": {
+                "un video": "a video",
+                "che": "that; which",
+                "parla": "talks; speaks",
+                "sempre": "always",
+                "e solo": "and only",
+                "allenamento": "training; workout",
+                "per": "for",
+                "l'arrampicata sportiva": "sport climbing",
+                "il metodo": "the method",
+                "di cui": "of which; about which",
+                "vi voglio parlare": "I want to talk to you (plural)",
+                "oggi": "today",
+                "è": "is",
+                "delle ripetute": "of repeats; of intervals (training context)",
+                "vediamo": "let's see",
+                "insieme": "together",
+                "qual è": "what is",
+                "il protocollo": "the protocol",
+                "quali sono": "which are; what are"
+            }
+        },
+        {
+            "index": 8,
+            "startTimestamp": "00:00:53.360",
+            "endTimestamp": "00:01:00.040",
+            "vocab": {
+                "un po'": "a little; a bit",
+                "le sue caratteristiche": "its characteristics",
+                "e poi": "and then",
+                "commentiamolo": "let's comment on it; let's discuss it",
+                "cercando di": "trying to",
+                "approfondire": "go deeper; deepen",
+                "il discorso": "the discussion; the topic",
+                "per capire": "to understand"
+            }
+        },
+        {
+            "index": 9,
+            "startTimestamp": "00:01:00.040",
+            "endTimestamp": "00:01:05.960",
+            "vocab": {
+                "perché": "why; because",
+                "è bene": "it is good; it is advisable",
+                "farlo": "do it",
+                "quali": "which; what",
+                "sono": "are",
+                "aspetti positivi": "positive aspects",
+                "criticità": "critical points; issues; problems (note: refers to difficulties or challenges)",
+                "si possono incontrare": "can be encountered; can be met (note: impersonal construction, 'one can encounter')"
+            }
+        },
+        {
+            "index": 10,
+            "startTimestamp": "00:01:05.960",
+            "endTimestamp": "00:01:10.520",
+            "vocab": {
+                "durante": "during",
+                "questa": "this",
+                "tipologia": "type; kind",
+                "di": "of",
+                "allenamento": "training; workout",
+                "protocollo": "protocol",
+                "metodo": "method",
+                "abbastanza": "quite; enough; rather"
+            }
+        },
+        {
+            "index": 11,
+            "startTimestamp": "00:01:10.520",
+            "endTimestamp": "00:01:17.720",
+            "vocab": {
+                "semplice": "simple; easy",
+                "si sceglie": "one chooses; you choose",
+                "un tiro": "a route; a pitch (climbing context)",
+                "che sia": "that is; which is",
+                "in meno": "less; lower",
+                "al proprio obiettivo": "to one's own goal; to your goal",
+                "al proprio progetto": "to one's own project; to your project"
+            }
+        },
+        {
+            "index": 12,
+            "startTimestamp": "00:01:17.720",
+            "endTimestamp": "00:01:25.840",
+            "vocab": {
+                "sta lavorando": "is working on",
+                "che": "that; which",
+                "si vuole": "one wants; you want; wants (impersonal/reflexive)",
+                "chiudere": "to finish; to complete; to close (in climbing: to send/finish a route)",
+                "ad esempio": "for example",
+                "limite": "limit; threshold",
+                "sceglierò": "I will choose",
+                "tiro": "route; pitch (climbing term)"
+            }
+        },
+        {
+            "index": 13,
+            "startTimestamp": "00:01:25.840",
+            "endTimestamp": "00:01:40.280",
+            "vocab": {
+                "sia circa": "is about; is approximately",
+                "tra": "between; among",
+                "cerco di": "I try to",
+                "svolgere": "to carry out; to perform",
+                "ripetute": "repetitions; sets",
+                "consecutive": "consecutive; in a row",
+                "si parte": "one starts; you start",
+                "cercando di": "trying to",
+                "flashare": "to flash (climbing term: to complete on first try with prior info)",
+                "chiudere a vista": "to onsight (climbing term: to complete on first try without prior info)",
+                "tiro": "route; pitch (climbing)",
+                "prima ripetizione": "first repetition"
+            }
+        },
+        {
+            "index": 14,
+            "startTimestamp": "00:01:40.280",
+            "endTimestamp": "00:01:46.680",
+            "vocab": {
+                "quindi": "so; therefore",
+                "si cerca di": "one tries to; people try to",
+                "avere": "to have",
+                "ottima": "excellent; very good",
+                "capacità": "ability; capacity",
+                "lettura": "reading",
+                "la capacità di": "the ability to",
+                "sapersi": "to know how to (reflexive; knowing oneself how to)",
+                "fermare": "to stop",
+                "a": "at; to"
+            }
+        },
+        {
+            "index": 15,
+            "startTimestamp": "00:01:46.680",
+            "endTimestamp": "00:01:52.640",
+            "vocab": {
+                "riposare": "to rest",
+                "per": "to; for (purpose)",
+                "appunto": "precisely; exactly",
+                "leggere": "to read",
+                "bene": "well",
+                "tracciato": "route; path (here: climbing route)",
+                "arrampicare": "to climb",
+                "in maniera": "in a way; in a manner",
+                "fluida": "fluid; smooth"
+            }
+        },
+        {
+            "index": 16,
+            "startTimestamp": "00:01:52.640",
+            "endTimestamp": "00:01:58.040",
+            "vocab": {
+                "precisa": "precise; needed (feminine, singular)",
+                "arrivare": "to arrive; to reach",
+                "in catena": "at the anchor; at the chain (climbing context)",
+                "una volta che": "once; when",
+                "si arriva": "one arrives; you arrive; we arrive (impersonal/reflexive)",
+                "al top": "at the top",
+                "ci si fa calare": "one lets oneself be lowered; you get lowered (impersonal/reflexive, climbing context)",
+                "velocemente": "quickly; fast"
+            }
+        },
+        {
+            "index": 17,
+            "startTimestamp": "00:01:58.040",
+            "endTimestamp": "00:02:09.600",
+            "vocab": {
+                "si sfila": "one removes; is removed (reflexive, impersonal)",
+                "corda": "rope",
+                "senza": "without",
+                "sfarsi": "to come undone; to unravel (reflexive)",
+                "ovviamente": "obviously",
+                "nodo": "knot",
+                "si riparte": "one starts again; starts again (impersonal/reflexive)",
+                "immediatamente": "immediately",
+                "seconda ripetizione": "second repetition",
+                "anche qui": "here too; also here",
+                "obiettivo": "goal; objective",
+                "quello di": "that of; the one of (used to introduce an infinitive purpose)",
+                "respirare": "to breathe",
+                "fermarsi": "to stop oneself; to stop (reflexive)"
+            }
+        },
+        {
+            "index": 18,
+            "startTimestamp": "00:02:09.600",
+            "endTimestamp": "00:02:17.400",
+            "vocab": {
+                "a riposare": "to rest",
+                "bene": "well",
+                "sempre": "always",
+                "in maniera": "in a way; in a manner",
+                "molto": "very",
+                "accorta": "careful; cautious (feminine)",
+                "attenta": "attentive; careful (feminine)",
+                "durante": "during",
+                "il tiro": "the shot; the pull (context-dependent)",
+                "si cerca": "one tries; it is tried",
+                "anche": "also; too"
+            }
+        },
+        {
+            "index": 19,
+            "startTimestamp": "00:02:17.400",
+            "endTimestamp": "00:02:23.880",
+            "vocab": {
+                "qui": "here",
+                "di arrivare": "to arrive",
+                "in catena": "on the anchor; on the chain (climbing context)",
+                "al top": "at the top",
+                "anche": "also; even",
+                "per": "for",
+                "la seconda ripetizione": "the second repetition; the second go (climbing context)",
+                "ci si fa calare": "one lowers oneself; you get lowered (impersonal/reflexive construction)",
+                "velocemente": "quickly"
+            }
+        },
+        {
+            "index": 20,
+            "startTimestamp": "00:02:23.880",
+            "endTimestamp": "00:02:29.840",
+            "vocab": {
+                "si sfila": "one removes; is removed (reflexive, impersonal)",
+                "la corda": "the rope",
+                "e via": "and off; and away",
+                "si parte": "one starts; we start (impersonal)",
+                "per": "for; to",
+                "la terza ripetizione": "the third repetition",
+                "se": "if",
+                "abbiamo calibrato": "we have calibrated",
+                "bene": "well",
+                "questa": "this (feminine, refers to something previously mentioned)"
+            }
+        },
+        {
+            "index": 21,
+            "startTimestamp": "00:02:30.400",
+            "endTimestamp": "00:02:38.000",
+            "vocab": {
+                "questa": "this",
+                "intensità": "intensity",
+                "tendenzialmente": "tendentially; generally; usually",
+                "alla": "at the; to the",
+                "terza": "third",
+                "massima": "maximum; at most",
+                "quarta": "fourth",
+                "ripetizione": "repetition",
+                "si dovrebbe": "one should; you should; it should (impersonal construction)",
+                "cadere": "fall; fail (in context: to reach failure in exercise)"
+            }
+        },
+        {
+            "index": 22,
+            "startTimestamp": "00:02:38.000",
+            "endTimestamp": "00:02:44.280",
+            "vocab": {
+                "si cerca di": "one tries to; we try to (impersonal construction)",
+                "andare a cedimento": "go to failure; reach failure (fitness context)",
+                "ovviamente": "obviously",
+                "più... più": "the more... the more (comparative construction)",
+                "ripetiamo": "we repeat",
+                "tiro": "set; attempt (fitness context)",
+                "volte": "times"
+            }
+        },
+        {
+            "index": 23,
+            "startTimestamp": "00:02:44.280",
+            "endTimestamp": "00:02:50.480",
+            "vocab": {
+                "conosciamo meglio": "we know better",
+                "più": "more",
+                "possiamo": "we can",
+                "arrampicare": "to climb",
+                "in maniera fluida": "smoothly; in a fluid way",
+                "fermarci": "stop ourselves; stop",
+                "riposare": "rest"
+            }
+        },
+        {
+            "index": 24,
+            "startTimestamp": "00:02:50.480",
+            "endTimestamp": "00:02:55.320",
+            "vocab": {
+                "nei": "in the; among the",
+                "pochi": "few",
+                "rest.": "rem.; remains (abbreviation)",
+                "cerchiamo": "we try; let's try",
+                "ecco": "here is; here are; look; so (attention-getter)",
+                "trovare": "to find",
+                "percorso": "path; route; course",
+                "che": "that; which",
+                "sia": "is; may be (subjunctive of 'essere')",
+                "abbastanza": "enough; quite; fairly",
+                "omogeneo": "homogeneous; uniform"
+            }
+        },
+        {
+            "index": 25,
+            "startTimestamp": "00:02:55.320",
+            "endTimestamp": "00:03:01.720",
+            "vocab": {
+                "abbia": "has; have (subjunctive of 'avere')",
+                "né": "nor; neither",
+                "sezioni": "sections",
+                "troppo": "too; too much",
+                "dure": "hard; tough",
+                "quindi": "so; therefore",
+                "bulder": "boulders (climbing term; from English 'boulder')",
+                "passaggi chiave": "key moves; crux moves",
+                "difficoltà": "difficulty"
+            }
+        },
+        {
+            "index": 26,
+            "startTimestamp": "00:03:01.720",
+            "endTimestamp": "00:03:08.920",
+            "vocab": {
+                "nettamente": "clearly; markedly",
+                "superiore": "superior; higher",
+                "rispetto a": "compared to; with respect to",
+                "tutto il resto": "all the rest; everything else",
+                "né": "nor",
+                "invece": "instead; on the other hand",
+                "riposi": "rests; resting points (context: climbing, pauses to rest)",
+                "ottimi": "excellent; very good"
+            }
+        },
+        {
+            "index": 27,
+            "startTimestamp": "00:03:08.920",
+            "endTimestamp": "00:03:14.360",
+            "vocab": {
+                "sui quali": "on which; upon which",
+                "posso": "I can",
+                "fermarmi": "stop myself; pause",
+                "molti minuti": "many minutes",
+                "recuperare": "recover; regain",
+                "quasi totalmente": "almost totally; almost completely",
+                "l'idea": "the idea",
+                "è": "is",
+                "proprio": "exactly; precisely; really (emphasizer)",
+                "quella di": "that of; the one of",
+                "avere": "to have"
+            }
+        },
+        {
+            "index": 28,
+            "startTimestamp": "00:03:14.360",
+            "endTimestamp": "00:03:26.520",
+            "vocab": {
+                "la cosiddetta": "the so-called",
+                "continuità": "continuity",
+                "del": "some (partitive); of the",
+                "tiro": "set; repetition (in workout context)",
+                "terza": "third",
+                "barra": "slash; or",
+                "quarta": "fourth",
+                "ripetizione": "repetition",
+                "si va a cedimento": "go to failure",
+                "a quel punto": "at that point",
+                "si vola": "you fly; you explode (figurative, meaning to give your all)",
+                "l'allenamento": "the training; the workout",
+                "però": "however; but",
+                "non è ancora finito": "is not finished yet",
+                "perché": "because",
+                "a questo punto": "at this point",
+                "lo associamo a": "we associate it with; we pair it with"
+            }
+        },
+        {
+            "index": 29,
+            "startTimestamp": "00:03:26.520",
+            "endTimestamp": "00:03:38.800",
+            "vocab": {
+                "recupero attivo": "active recovery",
+                "si intende": "means; is meant",
+                "arrampicare": "to climb",
+                "bassissima intensità": "very low intensity",
+                "minuti": "minutes",
+                "scopo": "purpose; aim",
+                "agevolare": "to facilitate; to make easier",
+                "ricircolo sanguigno": "blood circulation",
+                "apporto di ossigeno": "oxygen supply"
+            }
+        },
+        {
+            "index": 30,
+            "startTimestamp": "00:03:38.800",
+            "endTimestamp": "00:03:44.840",
+            "vocab": {
+                "apporto": "supply; contribution",
+                "nutrienti": "nutrients",
+                "soprattutto": "above all; especially",
+                "eliminazione": "elimination; removal",
+                "metaboliti": "metabolites"
+            }
+        },
+        {
+            "index": 31,
+            "startTimestamp": "00:03:44.840",
+            "endTimestamp": "00:03:50.880",
+            "vocab": {
+                "nel frattempo": "in the meantime",
+                "si sono accumulati": "have accumulated",
+                "come": "like; as",
+                "proprio": "exactly; just; really (emphasizer)",
+                "acido lattico": "lactic acid",
+                "benissimo": "very well; excellent",
+                "abbiamo visto": "we have seen",
+                "qual è": "what is"
+            }
+        },
+        {
+            "index": 32,
+            "startTimestamp": "00:03:50.880",
+            "endTimestamp": "00:03:55.400",
+            "vocab": {
+                "protocollo": "protocol",
+                "di": "of",
+                "questo": "this",
+                "metodo": "method",
+                "allenamento": "training",
+                "adesso": "now",
+                "entriamo": "let's enter; we enter",
+                "un po' più": "a bit more; a little more",
+                "nel dettaglio": "into detail",
+                "e": "and",
+                "cerchiamo": "let's try; we try"
+            }
+        },
+        {
+            "index": 33,
+            "startTimestamp": "00:03:55.400",
+            "endTimestamp": "00:04:07.600",
+            "vocab": {
+                "di": "of; to (context-dependent)",
+                "approfondirlo": "to deepen it; to explore it further",
+                "cercando di": "trying to",
+                "capire": "to understand",
+                "per quale motivo": "for what reason; why",
+                "può essere": "can be; may be",
+                "allenamento": "training; workout",
+                "estremamente": "extremely",
+                "interessante": "interesting",
+                "ovviamente": "obviously",
+                "quando": "when",
+                "stiamo svolgendo": "we are carrying out; we are performing",
+                "questa tipologia di": "this type of",
+                "metodo": "method",
+                "quindi": "therefore; so",
+                "delle": "of the (feminine plural partitive/definite article)"
+            }
+        },
+        {
+            "index": 34,
+            "startTimestamp": "00:04:07.600",
+            "endTimestamp": "00:04:14.840",
+            "vocab": {
+                "ripetute": "repetitions; repeated (actions)",
+                "stiamo lavorando": "we are working",
+                "fondamentalmente": "basically; fundamentally",
+                "su": "on",
+                "due": "two",
+                "metabolismi energetici": "energy metabolisms",
+                "principali": "main; principal",
+                "fondamentali": "fundamental; essential"
+            }
+        },
+        {
+            "index": 35,
+            "startTimestamp": "00:04:14.840",
+            "endTimestamp": "00:04:21.880",
+            "vocab": {
+                "sia...sia": "both...and",
+                "Lead": "Lead (lead climbing; climbing discipline)",
+                "arrampicata": "climbing",
+                "outdoor": "outdoor",
+                "roccia": "rock",
+                "Falesia": "crag; cliff (outdoor climbing site)",
+                "cioè": "that is; i.e.",
+                "metabolismo anaerobico": "anaerobic metabolism"
+            }
+        },
+        {
+            "index": 36,
+            "startTimestamp": "00:04:21.880",
+            "endTimestamp": "00:04:27.720",
+            "vocab": {
+                "lattacido": "lactic acid",
+                "proprio": "exactly; just",
+                "quello che": "that which; what",
+                "ci fa venire": "makes us get; causes us to have",
+                "la ghisa": "muscle soreness; muscle stiffness (lit. 'the iron', slang for muscle fatigue)",
+                "a causa di": "because of; due to",
+                "accumulo": "accumulation",
+                "vari": "various",
+                "metaboliti": "metabolites"
+            }
+        },
+        {
+            "index": 37,
+            "startTimestamp": "00:04:27.720",
+            "endTimestamp": "00:04:41.600",
+            "vocab": {
+                "in realtà": "actually; in reality",
+                "concetto": "concept",
+                "accumulo": "accumulation",
+                "lattato": "lactate",
+                "un po'": "a bit; somewhat",
+                "superato": "outdated; surpassed",
+                "diciamo": "let's say; we can say",
+                "comunque": "anyway; in any case",
+                "sviluppo": "development; production",
+                "anche": "also; too",
+                "ioni H+": "H+ ions (hydrogen ions)",
+                "acidificando": "acidifying",
+                "proprio": "exactly; precisely; really (emphasis)",
+                "muscolo": "muscle",
+                "non ci danno più": "no longer give us; don't provide us anymore"
+            }
+        },
+        {
+            "index": 38,
+            "startTimestamp": "00:04:41.600",
+            "endTimestamp": "00:04:47.720",
+            "vocab": {
+                "possibilità": "possibility",
+                "di": "of; to",
+                "avere": "to have",
+                "contrazione": "contraction",
+                "quindi": "therefore; so",
+                "tenuta": "hold; grip",
+                "decente": "decent",
+                "presa": "grip; hold (on something)",
+                "mani": "hands",
+                "si aprono": "open (themselves); open up (reflexive)"
+            }
+        },
+        {
+            "index": 39,
+            "startTimestamp": "00:04:47.720",
+            "endTimestamp": "00:04:58.960",
+            "vocab": {
+                "e": "and",
+                "tendenzialmente": "tendentially; generally",
+                "voliamo": "we fly",
+                "non": "not",
+                "chiudiamo": "we close",
+                "il tiro": "the shot; the attempt (context: effort, action)",
+                "quindi": "so; therefore",
+                "abbiamo": "we have",
+                "metabolismo anaerobico lattacido": "lactic anaerobic metabolism",
+                "dall'altra parte": "on the other hand",
+                "un altro": "another",
+                "spesso": "often",
+                "viene": "is (comes; used as passive auxiliary)",
+                "un po'": "a bit; a little",
+                "sottovalutato": "underestimated"
+            }
+        },
+        {
+            "index": 40,
+            "startTimestamp": "00:04:59.840",
+            "endTimestamp": "00:05:07.040",
+            "vocab": {
+                "soprattutto": "above all; especially",
+                "nel": "in the",
+                "bulder": "bouldering (note: misspelling of 'boulder')",
+                "e": "and",
+                "nella": "in the",
+                "lead": "lead (climbing style)",
+                "ma": "but",
+                "che": "that; which",
+                "invece": "instead; on the other hand",
+                "ha": "has",
+                "un ruolo fondamentale": "a fundamental role",
+                "il metabolismo aerobico": "aerobic metabolism"
+            }
+        },
+        {
+            "index": 41,
+            "startTimestamp": "00:05:07.040",
+            "endTimestamp": "00:05:13.000",
+            "vocab": {
+                "ovviamente": "obviously",
+                "quello": "that one; the one",
+                "locale": "local",
+                "non": "not",
+                "ha nulla a che fare con": "has nothing to do with",
+                "resistenza": "resistance; endurance (context: physical)",
+                "cardiocircolatoria": "cardiocirculatory (relating to heart and blood circulation)"
+            }
+        },
+        {
+            "index": 42,
+            "startTimestamp": "00:05:13.000",
+            "endTimestamp": "00:05:20.240",
+            "vocab": {
+                "cardiovascolare": "cardiovascular",
+                "ma": "but",
+                "metabolismo": "metabolism",
+                "aerobico": "aerobic",
+                "locale": "local",
+                "resistenza": "resistance; endurance (context: physical)",
+                "dei": "of the",
+                "muscoli": "muscles",
+                "soprattutto": "especially",
+                "degli": "of the (plural, masculine)"
+            }
+        },
+        {
+            "index": 43,
+            "startTimestamp": "00:05:20.240",
+            "endTimestamp": "00:05:25.240",
+            "vocab": {
+                "avambracci": "forearms",
+                "questi due": "these two",
+                "metabolismi": "metabolisms",
+                "che": "what; which (question word)",
+                "influenza": "influence; effect",
+                "hanno": "have",
+                "nel": "in the",
+                "bulder": "bouldering",
+                "lead": "lead (climbing)"
+            }
+        },
+        {
+            "index": 44,
+            "startTimestamp": "00:05:25.240",
+            "endTimestamp": "00:05:30.720",
+            "vocab": {
+                "per quanto riguarda": "regarding; as for",
+                "metabolismo": "metabolism",
+                "anaerobico": "anaerobic",
+                "lattacido": "lactic (note: refers to lactic acid)",
+                "quello": "that one; the one (note: refers back to a previously mentioned thing)"
+            }
+        },
+        {
+            "index": 45,
+            "startTimestamp": "00:05:30.720",
+            "endTimestamp": "00:05:46.480",
+            "vocab": {
+                "in generale": "in general",
+                "maggiormente": "mostly; mainly",
+                "implicato": "involved; implicated",
+                "nel": "in the",
+                "bulder": "bouldering (note: 'bulder' is a misspelling of 'boulder' or 'bouldering')",
+                "anche": "also; even",
+                "durante": "during",
+                "le gare": "the competitions; the contests",
+                "dove": "where",
+                "copre": "covers",
+                "circa": "about; approximately",
+                "per cento": "percent",
+                "del metabolismo": "of the metabolism",
+                "coinvolto": "involved",
+                "proprio perché": "precisely because; just because",
+                "abbiamo": "we have",
+                "problemi": "problems",
+                "molto corti": "very short"
+            }
+        },
+        {
+            "index": 46,
+            "startTimestamp": "00:05:46.480",
+            "endTimestamp": "00:06:00.200",
+            "vocab": {
+                "dove": "where",
+                "conta": "counts; matters",
+                "estremamente": "extremely",
+                "forza": "strength",
+                "potenza": "power",
+                "quindi": "therefore; so",
+                "metabolismo anaerobico alattacido": "alactic anaerobic metabolism (anaerobic metabolism without lactic acid)",
+                "metabolismo anaerobico lattacido": "lactic anaerobic metabolism (anaerobic metabolism with lactic acid)",
+                "metabolismo aerobico": "aerobic metabolism",
+                "ha comunque un'influenza": "still has an influence; nevertheless has an influence",
+                "anche": "also; even",
+                "nel bulder": "in bouldering",
+                "quando": "when",
+                "ci stiamo": "we are there; we are (in it) (note: 'ci stiamo' is an idiomatic expression meaning 'we are present/involved')"
+            }
+        },
+        {
+            "index": 47,
+            "startTimestamp": "00:06:00.200",
+            "endTimestamp": "00:06:06.960",
+            "vocab": {
+                "riposando": "resting",
+                "tra": "between; among",
+                "tentativo": "attempt; try",
+                "l'altro": "the other one",
+                "stesso": "same",
+                "blocco": "block",
+                "oppure": "or; otherwise",
+                "differenti": "different",
+                "gara": "competition; race"
+            }
+        },
+        {
+            "index": 48,
+            "startTimestamp": "00:06:06.960",
+            "endTimestamp": "00:06:12.760",
+            "vocab": {
+                "sono": "they are; I am (context-dependent)",
+                "sempre": "always",
+                "quattro": "four",
+                "cinque": "five",
+                "blocchi": "blocks",
+                "differenti": "different",
+                "abbiamo": "we have",
+                "minuti": "minutes",
+                "tempo": "time",
+                "per": "for; to",
+                "riposare": "rest",
+                "tra": "between; among"
+            }
+        },
+        {
+            "index": 49,
+            "startTimestamp": "00:06:12.760",
+            "endTimestamp": "00:06:18.640",
+            "vocab": {
+                "un blocco": "a block",
+                "e": "and",
+                "l'altro": "the other",
+                "lì": "there",
+                "il metabolismo aerobico": "aerobic metabolism",
+                "è": "is",
+                "fondamentale": "fundamental; essential",
+                "perché": "because",
+                "soltanto": "only",
+                "grazie a": "thanks to; due to",
+                "l'ossigeno": "oxygen"
+            }
+        },
+        {
+            "index": 50,
+            "startTimestamp": "00:06:18.640",
+            "endTimestamp": "00:06:25.400",
+            "vocab": {
+                "riusciamo a": "we manage to; we are able to",
+                "metabolizzare": "to metabolize",
+                "ad esempio": "for example",
+                "acido lattico": "lactic acid",
+                "lattato": "lactate",
+                "piruvato": "pyruvate",
+                "e": "and"
+            }
+        },
+        {
+            "index": 51,
+            "startTimestamp": "00:06:25.400",
+            "endTimestamp": "00:06:31.920",
+            "vocab": {
+                "grazie a": "thanks to; due to",
+                "ossigeno": "oxygen",
+                "eliminazione": "elimination; removal",
+                "metaboliti": "metabolites",
+                "accumulati": "accumulated",
+                "muscolo": "muscle"
+            }
+        },
+        {
+            "index": 52,
+            "startTimestamp": "00:06:31.920",
+            "endTimestamp": "00:06:43.560",
+            "vocab": {
+                "e": "and",
+                "grazie a": "thanks to",
+                "apporto": "supply; contribution",
+                "nutrienti": "nutrients",
+                "altre sostanze": "other substances",
+                "riusciamo a": "we manage to; we are able to",
+                "recuperare": "recover",
+                "nel migliore dei modi": "in the best way",
+                "quindi": "therefore; so",
+                "metabolismo aerobico": "aerobic metabolism",
+                "anche": "also; even",
+                "bulder": "bouldering (note: 'bulder' is a misspelling of 'boulder' or 'bouldering')",
+                "fondamentale": "fundamental; essential",
+                "per": "for; in order to",
+                "riposare": "rest",
+                "bene": "well"
+            }
+        },
+        {
+            "index": 53,
+            "startTimestamp": "00:06:43.560",
+            "endTimestamp": "00:06:50.640",
+            "vocab": {
+                "nella": "in the",
+                "lead": "lead (climbing style)",
+                "e": "and",
+                "in": "in",
+                "arrampicato": "climbed; climbing",
+                "outdoor": "outdoor",
+                "in falesia": "on crag; on cliff (sport climbing outdoors)",
+                "metabolismo aerobico": "aerobic metabolism",
+                "anche": "also; too",
+                "qui": "here",
+                "ha": "has",
+                "importanza": "importance"
+            }
+        },
+        {
+            "index": 54,
+            "startTimestamp": "00:06:50.640",
+            "endTimestamp": "00:06:56.680",
+            "vocab": {
+                "fondamentale": "fundamental; essential",
+                "durante": "during",
+                "le gare": "the competitions; the races",
+                "di lead": "of lead (climbing discipline)",
+                "ricordiamo": "we remember; let's remember",
+                "il tempo massimo": "the maximum time",
+                "di arrampicata": "of climbing",
+                "è": "is",
+                "di 6 minuti": "of 6 minutes"
+            }
+        },
+        {
+            "index": 55,
+            "startTimestamp": "00:06:56.680",
+            "endTimestamp": "00:07:02.360",
+            "vocab": {
+                "quindi": "therefore; so",
+                "i due": "the two",
+                "metabolismi": "metabolisms",
+                "maggiormente": "mostly; mainly",
+                "coinvolti": "involved",
+                "sono": "are",
+                "sempre": "always",
+                "il metabolismo anaerobico lattacido": "the anaerobic lactic metabolism (note: specific metabolic pathway)"
+            }
+        },
+        {
+            "index": 56,
+            "startTimestamp": "00:07:02.360",
+            "endTimestamp": "00:07:07.880",
+            "vocab": {
+                "con": "with",
+                "sviluppo": "development",
+                "di": "of",
+                "lattato": "lactate",
+                "ghisa": "iron (slang: muscle fatigue; heavy feeling)",
+                "pazzesca": "crazy; insane (intensifier)",
+                "quella che": "that which; the one that",
+                "proviamo": "we feel; we experience",
+                "quando": "when",
+                "siamo lavorando": "we are working (out); we are working"
+            }
+        },
+        {
+            "index": 57,
+            "startTimestamp": "00:07:07.880",
+            "endTimestamp": "00:07:14.040",
+            "vocab": {
+                "dei tiri": "some routes; some climbs",
+                "duri": "hard; tough",
+                "in falesia": "on the crag; outdoors (climbing context)",
+                "in palestra": "in the gym",
+                "metabolismo aerobico": "aerobic metabolism",
+                "invece": "instead; on the other hand",
+                "fondamentale": "fundamental; essential"
+            }
+        },
+        {
+            "index": 58,
+            "startTimestamp": "00:07:14.040",
+            "endTimestamp": "00:07:21.240",
+            "vocab": {
+                "durante": "during",
+                "pochi": "few",
+                "rest": "rests; breaks",
+                "lungo": "along; during",
+                "tiro": "climb; pitch (climbing context)",
+                "cercare": "to try",
+                "anche": "also; even",
+                "qui": "here",
+                "smaltire": "to get rid of; to dispose of",
+                "velocemente": "quickly",
+                "lattato": "lactate (biological term)"
+            }
+        },
+        {
+            "index": 59,
+            "startTimestamp": "00:07:21.240",
+            "endTimestamp": "00:07:27.720",
+            "vocab": {
+                "o": "or",
+                "altri": "other",
+                "metaboliti": "metabolites",
+                "cercare di": "try to",
+                "recuperare": "recover",
+                "sempre": "always",
+                "velocemente": "quickly; fast",
+                "grazie a": "thanks to; due to",
+                "apporto": "supply; contribution",
+                "ossigeno": "oxygen",
+                "quindi": "therefore; so"
+            }
+        },
+        {
+            "index": 60,
+            "startTimestamp": "00:07:27.720",
+            "endTimestamp": "00:07:41.040",
+            "vocab": {
+                "anche": "also; even",
+                "qui": "here",
+                "metabolismo aerobico": "aerobic metabolism",
+                "durante": "during",
+                "gare": "competitions; races",
+                "per non parlare di": "not to mention",
+                "falesia": "crag; cliff (rock climbing context)",
+                "interviene": "intervenes; comes into play",
+                "per cento": "percent",
+                "circa": "about; approximately",
+                "nostra": "our",
+                "arrampicata": "climbing",
+                "quindi": "therefore; so",
+                "importanza": "importance"
+            }
+        },
+        {
+            "index": 61,
+            "startTimestamp": "00:07:41.040",
+            "endTimestamp": "00:07:48.120",
+            "vocab": {
+                "fondamentale": "fundamental; essential",
+                "grazie a": "thanks to; due to",
+                "allenamento": "training; workout",
+                "andiamo a": "we go to; we are going to (used to indicate intention or immediate future)",
+                "sviluppare": "develop",
+                "capacità": "capacity; ability",
+                "aerobica": "aerobic",
+                "locale": "local"
+            }
+        },
+        {
+            "index": 62,
+            "startTimestamp": "00:07:48.120",
+            "endTimestamp": "00:07:55.320",
+            "vocab": {
+                "realtà": "reality; actually (in context, 'actually')",
+                "questo": "this",
+                "allenamento": "training",
+                "porta": "brings; carries; leads to",
+                "moltissimi": "very many; a lot of",
+                "altri": "other",
+                "benefici": "benefits",
+                "a partire da": "starting from; beginning with",
+                "capacità": "ability; capacity",
+                "atleta": "athlete",
+                "di": "of"
+            }
+        },
+        {
+            "index": 63,
+            "startTimestamp": "00:07:55.320",
+            "endTimestamp": "00:08:02.200",
+            "vocab": {
+                "arrampicare": "to climb",
+                "a vista": "onsight (climbing term: without prior knowledge)",
+                "flash": "flash (climbing term: with prior info but first try)",
+                "tiro": "pitch (climbing term: section of a route)",
+                "comunque": "anyway; in any case",
+                "medio-alta intensità": "medium-high intensity",
+                "stiamo lavorando": "we are working (on)"
+            }
+        },
+        {
+            "index": 64,
+            "startTimestamp": "00:08:02.200",
+            "endTimestamp": "00:08:09.680",
+            "vocab": {
+                "capacità": "ability; capacity",
+                "di lettura": "of reading",
+                "forza mentale": "mental strength",
+                "comunque": "anyway; in any case",
+                "cognitiva": "cognitive",
+                "psicologica": "psychological",
+                "tenere duro": "hold on; persevere; tough it out (idiomatic: to endure or persist)"
+            }
+        },
+        {
+            "index": 65,
+            "startTimestamp": "00:08:09.680",
+            "endTimestamp": "00:08:15.760",
+            "vocab": {
+                "durante": "during",
+                "un tiro a vista": "onsight attempt (climbing term)",
+                "flash": "flash (climbing term; successful first attempt with prior info)",
+                "arrampicatore": "climber",
+                "deve": "must; has to",
+                "cercare di": "try to; attempt to",
+                "arrampicare": "climb",
+                "in maniera precisa": "precisely; in a precise way"
+            }
+        },
+        {
+            "index": 66,
+            "startTimestamp": "00:08:15.760",
+            "endTimestamp": "00:08:22.720",
+            "vocab": {
+                "di essere": "to be",
+                "rilassato": "relaxed",
+                "anche se": "even if; although",
+                "sa che": "knows that",
+                "comunque": "anyway; in any case",
+                "sta affrontando": "is facing; is tackling",
+                "un tiro": "a route; a pitch (climbing term)",
+                "bello impegnativo": "quite challenging; really demanding",
+                "a vista": "onsight (climbing term: without prior practice or information)"
+            }
+        },
+        {
+            "index": 67,
+            "startTimestamp": "00:08:22.720",
+            "endTimestamp": "00:08:37.840",
+            "vocab": {
+                "deve": "must; has to",
+                "avere la capacità di": "have the ability to",
+                "saper": "know how to; be able to",
+                "leggere": "read",
+                "bene": "well",
+                "il tiro": "the pitch (climbing term); the shot (context-dependent)",
+                "diciamo": "let's say; we could say",
+                "in maniera strategica": "strategically; in a strategic way",
+                "per capire": "to understand; in order to understand",
+                "quando": "when",
+                "fermarsi": "stop oneself; stop",
+                "riposare": "rest",
+                "invece": "instead; on the other hand",
+                "arrampicare": "climb",
+                "in maniera bella veloce": "in a nice fast way; really quickly",
+                "superare": "overcome; get past"
+            }
+        },
+        {
+            "index": 68,
+            "startTimestamp": "00:08:37.840",
+            "endTimestamp": "00:08:44.440",
+            "vocab": {
+                "passaggi": "steps; passages",
+                "un po' più": "a bit more; a little more",
+                "complicati": "complicated",
+                "stiamo lavorando": "we are working",
+                "appunto": "precisely; exactly; just (emphasizing)",
+                "sul": "on the",
+                "metabolismo anaerobico lattacido": "anaerobic lactic metabolism"
+            }
+        },
+        {
+            "index": 69,
+            "startTimestamp": "00:08:44.440",
+            "endTimestamp": "00:09:02.000",
+            "vocab": {
+                "quindi": "therefore; so",
+                "capacità": "ability; capacity",
+                "anche": "also; too",
+                "mentale": "mental",
+                "resistere": "to resist; to withstand",
+                "a": "to; at; for (context-dependent)",
+                "questa": "this",
+                "ghisa": "iron (literal); heavy effort (figurative, in sports)",
+                "fatica": "effort; fatigue; exertion",
+                "mano a mano che": "as; gradually as",
+                "le ripetute": "the repetitions (in training)",
+                "su": "on; about",
+                "questi tiri": "these shots; these moves (context: sports)",
+                "aumentano": "increase; go up",
+                "aumenta": "increases",
+                "sviluppare": "to develop",
+                "metabolismo aerobico": "aerobic metabolism",
+                "per": "for; in order to"
+            }
+        },
+        {
+            "index": 70,
+            "startTimestamp": "00:09:02.000",
+            "endTimestamp": "00:09:10.360",
+            "vocab": {
+                "cercare di": "try to; attempt to",
+                "recuperare": "recover; get back",
+                "il più velocemente possibile": "as quickly as possible",
+                "sghisare": "to release quickly (slang; in sports, to let go or flick)",
+                "durante": "during",
+                "tiro": "shot; throw (sports context)",
+                "infine": "finally; in the end",
+                "ultima ma non": "last but not"
+            }
+        },
+        {
+            "index": 71,
+            "startTimestamp": "00:09:10.360",
+            "endTimestamp": "00:09:17.120",
+            "vocab": {
+                "meno importante": "less important",
+                "noi": "we",
+                "sappiamo": "we know",
+                "già": "already",
+                "durante": "during",
+                "questa": "this",
+                "tipologia": "type; kind",
+                "allenamento": "training; workout",
+                "partiamo": "we start",
+                "con l'idea": "with the idea"
+            }
+        },
+        {
+            "index": 72,
+            "startTimestamp": "00:09:17.120",
+            "endTimestamp": "00:09:23.880",
+            "vocab": {
+                "di volare": "to fly",
+                "quindi": "therefore; so",
+                "si affronta": "one faces; is faced",
+                "anche": "also; too",
+                "l'atleta": "the athlete",
+                "deve": "must; has to",
+                "per forza di cose": "necessarily; inevitably (lit. by force of things)",
+                "affrontare": "to face; to confront",
+                "il cedimento": "the collapse; the failure; the giving in"
+            }
+        },
+        {
+            "index": 73,
+            "startTimestamp": "00:09:23.880",
+            "endTimestamp": "00:09:30.520",
+            "vocab": {
+                "muscolare": "muscular",
+                "e quindi": "and therefore; and so",
+                "deve": "must; has to",
+                "superare": "overcome; get over",
+                "paura": "fear",
+                "del volo": "of flying; of the flight",
+                "anche": "also; too",
+                "questo": "this",
+                "elemento": "element; factor",
+                "importante": "important",
+                "durante": "during"
+            }
+        },
+        {
+            "index": 74,
+            "startTimestamp": "00:09:30.520",
+            "endTimestamp": "00:09:35.720",
+            "vocab": {
+                "questi": "these",
+                "allenamenti": "trainings; workouts",
+                "di": "of",
+                "resistenza": "resistance; endurance",
+                "il nostro corpo": "our body",
+                "impara": "learns",
+                "sia...sia": "both...and; whether...or (used for two alternatives)",
+                "a": "to",
+                "metabolizzare": "to metabolize",
+                "velocemente": "quickly; fast"
+            }
+        },
+        {
+            "index": 75,
+            "startTimestamp": "00:09:35.720",
+            "endTimestamp": "00:09:43.000",
+            "vocab": {
+                "cataboliti": "catabolites",
+                "che": "that; which; who",
+                "si sono venuti a sviluppare": "have developed; have come to develop (reflexive, passive construction)",
+                "durante": "during",
+                "l'allenamento": "the training; the workout",
+                "sia": "both; as well as; and also (correlative conjunction)",
+                "provoca": "causes; provokes",
+                "angiogenesi": "angiogenesis (formation of new blood vessels)"
+            }
+        },
+        {
+            "index": 76,
+            "startTimestamp": "00:09:43.000",
+            "endTimestamp": "00:09:50.400",
+            "vocab": {
+                "quindi": "therefore; so",
+                "aumenta": "increases",
+                "migliora": "improves",
+                "microcircolazione": "microcirculation",
+                "a livello di": "at the level of; in",
+                "muscoli": "muscles",
+                "soprattutto": "especially",
+                "avambraccio": "forearm"
+            }
+        },
+        {
+            "index": 77,
+            "startTimestamp": "00:09:50.400",
+            "endTimestamp": "00:09:56.160",
+            "vocab": {
+                "quindi": "therefore; so",
+                "dei": "of the; some (partitive)",
+                "flessori": "flexors",
+                "delle dita": "of the fingers",
+                "del gomito": "of the elbow",
+                "questi": "these",
+                "muscoli": "muscles",
+                "maggiormente": "mainly; mostly",
+                "implicati": "involved; implicated",
+                "in arrampicata": "in climbing"
+            }
+        },
+        {
+            "index": 78,
+            "startTimestamp": "00:09:56.160",
+            "endTimestamp": "00:10:02.560",
+            "vocab": {
+                "degli": "of the",
+                "arti superiori": "upper limbs; upper extremities",
+                "aumenta": "increases",
+                "angiogenesi": "angiogenesis (formation of new blood vessels)",
+                "quindi": "therefore; so; thus",
+                "sviluppo": "development",
+                "capillari": "capillaries",
+                "a livello di": "at the level of; in the area of"
+            }
+        },
+        {
+            "index": 79,
+            "startTimestamp": "00:10:02.560",
+            "endTimestamp": "00:10:09.080",
+            "vocab": {
+                "muscoli": "muscles",
+                "con": "with",
+                "miglior": "better",
+                "apporto": "supply; intake",
+                "di": "of",
+                "ossigeno": "oxygen",
+                "eliminazione": "elimination; removal",
+                "appunto": "precisely; exactly; just (emphasis particle)",
+                "sempre": "always"
+            }
+        },
+        {
+            "index": 80,
+            "startTimestamp": "00:10:09.080",
+            "endTimestamp": "00:10:24.120",
+            "vocab": {
+                "metaboliti": "metabolites",
+                "miglior": "better; improved",
+                "apporto": "intake; supply",
+                "dei nutrienti": "of nutrients",
+                "come già detto": "as already said; as already mentioned",
+                "questo": "this",
+                "è": "is",
+                "uno dei molti": "one of many",
+                "metodi": "methods",
+                "per": "to; for",
+                "allenare": "train",
+                "la resistenza": "endurance; resistance",
+                "comunque": "anyway; however",
+                "molto bello": "very nice; very good",
+                "che": "that; which",
+                "impegna": "engages; involves",
+                "nettamente": "clearly; distinctly; significantly",
+                "l'atleta": "the athlete",
+                "quando": "when",
+                "lo prova": "tries it; tests it"
+            }
+        },
+        {
+            "index": 81,
+            "startTimestamp": "00:10:24.120",
+            "endTimestamp": "00:10:29.280",
+            "vocab": {
+                "io": "I",
+                "vi": "you (plural)",
+                "invito": "invite",
+                "a": "to",
+                "provarlo": "try it",
+                "e": "and",
+                "farmi sapere": "let me know; make me know (lit.)",
+                "qui sotto": "below; down here",
+                "nei commenti": "in the comments",
+                "qual è": "what is; which is",
+                "la vostra esperienza": "your experience"
+            }
+        },
+        {
+            "index": 82,
+            "startTimestamp": "00:10:29.280",
+            "endTimestamp": "00:10:35.840",
+            "vocab": {
+                "se": "if",
+                "avete": "you have (plural)",
+                "già": "already",
+                "avuto modo di": "had a chance to; had an opportunity to",
+                "testarlo": "test it",
+                "in passato": "in the past",
+                "è": "is",
+                "uno dei": "one of the",
+                "metodi": "methods",
+                "maggiormente": "mostly; mainly; most",
+                "utilizzati": "used",
+                "proprio per": "precisely for; exactly for (emphasizes purpose)"
+            }
+        },
+        {
+            "index": 83,
+            "startTimestamp": "00:10:35.840",
+            "endTimestamp": "00:10:41.440",
+            "vocab": {
+                "lo sviluppo": "the development",
+                "dell'endurance": "of endurance",
+                "della resistenza": "of resistance; of stamina (note: 'resistenza' can mean physical stamina or resistance)",
+                "io vi invito": "I invite you",
+                "ad iscrivervi": "to subscribe; to sign up (note: 'iscrivervi' is 'subscribe yourselves')",
+                "a questo canale": "to this channel",
+                "a mettere": "to put; to give (note: often used as 'to give a like', context needed)"
+            }
+        },
+        {
+            "index": 84,
+            "startTimestamp": "00:10:41.440",
+            "endTimestamp": "00:10:52.440",
+            "vocab": {
+                "Like a questo video": "Like this video",
+                "venitemi a trovare": "come visit me; come find me",
+                "anche": "also; too",
+                "sul mio canale Instagram": "on my Instagram channel",
+                "dove": "where",
+                "cerco di": "I try to",
+                "pubblicare": "to publish; to post",
+                "abbastanza spesso": "quite often; fairly often",
+                "dei video": "some videos",
+                "sempre": "always; still",
+                "riguardanti": "regarding; about",
+                "l'allenamento": "the training",
+                "dell'arrampicata sportiva": "of sport climbing"
+            }
+        },
+        {
+            "index": 85,
+            "startTimestamp": "00:10:52.440",
+            "endTimestamp": "00:10:57.320",
+            "vocab": {
+                "ringrazio": "I thank; I thank you",
+                "vi auguro": "I wish you",
+                "una buona arrampicata": "a good climb",
+                "ci vediamo": "see you; we'll see each other",
+                "al prossimo video": "at the next video",
+                "ciao a tutti": "bye everyone; hello everyone"
+            }
+        }
+    ]
+}
