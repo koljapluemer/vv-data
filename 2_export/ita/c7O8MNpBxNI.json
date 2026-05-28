@@ -8,12 +8,8 @@
     "segments": [
         {
             "index": 1,
-            "startSeconds": 0.02,
-            "endSeconds": 4.859,
             "startTimestamp": "00:00:00.020",
             "endTimestamp": "00:00:04.859",
-            "wordCount": 13,
-            "long": false,
             "vocab": {
                 "Ed": "And",
                 "è": "is",
@@ -29,14 +25,10 @@
         },
         {
             "index": 2,
-            "startSeconds": 4.859,
-            "endSeconds": 10.679,
             "startTimestamp": "00:00:04.859",
             "endTimestamp": "00:00:10.679",
-            "wordCount": 12,
-            "long": false,
             "vocab": {
-                "verso": "towards; to",
+                "verso": "towards",
                 "l'alto": "up; upward",
                 "per poi": "in order to then; so as to then",
                 "lasciarlo": "let it; leave it",
@@ -49,58 +41,46 @@
         },
         {
             "index": 3,
-            "startSeconds": 10.679,
-            "endSeconds": 23.39,
             "startTimestamp": "00:00:10.679",
             "endTimestamp": "00:00:23.390",
-            "wordCount": 17,
-            "long": false,
             "vocab": {
                 "coscia": "thigh",
                 "opposta": "opposite",
                 "mi lascio": "I let myself",
                 "richiamare": "to be called back; to return",
                 "ritorno": "I return",
-                "riporto": "I bring back",
+                "riporto": "I bring back; I return",
                 "gamba sinistra": "left leg",
                 "piegata": "bent",
-                "lentamente": "slowly; gradually",
+                "lentamente": "slowly",
                 "centro": "center"
             }
         },
         {
             "index": 4,
-            "startSeconds": 23.39,
-            "endSeconds": 30.81,
             "startTimestamp": "00:00:23.390",
             "endTimestamp": "00:00:30.810",
-            "wordCount": 13,
-            "long": false,
             "vocab": {
                 "torno": "I return; I come back",
                 "attivo": "I activate; I turn on",
-                "core": "core (central part; can refer to body core)",
+                "il mio core": "my core (core as in center or possibly 'core' as in muscles)",
                 "rimango": "I remain; I stay",
                 "un istante": "a moment; an instant",
                 "allungo": "I stretch; I reach out",
-                "la mano": "the hand"
+                "la mano": "the hand; my hand"
             }
         },
         {
             "index": 5,
-            "startSeconds": 30.81,
-            "endSeconds": 36.21,
             "startTimestamp": "00:00:30.810",
             "endTimestamp": "00:00:36.210",
-            "wordCount": 13,
-            "long": false,
             "vocab": {
                 "sinistra": "left",
                 "scivola": "slides; slips",
                 "dietro": "behind",
                 "la testa": "the head",
-                "così": "like this; so; thus",
-                "la destra": "the right (hand/side)",
+                "così": "like this; so",
+                "la destra": "the right (hand)",
                 "di nuovo": "again",
                 "dal centro": "from the center",
                 "e": "and"
@@ -108,51 +88,31 @@
         },
         {
             "index": 6,
-            "startSeconds": 36.21,
-            "endSeconds": 40.559,
             "startTimestamp": "00:00:36.210",
-            "endTimestamp": "00:00:40.559",
-            "wordCount": 12,
-            "long": false,
+            "endTimestamp": "00:00:46.500",
             "vocab": {
                 "quando": "when",
-                "il gomito": "the elbow",
-                "è vicino": "is near; is close",
-                "al busto": "to the torso; to the body",
-                "le dita": "the fingers",
+                "gomito": "elbow",
+                "vicino": "near; close",
+                "busto": "torso; trunk (of the body)",
+                "dita": "fingers",
                 "girano": "turn; rotate",
                 "all'interno": "inside; inward",
-                "ruoto": "I rotate; I turn"
+                "ruoto": "I rotate; I turn",
+                "avambraccio": "forearm",
+                "vado a": "I go to; I am going to",
+                "afferrare": "to grab; to grasp",
+                "mano": "hand",
+                "dietro": "behind",
+                "schiena": "back"
             }
         },
         {
             "index": 7,
-            "startSeconds": 40.56,
-            "endSeconds": 46.5,
-            "startTimestamp": "00:00:40.560",
-            "endTimestamp": "00:00:46.500",
-            "wordCount": 10,
-            "long": false,
-            "vocab": {
-                "l'avambraccio": "the forearm",
-                "e": "and",
-                "vado a": "I go to; I am going to (expresses intention)",
-                "afferrare": "to grab; to seize",
-                "la mano": "the hand",
-                "dietro": "behind",
-                "la schiena": "the back"
-            }
-        },
-        {
-            "index": 8,
-            "startSeconds": 46.5,
-            "endSeconds": 52.46,
             "startTimestamp": "00:00:46.500",
             "endTimestamp": "00:00:52.460",
-            "wordCount": 16,
-            "long": false,
             "vocab": {
-                "per": "in order to; for",
+                "per": "in order to; for (purpose)",
                 "poi": "then; afterwards",
                 "lasciarmi": "let myself; allow myself",
                 "rotolare": "to roll",
@@ -168,71 +128,43 @@
             }
         },
         {
-            "index": 9,
-            "startSeconds": 52.469,
-            "endSeconds": 57.75,
+            "index": 8,
             "startTimestamp": "00:00:52.469",
             "endTimestamp": "00:00:57.750",
-            "wordCount": 13,
-            "long": false,
             "vocab": {
                 "e": "and",
                 "mi lascio": "I let myself",
                 "salire": "rise; go up",
-                "estendere": "extend; stretch",
+                "estendere": "extend",
                 "la mano sinistra": "the left hand",
-                "va a": "goes to; is going to",
-                "appoggiarsi": "lean; rest (oneself)",
+                "va a": "goes to",
+                "appoggiarsi": "rest; lean",
                 "al pavimento": "on the floor"
             }
         },
         {
-            "index": 10,
-            "startSeconds": 57.75,
-            "endSeconds": 64.2,
+            "index": 9,
             "startTimestamp": "00:00:57.750",
-            "endTimestamp": "00:01:04.200",
-            "wordCount": 11,
-            "long": false,
+            "endTimestamp": "00:01:10.620",
             "vocab": {
                 "la destra": "the right (side; hand)",
                 "dal centro": "from the center",
                 "si lascia": "lets itself; allows itself",
                 "estendere": "to extend",
-                "ed": "and",
                 "allungare": "to lengthen; to stretch",
-                "verso l'alto": "upwards; toward the top"
-            }
-        },
-        {
-            "index": 11,
-            "startSeconds": 64.2,
-            "endSeconds": 70.62,
-            "startTimestamp": "00:01:04.200",
-            "endTimestamp": "00:01:10.620",
-            "wordCount": 14,
-            "long": false,
-            "vocab": {
-                "il coccige": "the coccyx; the tailbone",
-                "che": "that; which",
-                "viene": "comes",
-                "in avanti": "forward",
+                "verso l'alto": "upwards; toward the top",
+                "il coccige": "the coccyx (tailbone)",
+                "che viene in avanti": "that comes forward",
                 "mi lascio": "I let myself",
                 "di nuovo": "again",
-                "salire": "rise; go up",
-                "ed": "and",
-                "estendere": "extend; stretch",
+                "salire": "to rise; to go up",
                 "bene": "well"
             }
         },
         {
-            "index": 12,
-            "startSeconds": 70.62,
-            "endSeconds": 80.8,
+            "index": 10,
             "startTimestamp": "00:01:10.620",
             "endTimestamp": "00:01:20.800",
-            "wordCount": 19,
-            "long": false,
             "vocab": {
                 "ancora": "still; again",
                 "lentamente": "slowly",
@@ -245,13 +177,9 @@
             }
         },
         {
-            "index": 13,
-            "startSeconds": 80.8,
-            "endSeconds": 87.12,
+            "index": 11,
             "startTimestamp": "00:01:20.800",
             "endTimestamp": "00:01:27.120",
-            "wordCount": 13,
-            "long": false,
             "vocab": {
                 "scivola": "slides; slips",
                 "sul dorso": "on the back (of something)",
@@ -262,13 +190,9 @@
             }
         },
         {
-            "index": 14,
-            "startSeconds": 87.12,
-            "endSeconds": 100.0,
+            "index": 12,
             "startTimestamp": "00:01:27.120",
             "endTimestamp": "00:01:40.000",
-            "wordCount": 17,
-            "long": false,
             "vocab": {
                 "allungo": "I stretch; I extend",
                 "polso": "wrist",
@@ -277,11 +201,11 @@
                 "sinistra": "left",
                 "spingendo": "pushing",
                 "distendendo": "stretching; extending",
-                "bene": "well; properly (emphasizer)",
+                "bene": "well; nicely",
                 "così": "like this; this way",
                 "ancora": "again; still",
                 "ritorno": "I return; I go back",
-                "al centro": "to the center",
+                "centro": "center",
                 "cambio": "I change; change"
             }
         }
