@@ -1,0 +1,599 @@
+{
+    "videoId": "2J3Fwe9W2sY",
+    "language": {
+        "iso3": "ita",
+        "subtitleLanguage": "it",
+        "humanReadable": "Italian"
+    },
+    "segments": [
+        {
+            "index": 1,
+            "startTimestamp": "00:00:07.880",
+            "endTimestamp": "00:00:31.000",
+            "vocab": {
+                "palla": "ball",
+                "rimessa": "thrown in; put back",
+                "dietro": "behind",
+                "stop": "control (soccer term); stop",
+                "destro": "right foot; right",
+                "che bello": "how beautiful; how nice",
+                "fa gol": "scores a goal",
+                "già": "already",
+                "sbloccata": "unlocked; opened the scoring (soccer)",
+                "dopo": "after",
+                "minuti": "minutes",
+                "infilato": "slipped in; put past (goalkeeper)",
+                "vincente": "winning",
+                "per": "for",
+                "marocchini": "Moroccans"
+            },
+            "beginnerVocab": {
+                "musica": "music",
+                "palla": "ball",
+                "dietro": "behind",
+                "stop": "stop (in soccer: ball control)",
+                "destro": "right (right foot; right side)",
+                "gol": "goal",
+                "minuti": "minutes",
+                "vincente": "winning",
+                "marocchini": "Moroccans"
+            },
+            "advancedVocab": {
+                "rimessa": "throw-in; restart (sports context)",
+                "stop": "first touch; ball control (soccer term)",
+                "destro": "right foot; right-footed shot (soccer term)",
+                "sbloccata": "unlocked; opened the scoring (sports idiom)",
+                "infilato": "beaten; slipped past (goalkeeper context)",
+                "marocchini": "Moroccans (referring to the team, not just nationality)"
+            }
+        },
+        {
+            "index": 2,
+            "startTimestamp": "00:00:37.239",
+            "endTimestamp": "00:01:01.039",
+            "vocab": {
+                "spigolo": "corner; edge",
+                "finta": "feint; fake",
+                "ingresso": "entry; entrance",
+                "dribbling": "dribbling",
+                "prendere il fondo": "reach the byline; get to the end line (soccer term)",
+                "cross": "cross (soccer pass)",
+                "secondo palo": "far post; second post (soccer term)",
+                "sponda": "header assist; layoff (soccer term)",
+                "tentata": "attempted; tried",
+                "non ci arriva": "doesn't reach it; can't get to it",
+                "davvero di pochissimo": "really by very little; just barely",
+                "dritto": "straight; directly",
+                "apre a destra": "opens to the right; passes to the right",
+                "dentro": "inside; in the box (soccer context)",
+                "palla sul secondo": "ball to the far post; ball to the second post"
+            },
+            "beginnerVocab": {
+                "finta": "feint; fake (in sports)",
+                "ingresso": "entrance; entry",
+                "dribbling": "dribbling (in sports)",
+                "fondo": "end line; baseline (in sports)",
+                "cross": "cross (in soccer)",
+                "secondo palo": "far post (in soccer)",
+                "sponda": "assist; layoff (in sports)",
+                "destra": "right",
+                "dentro": "inside",
+                "palla": "ball"
+            },
+            "advancedVocab": {
+                "spigolo": "corner (of the field; sports jargon)",
+                "si prende il fondo": "reaches the byline; gets to the end line (soccer term)",
+                "secondo palo": "far post (soccer term)",
+                "sponda": "header assist; layoff (soccer term for redirecting the ball to a teammate)",
+                "non ci arriva davvero di pochissimo": "misses it by very little; just barely misses (nuanced expression)",
+                "va dretto": "goes straight; moves directly (colloquial, 'dritto' often spelled 'dretto' in dialect or fast speech)",
+                "apre a destra": "plays it out to the right; opens to the right (soccer jargon)"
+            }
+        },
+        {
+            "index": 3,
+            "startTimestamp": "00:00:59.399",
+            "endTimestamp": "00:01:26.599",
+            "vocab": {
+                "non poteva fare meglio": "could not do better",
+                "buona qualità": "good quality",
+                "infatti": "in fact; indeed",
+                "lo dimostra": "shows it; demonstrates it",
+                "è sceso": "has come down; descended",
+                "finte": "feints; fakes (sports move)",
+                "arriva": "arrives; comes",
+                "si prende il fondo": "takes the end line (soccer: reaches the byline)",
+                "ancora": "again; still",
+                "traversa": "crossbar (soccer)",
+                "grande azione": "great play; great action",
+                "che meritava il gol": "that deserved the goal",
+                "applauso": "applause"
+            },
+            "beginnerVocab": {
+                "fare": "to do; to make",
+                "meglio": "better",
+                "buona": "good",
+                "qualità": "quality",
+                "qui": "here",
+                "scende": "goes down; comes down",
+                "arriva": "arrives; comes",
+                "prende": "takes",
+                "ancora": "again; still",
+                "traversa": "crossbar",
+                "grande": "great; big",
+                "azione": "action; play",
+                "gol": "goal",
+                "applauso": "applause"
+            },
+            "advancedVocab": {
+                "si prende il fondo": "goes to the end line; reaches the baseline (sports context)",
+                "traversa": "crossbar (in sports, especially soccer/football)",
+                "azione": "play; move (sports context)",
+                "meritava il gol": "deserved the goal"
+            }
+        },
+        {
+            "index": 4,
+            "startTimestamp": "00:01:27.439",
+            "endTimestamp": "00:01:43.680",
+            "vocab": {
+                "qui": "here",
+                "occhio": "watch out; attention",
+                "difesa": "defense",
+                "scoperta": "uncovered; exposed",
+                "davanti": "in front",
+                "porta": "goal (soccer context)",
+                "gli ha detto di no": "denied him; said no to him (sports: blocked/prevented)",
+                "tutto regolare": "all regular; all fair (no foul/violation)",
+                "ancora": "again; still",
+                "ora": "now",
+                "più interno": "more inside; more central"
+            },
+            "beginnerVocab": {
+                "occhio": "watch out; eye (as in 'be careful')",
+                "difesa": "defense",
+                "porta": "goal; door (in soccer, 'goal')",
+                "davanti": "in front",
+                "tutto": "all; everything",
+                "regolare": "regular; fair; legal",
+                "ancora": "again; still",
+                "ora": "now",
+                "interno": "inside; internal"
+            },
+            "advancedVocab": {
+                "occhio": "watch out; be careful (warning/discourse marker)",
+                "difesa scoperta": "uncovered defense; exposed defense",
+                "gli ha detto di no": "denied him; said no to him (in sports, means blocked or prevented a goal)",
+                "tutto regolare": "all regular; all fair (referee/judging context)",
+                "più interno": "more inside; more central (sports positioning)"
+            }
+        },
+        {
+            "index": 5,
+            "startTimestamp": "00:01:41.040",
+            "endTimestamp": "00:01:56.520",
+            "vocab": {
+                "imbuca": "passes through; threads (a pass)",
+                "bella palla": "nice ball; good pass",
+                "contrasto": "challenge; tackle",
+                "non c'è nulla": "there's nothing (no foul)",
+                "lascia giocare": "lets play; play on",
+                "era lì": "was there",
+                "ha visto tutto": "saw everything",
+                "difficile": "difficult",
+                "stabilire": "to determine; to establish",
+                "rigore": "penalty (kick)",
+                "oppure no": "or not"
+            },
+            "beginnerVocab": {
+                "bella": "beautiful; nice",
+                "palla": "ball",
+                "contrasto": "tackle; clash; challenge",
+                "giocare": "to play",
+                "difficile": "difficult",
+                "lì": "there",
+                "tutto": "everything; all"
+            },
+            "advancedVocab": {
+                "imbuca": "threads (a pass); slips (the ball) (soccer jargon)",
+                "lascia giocare": "lets play continue; plays advantage (referee expression)",
+                "rigore": "penalty kick (soccer term)"
+            }
+        },
+        {
+            "index": 6,
+            "startTimestamp": "00:01:56.719",
+            "endTimestamp": "00:02:12.589",
+            "vocab": {
+                "bisogna": "one must; it is necessary",
+                "capire": "to understand",
+                "anche": "also; too",
+                "le intenzioni": "the intentions",
+                "vediamo": "let's see",
+                "chiusa": "closed; ended",
+                "onfield review": "on-field review (sports term)",
+                "non stesso": "not himself; not the same (context-dependent)",
+                "spiegherà": "he/she will explain",
+                "il suo punto di vista": "his/her point of view",
+                "dopo": "after",
+                "aver rivisto": "having reviewed; after reviewing",
+                "le immagini": "the images; the footage"
+            },
+            "beginnerVocab": {
+                "vediamo": "let's see; we see",
+                "chiusa": "closed",
+                "immagini": "images; pictures",
+                "musica": "music"
+            },
+            "advancedVocab": {
+                "Bisogna": "one must; it is necessary (impersonal construction)",
+                "onfield review": "on-field review (sports-specific term, refers to referee video review on the field)",
+                "Non stesso": "not himself; not the same person (unusual phrasing, possibly a transcription error or ellipsis)",
+                "spiegherà il suo punto di vista": "will explain his point of view (nuanced: formal way to say 'explain his perspective')"
+            }
+        },
+        {
+            "index": 7,
+            "startTimestamp": "00:02:12.840",
+            "endTimestamp": "00:02:29.840",
+            "vocab": {
+                "calcio di rigore": "penalty kick",
+                "contro": "against",
+                "va": "goes; takes (here: takes the penalty)",
+                "la pareggia": "ties it; equalizes",
+                "alla line": "at the line (note: likely 'on the line', possibly a mishearing or typo)",
+                "primo gol": "first goal",
+                "in questo mondiale per club": "in this Club World Cup",
+                "risponde": "responds; answers",
+                "bomber": "striker; top scorer",
+                "è 1-1": "it's 1-1",
+                "poi": "then; afterwards",
+                "danza rivedibile": "questionable dance; dance open to review (note: 'rivedibile' means 'reviewable', often used to mean 'not great')"
+            },
+            "beginnerVocab": {
+                "calcio": "kick; soccer (note: 'calcio' means both 'kick' and 'soccer')",
+                "rigore": "penalty (in soccer)",
+                "gol": "goal",
+                "mondiale": "world (as in 'world cup')",
+                "club": "club",
+                "sì": "yes",
+                "bomber": "striker; top scorer (soccer slang)",
+                "danza": "dance"
+            },
+            "advancedVocab": {
+                "Calcio di rigore": "penalty kick",
+                "la pareggia": "ties it; equalizes (note: 'pareggiare' means to equalize in sports)",
+                "alla line": "at the line; on the line (note: likely a sports-specific phrase, possibly referring to the goal line)",
+                "mondiale per club": "Club World Cup",
+                "Risponde": "answers; responds (note: in sports commentary, means 'scores in reply')",
+                "bomber": "top scorer; striker (note: Italian sports slang for a prolific goal scorer)",
+                "danza rivedibile": "questionable dance; dance open to review (note: 'rivedibile' means 'reviewable', often used humorously to mean 'not great', especially for celebrations)"
+            }
+        },
+        {
+            "index": 8,
+            "startTimestamp": "00:02:33.800",
+            "endTimestamp": "00:02:57.239",
+            "vocab": {
+                "perde palla": "loses the ball",
+                "troppo debole": "too weak",
+                "controllo": "control",
+                "cross": "cross (soccer pass)",
+                "troppa serenità": "too much calmness; too relaxed",
+                "gran pallone": "great ball; great pass",
+                "cade": "falls",
+                "si rialza": "gets up again; stands up",
+                "fa molta confusione": "makes a lot of confusion; is very confused",
+                "con la voglia": "with desire; with will",
+                "l'ha ribaltata": "turned it around; overturned it",
+                "la line": "the line (likely 'linea', soccer term for defensive/offensive line)"
+            },
+            "beginnerVocab": {
+                "perde": "loses",
+                "palla": "ball",
+                "debole": "weak",
+                "controllo": "control",
+                "cross": "cross (soccer pass)",
+                "serenità": "calm; serenity",
+                "cade": "falls",
+                "si rialza": "gets up; stands up",
+                "confusione": "confusion",
+                "voglia": "desire; will",
+                "line": "line"
+            },
+            "advancedVocab": {
+                "Perde palla": "loses possession; loses the ball",
+                "troppo debole il suo controllo": "his control is too weak (note: 'controllo' refers to ball control in soccer)",
+                "cross": "cross (soccer term: a pass across the field, usually into the penalty area)",
+                "gran pallone": "great ball (soccer: a very good pass)",
+                "si rialza": "gets back up; stands up again",
+                "fa molta confusione": "makes a lot of confusion; is very confused (note: can mean 'creates chaos' in play)",
+                "con la voglia l'ha ribaltata": "with desire he turned it around; overturned it with determination (note: 'ribaltare' in soccer means to overturn a situation, e.g., come from behind)",
+                "la line": "the line (note: likely a truncated or mispronounced 'linea', meaning the defensive/offensive line in soccer)"
+            }
+        },
+        {
+            "index": 9,
+            "startTimestamp": "00:02:54.319",
+            "endTimestamp": "00:03:11.639",
+            "vocab": {
+                "l'ha messa": "he put it; he scored (soccer context)",
+                "col sinistro": "with the left (foot)",
+                "a giro": "curled; with a curve (soccer context)",
+                "battere": "to beat; to defeat",
+                "a fare 2-1": "to make it 2-1; to bring the score to 2-1",
+                "per la Line": "for Line (team name)",
+                "adesso": "now",
+                "guida": "leads; is leading",
+                "la partita": "the match; the game"
+            },
+            "beginnerVocab": {
+                "sinistro": "left (left foot; left hand)",
+                "partita": "match; game",
+                "musica": "music"
+            },
+            "advancedVocab": {
+                "col sinistro a giro": "with a curling left-footed shot (soccer term; 'a giro' means with curve/spin)",
+                "battere": "to beat; to score against (sports context)",
+                "guida la partita": "leads the match; is ahead in the game (sports context)"
+            }
+        },
+        {
+            "index": 10,
+            "startTimestamp": "00:03:13.920",
+            "endTimestamp": "00:03:28.519",
+            "vocab": {
+                "grande invenzione": "great invention; great play",
+                "qualità": "quality",
+                "è arrivato": "has arrived; arrived",
+                "largo": "wide",
+                "bella": "beautiful; nice",
+                "ripartenza": "restart; counterattack (sports context)",
+                "tutta in verticale": "all vertical; completely vertical",
+                "della": "of the"
+            },
+            "beginnerVocab": {
+                "grande": "big; great",
+                "invenzione": "invention",
+                "qualità": "quality",
+                "arrivato": "arrived",
+                "largo": "wide",
+                "bella": "beautiful; nice",
+                "ripartenza": "restart; counterattack",
+                "verticale": "vertical"
+            },
+            "advancedVocab": {
+                "grande invenzione": "great play; brilliant move (sports jargon, not literal invention)",
+                "Kojolapa largo": "Kojolapa wide (sports tactic, 'largo' means positioned wide on the field)",
+                "ripartenza": "counterattack; restart (sports term, not just 'restart')",
+                "tutta in verticale": "all vertically; straight up the field (sports jargon, direct forward movement)"
+            }
+        },
+        {
+            "index": 11,
+            "startTimestamp": "00:03:29.200",
+            "endTimestamp": "00:03:45.239",
+            "vocab": {
+                "che": "that; which",
+                "lo": "it (masculine object pronoun)",
+                "capisce": "understands",
+                "nettamente": "clearly; markedly",
+                "più": "more",
+                "reattiva": "reactive; responsive",
+                "la squadra": "the team",
+                "emiratina": "Emirati (from the UAE)",
+                "rispetto a": "compared to; with respect to",
+                "quella": "that (feminine)",
+                "marocchina": "Moroccan (feminine)",
+                "ha mollato": "has let go; has given up (context: lost intensity)",
+                "eh": "eh; huh (filler, expresses emphasis or checking agreement)",
+                "anche": "also; even",
+                "a livello fisico": "physically; on a physical level",
+                "è durata poco": "lasted little; didn't last long"
+            },
+            "beginnerVocab": {
+                "squadra": "team",
+                "livello": "level",
+                "fisico": "physical (body; physical)",
+                "poco": "little; not much",
+                "più": "more",
+                "rispetto a": "compared to; with respect to",
+                "anche": "also; too"
+            },
+            "advancedVocab": {
+                "nettamente": "clearly; markedly (emphatic, stronger than 'chiaramente')",
+                "emiratina": "Emirati (from the United Arab Emirates; demonym)",
+                "ha un po' mollato": "has let up a bit; has slackened a bit (idiomatic, meaning to lose intensity or effort)",
+                "eh": "you know; right? (discourse marker, adds emphasis or seeks agreement)"
+            }
+        },
+        {
+            "index": 12,
+            "startTimestamp": "00:03:43.360",
+            "endTimestamp": "00:03:57.560",
+            "vocab": {
+                "profondo": "deep",
+                "pallone": "ball",
+                "per": "for; to",
+                "ma": "but",
+                "cosa": "what",
+                "ha sbagliato": "missed; made a mistake",
+                "praticamente": "practically; basically",
+                "porta": "goal (soccer)",
+                "tutta davanti a sé": "all in front of him; right in front of him (note: 'sé' = 'himself/herself')",
+                "l'ha messa fuori": "he put it out; he missed (note: 'put it out' = missed the goal)"
+            },
+            "beginnerVocab": {
+                "pallone": "ball",
+                "porta": "goal; door (note: in soccer, 'goal')",
+                "fuori": "out; outside",
+                "davanti": "in front",
+                "tutta": "all; whole",
+                "ma": "but",
+                "cosa": "what"
+            },
+            "advancedVocab": {
+                "Profondo il pallone": "deep ball (soccer term; a long pass forward)",
+                "ma cosa ha sbagliato?": "what a miss!; what did he mess up? (expresses disbelief at an error)",
+                "porta tutta davanti a sé": "the whole goal in front of him (idiomatic; clear scoring opportunity)"
+            }
+        },
+        {
+            "index": 13,
+            "startTimestamp": "00:03:59.040",
+            "endTimestamp": "00:04:14.319",
+            "vocab": {
+                "punizione": "free kick; punishment",
+                "per": "for",
+                "uscito male": "came out badly; exited badly (sports: poor move by goalkeeper)",
+                "destro": "right foot; right-handed shot",
+                "non parte": "does not start; does not go off (doesn't happen)",
+                "sinistro": "left foot; left-handed shot",
+                "sì": "yes; does (here: does go off)",
+                "da parte di": "by; from (someone's side)",
+                "poi": "then; afterwards",
+                "scoperto": "uncovered; exposed",
+                "in campo aperto": "in open field; in open play",
+                "uno contro": "one against (one-on-one situation)"
+            },
+            "beginnerVocab": {
+                "punizione": "punishment; free kick (sports)",
+                "uscito": "gone out; exited",
+                "male": "badly; bad",
+                "destro": "right (side; foot; hand)",
+                "sinistro": "left (side; foot; hand)",
+                "campo": "field; pitch",
+                "aperto": "open",
+                "uno": "one",
+                "contro": "against"
+            },
+            "advancedVocab": {
+                "uscito male": "came out badly (goalkeeper positioning error)",
+                "il destro non parte": "the right-footed shot doesn't go off; the right foot doesn't shoot (idiomatic, about a failed attempt)",
+                "campo aperto": "open field (sports term, means lots of space to attack)",
+                "uno contro": "one-on-one (abbreviated form, usually 'uno contro uno')"
+            }
+        },
+        {
+            "index": 14,
+            "startTimestamp": "00:04:11.920",
+            "endTimestamp": "00:04:31.880",
+            "vocab": {
+                "uno": "one",
+                "con": "with",
+                "che": "that; who; which",
+                "lo aspetta": "waits for him",
+                "punta": "aims at; targets; points at",
+                "attende": "waits; awaits",
+                "anche": "also; too",
+                "arrivo": "arrival",
+                "fa da solo": "does it alone; goes alone",
+                "fa in proprio": "does on his own; acts independently",
+                "sperisce alto": "shoots high; sends it high (sports context)",
+                "destro": "right (right foot/side)",
+                "sinistro": "left (left foot/side)",
+                "va": "goes",
+                "solo": "only; just; alone",
+                "esterno della rete": "outside of the net (sports context)"
+            },
+            "beginnerVocab": {
+                "uno": "one",
+                "con": "with",
+                "aspetta": "waits; is waiting",
+                "punta": "aims; points",
+                "attende": "waits; awaits",
+                "arrivo": "arrival",
+                "fa": "does; makes",
+                "solo": "alone; only",
+                "alto": "high",
+                "destro": "right (side; foot)",
+                "sinistro": "left (side; foot)",
+                "va": "goes",
+                "esterno": "outside; external",
+                "rete": "net; goal (soccer)"
+            },
+            "advancedVocab": {
+                "lo punta": "targets him; aims at him (sports context: marks him closely)",
+                "fa in proprio": "acts on his own; does it himself",
+                "sperisce alto": "shoots high (sports context: sends the ball high)",
+                "solo esterno della rete": "only the outside of the net (misses the goal, hits the side netting)"
+            }
+        },
+        {
+            "index": 15,
+            "startTimestamp": "00:04:32.600",
+            "endTimestamp": "00:04:49.840",
+            "vocab": {
+                "È finita": "it's over; it's finished",
+                "fa i primi tre punti": "gets the first three points; scores the first three points",
+                "mondiale per club": "club world cup",
+                "battendo": "beating; by beating",
+                "in rimonta": "in comeback; coming from behind",
+                "chiude a zero": "finishes with zero; ends with zero",
+                "entrambe": "both",
+                "salutano": "say goodbye; leave (the competition)"
+            },
+            "beginnerVocab": {
+                "finita": "finished; ended",
+                "primi": "first",
+                "tre": "three",
+                "punti": "points",
+                "club": "club",
+                "battendo": "beating; defeating",
+                "rimonta": "comeback",
+                "chiude": "closes; finishes",
+                "zero": "zero",
+                "entrambe": "both",
+                "salutano": "say goodbye; greet"
+            },
+            "advancedVocab": {
+                "in rimonta": "in comeback; coming from behind",
+                "chiude a zero": "finishes with zero (points/goals); ends scoreless",
+                "salutano la": "say goodbye to the (tournament/event) (note: idiomatic, meaning 'are eliminated from')"
+            }
+        },
+        {
+            "index": 16,
+            "startTimestamp": "00:04:47.600",
+            "endTimestamp": "00:05:07.240",
+            "vocab": {
+                "competizione": "competition",
+                "ovviamente": "obviously",
+                "sorriso": "smile",
+                "in più": "extra; more",
+                "line": "line (sports context: team lineup)",
+                "sportivamente": "sportingly; in a sporting manner",
+                "dare la mano": "shake hands; give a hand",
+                "reduce da": "recovering from; coming from (recent experience)",
+                "brutto incidente": "bad accident",
+                "serata": "evening",
+                "lunedì": "Monday"
+            },
+            "beginnerVocab": {
+                "competizione": "competition",
+                "sorriso": "smile",
+                "mano": "hand",
+                "incidente": "accident"
+            },
+            "advancedVocab": {
+                "sportivamente": "in a sporting manner; with sportsmanship",
+                "va a dare la mano": "goes to shake hands; goes to offer a handshake",
+                "reduce da": "recovering from; just coming off (recently experienced, often used for someone who has just gone through something difficult)",
+                "brutto incidente": "bad accident (note: 'brutto' intensifies the seriousness)",
+                "serata di lunedì": "Monday evening (note: 'serata' emphasizes the evening as an event or period, not just the time of day)"
+            }
+        }
+    ],
+    "topics": [
+        "football match",
+        "moroccan team",
+        "goal scoring",
+        "penalty kick",
+        "football tactics",
+        "player performance",
+        "match review",
+        "football commentary",
+        "team strategy",
+        "football highlights"
+    ]
+}

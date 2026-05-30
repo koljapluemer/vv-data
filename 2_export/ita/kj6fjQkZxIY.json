@@ -1,0 +1,1729 @@
+{
+    "videoId": "kj6fjQkZxIY",
+    "language": {
+        "iso3": "ita",
+        "subtitleLanguage": "it",
+        "humanReadable": "Italian"
+    },
+    "segments": [
+        {
+            "index": 1,
+            "startTimestamp": "00:00:00.680",
+            "endTimestamp": "00:00:26.880",
+            "vocab": {
+                "Buongiorno": "Good morning; hello",
+                "amici": "friends",
+                "benvenuti": "welcome",
+                "nuovo": "new",
+                "video": "video",
+                "YouTube": "YouTube",
+                "sono": "I am",
+                "le 23": "11 PM",
+                "sera": "evening",
+                "primo agosto": "first of August",
+                "appena": "just; just now",
+                "finito": "finished",
+                "chiudere": "to close; to pack (context: suitcases)",
+                "valigie": "suitcases",
+                "adesso": "now",
+                "sto andando": "I am going",
+                "da": "to; at (context: someone's place)",
+                "perché": "because",
+                "partiremo": "we will leave; we will depart",
+                "io": "I; me",
+                "e": "and",
+                "per": "for",
+                "il": "the"
+            },
+            "beginnerVocab": {
+                "buongiorno": "good morning; hello",
+                "amici": "friends",
+                "benvenuti": "welcome",
+                "nuovo": "new",
+                "video": "video",
+                "sera": "evening; night",
+                "primo": "first",
+                "agosto": "August",
+                "appena": "just (now)",
+                "finito": "finished",
+                "chiudere": "to close",
+                "valigie": "suitcases; luggage",
+                "adesso": "now",
+                "andando": "going",
+                "perché": "because",
+                "partiremo": "we will leave; we will depart"
+            },
+            "advancedVocab": {
+                "le 23 di sera": "11 PM (note: 'di sera' specifies evening, not morning)",
+                "chiudere le valigie": "to pack the suitcases; to finish packing (note: literally 'to close the suitcases')",
+                "sto andando da [nome]": "I'm going to [person's] place (note: 'da' + name means to someone's home/place)",
+                "partiremo": "we will leave; we will depart (note: future tense, may be confused with present)",
+                "il Cia": "the Cia (note: likely a specific place/event, possibly an acronym or local reference)"
+            }
+        },
+        {
+            "index": 2,
+            "startTimestamp": "00:00:24.720",
+            "endTimestamp": "00:00:41.160",
+            "vocab": {
+                "Ciao": "Hello; Hi; Bye",
+                "Casetta": "Little house (diminutive of 'casa', affectionate)",
+                "ci rivediamo": "see each other again; see you again",
+                "tra un po'": "in a bit; in a little while",
+                "stiamo andando": "we are going",
+                "a casa di": "to the house of; to (someone's) house",
+                "perché": "because",
+                "abbiamo": "we have",
+                "il volo": "the flight",
+                "ehm": "um (hesitation)",
+                "alle": "at (time)",
+                "di mattina": "in the morning",
+                "quindi": "so; therefore",
+                "per le": "by (a certain time)",
+                "ci sveglieremo": "we will wake up",
+                "abbiamo deciso": "we decided"
+            },
+            "beginnerVocab": {
+                "Ciao": "Hello; Hi; Bye",
+                "casetta": "little house; small house",
+                "casa": "house; home",
+                "andare": "to go",
+                "volo": "flight",
+                "mattina": "morning",
+                "svegliare": "to wake up",
+                "decidere": "to decide"
+            },
+            "advancedVocab": {
+                "Casetta": "Little house (diminutive, affectionate nickname)",
+                "tra un po'": "in a little while; soon",
+                "ehm": "um; er (hesitation marker)",
+                "per le 4:30": "by 4:30; around 4:30 (approximate time expression)"
+            }
+        },
+        {
+            "index": 3,
+            "startTimestamp": "00:00:39.440",
+            "endTimestamp": "00:00:51.960",
+            "vocab": {
+                "andare": "to go",
+                "tutti": "everyone; all",
+                "così da": "so that; in order to",
+                "poterci": "to be able to (us)",
+                "svegliare": "to wake up",
+                "conoscendoci": "knowing ourselves; since we know ourselves (reflexive, about the group)",
+                "non ci saremmo mai svegliati": "we would never have woken up",
+                "avevamo": "we had",
+                "volo": "flight",
+                "troppo poco": "too little (time)",
+                "per": "for; to",
+                "ce l'hanno spostato": "they moved it for us; it was rescheduled",
+                "quindi": "so; therefore"
+            },
+            "beginnerVocab": {
+                "andare": "to go",
+                "tutti": "all; everyone",
+                "svegliare": "to wake up",
+                "volo": "flight",
+                "poco": "little; not much",
+                "per": "for; to",
+                "quindi": "so; therefore"
+            },
+            "advancedVocab": {
+                "così da": "so that; in order to",
+                "conoscendoci": "knowing ourselves; knowing us (reflexive gerund, implies self-awareness)",
+                "tutti quanti": "all of us; every single one (emphatic, more than just 'tutti')",
+                "ce l'hanno spostato": "they moved it for us; it was rescheduled (note 'ce' implies 'for us', idiomatic)"
+            }
+        },
+        {
+            "index": 4,
+            "startTimestamp": "00:00:49.719",
+            "endTimestamp": "00:01:00.640",
+            "vocab": {
+                "staremo": "we will stay; we will be",
+                "più o meno": "more or less; about",
+                "a": "in; at; to (location marker)",
+                "abbiamo deciso": "we have decided",
+                "in teoria": "in theory",
+                "andare a": "go to",
+                "farci": "have (for ourselves); get ourselves (reflexive, informal)",
+                "pranzo": "lunch",
+                "dico": "I say",
+                "perché": "because",
+                "sono un po' ansiosi": "they are a bit anxious"
+            },
+            "beginnerVocab": {
+                "ore": "hours",
+                "Parigi": "Paris",
+                "andare": "to go",
+                "pranzo": "lunch",
+                "ansiosi": "anxious; nervous"
+            },
+            "advancedVocab": {
+                "in teoria": "in theory (implies uncertainty or that something is only planned, not definite)",
+                "andare a farci un pranzo": "go have lunch (the 'farci' construction is colloquial and reflexive, meaning 'have for ourselves')",
+                "alle Lollo": "the Lollo family; at the Lollo's (colloquial way to refer to a family or group by surname, sometimes with 'alle' for families)"
+            }
+        },
+        {
+            "index": 5,
+            "startTimestamp": "00:00:58.680",
+            "endTimestamp": "00:01:07.479",
+            "vocab": {
+                "quindi": "so; therefore",
+                "non so": "I don't know",
+                "se": "if; whether",
+                "potranno": "they will be able to",
+                "fare": "to do; to make",
+                "questo": "this",
+                "pranzo": "lunch",
+                "Io": "I",
+                "e": "and",
+                "sì": "yes",
+                "Arrivati": "arrived (plural; past participle)",
+                "a casa di": "at the house of; to the home of",
+                "Sto": "I am (from 'stare')",
+                "sudando": "sweating"
+            },
+            "beginnerVocab": {
+                "quindi": "so; therefore",
+                "non": "not",
+                "so": "I know",
+                "fare": "to do; to make",
+                "questo": "this",
+                "pranzo": "lunch",
+                "casa": "house; home",
+                "sto": "I am (from 'stare')",
+                "sudando": "sweating"
+            },
+            "advancedVocab": {
+                "perigi": "for you all; for you guys (note: likely a regionalism, misspelling, or colloquial form of 'per voi')"
+            }
+        },
+        {
+            "index": 6,
+            "startTimestamp": "00:01:08.240",
+            "endTimestamp": "00:01:18.680",
+            "vocab": {
+                "È il momento": "It's time",
+                "giocare": "to play",
+                "a": "at; to",
+                "Sì": "Yes",
+                "Sei": "Have you",
+                "giocata": "played",
+                "Sai": "Do you know",
+                "dove": "where",
+                "devi": "you have to; you must",
+                "incastrare": "fit together; slot in",
+                "tutti": "all",
+                "i pezzettini": "the little pieces",
+                "Ecco": "Here; There you go"
+            },
+            "beginnerVocab": {
+                "giocare": "to play",
+                "sì": "yes",
+                "giocata": "played",
+                "dove": "where",
+                "incastrare": "to fit; to slot in",
+                "tutti": "all",
+                "pezzettini": "little pieces"
+            },
+            "advancedVocab": {
+                "incastrare": "to fit together; to slot in (note: often used for fitting pieces together, as in a puzzle or game)",
+                "pezzettini": "little pieces; small bits (diminutive form, often used affectionately or to indicate small size)",
+                "Ecco": "here you go; there you have it; that's it (discourse marker, often used to draw attention or indicate something is being presented)"
+            }
+        },
+        {
+            "index": 7,
+            "startTimestamp": "00:01:16.920",
+            "endTimestamp": "00:01:27.759",
+            "vocab": {
+                "il mio": "my",
+                "primo": "first",
+                "imballaggio": "packing; packaging",
+                "ne ha convinto a": "convinced (someone) to",
+                "imballare": "to pack",
+                "valigia": "suitcase",
+                "manca": "missing; left (time)",
+                "alle": "at (time)",
+                "questa sarà": "this will be",
+                "colazione": "breakfast",
+                "perché": "because",
+                "penso che": "I think that",
+                "è arrivata": "has arrived; arrived"
+            },
+            "beginnerVocab": {
+                "mio": "my",
+                "primo": "first",
+                "imballaggio": "packing; packaging (note: here, 'packing' as in packing a suitcase)",
+                "valigia": "suitcase",
+                "colazione": "breakfast",
+                "penso": "I think"
+            },
+            "advancedVocab": {
+                "imballaggio": "packing; packaging (can mean both the act of packing and the material used)",
+                "imballare": "to pack (specifically to put things in a suitcase or box)",
+                "convinto a": "convinced to (note the use of 'a' with 'convinto', which can be confusing)",
+                "Manca 10 alle 6:00": "It's 10 to 6:00; 10 minutes to 6:00 (Italian way of telling time, can be confusing for learners)"
+            }
+        },
+        {
+            "index": 8,
+            "startTimestamp": "00:01:25.920",
+            "endTimestamp": "00:01:39.759",
+            "vocab": {
+                "Parigi": "Paris",
+                "mangerò": "I will eat",
+                "qualcos'altro": "something else",
+                "siamo": "we are",
+                "in vacanza": "on vacation",
+                "allora": "so; then",
+                "stavamo per": "we were about to",
+                "rimanere": "to stay; to remain",
+                "gate": "gate (airport)",
+                "è chiuso": "is closed",
+                "si è chiuso": "it closed (itself)",
+                "con noi": "with us",
+                "però": "but; however",
+                "tutti": "all; everyone",
+                "sull'aereo": "on the plane"
+            },
+            "beginnerVocab": {
+                "Parigi": "Paris",
+                "mangerò": "I will eat",
+                "qualcos'altro": "something else",
+                "vacanza": "vacation; holiday",
+                "Ok": "Ok",
+                "gate": "gate (airport)",
+                "chiuso": "closed",
+                "aereo": "airplane; plane"
+            },
+            "advancedVocab": {
+                "qualcos'altro": "something else",
+                "stavamo per": "we were about to; we were going to (imminent action)",
+                "rimanere a Linate": "stay at Linate (Linate is Milan's city airport; culturally specific)",
+                "il gate è chiuso": "the gate is closed (airport-specific phrase)",
+                "si è chiuso con noi": "it closed with us; it closed while we were there (nuanced: implies the gate closed as they arrived or with them inside)"
+            }
+        },
+        {
+            "index": 9,
+            "startTimestamp": "00:01:42.280",
+            "endTimestamp": "00:01:59.840",
+            "vocab": {
+                "siamo": "we are",
+                "appena": "just",
+                "arrivati": "arrived",
+                "a": "to; at",
+                "Parigi": "Paris",
+                "abbiamo": "we have",
+                "fatto": "done; made",
+                "controllo passaporto": "passport control",
+                "questo": "this",
+                "è stata": "was; has been (feminine)",
+                "ritirata": "withdrawn; taken",
+                "tipo": "like; kind of",
+                "quattro": "four",
+                "volte": "times",
+                "io": "I; me",
+                "due": "two",
+                "uova": "eggs",
+                "bacon": "bacon",
+                "grandi": "big; large",
+                "quanto": "as much as; how much",
+                "un dito": "a finger",
+                "abbiamo trovato": "we found",
+                "Alessia": "Alessia (name)",
+                "poco": "little; not very",
+                "riconoscibile": "recognizable",
+                "di nuovo": "again",
+                "seduti": "seated; sitting"
+            },
+            "beginnerVocab": {
+                "siamo": "we are",
+                "appena": "just",
+                "arrivati": "arrived",
+                "Parigi": "Paris",
+                "fatto": "done; made",
+                "controllo": "check; control",
+                "passaporto": "passport",
+                "uova": "eggs",
+                "bacon": "bacon",
+                "grandi": "big; large",
+                "dito": "finger",
+                "trovato": "found",
+                "seduti": "seated; sitting"
+            },
+            "advancedVocab": {
+                "controllo passaporte": "passport check; passport control",
+                "ritirata": "taken away; withdrawn (note: here likely refers to a document being checked/collected)",
+                "tipo": "like; sort of (note: filler word, informal discourse marker)",
+                "grandi quanto un dito": "as big as a finger (note: idiomatic size comparison)",
+                "poco riconoscibile": "barely recognizable; hard to recognize"
+            }
+        },
+        {
+            "index": 10,
+            "startTimestamp": "00:01:58.119",
+            "endTimestamp": "00:02:11.840",
+            "vocab": {
+                "mangiare": "to eat; eating",
+                "perché": "because; why",
+                "non": "not",
+                "stiamo facendo": "we are doing; we are making",
+                "altro che": "nothing but; only",
+                "dormire": "to sleep; sleeping",
+                "abbiamo chiesto": "we asked; we have asked",
+                "dell'acqua": "some water",
+                "questa": "this (feminine)",
+                "costerà": "will cost",
+                "tra": "between; among",
+                "più o meno": "more or less; approximately",
+                "non è ancora": "is not yet",
+                "atterrato": "landed"
+            },
+            "beginnerVocab": {
+                "mangiare": "to eat",
+                "dormire": "to sleep",
+                "acqua": "water",
+                "costerà": "will cost",
+                "nostro": "our"
+            },
+            "advancedVocab": {
+                "non stiamo facendo altro che": "we are only; we are doing nothing but (emphasizes exclusivity of actions)",
+                "più o meno": "more or less; approximately",
+                "non è ancora atterrato": "has not landed yet (note: subject comes after verb, inversion for emphasis or style)"
+            }
+        },
+        {
+            "index": 11,
+            "startTimestamp": "00:02:09.440",
+            "endTimestamp": "00:02:19.879",
+            "vocab": {
+                "aereo": "airplane; plane",
+                "adesso": "now",
+                "quindi": "so; therefore",
+                "mi sa che": "I think that; it seems that (colloquial)",
+                "è in ritardo": "is late; is delayed",
+                "altri": "other; more",
+                "noi": "we; us",
+                "arriviamo": "we arrive",
+                "del mattino": "in the morning",
+                "cioè": "that is; I mean (clarification)"
+            },
+            "beginnerVocab": {
+                "aereo": "airplane",
+                "adesso": "now",
+                "ritardo": "delay; late",
+                "ora": "hour",
+                "mattino": "morning",
+                "arriviamo": "we arrive"
+            },
+            "advancedVocab": {
+                "mi sa che": "I think; it seems (colloquial, expresses uncertainty or assumption)",
+                "cioè": "that is; I mean (discourse marker, clarifies or rephrases)"
+            }
+        },
+        {
+            "index": 12,
+            "startTimestamp": "00:02:18.640",
+            "endTimestamp": "00:02:31.280",
+            "vocab": {
+                "abbiamo": "we have",
+                "il pranzo": "the lunch",
+                "andare a fare": "go do; go make",
+                "hanno appena": "they just",
+                "chiamato": "called",
+                "al microfono": "on the microphone",
+                "io": "I",
+                "non ce la faccio più": "I can't take it anymore; I can't do it anymore",
+                "questo qui": "this one; this here",
+                "viaggio della speranza": "journey of hope (note: idiomatic, often used for difficult or hopeful journeys)",
+                "ve lo giuro": "I swear to you (all)"
+            },
+            "beginnerVocab": {
+                "abbiamo": "we have",
+                "pranzo": "lunch",
+                "andare": "to go",
+                "fare": "to do; to make",
+                "microfono": "microphone",
+                "viaggio": "trip; journey",
+                "speranza": "hope"
+            },
+            "advancedVocab": {
+                "fare il sap": "do the SAP (note: 'SAP' may refer to a specific activity, exam, or event; context needed)",
+                "viaggio della speranza": "journey of hope (note: idiom for a difficult or desperate journey, often used for migrants or challenging situations)"
+            }
+        },
+        {
+            "index": 13,
+            "startTimestamp": "00:02:29.120",
+            "endTimestamp": "00:02:41.440",
+            "vocab": {
+                "Cioè": "that is; I mean",
+                "non so": "I don't know",
+                "chi": "who",
+                "ce la sta mandando": "is sending it to us",
+                "ma": "but",
+                "purtroppo": "unfortunately",
+                "sta funzionando": "is working; is functioning",
+                "eccolo": "here it is",
+                "nostereo": "our stereo (note: likely a typo or slang for 'nostro stereo')",
+                "stanno scendo": "they are going out; people are coming out (note: likely a typo for 'stanno uscendo')",
+                "le persone": "the people",
+                "e quindi": "and so; and therefore",
+                "adesso": "now",
+                "cosa": "what",
+                "devono": "they must; they have to",
+                "fare": "do",
+                "devo": "I must; I have to",
+                "tipo": "like; sort of",
+                "pulirlo": "clean it"
+            },
+            "beginnerVocab": {
+                "non": "not",
+                "chi": "who",
+                "sta": "is (he/she/it)",
+                "funzionando": "working; functioning",
+                "eccolo": "here it is",
+                "persone": "people",
+                "adesso": "now",
+                "cosa": "what",
+                "fare": "to do; to make",
+                "devo": "I have to; I must",
+                "pulirlo": "to clean it"
+            },
+            "advancedVocab": {
+                "Cioè": "I mean; that is (discourse marker)",
+                "ce la sta mandando": "is sending it to us (complex pronoun construction)",
+                "nostereo": "our stereo (blended/colloquial form)",
+                "tipo": "like; sort of (filler word, informal)",
+                "scendo": "coming down; going down (here, likely a regional or colloquial form of 'scendendo')"
+            }
+        },
+        {
+            "index": 14,
+            "startTimestamp": "00:02:39.720",
+            "endTimestamp": "00:02:59.480",
+            "vocab": {
+                "che": "what; that",
+                "devono": "they must; they have to",
+                "fare": "do; make",
+                "dato": "given",
+                "voucher": "voucher",
+                "da": "of; from; for",
+                "spendere": "to spend",
+                "vediamo": "let's see",
+                "oddio": "oh my god; oh dear",
+                "ma": "but",
+                "son": "are; they're (colloquial for 'sono')",
+                "squishy": "squishy (soft, squeezable)",
+                "questi": "these",
+                "fatto": "done; made",
+                "shopping": "shopping",
+                "coi": "with the (colloquial for 'con i')",
+                "abbiamo": "we have",
+                "preso": "taken; got",
+                "tutte": "all; every",
+                "cose": "things",
+                "a caso": "randomly; at random",
+                "la spesa": "the shopping; groceries",
+                "dov'è": "where is",
+                "Lollo": "Lollo (nickname, person's name)"
+            },
+            "beginnerVocab": {
+                "fare": "to do; to make",
+                "voucher": "voucher",
+                "euro": "euro (currency)",
+                "vediamo": "let's see",
+                "squishy": "squishy (soft; squeezable)",
+                "shopping": "shopping",
+                "preso": "taken; got",
+                "cose": "things",
+                "spesa": "shopping; groceries",
+                "dov'è": "where is"
+            },
+            "advancedVocab": {
+                "voucher": "voucher; coupon (loanword, not always used in English sense)",
+                "squishy": "squishy (loanword, refers to soft, squeezable toys; not standard Italian)",
+                "a caso": "randomly; at random (idiomatic, not literally 'at case')",
+                "fare la spesa": "do the grocery shopping; go shopping (can be confused with 'fare spese' = go shopping for non-food items)",
+                "Lol": "Lol (internet slang, laugh out loud)",
+                "Ber": "Ber (nickname or abbreviation, context-specific, may be confusing)",
+                "Lollo": "Lollo (nickname, diminutive of Lorenzo or similar names, culturally specific)"
+            }
+        },
+        {
+            "index": 15,
+            "startTimestamp": "00:02:57.959",
+            "endTimestamp": "00:03:05.400",
+            "vocab": {
+                "abbiam (abbiamo)": "we have; we did",
+                "fatto": "done; made",
+                "la spesa": "the shopping; groceries",
+                "venite": "come (you all)",
+                "a vedere": "to see",
+                "cosa": "what; thing",
+                "vi": "to you (plural)",
+                "abbiamo preso": "we took; we got",
+                "è stato": "it was",
+                "difficilissimo": "very difficult; extremely difficult",
+                "abbiamo rispettato": "we respected; we stuck to",
+                "però": "however; but",
+                "i nostri": "ours (context: our own, possibly 'our rules' or 'our budget')",
+                "anzi": "actually; on the contrary",
+                "abbiamo lasciato": "we left",
+                "20": "20 (number)"
+            },
+            "beginnerVocab": {
+                "fare la spesa": "to do the shopping",
+                "venire": "to come",
+                "vedere": "to see",
+                "cosa": "thing; what",
+                "prendere": "to take; to get",
+                "difficile": "difficult",
+                "lasciare": "to leave"
+            },
+            "advancedVocab": {
+                "la spesa": "the shopping; groceries (note: not 'the expense')",
+                "però": "however; though (discourse marker, often mid-sentence)",
+                "anzi": "actually; on the contrary (used to correct or emphasize a previous statement)"
+            }
+        },
+        {
+            "index": 16,
+            "startTimestamp": "00:03:04.360",
+            "endTimestamp": "00:03:26.879",
+            "vocab": {
+                "avete": "you have (plural)",
+                "speso": "spent",
+                "sì": "yes",
+                "io": "I",
+                "non ci credo": "I don't believe it",
+                "brav": "well done; good job (short for 'bravo')",
+                "abbiamo": "we have",
+                "questi": "these",
+                "sono": "are",
+                "per": "for",
+                "i bambini": "the children; kids",
+                "spazzolina": "little brush",
+                "utile": "useful",
+                "da mettere": "to put; for putting",
+                "in borsa": "in (the) bag; purse",
+                "questo": "this",
+                "ho preso": "I took; I got",
+                "quello": "that one",
+                "con": "with",
+                "gli sticker": "the stickers",
+                "ti piace": "do you like it",
+                "Ale": "Ale (short for Alessandro/Alessandra, a name)"
+            },
+            "beginnerVocab": {
+                "avete": "you have",
+                "speso": "spent",
+                "sì": "yes",
+                "io": "I",
+                "bambini": "children; kids",
+                "spazzolina": "little brush",
+                "utile": "useful",
+                "borsa": "bag; purse",
+                "questo": "this",
+                "quello": "that",
+                "sticker": "sticker",
+                "piace": "like",
+                "Ale": "Ale (name)"
+            },
+            "advancedVocab": {
+                "non ci credo": "I don't believe it; I can't believe it (expression of disbelief)",
+                "Brav": "Well done; Good job (shortened form of 'bravo', sometimes used informally)",
+                "spazzolina": "little brush (diminutive form, can refer to a small brush for cleaning or grooming)",
+                "da mettere in borsa": "to put in (your) bag (nuanced: 'borsa' often means handbag/purse in Italian)",
+                "ho preso quello da con gli sticker": "I got the one with the stickers (tricky construction; 'da con' is likely a speech error or informal blending)"
+            }
+        },
+        {
+            "index": 17,
+            "startTimestamp": "00:03:27.519",
+            "endTimestamp": "00:03:34.120",
+            "vocab": {
+                "forse": "maybe; perhaps",
+                "ma": "but",
+                "dico": "I say; I mean (colloquial emphasis)",
+                "c'è": "there is",
+                "la luce": "the light",
+                "in fondo": "at the end; at the bottom",
+                "ci siamo": "we are there; we've made it (colloquial: we're almost there)"
+            },
+            "beginnerVocab": {
+                "forse": "maybe; perhaps",
+                "luce": "light",
+                "fondo": "bottom; end",
+                "ci siamo": "we are here; we made it (note: often used to mean 'we're there' or 'we've arrived)'"
+            },
+            "advancedVocab": {
+                "ma dico forse": "but I mean maybe; but I really mean maybe (emphasizing uncertainty)",
+                "C'è la luce in fondo al": "there is light at the end of the (expression of hope; usually 'light at the end of the tunnel')",
+                "Ci siamo": "we're there; we've made it; we're ready (can mean 'we're at the crucial moment' or 'it's happening now')"
+            }
+        },
+        {
+            "index": 18,
+            "startTimestamp": "00:03:36.400",
+            "endTimestamp": "00:03:42.480",
+            "vocab": {
+                "in mezzo": "in the middle",
+                "non vedeva l'ora": "couldn't wait;was looking forward to (impatience, anticipation)",
+                "comunque": "anyway;however",
+                "c'è": "there is",
+                "veramente": "really;truly",
+                "puzza": "stink;bad smell",
+                "un sos di": "a hint of;a touch of (note: 'sos' is likely dialect or slang for 'soffio' or 'sospiro', meaning 'breath' or 'hint')"
+            },
+            "beginnerVocab": {
+                "mezzo": "middle; midst",
+                "lì": "there",
+                "comunque": "anyway",
+                "c'è": "there is",
+                "puzza": "smell; stink (bad smell)"
+            },
+            "advancedVocab": {
+                "Non vedeva l'ora": "He couldn't wait; She couldn't wait (impatient anticipation, idiom)",
+                "Comunque": "Anyway; In any case (discourse marker)",
+                "puzza": "stink; bad smell (colloquial, stronger than 'odore')",
+                "sos": "SOS; distress signal (can be used figuratively for 'emergency' or 'problem', context-dependent)"
+            }
+        },
+        {
+            "index": 19,
+            "startTimestamp": "00:03:41.319",
+            "endTimestamp": "00:03:56.879",
+            "vocab": {
+                "plastica": "plastic",
+                "secondo me": "in my opinion; I think",
+                "le vostre": "your (plural)",
+                "non l'ho ancora": "I haven't yet",
+                "mangiata": "eaten (feminine)",
+                "allora": "so; then",
+                "già": "already",
+                "questo": "this",
+                "fish": "fish (English loanword)",
+                "porco due": "damn it; for god's sake (strong Italian expletive)",
+                "ma perché": "but why",
+                "ogni volta che": "every time that"
+            },
+            "beginnerVocab": {
+                "plastica": "plastic",
+                "mangiare": "to eat",
+                "ancora": "still; yet",
+                "già": "already",
+                "questo": "this",
+                "pesce": "fish",
+                "ma": "but",
+                "perché": "why; because",
+                "ogni": "every",
+                "volta": "time (as in occurrence)"
+            },
+            "advancedVocab": {
+                "secondo me": "in my opinion; I think",
+                "cic làasch": "unclear (possibly dialect, slang, or mispronunciation; context needed)",
+                "già": "already; actually (can be a discourse marker for emphasis)",
+                "Porco due": "damn; for God's sake (strong Italian expletive, literally 'pig two', used to express frustration or surprise)"
+            }
+        },
+        {
+            "index": 20,
+            "startTimestamp": "00:03:58.079",
+            "endTimestamp": "00:04:14.079",
+            "vocab": {
+                "ma": "but",
+                "che cos'è": "what is it",
+                "eh": "eh; um; well (filler)",
+                "sette": "seven",
+                "allo": "to the; at the (contraction of 'a' + 'lo')",
+                "spinato": "barbed; spiny (could refer to 'barbed wire' or something spiny)",
+                "boh": "I don't know; dunno (expression of uncertainty)",
+                "il mio": "my",
+                "pollo": "chicken",
+                "puzza": "stinks; smells (bad)",
+                "questo": "this",
+                "è": "is",
+                "però": "but; however",
+                "cioè": "that is; I mean (filler)"
+            },
+            "beginnerVocab": {
+                "pollo": "chicken",
+                "puzza": "smells; stinks (note: from 'puzzare', to smell bad)",
+                "sette": "seven",
+                "mio": "my",
+                "che": "what",
+                "cos'è": "what is it"
+            },
+            "advancedVocab": {
+                "Eh": "Well; Uh (discourse marker, expresses hesitation or emphasis)",
+                "sette allo spinato": "seven at the barbed wire (unclear idiom or possibly slang; may refer to a game, score, or situation)",
+                "Boh": "I don't know; Who knows (expression of uncertainty or indifference)",
+                "cioè": "that is; I mean (discourse marker, clarifies or rephrases)"
+            }
+        },
+        {
+            "index": 21,
+            "startTimestamp": "00:04:14.720",
+            "endTimestamp": "00:04:27.199",
+            "vocab": {
+                "buono": "good",
+                "e": "and",
+                "dopo": "after; then",
+                "non so": "I don't know",
+                "quante": "how many",
+                "ore": "hours",
+                "di": "of",
+                "viaggio": "trip; travel; journey",
+                "siamo arrivati": "we arrived; we have arrived",
+                "qua": "here",
+                "sono": "are; it is (time)",
+                "le": "the (feminine plural); (used for telling time)",
+                "di mattina": "in the morning",
+                "quindi": "so; therefore",
+                "in Italia": "in Italy",
+                "per fortuna": "luckily; fortunately",
+                "abbiamo fatto": "we did; we made; we have done"
+            },
+            "beginnerVocab": {
+                "buono": "good",
+                "ore": "hours",
+                "viaggio": "trip; journey; travel",
+                "siamo arrivati": "we arrived",
+                "qua": "here",
+                "mattina": "morning",
+                "Italia": "Italy",
+                "fortuna": "luck; fortune",
+                "abbiamo fatto": "we did; we made"
+            },
+            "advancedVocab": {
+                "E dopo": "And after; Then (discourse marker, signals sequence)",
+                "Per fortuna": "Luckily; Fortunately (discourse marker, expresses relief or good luck)"
+            }
+        },
+        {
+            "index": 22,
+            "startTimestamp": "00:04:25.560",
+            "endTimestamp": "00:04:38.000",
+            "vocab": {
+                "controllare": "to check; to control",
+                "i passaporti": "the passports",
+                "c'erano": "there were",
+                "tutte": "all",
+                "le nostre valigie": "our suitcases",
+                "rosa": "pink",
+                "già": "already",
+                "qui": "here",
+                "basta": "enough; stop",
+                "dai": "come on",
+                "il peggio": "the worst",
+                "è passato": "is over; has passed",
+                "non hai passato": "you didn't pass; you didn't go through",
+                "ti ho detto": "I told you",
+                "quello": "that one; that",
+                "delle term": "of the spa; of the thermal baths (note: 'term' likely short for 'terme')",
+                "ha": "has"
+            },
+            "beginnerVocab": {
+                "controllare": "to check; to control",
+                "passaporti": "passports",
+                "valigie": "suitcases; luggage",
+                "rosa": "pink",
+                "qui": "here",
+                "basta": "enough; stop",
+                "peggio": "worse; worst",
+                "passato": "passed; past",
+                "detto": "said",
+                "quello": "that (one)",
+                "term": "thermal baths; spa (note: 'term' is likely short for 'terme', meaning spa or thermal baths)"
+            },
+            "advancedVocab": {
+                "Basta": "Enough; stop (used to tell someone to stop doing something)",
+                "dai": "come on; go on (encouragement, urging, or softening a command)",
+                "Il peggio è passato": "The worst is over (idiomatic reassurance)",
+                "term": "thermal baths; spa (short for 'terme', can be confusing if not familiar with Italian spa culture)"
+            }
+        },
+        {
+            "index": 23,
+            "startTimestamp": "00:04:36.520",
+            "endTimestamp": "00:04:48.600",
+            "vocab": {
+                "detto che": "said that",
+                "non": "not",
+                "messo": "put; placed",
+                "la carta": "the card",
+                "quindi": "so; therefore",
+                "devo": "I must; I have to",
+                "fare capire": "make (someone) understand; explain",
+                "se": "if",
+                "possiamo": "we can",
+                "entrare": "enter; go in",
+                "ma": "but",
+                "io": "I",
+                "giuro": "I swear",
+                "l'ho": "I have (it)",
+                "entreremo": "we will enter; we'll go in",
+                "cioè": "that is; I mean",
+                "a costo di": "even if it means; at the cost of",
+                "scassinare": "break into; force open",
+                "quella": "that",
+                "porta": "door",
+                "noi": "we",
+                "entro": "I enter; (here: we will enter) (note: 'entro' is used colloquially for emphasis)"
+            },
+            "beginnerVocab": {
+                "carta": "card; paper (note: likely 'card' in context)",
+                "entrare": "to enter",
+                "porta": "door",
+                "giuro": "I swear",
+                "fare": "to do; to make",
+                "capire": "to understand",
+                "messo": "put (past participle of 'mettere')",
+                "scassinare": "to break in; to force open"
+            },
+            "advancedVocab": {
+                "fare capire": "make (someone) understand; get across (meaning: to communicate or clarify something)",
+                "giuro": "I swear (emphatic, to insist on truthfulness)",
+                "a costo di": "even if it means; at the cost of (idiomatic: willing to do something extreme)",
+                "scassinare": "break into; force open (usually refers to breaking into something illegally)",
+                "Cioè": "I mean; that is (discourse marker, used to clarify or emphasize)",
+                "Noi entro": "We (will) get in (truncated/elliptical, informal speech)"
+            }
+        },
+        {
+            "index": 24,
+            "startTimestamp": "00:04:50.320",
+            "endTimestamp": "00:05:07.320",
+            "vocab": {
+                "E che minchia": "What the hell; Damn (vulgar exclamation, expresses frustration or surprise)",
+                "Dai": "Come on; Go on",
+                "prossimo livello": "next level",
+                "Ragazzi": "Guys; Everyone",
+                "ho scelto": "I chose; I have chosen",
+                "Potevo scegliere": "I could choose; I could have chosen",
+                "dove": "where",
+                "nei commenti": "in the comments",
+                "dicono": "they say",
+                "Potrebbe disturbare": "It could disturb; It might bother",
+                "perché": "because",
+                "in piscina": "in the pool",
+                "fanno sempre festa": "they always party; they always have parties",
+                "fino a tardi": "until late"
+            },
+            "beginnerVocab": {
+                "dai": "come on",
+                "prossimo": "next",
+                "livello": "level",
+                "ragazzi": "guys; kids; boys (note: informal address)",
+                "hotel": "hotel",
+                "scegliere": "to choose",
+                "piscina": "swimming pool; pool",
+                "festa": "party",
+                "tardi": "late"
+            },
+            "advancedVocab": {
+                "minchia": "damn; fuck (vulgar expletive, Sicilian origin)",
+                "Dai": "Come on; go on (discourse marker, urging action)",
+                "Mbasa": "Mombasa (city in Kenya, sometimes shortened in Italian speech)"
+            }
+        },
+        {
+            "index": 25,
+            "startTimestamp": "00:05:08.440",
+            "endTimestamp": "00:05:21.880",
+            "vocab": {
+                "guardate": "look (you all)",
+                "che bello": "how beautiful; how nice",
+                "cioè": "that is; I mean",
+                "laggiù": "down there",
+                "ci sono": "there are",
+                "palazzoni": "big buildings; apartment blocks",
+                "qui": "here",
+                "no": "no",
+                "assolutamente": "absolutely",
+                "ci siamo docciati": "we showered",
+                "ma": "but",
+                "scusa": "excuse me; sorry",
+                "sta per": "is about to",
+                "diluviare": "pour (rain heavily)",
+                "eh": "eh; well (filler)",
+                "sì": "yes",
+                "non so": "I don't know",
+                "se": "if",
+                "siamo": "we are",
+                "in Africa": "in Africa"
+            },
+            "beginnerVocab": {
+                "guardate": "look",
+                "bello": "beautiful; nice",
+                "laggiù": "down there; over there",
+                "palazzoni": "big buildings; apartment blocks",
+                "qui": "here",
+                "no": "no",
+                "assolutamente": "absolutely",
+                "docciati": "showered (we showered)",
+                "scusa": "excuse me; sorry",
+                "sta per": "is about to",
+                "diluviare": "pour (rain heavily)",
+                "sì": "yes",
+                "Africa": "Africa"
+            },
+            "advancedVocab": {
+                "Cioè": "I mean; that is (discourse marker)",
+                "palazzoni": "big apartment blocks; tower blocks (augmentative, often negative or neutral)",
+                "Eh": "Well; uh (discourse marker, hesitation)",
+                "sta per diluviare": "it's about to pour; it's about to rain heavily (idiomatic, 'diluviare' = to pour down, from 'deluge')"
+            }
+        },
+        {
+            "index": 26,
+            "startTimestamp": "00:05:20.120",
+            "endTimestamp": "00:05:31.560",
+            "vocab": {
+                "effettivamente": "actually; indeed",
+                "non sembra": "it doesn't seem",
+                "di essere": "to be",
+                "in Africa": "in Africa",
+                "ci sono": "there are; it is (weather/temperature)",
+                "meno 2°": "minus 2 degrees",
+                "però": "but; however",
+                "adesso": "now",
+                "andiamo verso": "we go towards; we head to",
+                "il nostro safari": "our safari",
+                "ci vogliono": "it takes (time required)",
+                "solo": "only",
+                "5 ore e mezza": "five and a half hours"
+            },
+            "beginnerVocab": {
+                "Africa": "Africa",
+                "meno": "minus",
+                "adesso": "now",
+                "andiamo": "we go; let's go",
+                "nostro": "our",
+                "safari": "safari",
+                "ore": "hours",
+                "mezza": "half"
+            },
+            "advancedVocab": {
+                "Effettivamente": "actually; indeed (used to confirm or acknowledge a point)",
+                "ci vogliono": "it takes (impersonal construction; literally 'it wants')"
+            }
+        },
+        {
+            "index": 27,
+            "startTimestamp": "00:05:31.600",
+            "endTimestamp": "00:05:47.160",
+            "vocab": {
+                "ma": "but",
+                "tu": "you",
+                "hai detto": "you said",
+                "ore": "hours",
+                "avevo appena scoperto": "I had just discovered; I just found out",
+                "che": "that",
+                "sono": "are",
+                "guardate": "look; you all look",
+                "cosa": "what; thing",
+                "ci ha dato": "gave us; has given us",
+                "carino": "cute; nice",
+                "fatti vedere": "show yourself; let yourself be seen",
+                "questo": "this",
+                "mercato": "market"
+            },
+            "beginnerVocab": {
+                "hai detto": "you said",
+                "ore": "hours",
+                "appena": "just",
+                "scoperto": "discovered; found out",
+                "guardate": "look; watch (plural command)",
+                "cosa": "thing; what",
+                "ci ha dato": "gave us",
+                "carino": "cute; nice",
+                "fatti vedere": "show yourself; let us see you",
+                "questo": "this",
+                "mercato": "market"
+            },
+            "advancedVocab": {
+                "Avevo appena scoperto": "I had just found out; I had just discovered (note: 'appena' emphasizes recency)",
+                "fatti vedere": "show yourself; let yourself be seen (note: informal imperative, reflexive)",
+                "Carino": "cute; nice (note: can refer to objects or people, context-dependent)"
+            }
+        },
+        {
+            "index": 28,
+            "startTimestamp": "00:05:45.759",
+            "endTimestamp": "00:05:59.639",
+            "vocab": {
+                "c'è scritto": "it says; it's written",
+                "mercati": "markets",
+                "non si può mai andare": "you can never go; one can never go",
+                "perché": "because",
+                "salgono": "they go up; they rise",
+                "ti dice": "tells you; says to you",
+                "fondo": "fund",
+                "ieri": "yesterday",
+                "ho fatto": "I did; I made",
+                "magari": "maybe; perhaps",
+                "compriamo": "we buy; let's buy",
+                "qualcosina": "something small; a little something",
+                "tamburelli": "tambourines",
+                "sono": "are",
+                "stracarini": "super cute; very cute (colloquial, emphatic)"
+            },
+            "beginnerVocab": {
+                "mercati": "markets",
+                "andare": "to go",
+                "comprare": "to buy",
+                "qualcosina": "something small; a little something",
+                "tamburelli": "tambourines",
+                "carini": "cute; nice"
+            },
+            "advancedVocab": {
+                "C'è scritto": "it says; it's written (note: impersonal construction, often used to refer to written or stated rules/instructions)",
+                "t salgono": "they go up (note: 't' is likely a typo or dialectal contraction for 'ti', but contextually unclear; could confuse learners)",
+                "fondo di tassist": "taxi drivers' fund (note: 'tassist' is likely a typo or slang for 'tassisti', meaning taxi drivers)",
+                "Ho fatto un pizzof": "I did a little bit (note: 'pizzof' is not standard Italian; possibly a typo or slang for 'pizzo', meaning 'a bit' or 'a little')",
+                "qualcosina": "a little something; something small (note: diminutive form, adds nuance of smallness or affection)",
+                "stracarini": "super cute; very cute (note: 'stra-' is an intensifier, informal slang)"
+            }
+        },
+        {
+            "index": 29,
+            "startTimestamp": "00:05:59.919",
+            "endTimestamp": "00:06:10.759",
+            "vocab": {
+                "guardate": "look; you all look",
+                "questo": "this",
+                "posto": "place",
+                "incredibile": "incredible",
+                "spero": "I hope",
+                "che": "that",
+                "di": "of; to",
+                "ritrovarlo": "to find it again",
+                "perché": "because",
+                "mi compro": "I buy myself",
+                "già": "already",
+                "tutt'ora": "even now; still",
+                "ma": "but",
+                "non mi sembra il caso": "it doesn't seem appropriate; it doesn't seem the right time (note: idiomatic)",
+                "fatto": "made",
+                "tutto a mano": "all by hand; handmade",
+                "del tipo": "the kind; the type",
+                "che c'è": "that there is",
+                "qua": "here"
+            },
+            "beginnerVocab": {
+                "guardate": "look",
+                "questo": "this",
+                "posto": "place",
+                "incredibile": "incredible;amazing",
+                "mano": "hand",
+                "qua": "here"
+            },
+            "advancedVocab": {
+                "di ritrovarlo": "to find it again; to come across it again (note: 'di' used with 'spero che' is nonstandard, usually 'di' + infinitive or 'che' + subjunctive)",
+                "mi compro già tutt'ora": "I'm already buying myself everything right now (note: 'tutt'ora' is a colloquial contraction of 'tutto ora', meaning 'everything now', and the reflexive 'mi compro' is informal)",
+                "non mi sembra il caso": "it doesn't seem appropriate; it doesn't seem like the right thing to do (note: idiomatic expression meaning 'not suitable' or 'not the right moment')",
+                "del tipo che": "like the kind that; of the sort that (note: colloquial, used to specify a type or example)",
+                "c'è qua": "there is here (note: 'qua' is a colloquial form of 'qui', meaning 'here')"
+            }
+        },
+        {
+            "index": 30,
+            "startTimestamp": "00:06:09.560",
+            "endTimestamp": "00:06:28.919",
+            "vocab": {
+                "fuori": "outside",
+                "ovviamente": "obviously",
+                "c'è": "there is; there are",
+                "pure": "also; too",
+                "figlio": "son; child",
+                "dietro": "behind",
+                "no": "no",
+                "dov'è": "where is",
+                "la mucca": "the cow",
+                "ah": "ah",
+                "eccola": "here she is; there she is",
+                "tenere": "to hold; to keep",
+                "comunque": "anyway; in any case",
+                "siamo arrivati": "we arrived; we have arrived",
+                "svegliato": "woken up",
+                "con": "with"
+            },
+            "beginnerVocab": {
+                "fuori": "outside",
+                "figlio": "son; child (note: literally 'son', but can mean 'child')",
+                "mucca": "cow",
+                "tenere": "to hold",
+                "arrivati": "arrived"
+            },
+            "advancedVocab": {
+                "c'è pure": "there is also; even (emphatic inclusion)",
+                "eccola la": "there it is (note: 'eccola' is feminine, but 'il figlio' is masculine; possible confusion or playful use)",
+                "Tenere": "to hold; tender; cute (note: can be an adjective or verb, context-dependent)",
+                "Comunque": "anyway; in any case (discourse marker)",
+                "sozo": "mess; confusion (slang, regional or nonstandard term)"
+            }
+        },
+        {
+            "index": 31,
+            "startTimestamp": "00:06:34.479",
+            "endTimestamp": "00:06:42.160",
+            "vocab": {
+                "confine": "border; boundary",
+                "tra": "between; among",
+                "non ci credo": "I don't believe it; I can't believe it",
+                "bene": "well; good"
+            },
+            "beginnerVocab": {
+                "confine": "border; boundary",
+                "bene": "good; well; okay"
+            },
+            "advancedVocab": {
+                "Confine": "border; boundary (can refer to a physical or metaphorical limit)",
+                "non ci credo": "I don't believe it; no way (idiomatic disbelief)"
+            }
+        },
+        {
+            "index": 32,
+            "startTimestamp": "00:06:43.280",
+            "endTimestamp": "00:06:55.199",
+            "vocab": {
+                "rimani": "stay",
+                "qua": "here",
+                "adesso": "now",
+                "le zebre": "the zebras",
+                "però": "but; however",
+                "proprio": "really; exactly (emphasis)",
+                "in cili": "(unclear, possibly 'in cielo' meaning 'in the sky', or a mishearing)",
+                "le amo": "I love them",
+                "ho messo paura": "I scared (them); I made (them) afraid",
+                "comunque": "anyway; in any case",
+                "un sacco di": "a lot of; lots of",
+                "rispetto": "respect",
+                "per": "for",
+                "gli elefanti": "the elephants"
+            },
+            "beginnerVocab": {
+                "rimani": "stay",
+                "qua": "here",
+                "adesso": "now",
+                "zebre": "zebras",
+                "amo": "I love",
+                "paura": "fear; scared",
+                "rispetto": "respect",
+                "elefanti": "elephants"
+            },
+            "advancedVocab": {
+                "proprio in cili": "really in heat; really in estrus (animal reproductive state, idiomatic)",
+                "ho messo paura": "I scared (them); I frightened (them) (unusual construction, literally 'I put fear')",
+                "comunque": "anyway; in any case (discourse marker)",
+                "un sacco di": "a lot of; loads of (colloquial, literally 'a sack of')"
+            }
+        },
+        {
+            "index": 33,
+            "startTimestamp": "00:06:53.720",
+            "endTimestamp": "00:07:09.960",
+            "vocab": {
+                "questa": "this",
+                "è": "is",
+                "la reception": "the reception",
+                "del nostro hotel": "of our hotel",
+                "mi ispira molto": "it inspires me a lot; I really like it (feeling inspired/attracted)",
+                "dal nostro hotel": "from our hotel",
+                "guardate": "look; watch (you all)",
+                "che bello": "how beautiful; how nice",
+                "lì": "there",
+                "c'è": "there is",
+                "la piscina": "the pool",
+                "queste sono": "these are",
+                "tutte": "all",
+                "villette": "small villas; cottages",
+                "vai": "go (you)",
+                "Ale": "Ale (name, short for Alessandro/Alessandra)"
+            },
+            "beginnerVocab": {
+                "ok": "ok",
+                "questa": "this (feminine)",
+                "reception": "reception; front desk",
+                "hotel": "hotel",
+                "mi": "me",
+                "molto": "very; a lot",
+                "lì": "there",
+                "piscina": "swimming pool; pool",
+                "queste": "these (feminine)",
+                "tutte": "all (feminine)",
+                "villette": "small villas; cottages",
+                "vai": "go",
+                "guardate": "look (you all)",
+                "bello": "beautiful; nice"
+            },
+            "advancedVocab": {
+                "Mi ispira molto": "It really appeals to me; It inspires me a lot (note: 'ispirare' here means 'to appeal', not just 'to inspire')",
+                "villette": "small villas; cottages (note: diminutive of 'villa', often refers to small detached houses)",
+                "Vai, Ale": "Go, Ale; Come on, Ale (note: 'Vai' as an encouragement or prompt, not just 'go')"
+            }
+        },
+        {
+            "index": 34,
+            "startTimestamp": "00:07:07.919",
+            "endTimestamp": "00:07:24.599",
+            "vocab": {
+                "è": "is; it is",
+                "nostra": "our",
+                "villettina": "small villa; little house",
+                "oh": "oh",
+                "c'è": "there is",
+                "pure": "also; too; even",
+                "la spa": "the spa",
+                "eh": "eh; right? (seeking agreement)",
+                "che": "what; how (exclamatory)",
+                "bellina": "pretty; cute (feminine, diminutive)",
+                "wow": "wow",
+                "bellissima": "very beautiful; gorgeous (feminine)",
+                "bello": "beautiful; nice; great",
+                "qua": "here",
+                "andiamo": "we go; let's go",
+                "sul sicuro": "on the safe side; safely; for sure",
+                "poi": "then; later; also (contextual)",
+                "cosa": "thing; what",
+                "ci": "us; to us; for us (reflexive/indirect object)",
+                "prendiamo": "we take; we get",
+                "patate": "potatoes",
+                "tu": "you",
+                "vuoi": "you want"
+            },
+            "beginnerVocab": {
+                "nostra": "our",
+                "spa": "spa",
+                "bellina": "pretty; cute (diminutive of 'bella')",
+                "bellissima": "very beautiful",
+                "bello": "beautiful; nice; great",
+                "qua": "here",
+                "andiamo": "we go; let's go",
+                "sicuro": "sure; safe",
+                "cosa": "thing; what",
+                "prendiamo": "we take; let's take",
+                "patate": "potatoes",
+                "vuoi": "you want"
+            },
+            "advancedVocab": {
+                "villettina": "small villa; little house (diminutive, affectionate)",
+                "spa": "spa (wellness center; not always present in Italian homes, can be a luxury)",
+                "bellina": "pretty; cute (diminutive, affectionate)",
+                "andiamo sul sicuro": "we play it safe; we can't go wrong (idiom)",
+                "qua": "here (colloquial, less formal than 'qui')"
+            }
+        },
+        {
+            "index": 35,
+            "startTimestamp": "00:07:22.639",
+            "endTimestamp": "00:07:29.879",
+            "vocab": {
+                "lo so": "I know",
+                "non ho ancora": "I haven't yet; not yet",
+                "preso confidenza": "gotten comfortable; gotten used to",
+                "sì": "yes",
+                "ma": "but",
+                "il pollo": "the chicken",
+                "io volevo": "I wanted",
+                "oh": "oh",
+                "questo": "this",
+                "deve essere": "must be; has to be",
+                "buono": "good; tasty (food)",
+                "vuoi?": "do you want?"
+            },
+            "beginnerVocab": {
+                "pollo": "chicken",
+                "buono": "good",
+                "vuoi": "you want; want (informal)",
+                "questo": "this",
+                "io": "I",
+                "sì": "yes",
+                "oh": "oh"
+            },
+            "advancedVocab": {
+                "prendere confidenza": "to get comfortable; to become familiar (with something/someone)",
+                "deve essere buono": "must be good; should be good (expressing assumption or expectation)",
+                "vuoi?": "you want?; do you want? (can also be a discourse marker meaning 'right?' or 'don't you think?')"
+            }
+        },
+        {
+            "index": 36,
+            "startTimestamp": "00:07:29.319",
+            "endTimestamp": "00:07:39.479",
+            "vocab": {
+                "ragazzi": "guys; kids; boys (informal address)",
+                "io": "I",
+                "ho": "I have",
+                "una fatica": "a hard time; difficulty",
+                "a mangiare": "eating; to eat",
+                "non": "not; no",
+                "mangio": "I eat",
+                "spezie": "spices",
+                "niente": "nothing; anything",
+                "questo": "this",
+                "odore": "smell; odor",
+                "mi dà fastidio": "bothers me; annoys me",
+                "il mio": "my",
+                "pranzo": "lunch",
+                "cena": "dinner",
+                "per": "for",
+                "i prossimi": "the next",
+                "10 giorni": "10 days"
+            },
+            "beginnerVocab": {
+                "ragazzi": "guys; kids; boys (informal group address)",
+                "mangiare": "to eat",
+                "niente": "nothing",
+                "odore": "smell; odor",
+                "pranzo": "lunch",
+                "cena": "dinner",
+                "giorni": "days"
+            },
+            "advancedVocab": {
+                "ragazzi": "guys; folks; everyone (informal address, not just 'boys')",
+                "ho una fatica a": "I have a hard time; I struggle to (idiomatic, not literal 'I have a fatigue')",
+                "mi dà fastidio": "it bothers me; it annoys me (nuanced: can refer to discomfort, not just annoyance)"
+            }
+        },
+        {
+            "index": 37,
+            "startTimestamp": "00:07:37.599",
+            "endTimestamp": "00:07:46.680",
+            "vocab": {
+                "se": "if",
+                "mi piace": "I like",
+                "la carne": "the meat",
+                "sennò": "otherwise; if not",
+                "sarà": "it will be",
+                "solo": "only",
+                "riso in bianco": "plain rice (literally: white rice)",
+                "ci": "there; in it (contextual particle)",
+                "messo": "put (past participle)",
+                "lo zucchero": "the sugar",
+                "non ci pensare": "don't think about it; don't worry about it",
+                "sì": "yes",
+                "va bene": "okay; all right",
+                "noi": "we",
+                "portiamo": "we bring; we carry",
+                "le cose": "the things",
+                "dentro": "inside"
+            },
+            "beginnerVocab": {
+                "carne": "meat",
+                "riso": "rice",
+                "bianco": "white (plain)",
+                "zucchero": "sugar",
+                "va bene": "okay; all right",
+                "noi": "we",
+                "portiamo": "we bring; we carry",
+                "cose": "things"
+            },
+            "advancedVocab": {
+                "sennò": "otherwise; if not",
+                "riso in bianco": "plain rice (literally: rice in white; Italian way to say plain boiled rice)",
+                "Non ci pensare": "Don't worry about it; Don't think about it (idiomatic)",
+                "portiamo le cose dentro": "we carry things inside (nuanced: emotionally/internalize things)"
+            }
+        },
+        {
+            "index": 38,
+            "startTimestamp": "00:07:47.520",
+            "endTimestamp": "00:08:03.879",
+            "vocab": {
+                "eh": "eh; well (interjection)",
+                "c'ho": "I have (colloquial contraction of 'ci ho')",
+                "messo": "put",
+                "una bustina di zucchero": "a packet of sugar",
+                "imbevil": "drink it (imperative, dialectal/colloquial)",
+                "no": "no",
+                "regà": "guys; folks (colloquial for 'ragazzi')",
+                "questa qua": "this one (feminine, colloquial)",
+                "del fiume": "from the river",
+                "non è": "is not",
+                "caffè": "coffee",
+                "ve lo dico io": "I'm telling you; I tell you",
+                "carichi": "ready; pumped up (slang, literally 'loaded')",
+                "cambio mezzo": "change vehicle; switch means (of transport)",
+                "gli elefantini": "the little elephants",
+                "un elefantino": "a little elephant",
+                "felicissima": "very happy; super happy",
+                "del tuo": "about yours; of yours"
+            },
+            "beginnerVocab": {
+                "zucchero": "sugar",
+                "caffè": "coffee",
+                "fiume": "river",
+                "elefantini": "little elephants; baby elephants",
+                "elefantino": "little elephant; baby elephant",
+                "musica": "music",
+                "felicissima": "very happy"
+            },
+            "advancedVocab": {
+                "c'ho messo": "I put in (colloquial contraction of 'ci ho messo')",
+                "bustina": "small packet; sachet (note: often refers to single-serve packets, e.g. sugar)",
+                "imbevil": "drink it up (imperative, rare/colloquial form from 'imbèvi', dialectal or playful)",
+                "regà": "guys; folks (Roman/central Italian slang for 'ragazzi')",
+                "questa qua": "this one (emphatic, informal)",
+                "del fiume": "from the river (contextually: river water, possibly implying poor quality)",
+                "carichi": "ready; pumped up (slang, literally 'loaded')",
+                "cambio mezzo": "switch vehicle; change means (of transport) (idiomatic, often used in travel contexts)",
+                "elefantini": "little elephants (diminutive, affectionate or playful)"
+            }
+        },
+        {
+            "index": 39,
+            "startTimestamp": "00:08:03.159",
+            "endTimestamp": "00:08:21.800",
+            "vocab": {
+                "elefantino": "little elephant; baby elephant",
+                "mi viene da piangere": "I feel like crying",
+                "guardate": "look; you all look",
+                "stanno passando": "they are passing",
+                "tutti": "all; everyone",
+                "cioè": "that is; I mean",
+                "non ci muoviamo più": "we're not moving anymore",
+                "sono un sacco": "there are a lot (of them)",
+                "non ci muoveremo più": "we won't move anymore",
+                "ma poi": "but then",
+                "guarda quanti sono": "look how many there are",
+                "no, ragazzi": "no, guys",
+                "mo": "now (colloquial)",
+                "ci attaccano": "they attack us; they're attacking us",
+                "chiudiamo i finestrini": "let's close the windows"
+            },
+            "beginnerVocab": {
+                "elefantino": "baby elephant",
+                "piangere": "to cry",
+                "guardate": "look",
+                "passando": "passing",
+                "muoviamo": "move",
+                "sacco": "a lot; a sack (here: a lot)",
+                "guarda": "look",
+                "ragazzi": "guys; kids",
+                "attaccano": "attack",
+                "chiudiamo": "let's close",
+                "finestrini": "windows (car windows)"
+            },
+            "advancedVocab": {
+                "Mi viene da piangere": "I feel like crying; I'm about to cry (literally: crying comes to me)",
+                "Cioè": "I mean; that is (discourse marker, filler)",
+                "un sacco": "a lot; loads (colloquial, literally: a sack)",
+                "mo": "now (slang, short for 'adesso' or 'ora', regional)",
+                "ci attaccano": "they're going to attack us; they're attacking us (literally: they attack us)",
+                "Chiudiamo i finestrini": "Let's close the windows (car windows; culturally specific to cars)"
+            }
+        },
+        {
+            "index": 40,
+            "startTimestamp": "00:08:22.759",
+            "endTimestamp": "00:08:29.919",
+            "vocab": {
+                "sono": "they are; it is (from 'essere')",
+                "le": "the (feminine plural definite article; used for telling time)",
+                "adesso": "now",
+                "andiamo": "we go; let's go",
+                "a fare": "to do; to make",
+                "il": "the (masculine singular definite article)",
+                "nostro": "our",
+                "secondo": "second",
+                "safari": "safari"
+            },
+            "beginnerVocab": {
+                "sono": "they are; it is",
+                "le": "the (feminine plural)",
+                "adesso": "now",
+                "andiamo": "we go; let's go",
+                "fare": "to do; to make",
+                "nostro": "our",
+                "secondo": "second (order)",
+                "safari": "safari"
+            },
+            "advancedVocab": {
+                "andiamo a fare": "let's go do; we're going to do (note: common Italian construction for 'let's go and do')",
+                "safari": "safari (note: borrowed word, but may have different connotations or usage in Italian)"
+            }
+        },
+        {
+            "index": 41,
+            "startTimestamp": "00:08:30.840",
+            "endTimestamp": "00:08:50.280",
+            "vocab": {
+                "di culo": "by luck; by chance (literally 'by ass', slang for luck)",
+                "girarmi": "turn myself; turn around",
+                "va": "goes; works; is okay",
+                "ragazzi": "guys; kids; everyone (informal address)",
+                "stanno per": "they are about to",
+                "cappottare": "to flip over; to overturn (usually a vehicle)",
+                "comunque": "anyway; however",
+                "loro": "they; them",
+                "sempre": "always; still",
+                "stasera": "tonight; this evening",
+                "non ho capito": "I didn't understand; I don't get it",
+                "perché": "why; because",
+                "è": "is",
+                "gialle": "yellow (feminine plural; likely a mistake for 'gialla')",
+                "quindi": "so; therefore",
+                "donna": "woman",
+                "cosa dice?": "what does (he/she/it) say?; what is (he/she/it) saying?"
+            },
+            "beginnerVocab": {
+                "ragazzi": "guys; boys; children",
+                "stanno": "they are (from 'stare')",
+                "stasera": "tonight",
+                "donna": "woman",
+                "musica": "music"
+            },
+            "advancedVocab": {
+                "di culo": "by luck; by chance (literally 'by ass', slang for luck)",
+                "cappottare": "to flip over; to overturn (slang, often for cars or vehicles)",
+                "comunque": "anyway; however (discourse marker, can be tricky in conversation)"
+            }
+        },
+        {
+            "index": 42,
+            "startTimestamp": "00:08:51.279",
+            "endTimestamp": "00:09:03.720",
+            "vocab": {
+                "questo": "this",
+                "probabilmente": "probably",
+                "sarà": "will be",
+                "nostro": "our",
+                "ultimo": "last",
+                "video": "video",
+                "sta": "is (third person singular of 'stare')",
+                "andata": "gone; going (feminine singular past participle)",
+                "alle": "to the (feminine plural)",
+                "safari notturno": "night safari",
+                "macchina": "car; vehicle",
+                "completamente": "completely",
+                "aperta": "open (feminine singular)",
+                "ci": "us; to us",
+                "han detto": "they told (us)",
+                "metterci": "put ourselves; sit (ourselves)",
+                "dietro": "behind",
+                "perché": "because",
+                "davanti": "in front",
+                "stanno": "are (they are)",
+                "quelli": "those (people)",
+                "col": "with the",
+                "fucile": "rifle; gun"
+            },
+            "beginnerVocab": {
+                "video": "video",
+                "macchina": "car",
+                "aperta": "open",
+                "dietro": "behind",
+                "davanti": "in front",
+                "fucile": "rifle; gun"
+            },
+            "advancedVocab": {
+                "sta andata": "she went; (nonstandard, regional or colloquial for 'è andata')",
+                "safari notturno": "night safari",
+                "metterci dietro": "put ourselves in the back; (sit/go in the back)",
+                "quelli col fucile": "those with the rifle; (the armed guards/rangers)"
+            }
+        },
+        {
+            "index": 43,
+            "startTimestamp": "00:09:01.320",
+            "endTimestamp": "00:09:12.959",
+            "vocab": {
+                "Boh": "I don't know; who knows (expression of uncertainty)",
+                "io": "I",
+                "non": "not",
+                "mi meritavo": "I deserved",
+                "questa fine": "this end; this fate",
+                "ragazzi": "guys; everyone (addressing a group)",
+                "i nostri": "our",
+                "elefantini": "little elephants (diminutive of elephants)",
+                "ci danno": "give us",
+                "gioie": "joys; happiness",
+                "No, vabbè": "No, well; come on (expression of resignation or emphasis)",
+                "questa": "this",
+                "è": "is",
+                "una scena": "a scene",
+                "stupenda": "wonderful; amazing"
+            },
+            "beginnerVocab": {
+                "io": "I",
+                "ragazzi": "guys; kids (note: informal address)",
+                "elefantini": "little elephants",
+                "gioie": "joys",
+                "scena": "scene"
+            },
+            "advancedVocab": {
+                "Boh": "I don't know; who knows (expression of uncertainty or indifference)",
+                "non mi meritavo": "I didn't deserve (nuanced reflexive construction)",
+                "elefantini": "little elephants (diminutive, possibly affectionate or metaphorical)",
+                "ci danno gioie": "give us joy; bring us happiness (colloquial, 'ci' as 'to us')",
+                "No, vabbè": "No, well; come on (discourse marker, expresses resignation or emphasis)",
+                "scena stupenda": "amazing scene; wonderful scene (stupenda is stronger than 'beautiful', more like 'stunning')"
+            }
+        },
+        {
+            "index": 44,
+            "startTimestamp": "00:09:13.880",
+            "endTimestamp": "00:09:30.200",
+            "vocab": {
+                "ma infatti": "but actually; in fact (emphasizing agreement or confirmation)",
+                "siamo": "we are",
+                "troppo": "too; too much",
+                "vicini": "close; near",
+                "eh": "right?; huh? (seeking agreement or confirmation)",
+                "non rompere": "don't bother; don't be annoying",
+                "dai": "come on; go on (encouragement or urging)",
+                "siamo bloccati": "we are stuck",
+                "davanti": "in front",
+                "ce l'abbiam fatta": "we made it; we did it",
+                "pensavo": "I thought",
+                "morire": "to die",
+                "per": "for",
+                "secondi": "seconds",
+                "tu": "you",
+                "siamo morti": "we died"
+            },
+            "beginnerVocab": {
+                "no": "no",
+                "ma": "but",
+                "siamo": "we are",
+                "troppo": "too; too much",
+                "vicini": "close; near",
+                "non": "not",
+                "rompere": "break; bother (note: here means 'don't bother')",
+                "dai": "come on",
+                "bloccati": "stuck; blocked",
+                "davanti": "in front",
+                "pensavo": "I thought",
+                "morire": "to die",
+                "secondi": "seconds",
+                "tu": "you",
+                "fatta": "done; made (note: here means 'we did it')"
+            },
+            "advancedVocab": {
+                "infatti": "in fact; actually (discourse marker, often used for emphasis or agreement)",
+                "non rompere": "don't be a pain; don't bother me (slang, literally 'don't break')",
+                "dai": "come on; go on (colloquial particle for encouragement or urging)",
+                "ce l'abbiam fatta": "we made it; we did it (idiomatic, literally 'we have done it')"
+            }
+        }
+    ],
+    "topics": [
+        "travel vlog",
+        "road trip",
+        "flight delays",
+        "paris travel",
+        "shopping haul",
+        "safari adventure",
+        "wildlife photography",
+        "hotel review",
+        "night safari",
+        "travel tips"
+    ]
+}

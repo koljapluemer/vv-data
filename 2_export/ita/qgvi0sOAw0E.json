@@ -1,0 +1,944 @@
+{
+    "videoId": "qgvi0sOAw0E",
+    "language": {
+        "iso3": "ita",
+        "subtitleLanguage": "it",
+        "humanReadable": "Italian"
+    },
+    "segments": [
+        {
+            "index": 1,
+            "startTimestamp": "00:00:13.540",
+            "endTimestamp": "00:00:28.980",
+            "vocab": {
+                "forzata": "forced",
+                "acquisti": "purchases; buys",
+                "ultim'ora": "last minute; breaking (news)",
+                "sorta di": "sort of; kind of",
+                "in difesa": "in defense (soccer position)",
+                "a centrocampo": "in midfield (soccer position)",
+                "davanti": "in front; forward (soccer position)"
+            },
+            "beginnerVocab": {
+                "acquisti": "purchases; shopping",
+                "difesa": "defense",
+                "busta": "envelope",
+                "centrocampo": "midfield",
+                "davanti": "in front; forward"
+            },
+            "advancedVocab": {
+                "forzata da acquisti dell'ultim'ora": "forced by last-minute purchases (note: refers to sudden, possibly unplanned changes to a lineup or team)",
+                "sorta di": "sort of; kind of",
+                "in difesa": "in defense (note: sports context, refers to defensive position)",
+                "a centrocampo": "in midfield (note: sports context, refers to midfield position)",
+                "davanti": "up front; in attack (note: sports context, refers to forward/attacking position)"
+            }
+        },
+        {
+            "index": 2,
+            "startTimestamp": "00:00:26.910",
+            "endTimestamp": "00:00:40.199",
+            "vocab": {
+                "supercoppia": "super couple; super duo",
+                "scudetto": "championship (soccer); league title",
+                "roma": "Rome (the soccer team)",
+                "del": "of the",
+                "2001": "2001",
+                "totti": "Totti (player's name)",
+                "batistuta": "Batistuta (player's name)",
+                "motociclismo": "motorcycling",
+                "formula 1": "Formula 1",
+                "in porta": "in goal; as goalkeeper",
+                "c'è": "there is",
+                "stefano domenicali": "Stefano Domenicali (person's name)",
+                "che": "who; that",
+                "il presidente": "the president"
+            },
+            "beginnerVocab": {
+                "supercoppia": "super couple",
+                "scudetto": "championship (soccer)",
+                "roma": "Rome (city; soccer team)",
+                "totti": "Totti (person's name)",
+                "batistuta": "Batistuta (person's name)",
+                "motociclismo": "motorcycling",
+                "formula 1": "Formula 1 (car racing)",
+                "porta": "goal (soccer)",
+                "presidente": "president"
+            },
+            "advancedVocab": {
+                "supercoppia": "super couple; dream team (often used for famous or highly effective duos, especially in sports or entertainment)",
+                "scudetto": "championship title (specifically the Serie A Italian football league title)",
+                "in porta": "in goal; as goalkeeper (literally 'in the goal', but can also mean 'in charge' metaphorically in some contexts)"
+            }
+        },
+        {
+            "index": 3,
+            "startTimestamp": "00:00:37.680",
+            "endTimestamp": "00:01:05.269",
+            "vocab": {
+                "della": "of the",
+                "poi": "then; next",
+                "in difesa": "in defense",
+                "ci sono": "there are",
+                "ecco": "here is; here are",
+                "a sinistra": "on the left",
+                "c'è": "there is",
+                "gli altri": "the others",
+                "giocatori": "players",
+                "a centrocampo": "in midfield",
+                "in attacco": "in attack",
+                "e ancora": "and again; and also"
+            },
+            "beginnerVocab": {
+                "difesa": "defense",
+                "difensori centrali": "central defenders",
+                "sinistra": "left",
+                "giocatori": "players",
+                "centrocampo": "midfield",
+                "attacco": "attack"
+            },
+            "advancedVocab": {
+                "difensori centrali": "central defenders",
+                "a sinistra": "on the left (in a sports lineup)",
+                "centrocampo": "midfield",
+                "in attacco": "in attack; as forwards (sports context)"
+            }
+        },
+        {
+            "index": 4,
+            "startTimestamp": "00:01:09.409",
+            "endTimestamp": "00:01:24.210",
+            "vocab": {
+                "ma": "but",
+                "tutto rispetto": "all respect",
+                "grazie a": "thanks to; because of",
+                "c'è da sempre": "has always been there; has always existed",
+                "quindi": "so; therefore",
+                "è cominciata": "has started; began",
+                "la sfida": "the challenge; the match",
+                "manovra": "maneuvers; moves (sports context)",
+                "proprio": "exactly; just; really (emphasis)",
+                "il triangolo": "the triangle (soccer tactic)",
+                "c'è spazio per": "there is space for; there is room for"
+            },
+            "beginnerVocab": {
+                "grazie": "thank you; thanks",
+                "sfida": "challenge",
+                "manovra": "maneuver; move",
+                "spazio": "space",
+                "proprio": "really; exactly; just (emphasis)",
+                "c'è": "there is; there exists"
+            },
+            "advancedVocab": {
+                "tutto rispetto": "all due respect; with all respect (discourse marker, polite emphasis)",
+                "mina": "bomb; explosive (here, likely metaphorical for something powerful or impressive)",
+                "manovra": "maneuver; play (sports context, refers to coordinated action)",
+                "triangolo": "triangle (in soccer, a passing play involving three players)",
+                "c'è spazio per": "there is room for; there is space for (nuanced, means opportunity or opening)"
+            }
+        },
+        {
+            "index": 5,
+            "startTimestamp": "00:01:22.049",
+            "endTimestamp": "00:01:35.520",
+            "vocab": {
+                "sul filo del fuorigioco": "on the offside line; on the edge of offside",
+                "la finta": "the feint; the fake (in sports)",
+                "viene incontro": "comes towards; comes to meet",
+                "non si intende": "does not understand each other; are not on the same page",
+                "finge": "pretends; fakes",
+                "infortunio": "injury",
+                "che non c'è": "that isn't there; that doesn't exist",
+                "perché": "because",
+                "non c'è stato": "there was not; there hasn't been",
+                "alcun contatto": "any contact"
+            },
+            "beginnerVocab": {
+                "sul filo": "on the line",
+                "fuorigioco": "offside",
+                "finta": "feint; fake (sports move)",
+                "viene": "comes",
+                "incontro": "towards; meeting",
+                "non": "not",
+                "intende": "understands; means",
+                "finge": "pretends",
+                "infortunio": "injury",
+                "contatto": "contact"
+            },
+            "advancedVocab": {
+                "sul filo del fuorigioco": "on the offside line; on the edge of offside (soccer jargon)",
+                "la finta": "the feint; the fake (sports move)",
+                "viene incontro": "comes toward; comes to meet (can be confusing in context)",
+                "non si intende": "doesn't understand each other; are not on the same page (idiomatic, about lack of coordination)",
+                "finge un infortunio": "fakes an injury; pretends to be injured",
+                "che non c'è": "that isn't there; that doesn't exist (nuanced negation)",
+                "alcun contatto": "any contact (formal/nuanced phrasing)"
+            }
+        },
+        {
+            "index": 6,
+            "startTimestamp": "00:01:33.840",
+            "endTimestamp": "00:01:46.920",
+            "vocab": {
+                "detto di": "said to; said that (reported speech)",
+                "avere": "to have",
+                "una certa": "a certain; some (degree of)",
+                "confidenza con": "familiarity with; confidence with",
+                "gioco del calcio": "game of soccer; football",
+                "infatti": "in fact; indeed",
+                "solo davanti a": "alone in front of; only in front of",
+                "doppio passo": "double step; step-over (soccer move)",
+                "si salva": "saves himself; is saved; manages to save",
+                "ancora": "again; still",
+                "calcio d'angolo": "corner kick (soccer)",
+                "all'ordine": "to the order; at the order (context-dependent)",
+                "che stiamo": "that we are (incomplete phrase)"
+            },
+            "beginnerVocab": {
+                "gioco": "game; play (noun)",
+                "calcio": "soccer; football",
+                "solo": "alone; only",
+                "davanti": "in front (of)",
+                "doppio": "double",
+                "passo": "step",
+                "si salva": "saves himself; saves (reflexive verb)",
+                "calcio d'angolo": "corner kick",
+                "ordine": "order"
+            },
+            "advancedVocab": {
+                "confidenza con il gioco": "familiarity with the game; confidence with the game (note: 'confidenza' can mean both 'familiarity' and 'confidence', and is often used differently than in English)",
+                "pesca": "finds; picks out (note: in sports commentary, 'pescare' can mean to pick out or find a teammate with a pass)",
+                "doppio passo": "step-over (note: a soccer dribbling move)",
+                "calcio d'angolo": "corner kick"
+            }
+        },
+        {
+            "index": 7,
+            "startTimestamp": "00:01:45.479",
+            "endTimestamp": "00:02:01.890",
+            "vocab": {
+                "cercando di": "trying to",
+                "fare": "do; make",
+                "consentimi di": "allow me to; let me",
+                "ringraziare": "thank",
+                "super gol": "super goal",
+                "tirato da vicino": "shot from close (range)",
+                "ma": "but",
+                "adesso": "now",
+                "da lontano": "from far (away)",
+                "palla": "ball",
+                "è andata": "went; has gone",
+                "là": "there",
+                "non si prende": "can't be caught; can't be taken",
+                "ragazzi": "guys; everyone (addressing group)",
+                "che smacco": "what a blow; what a humiliation",
+                "perché": "because; why",
+                "lo squadrone": "the big team; the strong team",
+                "da battere": "to beat; to defeat"
+            },
+            "beginnerVocab": {
+                "cercando": "trying",
+                "fare": "to do; to make",
+                "ringraziare": "to thank",
+                "gol": "goal",
+                "tirato": "shot; kicked; thrown (note: from 'tirare')",
+                "vicino": "near; close",
+                "adesso": "now",
+                "lontano": "far; distant",
+                "palla": "ball",
+                "ragazzi": "guys; boys; kids",
+                "squadra": "team"
+            },
+            "advancedVocab": {
+                "consentimi di ringraziare": "allow me to thank",
+                "super gol": "amazing goal;superb goal (sports slang)",
+                "tirato da vicino": "shot from close range",
+                "tirato da lontano": "shot from far away",
+                "che smacco": "what a blow;what a humiliation (nuanced, strong disappointment)",
+                "lo squadrone da battere": "the team to beat (sports idiom)"
+            }
+        },
+        {
+            "index": 8,
+            "startTimestamp": "00:02:00.450",
+            "endTimestamp": "00:02:13.230",
+            "vocab": {
+                "era": "was",
+                "quello": "that one; that",
+                "della": "of the",
+                "nazionale": "national",
+                "cantanti": "singers",
+                "vediamo": "let's see",
+                "se": "if; whether",
+                "recupero": "recovery; get back",
+                "manda a vuoto": "sends off target; misses (sports context)",
+                "cross": "cross (sports pass)",
+                "lascia sfilare": "lets go by; lets pass",
+                "controllo": "control",
+                "pensa": "thinks",
+                "al tiro": "about the shot; to shoot",
+                "ma": "but",
+                "mia": "mine"
+            },
+            "beginnerVocab": {
+                "nazionale": "national team",
+                "cantanti": "singers",
+                "vediamo": "let's see",
+                "manda": "send",
+                "vuoto": "empty",
+                "controllo": "control",
+                "pensa": "think",
+                "tiro": "shot"
+            },
+            "advancedVocab": {
+                "manda a vuoto": "sends (someone) the wrong way; fakes out (sports idiom)",
+                "lascia sfilare": "lets (someone/something) go by; lets pass (sports idiom)",
+                "nazionale cantanti": "Italian Singers' National Team (culturally specific: charity football team)",
+                "recupero": "recovery; regains possession (sports context)",
+                "cross": "cross (soccer term: a pass across the field)",
+                "controllo": "first touch; ball control (soccer context)"
+            }
+        },
+        {
+            "index": 9,
+            "startTimestamp": "00:02:11.190",
+            "endTimestamp": "00:02:28.880",
+            "vocab": {
+                "moglie": "wife",
+                "di": "of; from",
+                "vero": "true; right? (confirmation particle)",
+                "che": "that; what",
+                "vi": "you (formal); there",
+                "ci siamo": "we are (here/there); we're almost (there) (idiom: 'we're almost there')",
+                "quasi": "almost",
+                "in casa": "at home; in the house",
+                "san giovanni": "Saint John (proper name/place)",
+                "è": "is",
+                "solo": "only; just",
+                "il pareggio": "the tie; the draw (sports)",
+                "dei": "of the; some",
+                "cantanti": "singers",
+                "appena": "just; as soon as",
+                "uscito": "gone out; left",
+                "della": "of the",
+                "musica": "music",
+                "americana": "American",
+                "o": "or",
+                "farlo": "do it; make it",
+                "che cos'ha": "what does (it/he/she) have",
+                "di speciale": "special; of special (about something)",
+                "un gran": "a great; a big"
+            },
+            "beginnerVocab": {
+                "moglie": "wife",
+                "casa": "house; home",
+                "san": "saint (note: used in names, e.g., San Giovanni)",
+                "giovanni": "John (note: common male name)",
+                "cantanti": "singers",
+                "uscito": "gone out; exited",
+                "musica": "music",
+                "americana": "American (feminine form)",
+                "fare": "to do; to make",
+                "speciale": "special",
+                "gran": "great; big (short form of 'grande')"
+            },
+            "advancedVocab": {
+                "moglie di monza": "wife of Monza (reference to 'La Monaca di Monza', a literary/cultural figure)",
+                "vi ci siamo quasi": "we're almost there (emphatic, colloquial construction)",
+                "pareggio": "tie; draw (sports or competition context)",
+                "appena è uscito": "as soon as he came out; just released (nuanced timing)",
+                "domenicali": "Sunday-related; Domenicali (surname, could refer to a person)",
+                "che cos'ha di speciale": "what's special about it (nuanced inquiry)"
+            }
+        },
+        {
+            "index": 10,
+            "startTimestamp": "00:02:26.930",
+            "endTimestamp": "00:02:37.370",
+            "vocab": {
+                "premio": "prize; award",
+                "non solo": "not only",
+                "appassionati": "fans; enthusiasts",
+                "formula 1": "Formula 1",
+                "rappresenta": "represents",
+                "qualcosa di unico": "something unique",
+                "storia": "history",
+                "nostro paese": "our country",
+                "ha menato": "has led; has brought (note: 'menare' can mean 'to lead' or 'to hit', but here likely 'to lead')",
+                "rimasto": "remained; stayed"
+            },
+            "beginnerVocab": {
+                "premio": "prize; award",
+                "noi": "we; us",
+                "formula 1": "Formula 1 (racing)",
+                "storia": "history; story",
+                "paese": "country",
+                "rimasto": "remained; stayed"
+            },
+            "advancedVocab": {
+                "appassionati di formula 1": "Formula 1 enthusiasts; Formula 1 fans",
+                "qualcosa di unico": "something unique; something one-of-a-kind",
+                "ha menato": "beat up; hit; (slang, can mean 'to hit' or 'to attack', context-dependent)"
+            }
+        },
+        {
+            "index": 11,
+            "startTimestamp": "00:02:35.630",
+            "endTimestamp": "00:02:51.640",
+            "vocab": {
+                "terra": "ground; earth",
+                "dolorante": "in pain; aching",
+                "per un po": "for a while",
+                "poi": "then; afterwards",
+                "si è rialzato": "got up again; stood up again",
+                "abbiamo rivisto": "we saw again; we reviewed",
+                "replay": "replay",
+                "tanto": "so much; a lot",
+                "serie di giocate": "series of plays",
+                "di roma": "of Roma (the team)",
+                "che dimostra": "which shows; which demonstrates",
+                "tecnica insospettabile": "unexpected technique",
+                "destro": "right (foot); right-handed",
+                "para": "saves (goalkeeper action)",
+                "in due tempi": "in two stages; in two times",
+                "si fa": "becomes; makes himself",
+                "fiale": "vial; ampoule (note: likely a mishearing or typo in context)"
+            },
+            "beginnerVocab": {
+                "terra": "ground; earth",
+                "dolorante": "sore; in pain",
+                "po": "a bit; a little",
+                "rialzato": "got up; stood up",
+                "abbiamo": "we have",
+                "giocate": "plays; moves (sports)",
+                "tecnica": "technique",
+                "destro": "right (direction; hand/foot)",
+                "para": "saves (goalkeeper action)",
+                "tempi": "times; halves (sports)",
+                "si fa": "does; makes (reflexive)",
+                "serie": "series; sequence",
+                "replay": "replay"
+            },
+            "advancedVocab": {
+                "dolorante": "aching; in pain",
+                "rialzato": "got back up; stood up again (note: reflexive verb 'rialzarsi', not just 'alzare')",
+                "tanto serie di giocate": "such a series of plays (note: 'tanto' as intensifier, not just 'so much')",
+                "insospettabile": "unexpected; unsuspected (note: nuance of surprise)",
+                "para in due tempi": "saves in two stages; saves in two attempts (note: soccer/goalkeeper jargon)",
+                "si fa fiale": "gets vials; makes vials (note: unclear, possibly idiomatic or a mishearing, not standard usage)"
+            }
+        },
+        {
+            "index": 12,
+            "startTimestamp": "00:02:49.960",
+            "endTimestamp": "00:03:11.060",
+            "vocab": {
+                "quanti": "how many",
+                "gol": "goals",
+                "seduta": "sitting; session (here: sitting protest)",
+                "protesta": "protest",
+                "invano": "in vain",
+                "per": "for; because of",
+                "fuorigioco": "offside",
+                "che non c'era": "that wasn't there; that didn't exist (note: refers to a non-existent offside)",
+                "parlare": "to speak; to talk",
+                "campo": "field; pitch",
+                "eccola qua": "here it is",
+                "palla": "ball",
+                "guardo": "I look; I watch",
+                "ancora": "again; still",
+                "di tutto": "of everything; about everything",
+                "in piedi": "standing"
+            },
+            "beginnerVocab": {
+                "gol": "goal",
+                "seduta": "sitting; session (note: usually 'sitting')",
+                "parlare": "to speak; to talk",
+                "campo": "field; pitch",
+                "palla": "ball",
+                "guardo": "I look; I watch",
+                "in piedi": "standing"
+            },
+            "advancedVocab": {
+                "seduta protesta": "sit-in protest (demonstration by sitting down)",
+                "invano": "in vain; unsuccessfully",
+                "fuorigioco che non c'era": "offside that wasn't (offside incorrectly called; offside that did not exist)",
+                "parlare il campo": "let the field speak (let the game/results speak for themselves)",
+                "di tutto in piedi dalla": "everything standing from (fragment; possibly idiomatic or truncated, context-dependent)"
+            }
+        },
+        {
+            "index": 13,
+            "startTimestamp": "00:03:09.290",
+            "endTimestamp": "00:03:27.400",
+            "vocab": {
+                "panchina": "bench",
+                "cantanti": "singers",
+                "area tecnica": "technical area",
+                "ovviamente": "obviously",
+                "incantato": "enchanted; amazed",
+                "tutto il tempo": "all the time; plenty of time",
+                "recuperare": "recover; catch up",
+                "certo": "of course; certainly",
+                "avanza": "advances; moves forward",
+                "palla al piede": "ball at (his) feet",
+                "gran palla": "great ball; great pass",
+                "per": "for; to",
+                "culto": "cult; worship (note: may be a name or nickname here)"
+            },
+            "beginnerVocab": {
+                "panchina": "bench",
+                "cantanti": "singers",
+                "area tecnica": "technical area",
+                "tempo": "time",
+                "recuperare": "recover",
+                "avanza": "advance; move forward",
+                "palla": "ball",
+                "piede": "foot",
+                "prove": "tests; tries",
+                "gran": "great; big"
+            },
+            "advancedVocab": {
+                "panchina dei cantanti": "singers' bench (unusual, likely a playful or figurative use)",
+                "area tecnica": "technical area (sports term, soccer field zone)",
+                "incantato": "enchanted; mesmerized (nuanced, not literal magic)",
+                "avanza palla al piede": "advances with the ball at his feet (soccer jargon)",
+                "gran palla": "great pass; great ball (sports slang)",
+                "culto": "cult; worship (can mean 'cult status', nuanced)",
+                "votantonio": "vote Antonio (cultural reference, Italian political slogan)"
+            }
+        },
+        {
+            "index": 14,
+            "startTimestamp": "00:03:27.850",
+            "endTimestamp": "00:03:35.380",
+            "vocab": {
+                "al posto": "in place; instead",
+                "intanto": "meanwhile; in the meantime"
+            },
+            "beginnerVocab": {
+                "al posto": "in place; instead",
+                "intanto": "meanwhile"
+            },
+            "advancedVocab": {
+                "al posto": "in place; instead (context-dependent)",
+                "intanto": "meanwhile; in the meantime"
+            }
+        },
+        {
+            "index": 15,
+            "startTimestamp": "00:03:35.530",
+            "endTimestamp": "00:03:55.069",
+            "vocab": {
+                "povero di": "poor in; lacking in",
+                "dida": "caption; subtitle (context: abbreviation for didascalia)",
+                "segna": "scores",
+                "prova a": "tries to",
+                "consolare": "to console",
+                "connazionale": "fellow countryman",
+                "eccola": "here it is; there it is (feminine)",
+                "braccia": "arms",
+                "dei due": "of the two",
+                "l'avrà fatto apposta": "did she do it on purpose; she must have done it on purpose",
+                "lei": "she",
+                "non lo mettono": "they don't put him; they don't let him in",
+                "dove vieni": "where are you from",
+                "torce": "twists",
+                "il mondo": "the world",
+                "ci si può discutere": "one can discuss it; it can be discussed",
+                "ma": "but"
+            },
+            "beginnerVocab": {
+                "povero": "poor",
+                "segna": "scores; marks (from 'segnare', to score/mark)",
+                "prova": "tries; attempts",
+                "consolare": "to console; to comfort",
+                "braccia": "arms",
+                "due": "two",
+                "dove": "where",
+                "vieni": "come (from 'venire', to come)",
+                "mondo": "world",
+                "questo": "this"
+            },
+            "advancedVocab": {
+                "povero di dida": "poor Dida; poor guy Dida (expression of sympathy, sometimes ironic)",
+                "connazionale": "fellow countryman; compatriot",
+                "l'avrà fatto apposta": "she/he/they must have done it on purpose (nuanced speculation, idiomatic)",
+                "ci si può discutere": "one can debate this; this is debatable (impersonal construction)",
+                "torce il mondo": "twists the world (unusual, possibly idiomatic or metaphorical)"
+            }
+        },
+        {
+            "index": 16,
+            "startTimestamp": "00:03:52.640",
+            "endTimestamp": "00:04:06.790",
+            "vocab": {
+                "anche": "also; even",
+                "sabbatico": "sabbatical",
+                "per niente": "not at all",
+                "poi": "then; later",
+                "molto": "very; much",
+                "amato": "loved",
+                "dalle": "by the (feminine plural)",
+                "fans": "fans",
+                "a farfalla": "butterfly-like; in a butterfly way (note: literally 'like a butterfly')",
+                "nella": "in the (feminine singular)",
+                "testa": "head",
+                "cross": "cross (sports move)",
+                "salvataggio": "rescue; save",
+                "miracolosa": "miraculous",
+                "di": "of",
+                "segreto": "secret",
+                "per": "for; to",
+                "traliccio": "pylon; framework"
+            },
+            "beginnerVocab": {
+                "amato": "loved",
+                "fans": "fans",
+                "farfalla": "butterfly",
+                "testa": "head",
+                "salvataggio": "rescue; saving",
+                "miracolosa": "miraculous",
+                "segreto": "secret"
+            },
+            "advancedVocab": {
+                "sabbatico": "sabbatical (can mean a break, often from work; not always religious)",
+                "a farfalla nella testa": "butterfly in the head (idiom; means scatterbrained or dreamy)",
+                "cross": "cross (sports term; a pass in soccer/football)",
+                "salvataggio miracolosa": "miraculous save (sports or dramatic rescue)",
+                "traliccio": "pylon; lattice tower (structure for power lines or similar)"
+            }
+        },
+        {
+            "index": 17,
+            "startTimestamp": "00:04:05.690",
+            "endTimestamp": "00:04:25.790",
+            "vocab": {
+                "portiere": "goalkeeper",
+                "moderno": "modern",
+                "anni": "years",
+                "senso": "sense; meaning",
+                "spirito": "spirit",
+                "partite": "matches; games",
+                "belle": "beautiful; great",
+                "diamoli": "let's give them",
+                "contiamoli": "let's count them",
+                "meno di": "less than",
+                "treni": "trains",
+                "sono": "are",
+                "pass": "pass (as in a ticket or permit)",
+                "parcheggio": "parking",
+                "spia": "spy"
+            },
+            "beginnerVocab": {
+                "portiere": "goalkeeper",
+                "anni": "years",
+                "questo": "this",
+                "partite": "matches;games",
+                "belle": "beautiful;nice",
+                "treni": "trains",
+                "parcheggio": "parking",
+                "spia": "spy"
+            },
+            "advancedVocab": {
+                "portiere moderno": "modern goalkeeper",
+                "il senso": "the meaning; the sense",
+                "lo spirito": "the spirit",
+                "diamoli": "let's give them; let's count them (context-dependent imperative)",
+                "contiamoli": "let's count them",
+                "treni": "trains (can be slang for fast attacks in football)",
+                "il 555 di oronzo canà": "the 5-5-5 of Oronzo Canà (reference to a fictional football tactic/coach in Italian pop culture)",
+                "pass": "pass (can mean a permit or a pass in football)",
+                "parcheggio": "parking (can refer to 'parking the bus' in football slang)",
+                "sei una spia": "you're a spy"
+            }
+        },
+        {
+            "index": 18,
+            "startTimestamp": "00:04:23.720",
+            "endTimestamp": "00:04:37.540",
+            "vocab": {
+                "pezza": "patch; excuse (context-dependent)",
+                "che": "that; which; who",
+                "scriva": "writes; may write (subjunctive)",
+                "se": "if; whether",
+                "non": "not",
+                "a un uomo morto": "to a dead man",
+                "è": "is",
+                "insuperabile": "unbeatable; unsurpassable",
+                "già": "already",
+                "provato": "tried; tested",
+                "pure": "also; even",
+                "in profondità": "in depth; deep",
+                "lo scatto": "the sprint; the burst",
+                "è un bel duello": "is a nice duel; is a good contest",
+                "in velocità": "in speed; at speed",
+                "al romanzo": "to the novel; at the novel (context-dependent)"
+            },
+            "beginnerVocab": {
+                "uomo": "man",
+                "morto": "dead",
+                "profondità": "depth",
+                "scatto": "sprint; burst (movement)",
+                "duello": "duel",
+                "velocità": "speed"
+            },
+            "advancedVocab": {
+                "pezza che scriva": "patch that writes; (note: unusual, possibly idiomatic or context-specific)",
+                "insuperabile": "unbeatable; unsurpassable",
+                "in profondità": "in depth; deep (note: in sports, often means a deep pass or movement)",
+                "scatto": "burst; sprint; sudden movement",
+                "duello in velocità": "speed duel; race (note: often used in sports commentary)",
+                "al romanzo": "to the novel; (note: possibly idiomatic or context-specific, could refer to a dramatic or story-like situation)"
+            }
+        },
+        {
+            "index": 19,
+            "startTimestamp": "00:04:35.500",
+            "endTimestamp": "00:04:54.620",
+            "vocab": {
+                "aperto": "opened",
+                "super gol": "super goal",
+                "di nove": "of nine; number nine (note: likely refers to a player position)",
+                "lui": "he; him",
+                "se lo merita": "he deserves it",
+                "altro che": "on the contrary; far from it",
+                "sono stanco": "I am tired",
+                "devo recuperare": "I have to recover",
+                "è entrato": "he entered; he came in",
+                "a 2000": "at 2000 (note: likely means 'at full speed' or 'very fast')",
+                "bravissimo": "very good; excellent",
+                "federale": "federal (note: could refer to a referee or official)",
+                "cercherò": "I will try",
+                "è uscito": "he went out; he exited",
+                "poi": "then; afterwards",
+                "è rientrato": "he came back in; he re-entered",
+                "insomma": "in short; in conclusion",
+                "dubbi": "doubts",
+                "sulla regolarità": "about the regularity; about the legality",
+                "del suo": "of his"
+            },
+            "beginnerVocab": {
+                "aperto": "open",
+                "gol": "goal",
+                "nove": "nine",
+                "lui": "he; him",
+                "sono": "I am",
+                "stanco": "tired",
+                "devo": "I must; I have to",
+                "recuperare": "recover; get back",
+                "entrato": "entered; went in",
+                "bravissimo": "very good; excellent",
+                "uscito": "went out; exited",
+                "rientrato": "came back; re-entered"
+            },
+            "advancedVocab": {
+                "super gol": "amazing goal; super goal (slang, emphatic)",
+                "altro che": "on the contrary; far from it (discourse marker, emphatic denial)",
+                "è entrato a 2000": "he came in at full speed; he entered at 2000 (idiom, means very fast)",
+                "bravissimo": "very skilled; excellent (superlative, emphatic)",
+                "federale": "federal (can refer to a referee or official in sports context)",
+                "insomma": "in short; anyway (discourse marker, summarizing or shifting)",
+                "regolarità": "regularity; compliance (here, refers to legitimacy or fairness in sports context)"
+            }
+        },
+        {
+            "index": 20,
+            "startTimestamp": "00:04:52.640",
+            "endTimestamp": "00:05:05.680",
+            "vocab": {
+                "ingresso": "entry; entrance",
+                "in campo": "on the field; onto the field",
+                "ha fatto": "he/she did; he/she made",
+                "gran gol": "great goal",
+                "ho proposto": "I proposed; I suggested",
+                "importante": "important",
+                "veramente": "really; truly",
+                "stare qua": "to be here",
+                "presenti": "present; here",
+                "avere": "to have",
+                "questa": "this",
+                "dispone": "has; possesses (from 'disporre', to have/arrange)",
+                "da altre": "from others; by others",
+                "sono contento": "I am happy; I am glad"
+            },
+            "beginnerVocab": {
+                "ingresso": "entrance",
+                "campo": "field",
+                "gol": "goal",
+                "importante": "important",
+                "stare": "to stay; to be",
+                "qua": "here",
+                "presenti": "present (people who are here)",
+                "avere": "to have",
+                "contento": "happy; glad"
+            },
+            "advancedVocab": {
+                "ingresso in campo": "entering the field; taking the field (sports context)",
+                "gran gol": "great goal; amazing goal",
+                "disporre da altre": "to have at one's disposal from others (unusual construction; possibly means 'resources from others' or 'options from others')"
+            }
+        },
+        {
+            "index": 21,
+            "startTimestamp": "00:05:04.370",
+            "endTimestamp": "00:05:13.069",
+            "vocab": {
+                "sono": "I am; they are; he/she/it is (from 'essere')",
+                "sempre": "always",
+                "con": "with",
+                "noi": "us; we",
+                "segna": "scores (from 'segnare')",
+                "lui": "he; him",
+                "maurizio ganz": "Maurizio Ganz (proper name)",
+                "la butta dentro": "puts it in; scores (literally 'throws it inside')",
+                "ristabilisce": "restores; re-establishes",
+                "parità": "parity; tie; draw"
+            },
+            "beginnerVocab": {
+                "sempre": "always",
+                "con": "with",
+                "noi": "us; we",
+                "lui": "he; him",
+                "maurizio": "Maurizio (name)",
+                "la": "the (feminine singular)",
+                "dentro": "inside; in",
+                "parità": "tie; equality"
+            },
+            "advancedVocab": {
+                "la butta dentro": "he puts it in; he scores (soccer slang)",
+                "ristabilisce la parità": "restores parity; equalizes (sports context)"
+            }
+        },
+        {
+            "index": 22,
+            "startTimestamp": "00:05:12.349",
+            "endTimestamp": "00:05:22.250",
+            "vocab": {
+                "azione personale": "personal action",
+                "niente da fare": "nothing to do; no chance",
+                "appena": "just; as soon as",
+                "tra i pali": "between the posts (soccer: in goal)",
+                "mentre": "while",
+                "uscisse": "he/she was going out; he/she left (subjunctive, imperfect)",
+                "verrà messo": "will be put; will be placed",
+                "di fatto": "in fact; actually"
+            },
+            "beginnerVocab": {
+                "grande": "big; great",
+                "azione": "action",
+                "personale": "personal",
+                "niente": "nothing",
+                "fare": "to do; do",
+                "appena": "just; as soon as",
+                "entrato": "entered; gone in",
+                "tra": "between; among",
+                "i pali": "the posts (goalposts)",
+                "uscisse": "went out; exited",
+                "messo": "put; placed"
+            },
+            "advancedVocab": {
+                "tra i pali": "in goal; between the posts (sports context)",
+                "niente da fare": "nothing to do; no chance (idiomatic: no way to intervene)",
+                "mentre che": "while (less common/colloquial form of 'while')",
+                "verrà messo di fatto": "will be effectively put; will be actually placed (nuanced: emphasizes the factual/actual result)"
+            }
+        },
+        {
+            "index": 23,
+            "startTimestamp": "00:05:19.849",
+            "endTimestamp": "00:05:36.349",
+            "vocab": {
+                "di sprone": "as encouragement; as a spur",
+                "abbiamo ancora tempo": "we still have time",
+                "magari": "maybe; perhaps",
+                "però": "but; however",
+                "poi": "then; afterwards",
+                "tornati": "returned; come back",
+                "il piacere di": "the pleasure of",
+                "stare qua": "being here; staying here",
+                "per": "for; to",
+                "gli chiedi": "you ask him",
+                "se": "if; whether",
+                "il gol della": "the goal of",
+                "fatturare": "to score; to bill (here: to score, sports context)",
+                "al suo amico": "to his friend",
+                "felipe massa": "Felipe Massa (proper name)"
+            },
+            "beginnerVocab": {
+                "tempo": "time",
+                "partita": "match; game",
+                "piacere": "pleasure; joy",
+                "amico": "friend",
+                "gol": "goal"
+            },
+            "advancedVocab": {
+                "di sprone": "as encouragement; as a spur (idiomatic, rarely used in everyday speech)",
+                "magari": "maybe; if only (can express hope or possibility, context-dependent)",
+                "di per alessandra": "for Alessandra (unusual phrasing, possibly elliptical or regional)",
+                "fatturare": "to score; to bill (here likely slang for 'to score a goal', but literally means 'to invoice')"
+            }
+        },
+        {
+            "index": 24,
+            "startTimestamp": "00:05:33.830",
+            "endTimestamp": "00:05:49.360",
+            "vocab": {
+                "oppure": "or",
+                "a": "to; at; in",
+                "san giovanni": "San Giovanni (place/person name)",
+                "mascara": "Mascara (place/person name)",
+                "in contropiede": "on the counterattack",
+                "sempre": "always; still",
+                "lui": "he; him",
+                "9": "9 (number, often jersey number)",
+                "nome": "name",
+                "è": "is",
+                "riflesso": "reflection",
+                "con": "with",
+                "il pallone": "the ball",
+                "che": "that; which",
+                "torno": "I return; I come back",
+                "professor": "professor",
+                "o": "or",
+                "e poi": "and then",
+                "torna": "returns; comes back",
+                "ma": "but",
+                "che ci": "that there; what there",
+                "di rigore": "of penalty; penalty area (soccer)",
+                "finito": "finished; over",
+                "vita": "life"
+            },
+            "beginnerVocab": {
+                "oppure": "or",
+                "sempre": "always",
+                "nome": "name",
+                "pallone": "ball",
+                "professor": "professor; teacher",
+                "torna": "returns; comes back",
+                "rigore": "penalty (soccer)",
+                "finito": "finished; over",
+                "vita": "life"
+            },
+            "advancedVocab": {
+                "in contropiede": "on the counterattack; on the break (sports term)",
+                "rigore": "penalty kick (soccer term)",
+                "finito vita": "life over; end of life (nuanced, possibly idiomatic or elliptical)"
+            }
+        }
+    ],
+    "topics": [
+        "football",
+        "soccer",
+        "football commentary",
+        "sports analysis",
+        "athletic performance",
+        "match highlights",
+        "football tactics",
+        "goal scoring",
+        "sports history",
+        "football fans",
+        "competitive sports",
+        "football matches"
+    ]
+}

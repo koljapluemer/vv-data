@@ -1,0 +1,1984 @@
+{
+    "videoId": "xahStdka7pY",
+    "language": {
+        "iso3": "ita",
+        "subtitleLanguage": "it",
+        "humanReadable": "Italian"
+    },
+    "segments": [
+        {
+            "index": 1,
+            "startTimestamp": "00:00:02.960",
+            "endTimestamp": "00:00:14.580",
+            "vocab": {
+                "ma": "but",
+                "che bellezza": "how beautiful; what beauty",
+                "cucina": "kitchen",
+                "nuova": "new",
+                "quindi": "so; therefore",
+                "nooo": "nooo (exclamation)",
+                "le posso accendere": "can I turn them on",
+                "già": "already",
+                "benvenuti": "welcome",
+                "nella": "in the",
+                "mia": "my",
+                "nuovissima": "brand new; very new"
+            },
+            "beginnerVocab": {
+                "cucina": "kitchen",
+                "nuova": "new",
+                "accendere": "to turn on; to switch on",
+                "benvenuti": "welcome",
+                "mia": "my"
+            },
+            "advancedVocab": {
+                "Ma che bellezza": "How wonderful; How beautiful (expresses admiration or delight, often idiomatic)",
+                "le posso accendere": "can I turn them on (refers to appliances, 'le' is feminine plural, context-dependent)",
+                "nuovissima": "brand new; very new (superlative form, emphasizes newness)"
+            }
+        },
+        {
+            "index": 2,
+            "startTimestamp": "00:00:14.580",
+            "endTimestamp": "00:00:19.840",
+            "vocab": {
+                "non": "not",
+                "è": "is",
+                "mia": "mine; my",
+                "di tutti": "everyone's; of all",
+                "per oggi": "for today",
+                "ogni": "every; each",
+                "universitario": "university student; college student",
+                "che si rispetti": "respectable; self-respecting (idiomatic)",
+                "sa": "knows",
+                "che": "that"
+            },
+            "beginnerVocab": {
+                "non": "not",
+                "è": "is",
+                "mia": "mine; my (feminine)",
+                "di": "of",
+                "tutti": "everyone; all",
+                "oggi": "today",
+                "ogni": "every; each",
+                "universitario": "university student",
+                "che": "that; who",
+                "si": "oneself; himself; herself (reflexive pronoun)",
+                "sa": "knows"
+            },
+            "advancedVocab": {
+                "ogni universitario che si rispetti": "every self-respecting university student (idiom; means 'any proper university student)'"
+            }
+        },
+        {
+            "index": 3,
+            "startTimestamp": "00:00:19.840",
+            "endTimestamp": "00:00:24.800",
+            "vocab": {
+                "la sessione d'esame": "exam session",
+                "è": "is",
+                "un po": "a bit; kind of",
+                "come": "like; as",
+                "a volte": "sometimes",
+                "pensi che": "you think that",
+                "sia finita": "is over; is finished (subjunctive)",
+                "ma": "but"
+            },
+            "beginnerVocab": {
+                "sessione": "session; exam session",
+                "esame": "exam",
+                "un po": "a little; a bit",
+                "come": "like; as",
+                "volte": "times",
+                "pensi": "you think",
+                "finita": "finished; over"
+            },
+            "advancedVocab": {
+                "sessione d'esame": "exam session (university exam period in Italy)",
+                "è un po come": "it's a bit like (colloquial comparison)",
+                "The walking dead": "The Walking Dead (reference to the TV series; metaphor for exhaustion or persistence)"
+            }
+        },
+        {
+            "index": 4,
+            "startTimestamp": "00:00:24.800",
+            "endTimestamp": "00:00:28.650",
+            "vocab": {
+                "proprio allora": "right then; just then",
+                "che": "that; which (relative pronoun)",
+                "comincia": "begins; starts",
+                "la salita": "the climb; the ascent",
+                "ma": "but",
+                "come": "like; as",
+                "gli zombie": "the zombies",
+                "noi": "we; us",
+                "abbiamo bisogno di": "we need (to); we have need of"
+            },
+            "beginnerVocab": {
+                "allora": "then; at that moment",
+                "comincia": "begins; starts",
+                "salita": "climb; ascent",
+                "zombie": "zombie",
+                "abbiamo bisogno di": "we need"
+            },
+            "advancedVocab": {
+                "proprio allora": "right then; just then (emphasizes exact timing)",
+                "salita": "uphill climb; ascent (can be literal or metaphorical)",
+                "Ma come gli zombie": "But like zombies (simile; may imply mindless persistence or exhaustion)"
+            }
+        },
+        {
+            "index": 5,
+            "startTimestamp": "00:00:28.650",
+            "endTimestamp": "00:00:34.360",
+            "vocab": {
+                "nutrirci": "to feed ourselves",
+                "in fretta": "quickly; in a hurry",
+                "con quello che": "with what; with that which",
+                "troviamo": "we find",
+                "sono": "I am",
+                "qui": "here",
+                "per": "to; in order to",
+                "farvi": "make you; help you (do something)",
+                "sopravvivere": "survive",
+                "con stile": "with style"
+            },
+            "beginnerVocab": {
+                "nutrirci": "to feed ourselves",
+                "in fretta": "quickly; in a hurry",
+                "quello": "that; what",
+                "troviamo": "we find",
+                "io": "I",
+                "sono": "am",
+                "qui": "here",
+                "per": "for; to",
+                "farvi": "to make you; to help you (plural)",
+                "sopravvivere": "to survive",
+                "con": "with",
+                "stile": "style"
+            },
+            "advancedVocab": {
+                "nutrirci": "to feed ourselves; to nourish ourselves",
+                "in fretta": "quickly; in a hurry",
+                "con quello che troviamo": "with what we find (implies improvisation or making do)",
+                "sopravvivere con stile": "survive with style (nuanced: not just survive, but do so elegantly or fashionably)"
+            }
+        },
+        {
+            "index": 6,
+            "startTimestamp": "00:00:46.940",
+            "endTimestamp": "00:00:53.340",
+            "vocab": {
+                "quindi": "so; therefore",
+                "oggi": "today",
+                "facciamo": "we make; we do",
+                "tributo": "tribute",
+                "a": "to; at (here: to)",
+                "mia": "my (feminine)",
+                "mamma": "mom; mother",
+                "con": "with",
+                "questa": "this (feminine)",
+                "pasta": "pasta",
+                "fatta": "made (feminine singular)",
+                "sedano": "celery",
+                "carote": "carrots"
+            },
+            "beginnerVocab": {
+                "oggi": "today",
+                "facciamo": "we do; we make",
+                "mamma": "mom; mother",
+                "pasta": "pasta",
+                "sedano": "celery",
+                "carote": "carrots"
+            },
+            "advancedVocab": {
+                "tributo": "tribute; homage (can mean a ceremonial or respectful gesture, not just a literal 'tribute')"
+            }
+        },
+        {
+            "index": 7,
+            "startTimestamp": "00:00:53.340",
+            "endTimestamp": "00:01:03.300",
+            "vocab": {
+                "tonno": "tuna",
+                "pomodorini": "cherry tomatoes",
+                "cipolla": "onion",
+                "un pochino di": "a little bit of",
+                "basilico": "basil",
+                "per guarnire": "to garnish",
+                "pasta": "pasta",
+                "che vi servirà da": "that will serve as; that you can use as",
+                "primo": "first course",
+                "secondo": "second course; main course",
+                "contorno": "side dish",
+                "sarà velocissima": "will be very quick; will be very fast"
+            },
+            "beginnerVocab": {
+                "tonno": "tuna",
+                "pomodorini": "cherry tomatoes",
+                "cipolla": "onion",
+                "basilico": "basil",
+                "pasta": "pasta"
+            },
+            "advancedVocab": {
+                "guarnire": "to garnish; to decorate (food context)",
+                "primo": "first course (Italian meal context)",
+                "secondo": "second course (main dish; Italian meal context)",
+                "contorno": "side dish (Italian meal context)",
+                "velocissima": "very quick; super fast (feminine form, emphatic)"
+            }
+        },
+        {
+            "index": 8,
+            "startTimestamp": "00:01:03.300",
+            "endTimestamp": "00:01:07.900",
+            "vocab": {
+                "quindi": "so; therefore",
+                "in sostanza": "basically; in essence",
+                "un bel pasto completo": "a nice complete meal",
+                "che sarà": "that will be",
+                "velocissimo": "very fast; super quick",
+                "da preparare": "to prepare"
+            },
+            "beginnerVocab": {
+                "quindi": "so; therefore",
+                "un bel pasto": "a nice meal",
+                "completo": "complete",
+                "velocissimo": "very fast; super fast",
+                "preparare": "to prepare"
+            },
+            "advancedVocab": {
+                "in sostanza": "basically; in essence",
+                "un bel pasto completo": "a nice full meal (note: 'bel' adds emphasis, not just 'a meal')"
+            }
+        },
+        {
+            "index": 9,
+            "startTimestamp": "00:01:07.900",
+            "endTimestamp": "00:01:14.160",
+            "vocab": {
+                "e": "and",
+                "che": "that; which",
+                "vi": "you (plural; to you)",
+                "permetterà": "will allow; will permit",
+                "di": "to; of",
+                "tornare": "to return; to go back",
+                "immediatamente": "immediately",
+                "su": "on; onto",
+                "libri": "books",
+                "dunque": "so; therefore",
+                "prima cosa": "first thing",
+                "ci mettiamo": "we put on; we put ourselves",
+                "nostro": "our",
+                "grembiulino": "little apron; smock"
+            },
+            "beginnerVocab": {
+                "libri": "books",
+                "prima": "first",
+                "cosa": "thing",
+                "nostro": "our",
+                "grembiulino": "apron (diminutive; little apron)"
+            },
+            "advancedVocab": {
+                "tornare sui libri": "get back to studying; hit the books again (idiom: resume studying)",
+                "Dunque": "So; Therefore; Well then (discourse marker)",
+                "grembiulino": "little apron; smock (diminutive, often used for schoolchildren's aprons)"
+            }
+        },
+        {
+            "index": 10,
+            "startTimestamp": "00:01:14.160",
+            "endTimestamp": "00:01:20.580",
+            "vocab": {
+                "mettiamo": "let's put; we put",
+                "quindi": "therefore; so",
+                "a bollire": "to boil",
+                "una bella": "a nice; a good (emphasizer, not literal 'beautiful')",
+                "pentola": "pot",
+                "d'acqua": "of water",
+                "grazie a": "thanks to",
+                "piastre a induzione": "induction plates; induction cooktops",
+                "magnifiche": "magnificent; wonderful"
+            },
+            "beginnerVocab": {
+                "mettiamo": "we put; let's put",
+                "bollire": "to boil",
+                "bella": "nice; beautiful (note: here means 'nice' as in 'good-sized' or 'good')",
+                "pentola": "pot",
+                "acqua": "water"
+            },
+            "advancedVocab": {
+                "mettiamo a bollire": "let's put to boil; we put to boil (set something to boil)",
+                "una bella pentola d'acqua": "a nice pot of water (bella as an intensifier, not literally 'beautiful')",
+                "piastre a induzione": "induction cooktops; induction hobs"
+            }
+        },
+        {
+            "index": 11,
+            "startTimestamp": "00:01:20.580",
+            "endTimestamp": "00:01:29.900",
+            "vocab": {
+                "sta già": "is already",
+                "sobbollendo": "simmering",
+                "accendiamo": "we turn on; let's turn on",
+                "anche": "also; too",
+                "l'altra": "the other",
+                "padella": "pan",
+                "in questo caso": "in this case",
+                "fantastico": "fantastic",
+                "wok": "wok",
+                "speriamo": "we hope; let's hope",
+                "che": "that",
+                "sia": "is; may be (subjunctive)",
+                "per induzione": "for induction (note: refers to induction cooktop compatibility)"
+            },
+            "beginnerVocab": {
+                "già": "already",
+                "accendiamo": "we turn on; we light",
+                "padella": "pan",
+                "wok": "wok"
+            },
+            "advancedVocab": {
+                "sobbollendo": "simmering (gentle boiling)",
+                "accendiamo": "let's turn on; we turn on (note: can be confused with 'light' or 'ignite')",
+                "wok": "wok (specialized cooking pan, Asian origin)",
+                "per induzione": "for induction (refers to induction cooktops; may be unclear if not familiar with kitchen appliances)"
+            }
+        },
+        {
+            "index": 12,
+            "startTimestamp": "00:01:29.900",
+            "endTimestamp": "00:01:39.820",
+            "vocab": {
+                "ci prepariamo": "we get ourselves ready; we prepare ourselves",
+                "intanto": "meanwhile; in the meantime",
+                "il soffrittino": "the little sauté; the little soffritto (diminutive, refers to a base of sautéed vegetables)",
+                "vi odio": "I hate you (plural 'you')",
+                "quello che": "what; that which",
+                "succede": "happens",
+                "anche": "also; too",
+                "nella mia vita": "in my life"
+            },
+            "beginnerVocab": {
+                "prepariamo": "we prepare; we get ready",
+                "soffrittino": "little sauté; small sauté (cooking base)",
+                "odio": "I hate"
+            },
+            "advancedVocab": {
+                "soffrittino": "little sautéed base; little soffritto (diminutive of 'soffritto', a base of sautéed vegetables in Italian cooking)",
+                "intanto": "meanwhile; in the meantime",
+                "Eh": "Well; Uh (discourse marker, expresses hesitation or emphasis)"
+            }
+        },
+        {
+            "index": 13,
+            "startTimestamp": "00:01:43.400",
+            "endTimestamp": "00:01:51.460",
+            "vocab": {
+                "sa di tappo": "tastes corky; tastes like cork (wine fault)",
+                "andiamo": "let's go; we go",
+                "con": "with",
+                "la cipolla": "the onion",
+                "questo": "this",
+                "nuovo": "new",
+                "fantastico": "fantastic",
+                "coltello": "knife"
+            },
+            "beginnerVocab": {
+                "andiamo": "let's go; we go",
+                "cipolla": "onion",
+                "nuovo": "new",
+                "coltello": "knife"
+            },
+            "advancedVocab": {
+                "sa di tappo": "tastes corked; tastes like cork (wine fault, cork taint)",
+                "andiamo con": "let's go with; let's use (colloquial, introducing next step or ingredient)"
+            }
+        },
+        {
+            "index": 14,
+            "startTimestamp": "00:01:52.840",
+            "endTimestamp": "00:01:59.560",
+            "vocab": {
+                "ci servirà": "we will need; it will be needed (note: 'ci' implies 'for us')",
+                "soltanto": "only; just",
+                "un foglio": "a sheet; a piece (of paper)",
+                "questo": "this",
+                "la mandiamo": "we send it; we put it",
+                "lì": "there",
+                "con": "with",
+                "un goccino d'olio": "a little drop of oil"
+            },
+            "beginnerVocab": {
+                "foglio": "sheet; paper",
+                "olio": "oil"
+            },
+            "advancedVocab": {
+                "ci servirà": "we will need; it will be needed (impersonal/colloquial construction)",
+                "un goccino d'olio": "a tiny drop of oil (diminutive, colloquial)"
+            }
+        },
+        {
+            "index": 15,
+            "startTimestamp": "00:01:59.560",
+            "endTimestamp": "00:02:09.080",
+            "vocab": {
+                "e": "and",
+                "iniziamo a": "we start to; let's start to",
+                "far soffriggere": "to sauté; to fry lightly",
+                "lasciamo andare": "let go; let cook (cooking context)",
+                "un attimo": "a moment; a bit",
+                "la cipolla": "the onion",
+                "nel frattempo": "in the meantime",
+                "prepararci": "prepare for ourselves; get ready",
+                "i nostri vegetali": "our vegetables"
+            },
+            "beginnerVocab": {
+                "iniziamo": "we start; we begin",
+                "soffriggere": "to sauté; to fry lightly",
+                "cipolla": "onion",
+                "vegetali": "vegetables"
+            },
+            "advancedVocab": {
+                "soffriggere": "to sauté; to lightly fry (cooking technique)",
+                "lasciamo andare": "let (it) cook; let (it) go (here: let it cook for a bit) (idiomatic in cooking)",
+                "nel frattempo": "in the meantime"
+            }
+        },
+        {
+            "index": 16,
+            "startTimestamp": "00:02:09.080",
+            "endTimestamp": "00:02:14.760",
+            "vocab": {
+                "facciamo": "we make; let's make",
+                "classico": "classic",
+                "soffrittino": "little sauté; small soffritto (cooking base)",
+                "sedano": "celery",
+                "carote": "carrots",
+                "cipolle": "onions",
+                "eliminando": "removing; eliminating",
+                "nostre": "our",
+                "foglie": "leaves"
+            },
+            "beginnerVocab": {
+                "facciamo": "we do; we make",
+                "sedano": "celery",
+                "carote": "carrots",
+                "cipolle": "onions",
+                "foglie": "leaves"
+            },
+            "advancedVocab": {
+                "soffrittino": "little sautéed vegetable base (diminutive of 'soffritto'; cooking term)",
+                "eliminando": "removing; getting rid of (here, means discarding, not 'eliminating' in a violent sense)"
+            }
+        },
+        {
+            "index": 17,
+            "startTimestamp": "00:02:14.760",
+            "endTimestamp": "00:02:25.820",
+            "vocab": {
+                "che": "that; which",
+                "potremmo": "we could",
+                "utilizzare": "use",
+                "per": "for; to",
+                "fare": "make; do",
+                "brodi": "broths",
+                "nel frattempo": "in the meantime",
+                "la nostra": "our",
+                "cipolla": "onion",
+                "ha già": "has already",
+                "fatto": "done; made",
+                "il suo lavoro": "its job; its work"
+            },
+            "beginnerVocab": {
+                "utilizzare": "to use",
+                "fare": "to make; to do",
+                "brodi": "broths; soups",
+                "cipolla": "onion",
+                "lavoro": "work; job"
+            },
+            "advancedVocab": {
+                "fare brodi": "make broths; make stock (cooking term)",
+                "ha già fatto il suo lavoro": "has already done its job (idiomatic: fulfilled its purpose)"
+            }
+        },
+        {
+            "index": 18,
+            "startTimestamp": "00:02:25.820",
+            "endTimestamp": "00:02:35.080",
+            "vocab": {
+                "quindi": "so; therefore",
+                "prima che": "before",
+                "si bruci": "it burns; it gets burned",
+                "la togliamo": "we remove it; we take it off",
+                "non è bionda": "it's not blonde; it's not golden",
+                "ma perché": "but why",
+                "mi fai": "you ask me; you make me",
+                "'ste": "these (colloquial for 'queste')",
+                "domande": "questions",
+                "che c****o ne so": "how the hell should I know; what the hell do I know (vulgar)"
+            },
+            "beginnerVocab": {
+                "prima": "before",
+                "bruci": "burns",
+                "togliamo": "we remove; we take off",
+                "non": "not",
+                "perché": "why",
+                "domande": "questions"
+            },
+            "advancedVocab": {
+                "quindi": "so; therefore (discourse marker)",
+                "bionda": "blonde; golden (here: refers to food browning, not hair)",
+                "'ste": "these (colloquial contraction of 'queste')",
+                "che c****o ne so": "how the hell should I know; what the hell do I know (vulgar, emphatic)"
+            }
+        },
+        {
+            "index": 19,
+            "startTimestamp": "00:02:35.080",
+            "endTimestamp": "00:02:40.500",
+            "vocab": {
+                "ma": "but",
+                "penso": "I think",
+                "sia": "is; may be; be (subjunctive of 'essere')",
+                "perché": "because; why",
+                "chiaramente": "clearly; obviously",
+                "la": "it; her (feminine singular object pronoun)",
+                "porti": "you bring; you take (subjunctive of 'portare')",
+                "a un livello": "to a level",
+                "di": "of",
+                "rosolatura": "browning; sautéing (cooking term)"
+            },
+            "beginnerVocab": {
+                "penso": "I think",
+                "perché": "because",
+                "chiaramente": "clearly",
+                "porti": "you bring; you take (from 'portare')",
+                "livello": "level"
+            },
+            "advancedVocab": {
+                "penso sia": "I think it is; I suppose it is (subjunctive, nuanced conjecture)",
+                "porti a un livello": "bring it to a level (metaphorical, not literal level)",
+                "rosolatura": "browning; sautéing (cooking term, specific process)"
+            }
+        },
+        {
+            "index": 20,
+            "startTimestamp": "00:02:40.500",
+            "endTimestamp": "00:02:47.880",
+            "vocab": {
+                "che sia": "that it is; that it be",
+                "né": "neither; nor",
+                "crudo": "raw",
+                "bruciato": "burnt",
+                "io": "I",
+                "che": "what; that",
+                "ne so": "do I know (about it)",
+                "c***o": "f***; damn (strong swear word, censored)",
+                "lo devi": "you have to it; you must it",
+                "bippare": "to bleep; to censor (with a beep)",
+                "adesso": "now",
+                "bippami": "bleep me; censor me",
+                "se ci riesci": "if you can; if you manage"
+            },
+            "beginnerVocab": {
+                "crudo": "raw",
+                "bruciato": "burnt",
+                "io": "I",
+                "so": "know",
+                "adesso": "now",
+                "se": "if"
+            },
+            "advancedVocab": {
+                "né crudo né bruciato": "neither raw nor burnt (set phrase for 'just right')",
+                "che c***o ne so?": "how the f*** should I know?; what the hell do I know? (vulgar, emphatic disbelief)",
+                "bippare": "to bleep; to censor (slang, from English 'beep')",
+                "bippami": "bleep me; censor me (imperative, slang)",
+                "se ci riesci": "if you can (challenge, taunt)"
+            }
+        },
+        {
+            "index": 21,
+            "startTimestamp": "00:02:47.880",
+            "endTimestamp": "00:02:50.700",
+            "vocab": {
+                "devo": "I have to; I must",
+                "fare": "do; make",
+                "anche": "also; too",
+                "tipo": "like; kind of",
+                "ti guardo": "I look at you",
+                "guido": "I drive"
+            },
+            "beginnerVocab": {
+                "devo": "I have to; I must",
+                "fare": "to do; to make",
+                "guardo": "I look; I watch",
+                "guido": "I drive"
+            },
+            "advancedVocab": {
+                "fare anche la Fast and furious": "do the Fast and Furious thing; act like Fast and Furious (reference to driving style in the movie)",
+                "tipo": "like; sort of (filler word, informal discourse marker)"
+            }
+        },
+        {
+            "index": 22,
+            "startTimestamp": "00:02:54.620",
+            "endTimestamp": "00:03:00.980",
+            "vocab": {
+                "è": "is",
+                "importante": "important",
+                "quando": "when",
+                "si utilizzano": "one uses; you use; are used",
+                "questi": "these",
+                "bellissimi": "very beautiful; beautiful",
+                "coltelli": "knives",
+                "affilati": "sharp",
+                "non": "not; never",
+                "tagliare": "to cut",
+                "mai": "never",
+                "finale": "end; tip; final part",
+                "delle cose": "of things; of the things"
+            },
+            "beginnerVocab": {
+                "importante": "important",
+                "quando": "when",
+                "utilizzare": "to use",
+                "questi": "these",
+                "coltelli": "knives",
+                "affilati": "sharp",
+                "tagliare": "to cut",
+                "mai": "never",
+                "cose": "things"
+            },
+            "advancedVocab": {
+                "finale delle cose": "the end of things; the tip/edge of things (note: 'finale' here refers to the very end or tip, not a 'finale' as in a performance)"
+            }
+        },
+        {
+            "index": 23,
+            "startTimestamp": "00:03:00.980",
+            "endTimestamp": "00:03:09.180",
+            "vocab": {
+                "che": "that; which",
+                "va a finire": "ends up; turns out",
+                "sempre": "always",
+                "come": "as; like",
+                "aperitivo": "aperitif; pre-meal drink",
+                "sì": "yes",
+                "assolutamente": "absolutely",
+                "a questo punto": "at this point",
+                "possiamo": "we can",
+                "andare": "go",
+                "già": "already",
+                "in cottura": "into cooking; to cook (in the process of cooking)"
+            },
+            "beginnerVocab": {
+                "aperitivo": "aperitif; appetizer (pre-meal drink/snack)",
+                "andare": "to go",
+                "cottura": "cooking"
+            },
+            "advancedVocab": {
+                "va sempre a finire": "always ends up (idiomatic; outcome/result)",
+                "aperitivo": "aperitif; pre-dinner drink (cultural; Italian custom)",
+                "a questo punto": "at this point; now (discourse marker)",
+                "andare già in cottura": "already start cooking; go into cooking (nuanced wording)"
+            }
+        },
+        {
+            "index": 24,
+            "startTimestamp": "00:03:09.180",
+            "endTimestamp": "00:03:16.840",
+            "vocab": {
+                "a farlo appassire": "to wilt it; to let it wilt (cooking technique: soften by cooking)",
+                "nel frattempo": "in the meantime",
+                "continuiamo": "we continue; let's continue",
+                "le nostre verdure": "our vegetables",
+                "ci scegliamo": "we choose for ourselves; let's pick",
+                "una bella carota": "a nice carrot"
+            },
+            "beginnerVocab": {
+                "farlo": "do it;make it",
+                "continuiamo": "we continue;let's continue",
+                "verdure": "vegetables",
+                "carota": "carrot",
+                "bella": "nice;beautiful (note: here means 'nice' as in 'good-looking' or 'good quality')"
+            },
+            "advancedVocab": {
+                "a farlo appassire": "to wilt it; to let it wilt (cooking term, means to soften by cooking)",
+                "nel frattempo": "in the meantime; meanwhile (discourse marker)",
+                "ci scegliamo": "we pick for ourselves; let's pick ourselves (reflexive use for emphasis or informality)"
+            }
+        },
+        {
+            "index": 25,
+            "startTimestamp": "00:03:16.840",
+            "endTimestamp": "00:03:21.480",
+            "vocab": {
+                "e": "and",
+                "vi insegno": "I teach you; I'll show you",
+                "un bel trucchetto": "a nice trick; a good little trick",
+                "perché": "because",
+                "noi": "we",
+                "studenti": "students",
+                "il pelapatate": "the potato peeler",
+                "non ce l'abbiamo": "we don't have it"
+            },
+            "beginnerVocab": {
+                "insegno": "I teach; I show",
+                "studenti": "students",
+                "pelapatate": "potato peeler"
+            },
+            "advancedVocab": {
+                "un bel trucchetto": "a neat trick; a clever trick",
+                "pelapatate": "potato peeler"
+            }
+        },
+        {
+            "index": 26,
+            "startTimestamp": "00:03:22.920",
+            "endTimestamp": "00:03:27.321",
+            "vocab": {
+                "tutti": "all; everyone",
+                "i tuberi": "the tubers; root vegetables",
+                "si possono": "can be; are able to be",
+                "pelare": "peel",
+                "col cucchiaio": "with the spoon",
+                "Mo'": "now (colloquial; short for 'adesso')",
+                "ho detto": "I said",
+                "una stronzata": "nonsense; bullshit (vulgar)"
+            },
+            "beginnerVocab": {
+                "tutti": "all; everyone",
+                "i tuberi": "the tubers; root vegetables (e.g., potatoes)",
+                "pelare": "to peel",
+                "cucchiaio": "spoon"
+            },
+            "advancedVocab": {
+                "tuberi": "tubers (root vegetables like potatoes, yams)",
+                "Mo'": "Now; Right now (colloquial, southern Italian contraction of 'adesso' or 'ora')",
+                "stronzata": "bullshit; nonsense; stupid thing (vulgar, informal)"
+            }
+        },
+        {
+            "index": 27,
+            "startTimestamp": "00:03:27.321",
+            "endTimestamp": "00:03:43.740",
+            "vocab": {
+                "sembro": "I seem; I look (first person singular of 'sembrare')",
+                "stupido": "stupid; silly",
+                "veramente": "really; truly",
+                "bello": "beautiful; nice; good",
+                "'sto": "this (colloquial contraction of 'questo')",
+                "coltello": "knife",
+                "anche": "also; too",
+                "carota": "carrot",
+                "tagliata": "cut (feminine singular, past participle of 'tagliare')",
+                "andiamo": "let's go; we go",
+                "in padella": "in the pan"
+            },
+            "beginnerVocab": {
+                "sembro": "I seem; I look",
+                "stupido": "stupid; silly",
+                "bello": "beautiful; nice; good",
+                "coltello": "knife",
+                "carota": "carrot",
+                "tagliata": "cut (feminine singular)",
+                "andiamo": "let's go",
+                "padella": "pan"
+            },
+            "advancedVocab": {
+                "'sto": "this (colloquial contraction of 'questo')",
+                "andiamo in padella": "let's go in the pan; into the pan (idiomatic for starting to cook something)"
+            }
+        },
+        {
+            "index": 28,
+            "startTimestamp": "00:03:46.140",
+            "endTimestamp": "00:03:50.360",
+            "vocab": {
+                "queste": "these",
+                "domande": "questions",
+                "non": "not",
+                "si fanno": "are asked; one asks (impersonal construction)",
+                "soprattutto": "especially",
+                "perché": "because; why",
+                "ho": "I have",
+                "un": "a; one (masculine)",
+                "coltello": "knife",
+                "in mano": "in (my) hand"
+            },
+            "beginnerVocab": {
+                "queste": "these",
+                "domande": "questions",
+                "non": "not",
+                "si fanno": "are asked; do (you) ask",
+                "perché": "because; why",
+                "ho": "I have",
+                "un": "a; one",
+                "coltello": "knife",
+                "in mano": "in (my) hand"
+            },
+            "advancedVocab": {
+                "non si fanno": "one doesn't ask; they aren't asked (impersonal construction)",
+                "soprattutto": "above all; especially (emphasizing reason)"
+            }
+        },
+        {
+            "index": 29,
+            "startTimestamp": "00:03:52.780",
+            "endTimestamp": "00:03:57.940",
+            "vocab": {
+                "non posso": "I can't",
+                "poi": "then; after that",
+                "dovrei": "I should; I would have to",
+                "uccidervi": "kill you (all)",
+                "avete visto": "have you seen",
+                "nei": "in the",
+                "commenti": "comments",
+                "precedenti": "previous",
+                "c'era": "there was",
+                "un botto di": "a lot of; tons of (slang)",
+                "gente": "people",
+                "che": "who; that",
+                "chiedeva": "was asking"
+            },
+            "beginnerVocab": {
+                "non": "not",
+                "posso": "I can",
+                "voi": "you (plural)",
+                "gente": "people",
+                "chiedeva": "asked; was asking",
+                "commenti": "comments",
+                "precedenti": "previous (earlier)",
+                "botto": "a lot (slang; literally 'bang')"
+            },
+            "advancedVocab": {
+                "un botto di gente": "a ton of people; loads of people (slang, 'botto' literally means 'bang', used here for 'a lot')"
+            }
+        },
+        {
+            "index": 30,
+            "startTimestamp": "00:03:57.940",
+            "endTimestamp": "00:04:01.800",
+            "vocab": {
+                "ma": "but",
+                "tu": "you",
+                "che": "what",
+                "fai": "do; make",
+                "nella vita": "in (your) life; for a living",
+                "mi porti": "bring me; will you bring me",
+                "una scopa": "a broom",
+                "una paletta": "a dustpan"
+            },
+            "beginnerVocab": {
+                "ma": "but",
+                "tu": "you",
+                "che": "what",
+                "fai": "do; make",
+                "vita": "life",
+                "mi": "me",
+                "porti": "bring",
+                "una": "a; one (feminine)",
+                "scopa": "broom",
+                "paletta": "dustpan"
+            },
+            "advancedVocab": {
+                "che fai nella vita": "what do you do for a living; what is your job (idiomatic, literally 'what do you do in life')",
+                "scopa": "broom",
+                "paletta": "dustpan"
+            }
+        },
+        {
+            "index": 31,
+            "startTimestamp": "00:04:02.860",
+            "endTimestamp": "00:04:07.460",
+            "vocab": {
+                "sì": "yes",
+                "un po'": "a little; a bit",
+                "perché": "because",
+                "ci sono": "there are",
+                "dei": "some; a few (partitive article)",
+                "pezzi": "pieces; parts"
+            },
+            "beginnerVocab": {
+                "Sì": "Yes",
+                "un po'": "a little",
+                "perché": "because",
+                "pezzi": "pieces; parts",
+                "Iron man": "Iron man"
+            },
+            "advancedVocab": {
+                "ci sono": "there are; there is (impersonal construction)",
+                "dei": "some; a few (partitive article, can be confusing)"
+            }
+        },
+        {
+            "index": 32,
+            "startTimestamp": "00:04:10.880",
+            "endTimestamp": "00:04:16.560",
+            "vocab": {
+                "pomodorini": "cherry tomatoes",
+                "perché": "because; why",
+                "voi": "you (plural)",
+                "avete mai": "have you ever",
+                "saputo": "known",
+                "che cosa": "what",
+                "facesse": "did; was doing (subjunctive, imperfect)",
+                "di lavoro": "for work; as a job"
+            },
+            "beginnerVocab": {
+                "pomodorini": "cherry tomatoes",
+                "voi": "you (plural)",
+                "che": "what; that",
+                "cosa": "thing; what",
+                "lavoro": "work; job"
+            },
+            "advancedVocab": {
+                "Eeeee": "Ummm; Well (elongated 'E' as a discourse marker)",
+                "voi avete mai saputo": "have you ever known (emphatic, formal/plural 'you')",
+                "che cosa facesse": "what he did (imperfect subjunctive; indirect question)"
+            }
+        },
+        {
+            "index": 33,
+            "startTimestamp": "00:04:16.560",
+            "endTimestamp": "00:04:20.000",
+            "vocab": {
+                "sapete": "you know",
+                "solo": "only; just",
+                "che": "that; what",
+                "lui": "he; him",
+                "è": "is",
+                "a 'na certa": "at a certain point; eventually (colloquial, short for 'ad una certa')",
+                "no?": "right?; isn't it? (tag question)",
+                "tipo": "like; for example",
+                "studi": "studies; do you study (noun or verb, context-dependent)"
+            },
+            "beginnerVocab": {
+                "sapete": "you know",
+                "solo": "only",
+                "lui": "he; him",
+                "è": "is",
+                "Batman": "Batman",
+                "tipo": "like; kind of (note: used as a filler word, similar to 'like' in English)",
+                "che": "what; that",
+                "studi": "studies; you study"
+            },
+            "advancedVocab": {
+                "a 'na certa": "at a certain point; eventually (colloquial, contracted form of 'a una certa')",
+                "Tipo": "like; for example (discourse marker, filler)"
+            }
+        },
+        {
+            "index": 34,
+            "startTimestamp": "00:04:20.000",
+            "endTimestamp": "00:04:25.300",
+            "vocab": {
+                "che": "what; which",
+                "fai": "do (you do)",
+                "nella": "in the",
+                "vita": "life",
+                "scienze della comunicazione": "communication sciences",
+                "facciamo": "shall we do; do we do",
+                "il test": "the test",
+                "del coltello": "of the knife",
+                "sui pomodori": "on the tomatoes"
+            },
+            "beginnerVocab": {
+                "che": "what",
+                "fai": "do (you do)",
+                "vita": "life",
+                "scienze": "sciences",
+                "comunicazione": "communication",
+                "facciamo": "let's do",
+                "test": "test",
+                "coltello": "knife",
+                "pomodori": "tomatoes"
+            },
+            "advancedVocab": {
+                "Che fai nella vita?": "What do you do for a living? (idiomatic; literally 'What do you do in life?')",
+                "Scienze della comunicazione": "Communication studies; Communication sciences (university degree, not literal sciences)",
+                "Facciamo il test del coltello sui pomodori?": "Shall we do the knife test on tomatoes? (sarcastic; refers to a common demonstration in Italy for knife sharpness, used here as a joke)"
+            }
+        },
+        {
+            "index": 35,
+            "startTimestamp": "00:04:25.440",
+            "endTimestamp": "00:04:29.560",
+            "vocab": {
+                "per": "to; for (expressing purpose)",
+                "vedere": "to see",
+                "se": "if; whether",
+                "coltello": "knife",
+                "taglia": "cuts",
+                "si usa": "one uses; is used",
+                "carta": "paper",
+                "pomodori": "tomatoes"
+            },
+            "beginnerVocab": {
+                "vedere": "to see",
+                "coltello": "knife",
+                "taglia": "cuts",
+                "carta": "paper",
+                "pomodori": "tomatoes"
+            },
+            "advancedVocab": {
+                "Per vedere se": "To see if; In order to see if (discourse marker, introduces purpose)",
+                "taglia": "cuts (present tense, can be confused with 'to cut' as an action vs. as a property)",
+                "si usa": "one uses; is used (impersonal construction, passive meaning)"
+            }
+        },
+        {
+            "index": 36,
+            "startTimestamp": "00:04:29.700",
+            "endTimestamp": "00:04:34.940",
+            "vocab": {
+                "se": "if",
+                "riesci a": "you can; you manage to",
+                "fare": "to make; to do",
+                "fettine": "slices",
+                "super piccole": "very small; super small",
+                "sottili": "thin",
+                "significa che": "it means that",
+                "coltello": "knife",
+                "buono": "good"
+            },
+            "beginnerVocab": {
+                "fare": "to do; to make",
+                "fettine": "slices",
+                "piccole": "small",
+                "sottili": "thin",
+                "coltello": "knife",
+                "buono": "good"
+            },
+            "advancedVocab": {
+                "fettine": "thin slices (often refers to thinly sliced meat or food)",
+                "super piccole e sottili": "super small and thin (emphatic, colloquial intensifier)"
+            }
+        },
+        {
+            "index": 37,
+            "startTimestamp": "00:04:40.400",
+            "endTimestamp": "00:04:47.300",
+            "vocab": {
+                "appurato che": "established that; once it is established that (note: formal, often used to mean 'given that')",
+                "questo": "this",
+                "coltello": "knife",
+                "funziona": "works; functions"
+            },
+            "beginnerVocab": {
+                "coltello": "knife",
+                "funziona": "works;functions",
+                "questo": "this"
+            },
+            "advancedVocab": {
+                "Appurato che": "Having established that; Once it is established that (formal, often used to introduce a conclusion or next step)"
+            }
+        },
+        {
+            "index": 38,
+            "startTimestamp": "00:04:47.300",
+            "endTimestamp": "00:04:55.260",
+            "vocab": {
+                "ci diamo": "we give ourselves; we do (reflexive, informal)",
+                "un bel taglio": "a nice cut",
+                "in quattro": "into four (pieces)",
+                "a questi pomodorini": "to these cherry tomatoes",
+                "come tagliare il burro": "like cutting butter",
+                "sarà bellissimo": "it will be beautiful; it will be great"
+            },
+            "beginnerVocab": {
+                "diamo": "we give",
+                "bel": "nice; beautiful",
+                "taglio": "cut",
+                "quattro": "four",
+                "pomodorini": "cherry tomatoes",
+                "tagliare": "to cut",
+                "burro": "butter",
+                "bellissimo": "very beautiful; wonderful"
+            },
+            "advancedVocab": {
+                "ci diamo un bel taglio": "let's give it a nice cut; let's cut it nicely (idiomatic, implies doing something decisively or efficiently)",
+                "in quattro": "into four pieces; in quarters (can be confused with 'in four' literally)",
+                "come tagliare il burro": "like cutting butter (idiom, means very easily)"
+            }
+        },
+        {
+            "index": 39,
+            "startTimestamp": "00:04:55.380",
+            "endTimestamp": "00:05:03.320",
+            "vocab": {
+                "andiamo": "let's go; we go",
+                "coi": "with the (colloquial contraction of 'con i')",
+                "pomodorini": "cherry tomatoes",
+                "comunque": "anyway; however",
+                "'sta": "this (colloquial for 'questa')",
+                "piastra": "hot plate; stove top",
+                "si lamenta": "complains",
+                "quando": "when",
+                "non c'è": "there isn't; there is not",
+                "la pentola": "the pot",
+                "sul fuoco": "on the heat; on the stove"
+            },
+            "beginnerVocab": {
+                "andiamo": "let's go; we go",
+                "pomodorini": "cherry tomatoes",
+                "piastra": "hot plate; griddle",
+                "pentola": "pot",
+                "fuoco": "fire; heat (cooking)"
+            },
+            "advancedVocab": {
+                "Comunque": "anyway; in any case (discourse marker)",
+                "'sta": "this (colloquial contraction of 'questa')",
+                "si lamenta": "complains; makes a noise (can refer to a device making a warning sound)",
+                "sul fuoco": "on the stove; on the burner (literally 'on the fire', idiomatic for cooking)"
+            }
+        },
+        {
+            "index": 40,
+            "startTimestamp": "00:05:03.320",
+            "endTimestamp": "00:05:13.840",
+            "vocab": {
+                "dai": "come on; go on (encouragement, urging)",
+                "avete sentito": "did you hear",
+                "visto": "seen; did you see",
+                "ravvivato": "revived; rekindled",
+                "il fuoco": "the fire",
+                "per": "to; in order to",
+                "far andare": "make go; keep going (cause to continue)",
+                "tutto": "all; everything",
+                "il sughetto": "the sauce (diminutive, 'little sauce')"
+            },
+            "beginnerVocab": {
+                "dai": "come on",
+                "avete": "you have (plural)",
+                "sentito": "heard",
+                "visto": "seen",
+                "fuoco": "fire",
+                "tutto": "all; everything",
+                "sughetto": "sauce (diminutive of 'sugo')"
+            },
+            "advancedVocab": {
+                "dai": "come on; go on (discourse marker, urging or encouraging)",
+                "ravvivato il fuoco": "revived the fire; stoked the fire (to make a flame burn more strongly)",
+                "sughetto": "little sauce; pan sauce (diminutive, refers to the cooking juices or sauce in a pan)"
+            }
+        },
+        {
+            "index": 41,
+            "startTimestamp": "00:05:13.840",
+            "endTimestamp": "00:05:19.620",
+            "vocab": {
+                "è ora di": "it's time to",
+                "calare": "to drop; to put in (cooking context)",
+                "la pasta": "the pasta",
+                "\"Caliamo\"": "\"Let's drop (the pasta)\"; \"Let's put in (the pasta)\"",
+                "modo di dire": "way of saying; expression",
+                "che ne sai tu": "what do you know about it; what do you know"
+            },
+            "beginnerVocab": {
+                "ora": "hour; time",
+                "pasta": "pasta",
+                "calare": "to lower; to put in (cooking context: to put pasta in water)"
+            },
+            "advancedVocab": {
+                "calare la pasta": "to put the pasta in (the water); to start cooking the pasta (idiomatic, not literal 'to lower the pasta')",
+                "Caliamo": "'Let's put (the pasta) in'; 'Let's start cooking (the pasta)' (imperative/colloquial, from 'calare')",
+                "modo di dire": "saying; idiom"
+            }
+        },
+        {
+            "index": 42,
+            "startTimestamp": "00:05:19.620",
+            "endTimestamp": "00:05:24.880",
+            "vocab": {
+                "polenta": "cornmeal mush; polenta (Italian dish)",
+                "osei": "birds (dialect; refers to a type of sweet or actual birds)",
+                "di che cosa": "what; about what",
+                "significa": "means",
+                "calare": "to lower; to drop; to put in (cooking context: to add to boiling water)",
+                "la pasta": "the pasta",
+                "caliamo": "we lower; we put in (cooking context: we add)",
+                "la pasta!": "the pasta!"
+            },
+            "beginnerVocab": {
+                "polenta": "polenta (cornmeal dish)",
+                "osei": "birds (dialect; small birds, often used in cooking)",
+                "pasta": "pasta",
+                "calare": "to lower; to drop (in context: to put into water)",
+                "significa": "means"
+            },
+            "advancedVocab": {
+                "polenta e osei": "polenta and birds (Bergamo dessert; also literally 'polenta and birds')",
+                "calare la pasta": "to put the pasta in (the boiling water); to drop the pasta"
+            }
+        },
+        {
+            "index": 43,
+            "startTimestamp": "00:05:24.880",
+            "endTimestamp": "00:05:31.480",
+            "vocab": {
+                "direi": "I would say",
+                "che": "that",
+                "su": "on; about (here: approximately)",
+                "mezzo kg": "half a kilo",
+                "qua": "here",
+                "magnamo": "we eat (Roman dialect; standard: mangiamo)",
+                "tutti": "everyone; all",
+                "ricordatevi": "remember (you all; imperative)",
+                "sempre": "always",
+                "di": "to; of",
+                "salare": "to salt",
+                "la pasta": "the pasta"
+            },
+            "beginnerVocab": {
+                "mezzo": "half",
+                "kg": "kilogram",
+                "qua": "here",
+                "tutti": "everyone; all",
+                "ricordatevi": "remember",
+                "sempre": "always",
+                "salare": "to salt; to add salt",
+                "pasta": "pasta"
+            },
+            "advancedVocab": {
+                "mezzo kg": "half a kilo",
+                "magnamo": "we eat; let's eat (Roman dialect; colloquial)",
+                "salare la pasta": "to salt the pasta (note: refers to adding salt to the water when cooking pasta, a key step in Italian cooking)"
+            }
+        },
+        {
+            "index": 44,
+            "startTimestamp": "00:05:31.480",
+            "endTimestamp": "00:05:36.840",
+            "vocab": {
+                "ma": "but",
+                "non troppo": "not too much",
+                "i pomodori": "the tomatoes",
+                "stanno andando": "are cooking; are going (here: are cooking)",
+                "il sughetto": "the little sauce; the sauce (diminutive)",
+                "si sta creando": "is forming; is being created"
+            },
+            "beginnerVocab": {
+                "pomodori": "tomatoes",
+                "sughetto": "sauce (diminutive; little sauce)",
+                "creando": "creating; forming",
+                "andando": "going; cooking (context: food cooking)"
+            },
+            "advancedVocab": {
+                "stanno andando": "are cooking; are progressing (note: literally 'are going', used for food cooking)",
+                "sughetto": "little sauce; light sauce (note: diminutive of 'sugo', often refers to the sauce forming in the pan)",
+                "si sta creando": "is forming; is being created (note: reflexive construction, emphasizes sauce forming on its own)"
+            }
+        },
+        {
+            "index": 45,
+            "startTimestamp": "00:05:36.840",
+            "endTimestamp": "00:05:47.540",
+            "vocab": {
+                "se": "if",
+                "serve": "is needed; is necessary",
+                "ci prendiamo": "we take (for ourselves)",
+                "no": "no",
+                "un pochino": "a little bit",
+                "acqua di cottura": "cooking water"
+            },
+            "beginnerVocab": {
+                "acqua": "water",
+                "cottura": "cooking",
+                "pochino": "a little; a bit",
+                "serve": "is needed; is necessary",
+                "prendiamo": "we take"
+            },
+            "advancedVocab": {
+                "Se serve": "If needed; If necessary (discourse marker, often used to suggest an optional step)",
+                "acqua di cottura": "cooking water (specifically the water in which something, usually pasta, has been cooked)",
+                "un pochino": "a little bit; a tiny bit (diminutive, more nuanced than 'un po')"
+            }
+        },
+        {
+            "index": 46,
+            "startTimestamp": "00:05:48.400",
+            "endTimestamp": "00:05:55.800",
+            "vocab": {
+                "e": "and",
+                "la": "it; her (feminine pronoun)",
+                "aggiungiamo": "we add",
+                "al": "to the",
+                "sugo": "sauce",
+                "nel frattempo": "in the meantime",
+                "prendiamo": "we take",
+                "il tonno": "the tuna",
+                "ultimiamo": "we finish; we complete",
+                "il sughetto": "the little sauce; the sauce (diminutive)"
+            },
+            "beginnerVocab": {
+                "aggiungiamo": "we add",
+                "sugo": "sauce",
+                "tonno": "tuna",
+                "ultimiamo": "we finish",
+                "sughetto": "little sauce; small sauce"
+            },
+            "advancedVocab": {
+                "ultimiamo": "we finish; we complete (note: uncommon verb form in everyday speech)",
+                "sughetto": "little sauce; small amount of sauce (diminutive, affectionate or informal)"
+            }
+        },
+        {
+            "index": 47,
+            "startTimestamp": "00:05:57.300",
+            "endTimestamp": "00:06:03.820",
+            "vocab": {
+                "questo": "this",
+                "può": "can",
+                "andare via": "go away; be removed",
+                "il tonno": "the tuna",
+                "servirà": "will be useful; will serve",
+                "a niente": "for nothing; to no purpose",
+                "che ca...": "(fragment; possibly 'che cavolo' meaning 'what the heck')",
+                "fai": "you make; you do",
+                "la pasta": "the pasta",
+                "col pesce": "with fish"
+            },
+            "beginnerVocab": {
+                "andare": "to go",
+                "via": "away",
+                "tonno": "tuna",
+                "pasta": "pasta",
+                "pesce": "fish"
+            },
+            "advancedVocab": {
+                "andare via": "go away; be removed (context-dependent, can mean 'get rid of')",
+                "servirà": "will be useful; will serve (future tense of 'servire', can mean 'will be needed')",
+                "che ca...": "what the he... (incomplete, likely a truncated expletive or slang, e.g., 'che cazzo', meaning 'what the hell')"
+            }
+        },
+        {
+            "index": 48,
+            "startTimestamp": "00:06:04.580",
+            "endTimestamp": "00:06:11.460",
+            "vocab": {
+                "quindi": "so; therefore",
+                "prendiamo": "we take",
+                "la pasta": "the pasta",
+                "andiamo": "we go",
+                "direttamente": "directly",
+                "in padella": "in the pan",
+                "quanta": "how much",
+                "c***o": "f***ing (vulgar intensifier)",
+                "di": "of",
+                "ho messo": "I put"
+            },
+            "beginnerVocab": {
+                "prendiamo": "we take",
+                "pasta": "pasta",
+                "andiamo": "we go",
+                "padella": "pan"
+            },
+            "advancedVocab": {
+                "Quindi": "So; Therefore (discourse marker)",
+                "direttamente": "directly (emphasizing immediacy or lack of intermediate steps)",
+                "in padella": "in the pan (specific cooking context)",
+                "Quanta c***o di": "How the hell much; How freaking much (vulgar intensifier, expresses surprise or frustration)"
+            }
+        },
+        {
+            "index": 49,
+            "startTimestamp": "00:06:11.840",
+            "endTimestamp": "00:06:18.380",
+            "vocab": {
+                "bene": "well; okay",
+                "a questo punto": "at this point",
+                "pasta": "pasta",
+                "facciamo andare": "let (it) cook; let (it) go (cooking context)",
+                "saltiamo": "toss; sauté",
+                "con": "with",
+                "tutto": "all; the whole",
+                "sughetto": "sauce (diminutive, 'little sauce')"
+            },
+            "beginnerVocab": {
+                "bene": "well; good",
+                "pasta": "pasta",
+                "andare": "go (let it cook/go)",
+                "saltare": "to toss; to sauté",
+                "tutto": "all; everything",
+                "sughetto": "sauce (diminutive; little sauce)"
+            },
+            "advancedVocab": {
+                "a questo punto": "at this point",
+                "facciamo andare": "let (it) cook; let (it) go (cooking context)",
+                "saltiamo": "toss (in a pan); sauté",
+                "sughetto": "little sauce; sauce (diminutive, affectionate or informal)"
+            }
+        },
+        {
+            "index": 50,
+            "startTimestamp": "00:06:20.260",
+            "endTimestamp": "00:06:27.440",
+            "vocab": {
+                "Non": "not",
+                "te": "you",
+                "l'": "it (object pronoun; contraction of 'lo' or 'la')",
+                "aspettavi": "expected (you)",
+                "eh?": "eh?; right?; huh?",
+                "C'è": "there is",
+                "una": "a; one (feminine)",
+                "leggenda": "legend",
+                "intorno a": "around; about",
+                "noi": "us; we",
+                "universitari": "university students",
+                "del": "of the (di + il)",
+                "caffè": "coffee",
+                "dello": "of the (di + lo)",
+                "studente": "student"
+            },
+            "beginnerVocab": {
+                "leggenda": "legend",
+                "intorno": "around",
+                "noi": "we; us",
+                "universitari": "university students",
+                "caffè": "coffee",
+                "studente": "student"
+            },
+            "advancedVocab": {
+                "Non te l'aspettavi eh?": "You didn't expect it, did you? (colloquial tag question; 'eh?' adds emphasis or seeks agreement)",
+                "leggenda del caffè dello studente": "legend of the student's coffee (culturally specific; refers to a humorous or mythical concept among university students in Italy)"
+            }
+        },
+        {
+            "index": 51,
+            "startTimestamp": "00:06:27.440",
+            "endTimestamp": "00:06:35.140",
+            "vocab": {
+                "nessuno": "nobody; no one",
+                "conosce": "knows",
+                "il caffè": "the coffee",
+                "dello studente": "of the student; student's",
+                "noi": "we",
+                "studentelli": "little students; students (diminutive, informal)",
+                "in piena": "in the middle of; in full",
+                "sessione d'esame": "exam session; exam period"
+            },
+            "beginnerVocab": {
+                "nessuno": "no one; nobody",
+                "conosce": "knows",
+                "caffè": "coffee",
+                "studente": "student",
+                "noi": "we"
+            },
+            "advancedVocab": {
+                "caffè dello studente": "student's coffee (slang for a quick, strong coffee often consumed by students during exam periods)",
+                "studentelli": "little students; student types (diminutive, informal, sometimes self-deprecating)",
+                "sessione d'esame": "exam session (specific period dedicated to exams in Italian universities)"
+            }
+        },
+        {
+            "index": 52,
+            "startTimestamp": "00:06:35.140",
+            "endTimestamp": "00:06:39.160",
+            "vocab": {
+                "che": "what; that",
+                "facciamo": "we do; we make",
+                "il caffè": "the coffee",
+                "con": "with",
+                "la bella moka": "the nice moka pot (Italian coffee maker)",
+                "perché": "because; why",
+                "a noi": "to us",
+                "non ci piacciono": "we don't like (lit. 'they are not pleasing to us')",
+                "le": "the (feminine plural)"
+            },
+            "beginnerVocab": {
+                "facciamo": "we do; we make",
+                "caffè": "coffee",
+                "bella": "beautiful; nice",
+                "moka": "moka pot (Italian coffee maker)"
+            },
+            "advancedVocab": {
+                "bella moka": "nice moka pot; beautiful moka pot (refers to the classic Italian stovetop coffee maker, culturally specific)",
+                "a noi non ci piacciono": "we don't like (redundant 'a noi' + 'ci' for emphasis, common in spoken Italian)"
+            }
+        },
+        {
+            "index": 53,
+            "startTimestamp": "00:06:39.160",
+            "endTimestamp": "00:06:44.900",
+            "vocab": {
+                "macchinette automatiche": "automatic machines; vending machines",
+                "usiamo": "we use",
+                "caffè": "coffee",
+                "precedentemente": "previously",
+                "fatto": "made; done",
+                "acqua": "water",
+                "prossimo": "next",
+                "per": "for"
+            },
+            "beginnerVocab": {
+                "macchinette automatiche": "automatic machines",
+                "caffè": "coffee",
+                "acqua": "water"
+            },
+            "advancedVocab": {
+                "macchinette automatiche": "automatic machines; vending machines (context: coffee machines)",
+                "precedentemente fatto": "previously made; previously brewed (context: coffee already prepared)"
+            }
+        },
+        {
+            "index": 54,
+            "startTimestamp": "00:06:45.940",
+            "endTimestamp": "00:06:52.940",
+            "vocab": {
+                "cioè": "that is; I mean",
+                "tu": "you",
+                "bevi": "drink",
+                "questo": "this",
+                "caffè": "coffee",
+                "dopodiché": "after that; then",
+                "esci": "take out; go out with",
+                "il cane": "the dog",
+                "lo pisci": "make him pee; let him pee",
+                "correndo dietro": "running after (him)"
+            },
+            "beginnerVocab": {
+                "tu": "you",
+                "bevi": "drink",
+                "questo": "this",
+                "caffè": "coffee",
+                "esci": "go out; take out (note: here, 'take out' as in 'take the dog out')",
+                "cane": "dog",
+                "correndo": "running",
+                "dietro": "behind"
+            },
+            "advancedVocab": {
+                "cioè": "that is; I mean (discourse marker, clarifies or rephrases)",
+                "dopodiché": "after that; then (formal/structured connector)",
+                "esci il cane": "take the dog out (colloquial, literally 'you exit the dog')",
+                "pisci": "make the dog pee; walk the dog to pee (slang/colloquial, from 'far pisciare')"
+            }
+        },
+        {
+            "index": 55,
+            "startTimestamp": "00:06:52.940",
+            "endTimestamp": "00:07:00.660",
+            "vocab": {
+                "a uno stormo": "to a flock; to a swarm",
+                "unicorni volanti": "flying unicorns",
+                "ti posso assicurare": "I can assure you",
+                "l'abbiocco": "drowsiness; sleepiness (slang, feeling sleepy after eating)",
+                "non ti viene": "doesn't come to you; you don't get (it)"
+            },
+            "beginnerVocab": {
+                "uno": "one; a",
+                "stormo": "flock",
+                "unicorni": "unicorns",
+                "volanti": "flying",
+                "posso": "I can",
+                "assicurare": "to assure; to guarantee",
+                "viene": "comes (from 'venire', to come)"
+            },
+            "advancedVocab": {
+                "stormo": "flock; swarm (used for birds or flying creatures)",
+                "unicorni volanti": "flying unicorns (fantastical, not literal)",
+                "abbiocco": "drowsiness after eating; food coma (colloquial, Italian-specific)"
+            }
+        },
+        {
+            "index": 56,
+            "startTimestamp": "00:07:00.660",
+            "endTimestamp": "00:07:05.180",
+            "vocab": {
+                "di studiare": "to study",
+                "studi": "you study",
+                "fino a": "until; up to",
+                "le 3 di notte": "3 a.m.; 3 at night",
+                "domani mattina": "tomorrow morning",
+                "all'esame": "at the exam",
+                "invece di": "instead of",
+                "parlare": "to speak; to talk",
+                "col prof": "with the professor; with the teacher (col = con il)"
+            },
+            "beginnerVocab": {
+                "studiare": "to study",
+                "notte": "night",
+                "mattina": "morning",
+                "esame": "exam",
+                "parlare": "to speak; to talk",
+                "prof": "professor; teacher (informal)"
+            },
+            "advancedVocab": {
+                "fino alle 3 di notte": "until 3 in the morning",
+                "all'esame": "at the exam; during the exam (note: 'esame' is often used for university exams in Italy)",
+                "col prof": "with the professor; with the teacher (note: 'prof' is a common informal abbreviation for 'professore')"
+            }
+        },
+        {
+            "index": 57,
+            "startTimestamp": "00:07:05.180",
+            "endTimestamp": "00:07:11.300",
+            "vocab": {
+                "gli": "to him; to her; to them (indirect object pronoun)",
+                "tiri": "you throw; you hit (from 'tirare', 2nd person singular)",
+                "una testata": "a headbutt",
+                "in faccia": "in the face",
+                "18 politico": "automatic passing grade (university slang; literally 'political 18')",
+                "bam": "bam (sound effect)",
+                "fatto ordine": "order restored; order done"
+            },
+            "beginnerVocab": {
+                "tiri": "you throw; you shoot; you hit (from 'tirare', to throw/shoot/hit)",
+                "testata": "headbutt",
+                "faccia": "face",
+                "ordine": "order"
+            },
+            "advancedVocab": {
+                "testata": "headbutt",
+                "18 politico": "automatic pass; guaranteed minimum grade (university slang, refers to getting the lowest passing grade without effort)"
+            }
+        },
+        {
+            "index": 58,
+            "startTimestamp": "00:07:12.480",
+            "endTimestamp": "00:07:18.020",
+            "vocab": {
+                "no": "no",
+                "non": "not",
+                "si lavano": "are washed; you wash (impersonal)",
+                "mai": "never",
+                "in lavastoviglie": "in the dishwasher",
+                "i coltelli": "the knives",
+                "altrimenti": "otherwise",
+                "perdono": "they lose",
+                "il filo": "the edge; the sharpness (of a blade)"
+            },
+            "beginnerVocab": {
+                "no": "no",
+                "mai": "never",
+                "coltelli": "knives",
+                "lavastoviglie": "dishwasher",
+                "perdono": "lose"
+            },
+            "advancedVocab": {
+                "perdono il filo": "lose their edge; become dull (about knives)"
+            }
+        },
+        {
+            "index": 59,
+            "startTimestamp": "00:07:18.060",
+            "endTimestamp": "00:07:26.060",
+            "vocab": {
+                "ma": "but",
+                "parlaci": "talk to us; speak to us",
+                "altrimenti": "otherwise",
+                "perdono il filo": "I lose track; I lose the thread (lose focus/continuity)",
+                "La piastra": "the hotplate; the griddle; the plate (context: cooking appliance)",
+                "è spenta": "is off",
+                "il dado è tratto": "the die is cast (an irreversible decision has been made)"
+            },
+            "beginnerVocab": {
+                "parlaci": "talk to us",
+                "piastra": "hot plate; griddle; plate (cooking)",
+                "spenta": "off; turned off",
+                "dado": "die; dice (singular)",
+                "tratto": "drawn; cast (as in 'cast the die')"
+            },
+            "advancedVocab": {
+                "perdono il filo": "lose the thread; lose track (lose focus or understanding in a conversation)",
+                "il dado è tratto": "the die is cast (a decisive, irreversible step has been taken)"
+            }
+        },
+        {
+            "index": 60,
+            "startTimestamp": "00:07:26.060",
+            "endTimestamp": "00:07:33.060",
+            "vocab": {
+                "la pasta": "the pasta",
+                "è pronta": "is ready",
+                "dose da studente": "student portion; student-sized serving (note: 'dose' here means portion/serving)",
+                "quindi": "so; therefore",
+                "non facciamo": "we don't do; we aren't doing",
+                "le cose fighe": "cool things; awesome things ('fighe' is slang for 'cool', 'awesome')"
+            },
+            "beginnerVocab": {
+                "pasta": "pasta",
+                "pronta": "ready",
+                "studente": "student",
+                "cose": "things"
+            },
+            "advancedVocab": {
+                "Dose da studente": "student-sized portion; portion for a student (implies small/cheap portion)",
+                "fighe": "cool things; fancy things (slang, from 'figo', meaning cool/fancy)"
+            }
+        },
+        {
+            "index": 61,
+            "startTimestamp": "00:07:34.420",
+            "endTimestamp": "00:07:39.120",
+            "vocab": {
+                "fighe": "hot girls; babes (slang, informal, can be vulgar)",
+                "da studente": "student-style; like a student",
+                "e direi": "and I'd say; and I would say",
+                "anche": "also; too",
+                "che": "that",
+                "ci prendiamo": "we take; we get (reflexive, 'prendiamo' = we take, 'ci' = for ourselves)",
+                "un bel": "a nice; a good (emphasizer, 'bel' = bello = nice/good)",
+                "basilico": "basil (herb)"
+            },
+            "beginnerVocab": {
+                "studente": "student",
+                "basilico": "basil",
+                "bello;bel": "nice;beautiful (note: 'bel' is a form of 'bello')"
+            },
+            "advancedVocab": {
+                "fighe da studente": "hot girls for students; student babes (slang, informal, objectifying)",
+                "direi": "I would say; I'd say (softening, hedging)",
+                "ci prendiamo": "let's get ourselves; we take for ourselves (reflexive, inclusive 'we')",
+                "un bel basilico": "a nice basil (colloquial, 'bel' adds emphasis)"
+            }
+        },
+        {
+            "index": 62,
+            "startTimestamp": "00:07:39.300",
+            "endTimestamp": "00:07:49.380",
+            "vocab": {
+                "per": "for",
+                "un pochino": "a little bit; a tiny bit",
+                "di": "of",
+                "freschitudine": "freshness (colloquial/creative form)",
+                "vai": "go; go ahead",
+                "è pronto": "it's ready",
+                "ragazzi": "guys; everyone; folks",
+                "avete mai": "have you ever",
+                "fatto": "done; made",
+                "una pasta": "a pasta; pasta",
+                "in così poco tempo": "in such a short time"
+            },
+            "beginnerVocab": {
+                "pochino": "a little; a bit",
+                "pronto": "ready",
+                "ragazzi": "guys; kids; children",
+                "pasta": "pasta",
+                "tempo": "time"
+            },
+            "advancedVocab": {
+                "freschitudine": "freshness (playful, nonstandard word)"
+            }
+        },
+        {
+            "index": 63,
+            "startTimestamp": "00:07:49.380",
+            "endTimestamp": "00:07:54.060",
+            "vocab": {
+                "scommetto": "I bet",
+                "di no": "not; no (in this context: 'I bet not')",
+                "questo": "this",
+                "bel": "nice; beautiful (short for 'bello', here: 'nice')",
+                "video": "video",
+                "è giunto": "has come; has arrived",
+                "al termine": "to the end",
+                "ma": "but",
+                "vi assicuro": "I assure you (plural 'you')",
+                "che": "that",
+                "sessione d'esami": "exam session"
+            },
+            "beginnerVocab": {
+                "video": "video",
+                "bello": "beautiful; nice",
+                "termine": "end",
+                "sessione": "session",
+                "esami": "exams"
+            },
+            "advancedVocab": {
+                "Scommetto di no": "I bet not; I bet it isn't (idiomatic, emphatic denial)",
+                "giunto al termine": "come to an end; reached the end (formal/literary phrasing)",
+                "sessione d'esami": "exam session (specific to Italian academic context)"
+            }
+        },
+        {
+            "index": 64,
+            "startTimestamp": "00:07:54.060",
+            "endTimestamp": "00:07:58.280",
+            "vocab": {
+                "non": "not",
+                "finirà": "will end",
+                "mai": "never",
+                "se": "if",
+                "video": "video",
+                "vi è piaciuto": "you liked it;it pleased you (formal/plural)",
+                "lasciate": "leave;give (imperative, you all)",
+                "un bel like": "a nice like (thumbs up)"
+            },
+            "beginnerVocab": {
+                "video": "video",
+                "piaciuto": "liked",
+                "lasciate": "leave; let (imperative)",
+                "like": "like"
+            },
+            "advancedVocab": {
+                "vi è piaciuto": "you liked it (formal/plural; 'vi' as indirect object pronoun)",
+                "lasciate un bel like": "leave a nice like (colloquial; 'like' as in social media)"
+            }
+        },
+        {
+            "index": 65,
+            "startTimestamp": "00:07:58.280",
+            "endTimestamp": "00:08:01.800",
+            "vocab": {
+                "e": "and",
+                "fatemi sapere": "let me know",
+                "nei commenti": "in the comments",
+                "qual è": "which is; what is",
+                "il vostro": "your",
+                "piatto": "dish; plate (food)",
+                "da sessione d'esame": "for exam session (note: 'da' indicates purpose/use)"
+            },
+            "beginnerVocab": {
+                "commenti": "comments",
+                "piatto": "dish; plate",
+                "esame": "exam"
+            },
+            "advancedVocab": {
+                "fatemi sapere": "let me know",
+                "piatto da sessione d'esame": "exam session dish (dish typically eaten during exam periods)"
+            }
+        },
+        {
+            "index": 66,
+            "startTimestamp": "00:08:01.800",
+            "endTimestamp": "00:08:09.060",
+            "vocab": {
+                "sono sicuro": "I'm sure",
+                "che": "that",
+                "fate": "you do; you make",
+                "porcate": "gross things; dirty tricks (slang, negative)",
+                "tipo": "like; such as",
+                "mozzarella": "mozzarella",
+                "nel": "in the",
+                "lavello": "sink",
+                "'ste": "these (colloquial for 'queste')",
+                "cose": "things",
+                "qua": "here",
+                "Ricordatevi": "remember (you all)",
+                "di": "to; of",
+                "iscrivervi": "subscribe (you all)",
+                "al": "to the",
+                "nostro": "our",
+                "canale": "channel",
+                "Youtube": "YouTube"
+            },
+            "beginnerVocab": {
+                "sicuro": "sure; certain",
+                "mozzarella": "mozzarella (cheese)",
+                "lavello": "sink",
+                "cose": "things",
+                "qua": "here",
+                "ricordatevi": "remember",
+                "canale": "channel"
+            },
+            "advancedVocab": {
+                "porcate": "dirty tricks; gross things; nasty stuff (slang, pejorative)",
+                "mozzarella nel lavello": "mozzarella in the sink (culturally specific, implies improper food handling)",
+                "'ste": "these (colloquial contraction of 'queste')"
+            }
+        },
+        {
+            "index": 67,
+            "startTimestamp": "00:08:09.060",
+            "endTimestamp": "00:08:13.340",
+            "vocab": {
+                "di": "to; of (depends on context)",
+                "seguirci": "follow us",
+                "su": "on",
+                "tutti": "all",
+                "i social": "social media",
+                "e": "and",
+                "niente": "nothing; anyway (colloquial filler)",
+                "andate": "go (you all)",
+                "a fare": "to do",
+                "i compiti": "homework"
+            },
+            "beginnerVocab": {
+                "seguire": "to follow",
+                "social": "social media",
+                "andare": "to go",
+                "fare": "to do; to make",
+                "compiti": "homework"
+            },
+            "advancedVocab": {
+                "e niente": "and that's it; so; anyway (discourse marker, often used to wrap up or transition in speech)"
+            }
+        },
+        {
+            "index": 68,
+            "startTimestamp": "00:08:14.440",
+            "endTimestamp": "00:08:30.500",
+            "vocab": {
+                "volete": "do you want (plural)",
+                "assaggiare": "to taste; to try",
+                "com'è": "how is it; what's it like",
+                "grazie": "thank you; thanks",
+                "mamma": "mom; mum",
+                "attenzione": "attention; watch out",
+                "c'è": "there is; there’s",
+                "novità": "news; novelty",
+                "incredibile": "incredible; amazing",
+                "dal": "from the; since the",
+                "marzo": "March",
+                "è disponibile": "is available"
+            },
+            "beginnerVocab": {
+                "assaggiare": "to taste; to try (food)",
+                "grazie": "thank you",
+                "mamma": "mom; mum",
+                "attenzione": "attention; watch out",
+                "novità": "news; novelty",
+                "disponibile": "available"
+            },
+            "advancedVocab": {
+                "Immacolata": "Immaculate; (also a common female name, often referencing the Virgin Mary)",
+                "novità": "news; novelty; new development",
+                "disponibile": "available; in stock (context-dependent)"
+            }
+        },
+        {
+            "index": 69,
+            "startTimestamp": "00:08:30.500",
+            "endTimestamp": "00:08:35.820",
+            "vocab": {
+                "in preordine": "on pre-order; available for pre-order",
+                "nuovo": "new",
+                "libro": "book",
+                "Cucina": "cooking; cuisine",
+                "Uomini": "men",
+                "Non è bellissimo?": "Isn't it beautiful?; Isn't it great?",
+                "Non lasciatevelo scappare!": "Don't miss it!; Don't let it get away!"
+            },
+            "beginnerVocab": {
+                "libro": "book",
+                "nuovo": "new",
+                "cucina": "kitchen; cooking",
+                "uomini": "men",
+                "bellissimo": "very beautiful; gorgeous",
+                "non": "not",
+                "lasciare": "to leave; to let go",
+                "scappare": "to escape; to miss (let slip away)"
+            },
+            "advancedVocab": {
+                "in preordine": "on pre-order; available for pre-order",
+                "Non lasciatevelo scappare": "Don't let it slip away; Don't miss it (idiomatic, urging not to miss an opportunity)"
+            }
+        }
+    ],
+    "topics": [
+        "student life",
+        "exam stress",
+        "quick pasta recipes",
+        "cooking tips",
+        "knife skills",
+        "tuna pasta",
+        "celery pasta",
+        "tomato sauce",
+        "induction cooking",
+        "student hacks",
+        "fast meals",
+        "kitchen organization"
+    ]
+}

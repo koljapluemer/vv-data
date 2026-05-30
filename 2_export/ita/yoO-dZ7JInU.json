@@ -1,0 +1,1342 @@
+{
+    "videoId": "yoO-dZ7JInU",
+    "language": {
+        "iso3": "ita",
+        "subtitleLanguage": "it",
+        "humanReadable": "Italian"
+    },
+    "segments": [
+        {
+            "index": 1,
+            "startTimestamp": "00:00:05.649",
+            "endTimestamp": "00:00:28.419",
+            "vocab": {
+                "bongiorno": "good morning; hello",
+                "questo": "this",
+                "per favore": "please",
+                "ma": "but",
+                "si chiama": "is called; is named",
+                "buonissimo": "very good; delicious",
+                "opzione": "option",
+                "lo": "it; him",
+                "riconoscete": "you recognize",
+                "questo e quello": "this and that",
+                "per farlo": "to do it; to make it",
+                "serve": "is needed; serves",
+                "se": "if",
+                "mio amore": "my love",
+                "alla": "to the; at the",
+                "sua laurea": "his/her graduation"
+            },
+            "beginnerVocab": {
+                "buongiorno": "good morning;hello",
+                "questo": "this",
+                "per": "for",
+                "si chiama": "is called;is named",
+                "buonissimo": "very good;delicious",
+                "opzione": "option",
+                "riconoscete": "recognize (you plural)",
+                "quello": "that",
+                "fare": "to do;to make",
+                "amore": "love;darling (term of endearment)",
+                "laurea": "degree;graduation"
+            },
+            "advancedVocab": {
+                "per favoriti": "for favorites (possibly a mishearing or typo; could mean 'for favorites' or 'for you')",
+                "toraldo": "Toraldo (brand name; possibly coffee brand)",
+                "opzione": "option (can mean 'choice' or 'variant', not always literal 'option')",
+                "lo riconoscete": "do you recognize it (nuanced: 'do you recognize this one')",
+                "serve": "is needed; is required (can mean 'to need' or 'to be useful')",
+                "la sua laurea": "his/her graduation (nuanced: university degree ceremony, not just 'graduation')"
+            }
+        },
+        {
+            "index": 2,
+            "startTimestamp": "00:00:26.019",
+            "endTimestamp": "00:00:44.860",
+            "vocab": {
+                "amori": "loves; romances",
+                "questi": "these",
+                "invece": "instead; on the other hand",
+                "tutti": "all",
+                "i miei": "my (plural)",
+                "se va": "if it goes; if (he/she/it) goes",
+                "piccolino": "little one; small (affectionate)",
+                "chi": "who",
+                "nella": "in the (feminine singular)",
+                "tesi": "thesis",
+                "ed io": "and I",
+                "qua": "here",
+                "non": "not",
+                "me li ricordo": "I remember them",
+                "che sono": "that are; who are"
+            },
+            "beginnerVocab": {
+                "amori": "loves; sweethearts; darlings",
+                "piccolino": "little one; small",
+                "chi": "who",
+                "io": "I; me",
+                "qua": "here"
+            },
+            "advancedVocab": {
+                "piccolino": "little one; tiny (diminutive, affectionate)",
+                "chi e chi": "who is who (expression for identifying people)",
+                "nella tesi": "in the thesis (could refer to an academic thesis or a main point, context-dependent)",
+                "non me li ricordo": "I don't remember them (nuanced: 'li' refers to specific things/people previously mentioned)"
+            }
+        },
+        {
+            "index": 3,
+            "startTimestamp": "00:00:44.890",
+            "endTimestamp": "00:01:00.770",
+            "vocab": {
+                "dover": "to have to; must (note: likely a typo for 'dover(e)')",
+                "lavora": "he/she works; to work",
+                "in giorno": "in a day; during the day",
+                "comunque": "anyway; however",
+                "oggi": "today",
+                "che": "that; which; who",
+                "porterò": "I will bring; I will take",
+                "in una": "in a",
+                "mia": "my",
+                "giornata": "day; daytime",
+                "atipica": "atypical; unusual",
+                "a milano": "in Milan",
+                "il mattino": "the morning",
+                "da un po": "for a while; for some time",
+                "di appuntamenti": "of appointments; of meetings",
+                "e": "and",
+                "con alcuni": "with some"
+            },
+            "beginnerVocab": {
+                "lavorare": "to work",
+                "giorno": "day",
+                "oggi": "today",
+                "mattino": "morning",
+                "Milano": "Milan"
+            },
+            "advancedVocab": {
+                "comunque": "anyway; in any case (discourse marker, often used to shift topic or resume narrative)",
+                "giornata atipica": "unusual day; atypical day (nuanced, not a standard day)",
+                "appuntamenti": "appointments; meetings (can refer to scheduled meetings, not just romantic dates)"
+            }
+        },
+        {
+            "index": 4,
+            "startTimestamp": "00:00:59.000",
+            "endTimestamp": "00:01:13.570",
+            "vocab": {
+                "uffici stampa": "press offices",
+                "per quanto riguarda": "regarding; as for",
+                "soprattutto": "above all; especially",
+                "tessera gruppi": "group card; group pass",
+                "strutturata": "structured; organized (feminine form)",
+                "make up session": "makeup session",
+                "con": "with",
+                "se riesco": "if I manage; if I succeed",
+                "vi faccio vedere": "I'll show you (plural/formal)",
+                "qualcosina": "a little something; something small"
+            },
+            "beginnerVocab": {
+                "uffici": "offices",
+                "tessera": "card; badge (membership card)",
+                "gruppi": "groups",
+                "vedete": "you see",
+                "strutturata": "structured",
+                "make up": "makeup",
+                "session": "session",
+                "con": "with",
+                "se": "if",
+                "riesco": "I manage; I succeed",
+                "vi faccio vedere": "I show you",
+                "qualcosina": "something (a little something)"
+            },
+            "advancedVocab": {
+                "uffici stampa": "press offices",
+                "per quanto riguarda": "regarding; as far as ... is concerned",
+                "tessera gruppi": "group pass; group membership card",
+                "strutturata": "well-organized; structured (nuanced: describing a person as organized/prepared)",
+                "make up session": "makeup session (note: English phrase used in Italian)",
+                "qualcosina": "a little something; something small (diminutive, affectionate)"
+            }
+        },
+        {
+            "index": 5,
+            "startTimestamp": "00:01:13.580",
+            "endTimestamp": "00:01:34.600",
+            "vocab": {
+                "se": "if",
+                "molto": "very; a lot",
+                "contenta": "happy; content (feminine)",
+                "anche": "also; too",
+                "perché": "because; why",
+                "oggi": "today",
+                "poi": "then; later",
+                "rivedrò": "I will see again",
+                "mia mamma": "my mom",
+                "dopo": "after",
+                "due anni e mezzo": "two and a half years",
+                "quindi": "so; therefore",
+                "saremo": "we will be",
+                "a un blog": "at a blog",
+                "molto particolari": "very special; very particular (plural)",
+                "molto particolare": "very special; very particular (singular)",
+                "chi": "who; whoever",
+                "sopporta": "endures; puts up with",
+                "temi": "topics; themes",
+                "lasciando": "leaving",
+                "un super laica": "a super like (note: 'laica' is likely a misspelling of 'like')",
+                "questo video": "this video",
+                "che": "that; which",
+                "io": "I",
+                "adesso": "now",
+                "mi dirigo": "I head; I go",
+                "primo punto": "first point; first stop",
+                "it": "it (could be 'IT' as in Italy or a website)"
+            },
+            "beginnerVocab": {
+                "contenta": "happy",
+                "oggi": "today",
+                "mia mamma": "my mom; my mother",
+                "due anni": "two years",
+                "video": "video",
+                "adesso": "now",
+                "primo": "first",
+                "punto": "point; place"
+            },
+            "advancedVocab": {
+                "anche perché": "also because; especially because (discourse marker, adds emphasis or justification)",
+                "rivedrò": "I will see again (future tense of 'rivedere', may be tricky due to compound meaning)",
+                "due anni e mezzo": "two and a half years (note 'mezzo' for 'half', not always obvious)",
+                "molto particolari": "very particular; very special (can mean 'unique', 'special', not just 'particular')",
+                "chi sopporta": "who can stand; who tolerates (from 'sopportare', which means 'to tolerate', not 'to support')",
+                "lasciando un super laica": "leaving a super like (slang/borrowed from English 'like', refers to liking a video)",
+                "mi dirigo": "I head to; I go towards (from 'dirigersi', reflexive verb, not just 'go')",
+                "gno primo punto it": "gno primo dot it (likely a mispronunciation or typo for a website, could confuse learners)"
+            }
+        },
+        {
+            "index": 6,
+            "startTimestamp": "00:01:34.900",
+            "endTimestamp": "00:01:47.580",
+            "vocab": {
+                "e poi": "and then",
+                "ci rivediamo": "we see each other again; we meet again",
+                "dopo": "later; after",
+                "anche perché": "also because; especially because",
+                "devo": "I have to; I must",
+                "comprare": "to buy",
+                "mi devo ricordare di": "I have to remember to; I must remember to",
+                "un po' di": "a bit of; some",
+                "bianco": "white (color)",
+                "per": "for",
+                "tailleur sportivo": "sporty suit; sports suit",
+                "per domani": "for tomorrow",
+                "che": "that; which (relative pronoun, often introducing a clause)"
+            },
+            "beginnerVocab": {
+                "comprare": "to buy",
+                "ricordare": "to remember",
+                "bianco": "white",
+                "domani": "tomorrow"
+            },
+            "advancedVocab": {
+                "ci rivediamo": "we'll see each other again; we'll meet again (note: 'ci' adds reflexive nuance, common in Italian)",
+                "anche perché": "also because; especially because (note: discourse marker, often used to introduce a reason or justification)",
+                "tailleur sportivo": "sporty suit; casual suit (note: 'tailleur' is a French loanword in Italian, refers specifically to a women's suit)"
+            }
+        },
+        {
+            "index": 7,
+            "startTimestamp": "00:01:46.030",
+            "endTimestamp": "00:01:56.940",
+            "vocab": {
+                "andrò": "I will go",
+                "al": "to the",
+                "cosmoprof": "Cosmoprof (event name)",
+                "quindi": "so; therefore",
+                "però": "but; however",
+                "devo": "I must; I have to",
+                "ricordare": "to remember",
+                "quante": "how many",
+                "cose": "things",
+                "bellissime": "very beautiful; wonderful",
+                "che": "that; which",
+                "ci sono": "there are",
+                "quest'anno": "this year",
+                "share": "share (English word used in Italian)",
+                "lo": "it (direct object pronoun)"
+            },
+            "beginnerVocab": {
+                "andrò": "I will go",
+                "devo": "I must; I have to",
+                "ricordare": "to remember",
+                "cose": "things",
+                "bellissime": "very beautiful; gorgeous",
+                "anno": "year"
+            },
+            "advancedVocab": {
+                "cosmoprof": "Cosmoprof (international cosmetics trade fair)",
+                "quindi però": "so but; therefore however (unusual combination of discourse markers)",
+                "share lo": "share it (mix of English verb and Italian pronoun, informal usage)"
+            }
+        },
+        {
+            "index": 8,
+            "startTimestamp": "00:02:06.450",
+            "endTimestamp": "00:02:26.879",
+            "vocab": {
+                "proverò": "I will try",
+                "casa": "home; house",
+                "mi hanno appena": "they just (to me)",
+                "pubblicato": "published",
+                "questo": "this",
+                "tema": "theme; topic; essay",
+                "si chiama": "is called; is named",
+                "venuta": "came; has come (feminine, past participle)"
+            },
+            "beginnerVocab": {
+                "casa": "house; home",
+                "tema": "theme; topic",
+                "facebook": "Facebook (social network)"
+            },
+            "advancedVocab": {
+                "proverò casa": "I'll try home; I'll try at home (unusual phrasing, possibly elliptical or idiomatic)",
+                "mi hanno appena pubblicato": "they just published for me; they've just published (nuanced passive construction)",
+                "tema": "essay; theme (can mean 'essay' in school context, not just 'theme')",
+                "venuta": "turned out; came out (here means 'resulted', not 'came')"
+            }
+        },
+        {
+            "index": 9,
+            "startTimestamp": "00:02:30.750",
+            "endTimestamp": "00:02:44.370",
+            "vocab": {
+                "sono": "I am; I have (with past participle)",
+                "entrata": "entered (feminine singular)",
+                "quelle": "those",
+                "occhiaie": "dark circles (under eyes)",
+                "perché": "because; why",
+                "io": "I",
+                "che": "that; who; which",
+                "dormito": "slept",
+                "voglio": "I want",
+                "questo": "this",
+                "se": "if",
+                "guardate": "you look (plural imperative)",
+                "mio": "my",
+                "sguardo": "look; gaze",
+                "perennemente": "perennially; constantly",
+                "stampa": "print; imprint",
+                "come": "how; like; as",
+                "diventato": "become; became"
+            },
+            "beginnerVocab": {
+                "sono": "I am; they are (note: verb 'to be')",
+                "entrata": "entered (feminine singular)",
+                "occhiaie": "dark circles (under eyes)",
+                "dormito": "slept",
+                "voglio": "I want",
+                "questo": "this",
+                "guardate": "look (you all look)",
+                "sguardo": "look; gaze",
+                "come": "how; like",
+                "diventato": "became; become"
+            },
+            "advancedVocab": {
+                "occhiaie": "dark circles (under the eyes)",
+                "perennemente": "perpetually; constantly",
+                "stampa": "print; (here: fixed expression or 'stamped' look) (note: can be confusing due to multiple meanings)"
+            }
+        },
+        {
+            "index": 10,
+            "startTimestamp": "00:02:45.010",
+            "endTimestamp": "00:02:58.990",
+            "vocab": {
+                "tra": "among; between",
+                "make up artist": "makeup artist",
+                "mi ha utilizzato": "used me; used on me",
+                "per": "to; for",
+                "cancellare": "erase; cancel",
+                "la mia": "my",
+                "cucchiai": "spoons (note: likely a mishearing or typo for 'occhiaia' = dark circles)",
+                "a questo": "to this",
+                "nuovo": "new",
+                "correttore": "concealer",
+                "a prima": "at first; first",
+                "neutralizzato": "neutralized",
+                "occhiaia": "dark circles (under eyes)",
+                "con": "with",
+                "questo": "this"
+            },
+            "beginnerVocab": {
+                "make up artist": "makeup artist",
+                "cancellare": "erase; delete; remove",
+                "cucchiaio": "spoon",
+                "nuovo": "new",
+                "correttore": "concealer; corrector",
+                "prima": "before; first",
+                "neutralizzato": "neutralized",
+                "occhiaia": "dark circle (under the eyes)",
+                "questo": "this"
+            },
+            "advancedVocab": {
+                "make up artist": "makeup artist (loanword, not always obvious in Italian context)",
+                "cancellare la mia cucchiai": "erase my dark circles (note: 'cucchiai' is likely a mishearing or typo for 'occhiaie', which means 'dark circles under the eyes')",
+                "correttore": "concealer (cosmetic term)",
+                "neutralizzato la mia occhiaia": "neutralized my dark circle (cosmetic technique; 'neutralize' here means to counteract color, not just make neutral)"
+            }
+        },
+        {
+            "index": 11,
+            "startTimestamp": "00:02:57.099",
+            "endTimestamp": "00:03:18.210",
+            "vocab": {
+                "che": "that; which",
+                "è": "is",
+                "un pizzo": "a rip-off; a scam (slang, literally 'a lace')",
+                "e poi dopo": "and then after",
+                "ha corretto": "he/she/it corrected",
+                "il tutto": "everything; the whole thing",
+                "con": "with",
+                "questo": "this",
+                "nuovo": "new",
+                "skin": "skin",
+                "con filler": "with filler",
+                "io": "I",
+                "non": "not",
+                "ho mai provato": "have never tried",
+                "i correttori stick": "stick concealers",
+                "perché": "because",
+                "ho sempre avuto": "I have always had",
+                "un po paura": "a little fear; been a bit afraid",
+                "però": "but",
+                "questo era": "this was",
+                "leggerissimo": "very light; super light"
+            },
+            "beginnerVocab": {
+                "pizzo": "lace",
+                "nuovo": "new",
+                "io": "I",
+                "mai": "never",
+                "paura": "fear; afraid",
+                "questo": "this",
+                "leggerissimo": "very light; super light"
+            },
+            "advancedVocab": {
+                "pizzo": "rip-off; scam (slang, not 'lace')",
+                "skin con filler steet": "skin with filler stick (note: 'steet' may be a typo for 'stick', refers to cosmetic product)",
+                "correttori stick": "stick concealers (cosmetic term)",
+                "era leggerissimo": "was very light (nuanced: refers to texture/feel, not weight)"
+            }
+        },
+        {
+            "index": 12,
+            "startTimestamp": "00:03:23.250",
+            "endTimestamp": "00:03:47.360",
+            "vocab": {
+                "completa": "completes; finishes",
+                "basta": "enough; sufficient",
+                "per": "for; to",
+                "farvelo vedere": "show it to you",
+                "supernatural": "supernatural (note: likely refers to a natural look or the TV show)",
+                "mi piace": "I like",
+                "un sacco": "a lot; loads",
+                "guardate": "look; watch",
+                "anche": "also; too",
+                "rossetto": "lipstick",
+                "più": "more",
+                "belle": "beautiful (feminine plural)",
+                "bellissimo": "very beautiful; gorgeous",
+                "veramente": "really; truly",
+                "no": "no; not",
+                "too much": "too much",
+                "per tutti i giorni": "for every day; for daily use",
+                "ma": "but",
+                "poi": "then; afterwards",
+                "soprattutto": "above all; especially",
+                "lo sento": "I feel it; I sense it",
+                "perché": "because; why",
+                "consapevole": "aware; conscious",
+                "sempre": "always",
+                "attenzione": "attention"
+            },
+            "beginnerVocab": {
+                "completa": "complete; finishes",
+                "basta": "enough; stop",
+                "vedere": "see",
+                "mi piace": "I like",
+                "guardate": "look; watch",
+                "rossetto": "lipstick",
+                "più": "more",
+                "belle": "beautiful (feminine plural)",
+                "bellissimo": "very beautiful; gorgeous",
+                "no": "no",
+                "tutti": "all; everyone",
+                "giorni": "days",
+                "attenzione": "attention"
+            },
+            "advancedVocab": {
+                "basta per farvelo vedere": "just enough to show it to you (note: 'farvelo' = 'farlo a voi', to do/make/show it to you)",
+                "mi piace un sacco": "I like it a lot; I love it (note: informal, literally 'a sack')",
+                "no too much per tutti i giorni": "no, too much for every day (note: code-switching with English 'too much')",
+                "consapevole": "aware; conscious (note: nuanced, not just 'knowing')",
+                "sempre più attenzione": "more and more attention (note: 'sempre più' = 'increasingly', 'ever more')"
+            }
+        },
+        {
+            "index": 13,
+            "startTimestamp": "00:03:49.050",
+            "endTimestamp": "00:04:04.720",
+            "vocab": {
+                "una famiglia": "a family",
+                "poi": "then; later",
+                "giorno": "day",
+                "da": "from",
+                "milano": "Milan",
+                "a casa": "home; to home",
+                "geneticamente": "genetically",
+                "più": "more",
+                "portato": "inclined; suited (lit. 'carried')",
+                "insieme": "together",
+                "con me": "with me",
+                "una giornata": "a day; a whole day"
+            },
+            "beginnerVocab": {
+                "famiglia": "family",
+                "giorno": "day",
+                "milano": "Milan (city name)",
+                "casa": "house; home",
+                "insieme": "together",
+                "giornata": "day (duration, whole day)"
+            },
+            "advancedVocab": {
+                "geneticamente più portato": "genetically more inclined; genetically predisposed (note: nuanced expression about natural tendency)",
+                "insieme con me": "together with me (note: emphasizes joint action, sometimes redundant in Italian for emphasis)"
+            }
+        },
+        {
+            "index": 14,
+            "startTimestamp": "00:04:03.070",
+            "endTimestamp": "00:04:15.310",
+            "vocab": {
+                "per": "for; because (context-dependent)",
+                "aveva detto": "had said",
+                "che": "that; which",
+                "dovevo": "I had to; I was supposed to",
+                "poi": "then; later",
+                "incontrare": "to meet",
+                "la mia mamma": "my mom",
+                "e quindi": "and so; and therefore",
+                "ha smesso": "stopped; has stopped",
+                "perché": "because; why",
+                "è stato": "it was; has been (masculine)",
+                "è stata": "it was; has been (feminine)",
+                "una giornata": "a day",
+                "molto intensa": "very intense",
+                "molto bella": "very beautiful; very nice"
+            },
+            "beginnerVocab": {
+                "mamma": "mom; mother",
+                "giornata": "day",
+                "bella": "beautiful; nice"
+            },
+            "advancedVocab": {
+                "quindi": "so; therefore (discourse marker)",
+                "ha smesso di volgare": "stopped being vulgar; stopped misbehaving (note: 'volgare' usually means 'vulgar', but this usage is unusual and may mean 'to misbehave' or 'to act out')",
+                "giornata intensa": "intense day (nuanced: emotionally or physically demanding day)"
+            }
+        },
+        {
+            "index": 15,
+            "startTimestamp": "00:04:13.090",
+            "endTimestamp": "00:04:32.720",
+            "vocab": {
+                "perché": "because; why",
+                "non": "not",
+                "vedo": "I see",
+                "con": "with",
+                "mia mamma": "my mom",
+                "da": "since; for (time)",
+                "due anni e mezzo": "two and a half years",
+                "avevamo già fatto": "we had already done (note: 'fatto' = done/made)",
+                "siccome": "since; because",
+                "io": "I",
+                "sono": "am",
+                "un capricorno": "a Capricorn",
+                "cocciuto": "stubborn",
+                "sta tutto": "it's all; everything is (note: idiomatic, context-dependent)",
+                "ecco": "here; so; that's it (note: filler, draws attention)",
+                "quindi": "so; therefore",
+                "ci siamo viste": "we saw each other (feminine plural, past reflexive)",
+                "che": "that; which"
+            },
+            "beginnerVocab": {
+                "perché": "because; why",
+                "non": "not",
+                "vedo": "I see",
+                "mia mamma": "my mom; my mother",
+                "due": "two",
+                "anni": "years",
+                "mezzo": "half",
+                "già": "already",
+                "fatto": "done; made",
+                "io": "I",
+                "capricorno": "Capricorn (zodiac sign)",
+                "cocciuto": "stubborn",
+                "tutto": "all; everything",
+                "quindi": "so; therefore",
+                "ci siamo viste": "we saw each other"
+            },
+            "advancedVocab": {
+                "siccome": "since; because (as a conjunction, introduces a reason)",
+                "capricorno": "Capricorn (zodiac sign; can imply personality traits)",
+                "cocciuto": "stubborn; obstinate",
+                "sta tutto ecco": "that's all; that's it (colloquial, summing up or emphasizing a point)",
+                "ci siamo viste": "we saw each other (reflexive, feminine plural; can imply a reunion or meeting after a long time)"
+            }
+        },
+        {
+            "index": 16,
+            "startTimestamp": "00:04:30.840",
+            "endTimestamp": "00:04:50.690",
+            "vocab": {
+                "pazzesco": "crazy; unbelievable",
+                "come": "how; like; as",
+                "sembrava": "it seemed",
+                "non fosse mai passato il tempo": "as if time had never passed",
+                "sono molto contenta": "I am very happy",
+                "quindi": "so; therefore",
+                "poi": "then; afterwards",
+                "non ho più bloccato": "I didn't block anymore; I stopped blocking",
+                "siamo andati in giro": "we went around; we went out",
+                "non avendo uomo": "not having a man",
+                "mi ha fatto": "he/she made me; did to me",
+                "gli ho detto": "I told him/her",
+                "ma": "but"
+            },
+            "beginnerVocab": {
+                "tempo": "time",
+                "contenta": "happy; glad (feminine)",
+                "bloccato": "blocked; stopped",
+                "andati": "gone; went (plural, past)",
+                "in giro": "around; out and about",
+                "uomo": "man",
+                "detto": "said; told",
+                "fatto": "done; made"
+            },
+            "advancedVocab": {
+                "pazzesco": "crazy; unbelievable (colloquial intensifier)",
+                "come non fosse mai passato il tempo": "as if time had never passed (nuanced, idiomatic)",
+                "bloccato": "blocked; froze up (here: emotionally shut down, not literal blocking)",
+                "andati in giro": "went around; hung out (colloquial, not literal walking)",
+                "non avendo uomo": "not having a man (nuanced: being single, not just lacking a man nearby)",
+                "mi ha fatto": "he/she made me; did to me (context-dependent, can be ambiguous)",
+                "mi fein ha fatto": "he/she pretended with me; faked with me (from 'fingere', possibly dialect/slang, unclear without more context)"
+            }
+        },
+        {
+            "index": 17,
+            "startTimestamp": "00:04:48.530",
+            "endTimestamp": "00:05:04.790",
+            "vocab": {
+                "che": "that; which",
+                "la mente": "the mind",
+                "su": "on",
+                "instagram": "Instagram",
+                "ha fatto": "has taken; took; has made",
+                "delle foto": "some photos; photos",
+                "terribili": "terrible (plural)",
+                "terribile": "terrible (singular)",
+                "ma": "but",
+                "fa": "does; makes; takes (photos)",
+                "terreni": "grounds; land (note: likely a mishearing or typo for 'terribili' again)",
+                "set": "set (photo shoot; session)",
+                "poi": "then; afterwards",
+                "siamo andati": "we went",
+                "da": "to; at (a place or person)",
+                "primark": "Primark (store name)",
+                "ha fatto un giro": "took a walk; went around",
+                "ha comprato": "bought",
+                "una spazzola": "a brush",
+                "bellissima": "very beautiful; gorgeous"
+            },
+            "beginnerVocab": {
+                "foto": "photo; picture",
+                "terribile": "terrible",
+                "fa": "does; makes (from 'fare')",
+                "andati": "gone; went (from 'andare')",
+                "comprato": "bought (from 'comprare')",
+                "spazzola": "brush",
+                "bellissima": "very beautiful; gorgeous"
+            },
+            "advancedVocab": {
+                "ha fatto un giro": "took a walk; went around (note: can mean 'had a look around' in a store)",
+                "terribile": "terrible (note: can be used for emphasis, not always literal)",
+                "terreni set": "outdoor sets; ground sets (note: unclear, possibly a typo or slang for 'outdoor photoshoots')",
+                "da Primark": "at Primark (note: 'da' + store name is idiomatic for 'to/at [store]')"
+            }
+        },
+        {
+            "index": 18,
+            "startTimestamp": "00:05:02.510",
+            "endTimestamp": "00:05:16.850",
+            "vocab": {
+                "per": "for; to",
+                "fare": "to do; to make",
+                "ricci": "curls",
+                "che": "that; which",
+                "ho provato": "I tried",
+                "oggi": "today",
+                "è": "is; it is",
+                "anche": "also; too",
+                "registrato": "recorded",
+                "un video": "a video",
+                "per pinterest": "for Pinterest",
+                "quindi": "so; therefore",
+                "poi": "then; later",
+                "magari": "maybe; perhaps",
+                "lo vedete": "you see it",
+                "come si utilizza": "how it is used",
+                "2 euro": "2 euros",
+                "cosa": "what; thing",
+                "abbiamo fatto": "we did; we made",
+                "numero": "number"
+            },
+            "beginnerVocab": {
+                "fare": "to do; to make",
+                "oggi": "today",
+                "video": "video",
+                "poi": "then; later",
+                "vedete": "you see (plural)",
+                "come": "how",
+                "utilizza": "uses",
+                "euro": "euro (currency)",
+                "numero": "number"
+            },
+            "advancedVocab": {
+                "ricci": "curls (hair styling)",
+                "magari": "maybe; perhaps; if you like (nuanced, often used to soften suggestions or express hope)",
+                "poi": "then; later; after that (can indicate sequence or transition, sometimes used as a filler)",
+                "registrato": "recorded (as in video/audio, not 'registered')"
+            }
+        },
+        {
+            "index": 19,
+            "startTimestamp": "00:05:15.080",
+            "endTimestamp": "00:05:26.690",
+            "vocab": {
+                "ricorda": "remember",
+                "sì": "yes",
+                "siamo andati": "we went",
+                "a bere": "to drink",
+                "il caffè": "the coffee",
+                "con": "with",
+                "mio suocero": "my father-in-law",
+                "e poi": "and then",
+                "ha rubato": "he/she stole",
+                "la macchina": "the car",
+                "messa al salario": "put at the salary (note: unclear phrase, possibly idiomatic or misheard)",
+                "portata a casa": "brought home",
+                "quindi": "so; therefore",
+                "è andata": "she went",
+                "a casa": "home",
+                "ho conosciuto": "I met"
+            },
+            "beginnerVocab": {
+                "ricorda": "remember",
+                "si": "yes",
+                "siamo": "we are; we (as subject)",
+                "andati": "gone; went",
+                "bere": "to drink",
+                "caffè": "coffee",
+                "con": "with",
+                "mio": "my",
+                "casa": "house; home",
+                "macchina": "car",
+                "portata": "brought (feminine singular)",
+                "poi": "then; after",
+                "a": "to; at",
+                "ha": "he/she has (from 'avere')"
+            },
+            "advancedVocab": {
+                "suocero": "father-in-law",
+                "messa al salario": "put on salary; (possibly) registered for pay (note: unusual phrase, may refer to registering a car for work or pay, context-dependent)"
+            }
+        },
+        {
+            "index": 20,
+            "startTimestamp": "00:05:24.770",
+            "endTimestamp": "00:05:37.760",
+            "vocab": {
+                "gatto": "cat",
+                "nuovo": "new",
+                "di": "of; 's (possessive)",
+                "mia": "my",
+                "sorella": "sister",
+                "ho rivisto": "I saw again; I met again",
+                "che": "that; who",
+                "non vedevo": "I hadn't seen",
+                "da": "for (time); since",
+                "due anni e mezzo": "two and a half years",
+                "motivo": "reason",
+                "bisticcio": "quarrel; argument",
+                "sono stata": "I was; I have been",
+                "molto": "very; much",
+                "contenta": "happy; glad"
+            },
+            "beginnerVocab": {
+                "gatto": "cat",
+                "nuovo": "new",
+                "sorella": "sister",
+                "motivo": "reason",
+                "contenta": "happy; glad (feminine form)"
+            },
+            "advancedVocab": {
+                "bisticcio": "quarrel; argument (note: informal, often refers to a minor dispute)",
+                "sono stata": "I was; I have been (note: feminine speaker, passato prossimo tense)"
+            }
+        },
+        {
+            "index": 21,
+            "startTimestamp": "00:05:35.960",
+            "endTimestamp": "00:05:47.150",
+            "vocab": {
+                "molto": "very",
+                "contenta": "happy; content (feminine)",
+                "perché": "because; why",
+                "comunque": "anyway; in any case",
+                "in questi due anni": "in these two years",
+                "sempre": "always",
+                "stati duri": "been hard; been tough",
+                "reti": "nets; networks (context-dependent)",
+                "sapere": "to know",
+                "io": "I",
+                "la mia famiglia": "my family",
+                "è composta": "is composed; is made up",
+                "famiglia di origine": "family of origin",
+                "composta da quattro": "composed of four; made up of four"
+            },
+            "beginnerVocab": {
+                "molto": "very",
+                "contenta": "happy",
+                "due": "two",
+                "anni": "years",
+                "famiglia": "family",
+                "quattro": "four"
+            },
+            "advancedVocab": {
+                "comunque": "anyway; in any case (discourse marker, often used to shift or emphasize)",
+                "reti": "nets; networks (could be metaphorical or literal, context-dependent)",
+                "famiglia di origine": "family of origin (biological/original family, not current/created family)"
+            }
+        },
+        {
+            "index": 22,
+            "startTimestamp": "00:05:46.460",
+            "endTimestamp": "00:06:06.570",
+            "vocab": {
+                "persone": "people",
+                "mia mamma": "my mom; my mother",
+                "mia sorella": "my sister",
+                "mio fratello": "my brother",
+                "quindi": "so; therefore",
+                "non è che": "it's not that",
+                "piccola spaccatura": "small rift; small split (figurative: disagreement)",
+                "abbiamo ricomposto": "we have mended; we have fixed (figurative: resolved)",
+                "stiamo capendo": "we are figuring out; we are understanding",
+                "quando": "when",
+                "vederci": "to see each other",
+                "tutti insieme": "all together"
+            },
+            "beginnerVocab": {
+                "persone": "people",
+                "mia mamma": "my mom; my mother",
+                "mia sorella": "my sister",
+                "mio fratello": "my brother",
+                "piccola": "small; little",
+                "vederci": "see each other"
+            },
+            "advancedVocab": {
+                "spaccatura": "rift; split; break (figurative, not literal break)",
+                "ricomposto": "recomposed; mended (here: relationship repaired)",
+                "quindi": "so; therefore (discourse marker, often used to connect ideas)"
+            }
+        },
+        {
+            "index": 23,
+            "startTimestamp": "00:06:04.530",
+            "endTimestamp": "00:06:24.250",
+            "vocab": {
+                "sono": "I am; they are",
+                "della": "of the; from the",
+                "e quindi": "and so; and therefore",
+                "molto": "very; a lot",
+                "contenta": "happy; glad (feminine)",
+                "di aver": "to have",
+                "nessuna": "no; none (feminine)",
+                "sorella": "sister",
+                "nessuno": "no one; nobody",
+                "l'ha preso": "took it; has taken it",
+                "un gatto nuovo": "a new cat",
+                "che si chiama": "that is called; whose name is",
+                "bellissimo": "very beautiful; gorgeous",
+                "bianco": "white",
+                "meraviglioso": "wonderful; marvelous",
+                "veramente": "really; truly"
+            },
+            "beginnerVocab": {
+                "gatto": "cat",
+                "nuovo": "new",
+                "bianco": "white",
+                "sorella": "sister",
+                "contenta": "happy; glad (feminine)",
+                "bellissimo": "very beautiful; gorgeous",
+                "meraviglioso": "wonderful; marvelous"
+            },
+            "advancedVocab": {
+                "tepco": "TEPCO (Tokyo Electric Power Company; Japanese company name)",
+                "e quindi": "and so; therefore (discourse marker)",
+                "nessuna sorella": "no sisters (double negative nuance in Italian)",
+                "nessuno l'ha preso": "nobody took it; no one got it (potential confusion with subject/object)",
+                "meraviglioso veramente": "truly wonderful; really marvelous (emphatic placement, Italian adverb after adjective)"
+            }
+        },
+        {
+            "index": 24,
+            "startTimestamp": "00:06:21.669",
+            "endTimestamp": "00:06:37.270",
+            "vocab": {
+                "bello": "beautiful; nice; great",
+                "infatti": "in fact; indeed",
+                "gli ho detto": "I told him",
+                "vai tra": "don't worry; it's okay (slang)",
+                "sportivo": "sporty; athletic",
+                "cattivo": "bad; mean",
+                "torna a casa": "goes home; returns home",
+                "com'è": "how is it; as it is",
+                "veramente": "really; truly",
+                "poi": "then; later",
+                "ve lo farò conoscere": "I will introduce him to you; I will let you meet him",
+                "forse": "maybe; perhaps",
+                "è": "is"
+            },
+            "beginnerVocab": {
+                "bello": "beautiful; nice; handsome",
+                "sportivo": "sporty; athletic",
+                "cattivo": "bad; naughty; mean",
+                "casa": "house; home"
+            },
+            "advancedVocab": {
+                "vai tra": "don't worry; go ahead (colloquial reassurance)",
+                "sportivo": "sporty guy; athletic type (can be used as a nickname or descriptor, not just 'sporty')",
+                "ve lo farò conoscere": "I'll introduce him to you (nuanced: 'I'll let you meet him')"
+            }
+        },
+        {
+            "index": 25,
+            "startTimestamp": "00:06:34.750",
+            "endTimestamp": "00:06:48.400",
+            "vocab": {
+                "andata": "gone; went",
+                "cosmo": "Cosmo (name; possibly a place or event)",
+                "stata": "been",
+                "giornata": "day",
+                "molto": "very",
+                "intensa": "intense",
+                "perché": "because",
+                "comunque": "anyway; in any case",
+                "mancavo": "I was missing; I hadn't been",
+                "milano": "Milan",
+                "tantissimo": "a very long time; so much",
+                "tempo": "time",
+                "prof": "professor; teacher (abbreviation)",
+                "direttamente": "directly",
+                "per": "for",
+                "trucchi": "makeup; tricks"
+            },
+            "beginnerVocab": {
+                "andata": "gone; went",
+                "giornata": "day",
+                "molto": "very",
+                "intensa": "intense",
+                "mancavo": "I was missing; I was away",
+                "milano": "Milan",
+                "tempo": "time",
+                "prof": "professor; teacher",
+                "direttamente": "directly",
+                "trucchi": "makeup; tricks (here: makeup)"
+            },
+            "advancedVocab": {
+                "comunque": "anyway; in any case (discourse marker, often used to shift or emphasize)",
+                "mancavo": "I was absent; I had been away (imperfect tense, can imply emotional distance or duration)",
+                "cosmo prof": "Cosmo Prof (brand/store name, specialized vocabulary)",
+                "trucchi": "makeup; tricks (here: makeup, but can also mean tricks or tips)"
+            }
+        },
+        {
+            "index": 26,
+            "startTimestamp": "00:06:46.630",
+            "endTimestamp": "00:07:03.390",
+            "vocab": {
+                "sapete": "you know",
+                "trucchi": "tricks",
+                "minuti": "minutes",
+                "magazine online": "online magazine",
+                "sono andata": "I went",
+                "scoprire": "to discover; to find out",
+                "novità": "news; novelty; new things",
+                "rivedere": "to see again; to meet again",
+                "facce amiche": "friendly faces; familiar faces",
+                "se n'è": "he/she/it has gone; has left (note: part of 'se ne è andato', idiomatic)"
+            },
+            "beginnerVocab": {
+                "sapete": "you know",
+                "trucchi": "tricks",
+                "minuti": "minutes",
+                "online": "online",
+                "andata": "gone; went (feminine singular)",
+                "scoprire": "to discover; to find out",
+                "novità": "news; novelty",
+                "facce": "faces",
+                "amiche": "friends (feminine plural)"
+            },
+            "advancedVocab": {
+                "minuti magazine": "short magazine segments; mini-magazines (note: refers to brief online magazine-style videos or articles)",
+                "sono andata un po a scoprire": "I went a bit to discover; I did a bit of exploring (note: 'un po' softens the action, implying casual or partial effort)",
+                "sentite al": "listen to; hear about (note: unclear in context, could be a truncated or idiomatic use)",
+                "novità in tram": "news on the tram; new things on the tram (note: could refer to updates encountered while on public transport, or metaphorically to 'on the way')",
+                "rivedere delle facce amiche": "see some friendly faces again (note: idiomatic, meaning to meet familiar people again)",
+                "se n'è": "he/she/it has left; he/she/it is gone (note: truncated from 'se n'è andato/a', idiomatic for someone leaving or being gone)"
+            }
+        },
+        {
+            "index": 27,
+            "startTimestamp": "00:07:01.599",
+            "endTimestamp": "00:07:22.410",
+            "vocab": {
+                "andata in giro": "going around; walking around",
+                "è stato": "it was; has been",
+                "molto": "very; a lot",
+                "massacrante": "exhausting; grueling",
+                "infatti": "in fact; actually",
+                "ernia": "hernia",
+                "si sta facendo sentire": "is making itself felt; is acting up (note: idiom for feeling pain or symptoms)",
+                "evidentemente": "evidently; obviously",
+                "carica di roba": "loaded with stuff; carrying a lot of things",
+                "mi hanno lasciato": "they left me",
+                "un sacco di": "a lot of; a ton of",
+                "ovviamente": "obviously; of course",
+                "cerco": "I try",
+                "sempre": "always",
+                "di": "to; of"
+            },
+            "beginnerVocab": {
+                "andata": "gone; trip (noun)",
+                "giro": "walk; tour; round",
+                "molto": "very; a lot",
+                "mia": "my (feminine)",
+                "ernia": "hernia",
+                "sentire": "to feel; to hear",
+                "carica": "load; charge",
+                "roba": "stuff; things",
+                "sacco": "bag; sack; a lot (colloquial)",
+                "ovviamente": "obviously",
+                "io": "I",
+                "sempre": "always"
+            },
+            "advancedVocab": {
+                "andata in giro": "going around; wandering (note: informal, can imply moving about aimlessly or for errands)",
+                "massacrante": "exhausting; gruelling (note: literally 'massacring', very strong for 'tiring')",
+                "si sta facendo sentire": "is making itself felt; is acting up (note: idiom for a symptom or problem becoming noticeable)",
+                "carica di roba": "loaded with stuff; carrying a lot of things (note: 'roba' is informal for 'things', 'carica' means 'loaded')",
+                "mi hanno lasciato un sacco di roba": "they left me a ton of stuff; they gave me a lot of things (note: 'un sacco di' is an idiom for 'a lot of')"
+            }
+        },
+        {
+            "index": 28,
+            "startTimestamp": "00:07:20.400",
+            "endTimestamp": "00:07:39.320",
+            "vocab": {
+                "magari": "maybe; perhaps",
+                "farla mandare": "have it sent",
+                "casella di posta": "mailbox; postbox",
+                "perché": "because",
+                "più facile": "easier",
+                "quindi": "so; therefore",
+                "avevo": "I had",
+                "ero carico": "I was energized; I was pumped",
+                "qua": "here",
+                "mi faceva malissimo": "it hurt me a lot; it hurt badly",
+                "infatti": "in fact; actually",
+                "sono bloccata": "I am stuck; I am blocked (note: feminine speaker)",
+                "devo andare": "I have to go; I must go",
+                "fare un bel massaggio": "get a nice massage",
+                "bello rinvigorente": "really invigorating; very refreshing",
+                "poi": "then; afterwards",
+                "da": "from; at (context-dependent)",
+                "cosmoprof": "Cosmoprof (name of an event or place)"
+            },
+            "beginnerVocab": {
+                "magari": "maybe; perhaps",
+                "fare": "to do; to make",
+                "mandare": "to send",
+                "casella di posta": "mailbox",
+                "Milano": "Milan (city name)",
+                "facile": "easy",
+                "carico": "charged; full of energy",
+                "qua": "here",
+                "male": "pain; hurt",
+                "bloccata": "blocked; stuck",
+                "andare": "to go",
+                "fare un massaggio": "to get a massage",
+                "bello": "nice; beautiful",
+                "rinvigorente": "invigorating"
+            },
+            "advancedVocab": {
+                "magari": "maybe; if only; perhaps (context-dependent, often expresses a wish or possibility)",
+                "carico": "energized; pumped up (slang for feeling full of energy or motivation)",
+                "mi faceva malissimo": "it hurt me a lot (nuanced: emphasizes strong pain, not just 'hurt')",
+                "sono bloccata": "I'm stuck; I'm blocked (can refer to physical or mental blockage)",
+                "un bel massaggio bello rinvigorente": "a nice, really invigorating massage (bel/bello used for emphasis, not just 'beautiful')",
+                "cosmoprof": "Cosmoprof (reference to a well-known international beauty industry trade show in Italy)"
+            }
+        },
+        {
+            "index": 29,
+            "startTimestamp": "00:07:37.590",
+            "endTimestamp": "00:07:55.460",
+            "vocab": {
+                "tornato": "returned",
+                "a casa": "home",
+                "poi": "then; after that",
+                "basta": "enough; that's it",
+                "il giorno dopo": "the next day",
+                "tornata": "returned (feminine)",
+                "dai miei cucciolotti": "to my little puppies; to my little ones (affectionate)",
+                "è stato": "it was",
+                "molto": "very; a lot",
+                "bello": "beautiful; nice",
+                "breve": "short",
+                "ma": "but",
+                "intenso": "intense",
+                "veramente": "really; truly",
+                "giorni": "days",
+                "perché": "because",
+                "se": "if",
+                "pro futuristi": "pro-futurists (possibly a reference to people who look to the future)"
+            },
+            "beginnerVocab": {
+                "tornato": "returned; come back",
+                "casa": "house; home",
+                "giorno": "day",
+                "dopo": "after; later",
+                "cucciolotti": "puppies; little pets (diminutive of 'cuccioli')",
+                "bello": "beautiful; nice; good",
+                "breve": "short; brief",
+                "intenso": "intense",
+                "molto": "very; a lot",
+                "giorni": "days"
+            },
+            "advancedVocab": {
+                "basta": "that's all; enough (discourse marker, can signal end of a topic)",
+                "cucciolotti": "little puppies; little pets (diminutive, affectionate term for pets or sometimes children)",
+                "breve ma intenso": "short but intense (idiomatic expression)",
+                "pro futuristi": "pro-futurists (possibly a reference to people in favor of futurism, could be a cultural or contextual reference)"
+            }
+        },
+        {
+            "index": 30,
+            "startTimestamp": "00:07:53.760",
+            "endTimestamp": "00:08:17.700",
+            "vocab": {
+                "dell'amica": "of the (female) friend",
+                "non tutte": "not all",
+                "però": "but; however",
+                "iniziato": "started; begun",
+                "a vederlo": "to see him/it",
+                "adesso": "now",
+                "piano piano": "slowly; little by little",
+                "tornerà": "will return; will come back",
+                "più spazio": "more space",
+                "a milano": "in Milan",
+                "e niente": "and nothing; anyway (filler)",
+                "volevo": "I wanted",
+                "chiudere": "to close; to end",
+                "questo blog": "this blog",
+                "veramente": "really; truly",
+                "sono molto contenta": "I am very happy (female speaker)",
+                "di aver rivisto": "to have seen again",
+                "la mia mamma": "my mom",
+                "è stato anche grazie a": "it was also thanks to",
+                "molti": "many"
+            },
+            "beginnerVocab": {
+                "amica": "friend (female)",
+                "vederlo": "see it; see him",
+                "adesso": "now",
+                "piano piano": "slowly; little by little",
+                "spazio": "space",
+                "Milano": "Milan",
+                "chiudere": "close; shut",
+                "blog": "blog",
+                "contenta": "happy; content (female)",
+                "mamma": "mom; mother",
+                "grazie": "thanks; thank you",
+                "molti": "many"
+            },
+            "advancedVocab": {
+                "piano piano": "slowly; little by little",
+                "niente": "anyway; so (discourse marker, not 'nothing' here)",
+                "chiudere questo blog": "end this vlog; close this vlog (note: 'blog' used for 'vlog' in Italian internet slang)",
+                "è stato anche grazie a": "it was also thanks to (nuanced expression of gratitude or causality)"
+            }
+        },
+        {
+            "index": 31,
+            "startTimestamp": "00:08:14.850",
+            "endTimestamp": "00:08:31.460",
+            "vocab": {
+                "commenti": "comments",
+                "vostri": "your (plural)",
+                "ma": "but",
+                "io": "I",
+                "lo sapevo": "I knew it",
+                "in cornino": "(unclear; possibly dialect or nickname)",
+                "che": "that",
+                "stavo sbagliando": "I was making a mistake; I was wrong",
+                "e": "and",
+                "so": "I know",
+                "se": "if",
+                "non poco sciuta": "(unclear; possibly dialect or misspelling)",
+                "sono": "I am",
+                "un po": "a little; a bit",
+                "cocciuta": "stubborn (feminine)",
+                "purtroppo": "unfortunately",
+                "sono un capricorno": "I am a Capricorn",
+                "quando": "when",
+                "chiude": "closes; shuts (he/she/it)",
+                "chiude chiude": "closes for good; really closes (emphatic repetition)"
+            },
+            "beginnerVocab": {
+                "commenti": "comments",
+                "io": "I",
+                "lo": "it",
+                "sapevo": "I knew",
+                "che": "that",
+                "stavo": "I was",
+                "sbagliando": "making a mistake; being wrong",
+                "so": "I know",
+                "non": "not",
+                "poco": "little; not much",
+                "sono": "I am",
+                "un po": "a little; a bit",
+                "cocciuta": "stubborn (feminine)",
+                "purtroppo": "unfortunately",
+                "capricorno": "Capricorn",
+                "quando": "when",
+                "chiude": "closes; shuts"
+            },
+            "advancedVocab": {
+                "in cornino": "on the sly; secretly (lit. 'in the little horn', idiomatic)",
+                "sciuta": "stubborn (dialect/slang for 'testarda', regional)",
+                "cocciuta": "stubborn; pigheaded (nuanced, more intense than 'testarda')",
+                "capricorno": "Capricorn (zodiac sign, culturally specific)",
+                "quando chiude chiude": "when (they) close off, (they) really close off; when (they) shut down, (they) really shut down (idiomatic, refers to personality trait)"
+            }
+        },
+        {
+            "index": 32,
+            "startTimestamp": "00:08:30.420",
+            "endTimestamp": "00:08:43.740",
+            "vocab": {
+                "definitivamente": "definitely; for good",
+                "con": "with",
+                "le persone": "the people",
+                "se": "if",
+                "succede": "happens",
+                "qualcosa": "something",
+                "tra": "between; among",
+                "neanche": "not even",
+                "la famiglia": "the family",
+                "perché": "because",
+                "e": "is; and"
+            },
+            "beginnerVocab": {
+                "persone": "people",
+                "famiglia": "family",
+                "qualcosa": "something"
+            },
+            "advancedVocab": {
+                "definitivamente": "definitely; once and for all (can imply finality, not just certainty)",
+                "tra neanche": "not even among (unusual construction; 'neanche' means 'not even', used here for emphasis)"
+            }
+        },
+        {
+            "index": 33,
+            "startTimestamp": "00:08:44.300",
+            "endTimestamp": "00:09:11.180",
+            "vocab": {
+                "e": "and",
+                "io": "I",
+                "amo": "love",
+                "la mia famiglia": "my family",
+                "tutta": "all; whole",
+                "quella d'origine": "the original one; the one of origin",
+                "quella creata": "the one created",
+                "negli anni": "over the years",
+                "quindi": "so; therefore",
+                "niente": "nothing",
+                "mi manda": "sends me",
+                "fermare": "to stop",
+                "soffermarsi": "to linger; to pause",
+                "vediamo": "let's see",
+                "se": "if; whether",
+                "stessimo": "we were; we stayed",
+                "così": "like this; so",
+                "tanti": "many",
+                "bei": "beautiful; nice",
+                "nuovi": "new",
+                "video": "videos",
+                "scusate": "sorry; excuse (you all)",
+                "le unghie": "the nails",
+                "semipermanente": "semi-permanent (nail polish)",
+                "grilli": "crickets"
+            },
+            "beginnerVocab": {
+                "io": "I",
+                "amo": "love",
+                "mia": "my",
+                "famiglia": "family",
+                "cane": "dog",
+                "anni": "years",
+                "video": "video;videos",
+                "unghie": "nails",
+                "grilli": "crickets"
+            },
+            "advancedVocab": {
+                "d'origine": "of origin; birth (refers to family of origin, not just 'original')",
+                "cane sano": "healthy dog (possible idiom, or mishearing; context needed)",
+                "soffermarsi": "to linger; to dwell; to pause (nuanced verb)",
+                "stessimo": "if we were (imperfect subjunctive, tricky for learners)",
+                "cotanto": "so much; such (emphatic, literary or old-fashioned)",
+                "semipermanente": "semi-permanent (often refers to nail polish in Italian beauty context)"
+            }
+        }
+    ],
+    "topics": [
+        "family reunion",
+        "milan travel",
+        "makeup tutorial",
+        "beauty products",
+        "cosmoprof visit",
+        "cat introduction",
+        "sister update",
+        "hair styling",
+        "family dynamics",
+        "daily vlog",
+        "makeup artist",
+        "lifestyle update"
+    ]
+}

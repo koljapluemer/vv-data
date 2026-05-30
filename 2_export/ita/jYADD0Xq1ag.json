@@ -1,0 +1,309 @@
+{
+    "videoId": "jYADD0Xq1ag",
+    "language": {
+        "iso3": "ita",
+        "subtitleLanguage": "it",
+        "humanReadable": "Italian"
+    },
+    "segments": [
+        {
+            "index": 1,
+            "startTimestamp": "00:00:00.000",
+            "endTimestamp": "00:00:13.700",
+            "vocab": {
+                "ciao": "hello; hi",
+                "a tutti": "everyone; all",
+                "canali": "channels",
+                "oggi": "today",
+                "questo": "this",
+                "video": "video",
+                "vediamo": "let's see; we see",
+                "vedere": "to see",
+                "quanti": "how many",
+                "esercizi": "exercises",
+                "per": "for",
+                "le spalle": "shoulders",
+                "bruciare": "to burn",
+                "i grassi": "fats",
+                "lo stesso momento": "at the same time",
+                "non perdiamo tempo": "let's not waste time",
+                "iniziamo": "let's start",
+                "però": "but; however",
+                "prima": "first; before",
+                "nostro": "our"
+            },
+            "beginnerVocab": {
+                "ciao": "hello; hi",
+                "tutti": "everyone; all",
+                "oggi": "today",
+                "video": "video",
+                "vediamo": "we see; let's see",
+                "esercizi": "exercises",
+                "spalle": "shoulders",
+                "bruciare": "to burn",
+                "grassi": "fats",
+                "momento": "moment",
+                "tempo": "time",
+                "iniziamo": "let's start; we start",
+                "prima": "before; first",
+                "nostro": "our"
+            },
+            "advancedVocab": {
+                "ben più": "much more; far more (emphatic intensifier)",
+                "lo stesso momento": "at the same time (note: literally 'the same moment', used for simultaneity)",
+                "non perdiamo tempo": "let's not waste time (set phrase; exhortative)",
+                "però": "however; but (discourse marker, often softens or contrasts)"
+            }
+        },
+        {
+            "index": 2,
+            "startTimestamp": "00:00:17.350",
+            "endTimestamp": "00:00:56.360",
+            "vocab": {
+                "Musica": "Music",
+                "avere": "to have",
+                "più": "more",
+                "forza": "strength",
+                "energia": "energy",
+                "prendiamo": "we take; let's take",
+                "uno": "one; a",
+                "scud di energia minosa": "dose of minosa energy (note: 'minosa' may be a brand or product name)",
+                "scoop": "scoop (measure)",
+                "gusto mela": "apple flavor",
+                "quattro": "four",
+                "capsule": "capsules",
+                "creatina": "creatine"
+            },
+            "beginnerVocab": {
+                "forza": "strength;force",
+                "energia": "energy",
+                "prendiamo": "we take;let's take",
+                "uno": "one;a",
+                "gusto": "flavor;taste",
+                "mela": "apple",
+                "capsule": "capsules"
+            },
+            "advancedVocab": {
+                "scud di energia minosa": "dose of Minosa energy (brand/product name; 'scud' is a playful/altered form of 'scoop')",
+                "scoop gusto mela": "apple-flavored scoop ('gusto mela' = 'apple flavor')",
+                "capsule di creatina": "creatine capsules (sports supplement)"
+            }
+        },
+        {
+            "index": 3,
+            "startTimestamp": "00:01:13.230",
+            "endTimestamp": "00:01:24.050",
+            "vocab": {
+                "per": "for",
+                "questi": "these",
+                "prodotti": "products",
+                "vi lascio": "I leave you; I give you",
+                "link": "link",
+                "descrizione": "description",
+                "usando": "using",
+                "codice sconto": "discount code",
+                "avrete": "you will have; you will get",
+                "maggiori sconti": "more discounts; bigger discounts",
+                "sul sito": "on the site; on the website",
+                "della": "of the",
+                "full screen": "Full Screen (brand/company name)"
+            },
+            "beginnerVocab": {
+                "prodotti": "products",
+                "link": "link",
+                "codice": "code",
+                "sconto": "discount",
+                "sito": "site; website"
+            },
+            "advancedVocab": {
+                "vi lascio il link descrizione": "I'll leave you the link in the description (YouTube/social media phrase)",
+                "codice sconto": "discount code",
+                "avrete mager sconti": "you will get major discounts (note: 'mager' is likely a typo for 'maggiori', meaning 'greater' or 'major')",
+                "sul sito della full screen": "on the Full Screen website (brand/company name, possibly stylized)"
+            }
+        },
+        {
+            "index": 4,
+            "startTimestamp": "00:01:24.460",
+            "endTimestamp": "00:02:45.800",
+            "vocab": {
+                "per continuare": "to continue",
+                "a spingere": "to push",
+                "bene": "well",
+                "durante": "during",
+                "l'allenamento": "the workout; training",
+                "prendiamo": "we take; let's take",
+                "uno scoop": "a scoop (measuring spoon)",
+                "in pieno": "fully; at full (strength, capacity)"
+            },
+            "beginnerVocab": {
+                "musica": "music",
+                "continuare": "to continue",
+                "spingere": "to push",
+                "bene": "well",
+                "allenamento": "training; workout",
+                "prendiamo": "we take",
+                "uno": "one; a",
+                "scoop": "scoop"
+            },
+            "advancedVocab": {
+                "spingere": "to push; to keep going (in fitness context)",
+                "allenamento": "workout; training session",
+                "scudi": "shields (possible brand/product name; not standard Italian in this context)",
+                "work of a milos": "work of a milos (likely a brand/product name; not standard Italian)",
+                "scoop": "scoop (measured portion, especially for supplements)",
+                "in pieno": "fully; at full strength (literally 'in full')"
+            }
+        },
+        {
+            "index": 5,
+            "startTimestamp": "00:03:07.660",
+            "endTimestamp": "00:04:44.509",
+            "vocab": {
+                "vi lascio": "I leave you; I give you",
+                "link": "link",
+                "descrizione": "description",
+                "usata": "used",
+                "di cui": "of which; whose",
+                "c'è": "there is",
+                "sconto": "discount",
+                "a volte": "sometimes",
+                "ma": "but",
+                "gli sconti": "the discounts",
+                "su": "on",
+                "abbiamo": "we have",
+                "due": "two",
+                "scudi": "shields (note: likely a brand or product name)",
+                "away protein": "whey protein (note: likely a misspelling)",
+                "gusto": "flavor",
+                "caffè": "coffee"
+            },
+            "beginnerVocab": {
+                "link": "link",
+                "descrizione": "description",
+                "sconto": "discount",
+                "scudi": "shields",
+                "gusto": "flavor; taste",
+                "caffè": "coffee"
+            },
+            "advancedVocab": {
+                "usata": "used (as in second-hand; can be confused with 'used' as in 'utilized')",
+                "di cui": "of which; about which (relative pronoun construction, can be tricky)",
+                "sg": "possibly 'senza glutine' (gluten-free) (abbreviation, context-specific)",
+                "scudi": "shields (literal translation; likely a brand or product name here, not the literal meaning)",
+                "away protein": "whey protein (misspelling; can cause confusion)",
+                "gusto caffè": "coffee flavor (gusto = flavor, caffè = coffee)"
+            }
+        },
+        {
+            "index": 6,
+            "startTimestamp": "00:04:46.820",
+            "endTimestamp": "00:05:00.310",
+            "vocab": {
+                "suoi": "his; her; its; their (possessive adjective)",
+                "scoop": "scoop (measure; portion)",
+                "quattro": "four",
+                "capsule": "capsules",
+                "di": "of",
+                "frutta": "fruit",
+                "meno": "less; minus"
+            },
+            "beginnerVocab": {
+                "suoi": "his; her; its (possessive)",
+                "quattro": "four",
+                "capsule": "capsules",
+                "frutta": "fruit"
+            },
+            "advancedVocab": {
+                "scoop": "scoop (serving; portion; also 'exclusive news story')",
+                "capsule di frutta": "fruit capsules (context: likely refers to small portions or servings of fruit, possibly in a specific form)"
+            }
+        },
+        {
+            "index": 7,
+            "startTimestamp": "00:05:13.630",
+            "endTimestamp": "00:05:27.340",
+            "vocab": {
+                "per": "for",
+                "questi due prodotti": "these two products",
+                "vi lascio": "I leave you; I give you",
+                "il link": "the link",
+                "descrizione": "description",
+                "usando": "using",
+                "il codice sconto": "the discount code",
+                "avete": "you have; you get",
+                "sul sito": "on the site; on the website",
+                "e amici": "and friends",
+                "il nostro": "our"
+            },
+            "beginnerVocab": {
+                "prodotti": "products",
+                "link": "link",
+                "codice": "code",
+                "sconto": "discount",
+                "sito": "site; website",
+                "amici": "friends"
+            },
+            "advancedVocab": {
+                "codice sconto": "discount code",
+                "tetti fsg": "tetti fsg (likely a specific code or brand name; not standard Italian)",
+                "myers conti": "myers conti (unclear; possibly a brand, name, or typo)",
+                "full screen": "Full Screen (likely a brand or website name; not standard Italian)"
+            }
+        },
+        {
+            "index": 8,
+            "startTimestamp": "00:05:25.480",
+            "endTimestamp": "00:05:37.830",
+            "vocab": {
+                "video": "video",
+                "finisce": "ends; finishes",
+                "qui": "here",
+                "spero": "I hope",
+                "che sia utile": "that it is useful",
+                "lasciate": "leave",
+                "un like": "a like (note: 'light' is likely a typo for 'like')",
+                "un commento": "a comment",
+                "ricordatevi": "remember",
+                "sempre": "always",
+                "di iscrivervi": "to subscribe (yourselves)",
+                "al canale": "to the channel",
+                "i miei": "mine; my (note: context needed)",
+                "sono già": "are already",
+                "in discussione": "in discussion",
+                "e civile": "and civil",
+                "al prossimo video": "to the next video; until the next video"
+            },
+            "beginnerVocab": {
+                "video": "video",
+                "qui": "here",
+                "utile": "useful",
+                "commento": "comment",
+                "sempre": "always",
+                "canale": "channel",
+                "prossimo": "next"
+            },
+            "advancedVocab": {
+                "lasciate un light": "leave a like (Italglish; 'light' is a mistaken form of 'like', meaning to like the video)",
+                "ricordatevi": "remember (reflexive form; 'remind yourselves')",
+                "iscrivervi al canale": "subscribe to the channel (literally 'enroll yourselves to the channel')",
+                "sono già in discussione": "are already under discussion; are already being discussed (nuanced, could refer to topics or people)",
+                "civile": "civil; polite (here, as an adverb, meaning 'in a civil manner')"
+            }
+        }
+    ],
+    "topics": [
+        "shoulder exercises",
+        "fat burning workouts",
+        "creatine supplements",
+        "protein shakes",
+        "fitness supplements",
+        "workout nutrition",
+        "muscle building",
+        "fitness training",
+        "energy drinks",
+        "fitness gear",
+        "workout motivation",
+        "health supplements"
+    ]
+}

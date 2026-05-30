@@ -1,0 +1,1991 @@
+{
+    "videoId": "WOLtaYToza4",
+    "language": {
+        "iso3": "ita",
+        "subtitleLanguage": "it",
+        "humanReadable": "Italian"
+    },
+    "segments": [
+        {
+            "index": 1,
+            "startTimestamp": "00:00:02.480",
+            "endTimestamp": "00:00:25.460",
+            "vocab": {
+                "Benvenuti": "Welcome",
+                "nuovamente": "again; once again",
+                "gloriosa": "glorious",
+                "puntata": "episode",
+                "oggi": "today",
+                "di nuovo": "again",
+                "andremo": "we will go",
+                "in": "in; to (location)",
+                "Thailandia": "Thailand"
+            },
+            "beginnerVocab": {
+                "Benvenuti": "Welcome",
+                "oggi": "today",
+                "di nuovo": "again",
+                "andremo": "we will go; we go",
+                "in": "in; to",
+                "Thailandia": "Thailand"
+            },
+            "advancedVocab": {
+                "puntata": "episode (of a TV show; not 'point' or 'tip')"
+            }
+        },
+        {
+            "index": 2,
+            "startTimestamp": "00:00:25.460",
+            "endTimestamp": "00:00:30.440",
+            "vocab": {
+                "eccola": "here it is; there it is",
+                "che": "that; which",
+                "è": "is",
+                "un": "a; an",
+                "insalata": "salad",
+                "di": "of",
+                "papaya": "papaya",
+                "acerba": "unripe; green (not ripe)",
+                "invece": "instead; on the other hand",
+                "figata": "cool thing; awesome (slang)"
+            },
+            "beginnerVocab": {
+                "eccola": "here it is; there it is",
+                "insalata": "salad",
+                "papaya": "papaya"
+            },
+            "advancedVocab": {
+                "eccola": "here it is; there it is (discourse marker, draws attention to something just presented)",
+                "Som tam": "Som tam (Thai green papaya salad; culturally specific dish)",
+                "papaya acerba": "unripe papaya; green papaya (note: 'acerba' means unripe, not sour)",
+                "una figata": "a cool thing; awesome (slang, very positive informal expression)"
+            }
+        },
+        {
+            "index": 3,
+            "startTimestamp": "00:00:30.440",
+            "endTimestamp": "00:00:35.100",
+            "vocab": {
+                "perché": "because; why",
+                "detta così": "said like this; put this way",
+                "sembra": "seems; looks like",
+                "st*****ta": "bullshit; nonsense (vulgar, censored)",
+                "allora": "so; then; well",
+                "papaya acerba": "unripe papaya",
+                "dovete": "you must; you have to (plural)",
+                "prendere": "take; get",
+                "veramente": "really; truly",
+                "quella verde": "the green one",
+                "perché sennò": "because otherwise"
+            },
+            "beginnerVocab": {
+                "perché": "because; why",
+                "prendere": "to take",
+                "papaya": "papaya",
+                "verde": "green"
+            },
+            "advancedVocab": {
+                "detta così": "said like that; put that way (nuanced phrasing)",
+                "st*****ta": "bullshit; nonsense (vulgar slang, censored)",
+                "acerba": "unripe (specific adjective, not just 'green')",
+                "sennò": "otherwise; or else (colloquial contraction of 'se no')"
+            }
+        },
+        {
+            "index": 4,
+            "startTimestamp": "00:00:35.100",
+            "endTimestamp": "00:00:42.400",
+            "vocab": {
+                "diventa": "becomes",
+                "una pappetta": "a mush; a mash",
+                "non ha più senso": "no longer makes sense; doesn't make sense anymore",
+                "essere chiamata": "to be called",
+                "insalata": "salad",
+                "non è altro che": "is nothing but; is just",
+                "una roba": "a thing; stuff (colloquial)",
+                "semplicissima": "very simple; super simple",
+                "che fanno": "that they make; that people make"
+            },
+            "beginnerVocab": {
+                "diventa": "becomes",
+                "insalata": "salad",
+                "roba": "thing; stuff (informal)",
+                "semplicissima": "very simple"
+            },
+            "advancedVocab": {
+                "pappetta": "mush; mushy mess (diminutive, informal)",
+                "non ha più senso di": "there's no point in; it no longer makes sense to (nuanced phrasing)",
+                "roba": "stuff; thing (informal, vague)",
+                "semplicissima": "very simple; extremely simple (superlative form, colloquial)"
+            }
+        },
+        {
+            "index": 5,
+            "startTimestamp": "00:00:42.400",
+            "endTimestamp": "00:00:48.120",
+            "vocab": {
+                "di nuovo": "again",
+                "in mezzo": "in the middle",
+                "alla strada": "of the street; to the street",
+                "per cui": "therefore; so; for which",
+                "street food": "street food",
+                "mangiate": "you eat; eat (imperative/plural)",
+                "per strada": "on the street; in the street",
+                "sud est asiatico": "Southeast Asia"
+            },
+            "beginnerVocab": {
+                "di nuovo": "again",
+                "strada": "street; road",
+                "Thailandia": "Thailand",
+                "street food": "street food",
+                "mangiate": "you eat; eat (imperative/plural)",
+                "sud est asiatico": "Southeast Asia"
+            },
+            "advancedVocab": {
+                "in mezzo alla strada": "in the middle of the street; out on the street (can imply being homeless or exposed)",
+                "per cui": "therefore; for which (discourse marker, often means 'so' or 'thus')",
+                "street food": "street food (borrowed English term, but may be used differently in Italian contexts)",
+                "per strada": "on the street; in the street (can imply outdoors, not just literally on the road)",
+                "sud est asiatico": "Southeast Asia (geographical/cultural term, may be less familiar)"
+            }
+        },
+        {
+            "index": 6,
+            "startTimestamp": "00:00:48.120",
+            "endTimestamp": "00:00:55.420",
+            "vocab": {
+                "non": "not; don't",
+                "diffidate": "distrust; be wary",
+                "il": "the",
+                "baracchino": "kiosk; small stand (note: informal, refers to a small food or drink stand)",
+                "vi": "you (plural); to you",
+                "salva": "saves",
+                "la vita": "the life",
+                "allora": "so; then",
+                "gli": "the (masculine plural)",
+                "ingredienti": "ingredients",
+                "sono": "are",
+                "zucchero di canna": "brown sugar; cane sugar"
+            },
+            "beginnerVocab": {
+                "baracchino": "kiosk; small stand",
+                "ingredienti": "ingredients",
+                "zucchero": "sugar",
+                "canna": "cane"
+            },
+            "advancedVocab": {
+                "diffidate": "be distrustful; be wary (imperative, formal/literary)",
+                "baracchino": "small kiosk; food stand (diminutive, informal)"
+            }
+        },
+        {
+            "index": 7,
+            "startTimestamp": "00:00:55.420",
+            "endTimestamp": "00:01:02.500",
+            "vocab": {
+                "noccioline": "peanuts",
+                "papaya": "papaya",
+                "rapa daikon": "daikon radish",
+                "carota": "carrot",
+                "lime": "lime",
+                "c'è chi": "there are those who; some people",
+                "ci mette": "put in; add",
+                "anche": "also; too",
+                "due fette": "two slices",
+                "pomodoro": "tomato"
+            },
+            "beginnerVocab": {
+                "noccioline": "peanuts",
+                "papaya": "papaya",
+                "carota": "carrot",
+                "lime": "lime",
+                "pomodoro": "tomato"
+            },
+            "advancedVocab": {
+                "noccioline": "peanuts (can also mean 'small change' in idioms)",
+                "rapa daikon": "daikon radish",
+                "c'è chi ci mette": "some people add; there are those who put (impersonal, idiomatic)"
+            }
+        },
+        {
+            "index": 8,
+            "startTimestamp": "00:01:02.500",
+            "endTimestamp": "00:01:08.620",
+            "vocab": {
+                "ma": "but",
+                "a me": "to me; for me",
+                "non": "not",
+                "fa impazzire": "drive crazy; excite (note: often means 'I don't love it')",
+                "come cosa": "as a thing; as an idea",
+                "aglio": "garlic",
+                "pepe": "pepper",
+                "sale": "salt",
+                "e poi": "and then",
+                "questa cosa fantastica": "this fantastic thing"
+            },
+            "beginnerVocab": {
+                "aglio": "garlic",
+                "pepe": "pepper",
+                "sale": "salt",
+                "cosa": "thing",
+                "fantastica": "fantastic; wonderful (feminine, adjective)"
+            },
+            "advancedVocab": {
+                "fa impazzire": "drive crazy; be crazy about (here: to really like)",
+                "come cosa": "as a thing; as an idea (discourse marker, can mean 'as for this thing')"
+            }
+        },
+        {
+            "index": 9,
+            "startTimestamp": "00:01:08.620",
+            "endTimestamp": "00:01:14.180",
+            "vocab": {
+                "che": "that; which",
+                "troverete": "you will find",
+                "su": "on",
+                "tutte": "all",
+                "le": "the (feminine plural)",
+                "bancarelle": "stalls; stands",
+                "in": "in",
+                "sud est asiatico": "Southeast Asia",
+                "assomiglia": "resembles; looks like",
+                "al": "to the; at the (a + il)",
+                "sale": "salt",
+                "ma": "but",
+                "non": "not",
+                "lo è": "it is (lo = it, è = is)"
+            },
+            "beginnerVocab": {
+                "tutte": "all; every",
+                "bancarelle": "stalls; stands (market stalls)",
+                "sale": "salt",
+                "sud": "south",
+                "est": "east",
+                "asiatico": "Asian"
+            },
+            "advancedVocab": {
+                "bancarelle": "market stalls; street stalls",
+                "assomiglia": "resembles; looks like (note: from 'assomigliare', often used for similarity in appearance)"
+            }
+        },
+        {
+            "index": 10,
+            "startTimestamp": "00:01:14.180",
+            "endTimestamp": "00:01:20.660",
+            "vocab": {
+                "monosodio glutammatico": "monosodium glutamate",
+                "MSG": "MSG",
+                "insaporitore": "flavor enhancer; seasoning",
+                "fondamentalmente": "basically; fundamentally",
+                "concetto": "concept; idea",
+                "dado": "bouillon cube; stock cube"
+            },
+            "beginnerVocab": {
+                "insaporitore": "flavor enhancer; seasoning",
+                "dado": "stock cube; bouillon cube"
+            },
+            "advancedVocab": {
+                "monosodio glutammatico": "monosodium glutamate (food additive)",
+                "insaporitore": "flavor enhancer",
+                "dado": "bouillon cube; stock cube (cooking context)"
+            }
+        },
+        {
+            "index": 11,
+            "startTimestamp": "00:01:20.660",
+            "endTimestamp": "00:01:24.520",
+            "vocab": {
+                "soltanto che": "only that; it's just that (contrast, limitation)",
+                "è": "is",
+                "anche": "also; too",
+                "regolatore": "regulator",
+                "dell'umore": "of mood; of the mood",
+                "ci fa stare": "makes us feel; makes us be (ci = us, stare = be/feel)",
+                "molto bene": "very well; very good"
+            },
+            "beginnerVocab": {
+                "soltanto": "only; just",
+                "regolatore": "regulator (something that controls)",
+                "umore": "mood",
+                "bene": "well; good"
+            },
+            "advancedVocab": {
+                "soltanto che": "it's just that; only that (discourse marker, introduces a contrast)",
+                "regolatore dell'umore": "mood regulator (specialized/medical term)"
+            }
+        },
+        {
+            "index": 12,
+            "startTimestamp": "00:01:24.520",
+            "endTimestamp": "00:01:27.600",
+            "vocab": {
+                "è": "is; it is",
+                "quello che": "that which; what",
+                "ha indotto": "has induced; has caused",
+                "poi": "then; afterwards",
+                "la sindrome": "the syndrome",
+                "del ristorante cinese": "of the Chinese restaurant",
+                "che": "that; which; who"
+            },
+            "beginnerVocab": {
+                "quello": "that; the one",
+                "ha": "has",
+                "poi": "then; later",
+                "ristorante": "restaurant",
+                "cinese": "Chinese",
+                "che": "that; which; who",
+                "è": "is"
+            },
+            "advancedVocab": {
+                "ha indotto": "has induced; has caused (formal, often used in scientific/medical contexts)",
+                "sindrome del ristorante cinese": "Chinese restaurant syndrome (culturally specific term referring to a set of symptoms allegedly caused by eating food from Chinese restaurants, often associated with MSG)"
+            }
+        },
+        {
+            "index": 13,
+            "startTimestamp": "00:01:27.600",
+            "endTimestamp": "00:01:30.740",
+            "vocab": {
+                "quella cosa": "that thing",
+                "che": "that; which; who (relative pronoun)",
+                "ci fa venire voglia di": "makes us want to",
+                "tornare": "to return; to go back",
+                "a": "to; at (preposition)",
+                "mangiare": "to eat",
+                "lì": "there"
+            },
+            "beginnerVocab": {
+                "cosa": "thing",
+                "mangiare": "to eat",
+                "lì": "there"
+            },
+            "advancedVocab": {
+                "ci fa venire voglia": "makes us want; gives us the urge (idiomatic, causative construction)"
+            }
+        },
+        {
+            "index": 14,
+            "startTimestamp": "00:01:30.740",
+            "endTimestamp": "00:01:35.460",
+            "vocab": {
+                "e": "and",
+                "vi posso assicurare": "I can assure you",
+                "che": "that",
+                "esiste": "exists",
+                "veramente": "really; truly",
+                "questa cosa": "this thing",
+                "perché": "because",
+                "mentre": "while",
+                "lo mangio": "I eat it",
+                "a me": "to me; for me",
+                "si": "it (impersonal/reflexive particle)"
+            },
+            "beginnerVocab": {
+                "posso": "I can",
+                "assicurare": "to assure; to guarantee",
+                "esiste": "exists",
+                "cosa": "thing",
+                "mangio": "I eat"
+            },
+            "advancedVocab": {
+                "vi posso assicurare": "I can assure you; I assure you (formal or plural 'you')",
+                "questa cosa": "this thing (can mean 'this matter' or 'this phenomenon', not just a physical object)",
+                "a me si": "for me, yes; it happens to me (elliptical, context-dependent expression)"
+            }
+        },
+        {
+            "index": 15,
+            "startTimestamp": "00:01:35.460",
+            "endTimestamp": "00:01:39.990",
+            "vocab": {
+                "accendono": "they light up; they turn on (context: colors becoming vivid)",
+                "i colori": "the colors",
+                "mi viene": "I get; comes to me (context: a smile appears)",
+                "un sorriso incredibile": "an incredible smile",
+                "in faccia": "on (my) face",
+                "non sono il solo": "I'm not the only one"
+            },
+            "beginnerVocab": {
+                "colori": "colors",
+                "sorriso": "smile",
+                "faccia": "face",
+                "solo": "alone; only (note: 'solo' can mean 'alone' or 'only', depending on context)"
+            },
+            "advancedVocab": {
+                "accendono i colori": "the colors light up; the colors become vivid (idiomatic, refers to colors becoming bright or lively)",
+                "mi viene un sorriso incredibile in faccia": "an incredible smile comes to my face (nuanced, describes a spontaneous, strong smile)"
+            }
+        },
+        {
+            "index": 16,
+            "startTimestamp": "00:01:39.990",
+            "endTimestamp": "00:01:46.840",
+            "vocab": {
+                "ci sono": "there are",
+                "dei miei colleghi": "some of my colleagues",
+                "che": "who; that",
+                "accusano": "suffer from; experience; accuse (here: suffer from)",
+                "lo stesso": "the same",
+                "male": "illness; problem; trouble (here: problem)",
+                "noi": "we",
+                "chiamiamo": "call",
+                "momento": "moment",
+                "true colors": "true colors (English phrase used in Italian)",
+                "a ognuno il suo": "to each their own; everyone has their own (idiom)"
+            },
+            "beginnerVocab": {
+                "ci sono": "there are",
+                "colleghi": "colleagues",
+                "male": "illness; pain; problem (note: context-dependent, often means 'pain' or 'illness')",
+                "noi": "we",
+                "chiamiamo": "we call",
+                "ognuno": "each one; everyone",
+                "suo": "his; her; its; their (note: possessive, context-dependent)"
+            },
+            "advancedVocab": {
+                "accusano lo stesso male": "suffer from the same problem; experience the same issue (note: 'accusare un male' is a formal/medical way to say 'to suffer from a condition')",
+                "momento true colors": "'true colors' moment (note: English phrase used in Italian to mean when someone's real character is revealed)",
+                "a ognuno il suo": "to each their own; everyone has their own (note: idiomatic expression meaning everyone has their own version/experience)"
+            }
+        },
+        {
+            "index": 17,
+            "startTimestamp": "00:01:47.000",
+            "endTimestamp": "00:01:55.900",
+            "vocab": {
+                "Non": "not",
+                "fate": "do (you all); make (you all)",
+                "i fighi": "the cool guys; the show-offs",
+                "in": "in",
+                "con": "with",
+                "sta cosa": "this thing (colloquial for 'questa cosa')",
+                "del": "of the",
+                "\"io mangio piccante\"": "\"I eat spicy food\"",
+                "perché": "because",
+                "ve fate male": "you hurt yourselves; you get hurt (reflexive, informal plural)",
+                "L'acido": "the sourness; the acid (refers to acidic taste)",
+                "e": "and",
+                "il piccante": "the spiciness; the spicy (taste)",
+                "insieme": "together",
+                "che avrete": "that you will have (future tense, you all)"
+            },
+            "beginnerVocab": {
+                "non": "not",
+                "fate": "do; make",
+                "io": "I",
+                "mangio": "I eat",
+                "piccante": "spicy; hot (taste)",
+                "male": "hurt; pain; bad",
+                "insieme": "together"
+            },
+            "advancedVocab": {
+                "fate i fighi": "act cool; show off (slang, means to try to impress)",
+                "sta cosa": "this thing (colloquial for 'questa cosa')",
+                "ve fate male": "you'll hurt yourselves (colloquial, reflexive construction)",
+                "acido": "acidic (refers to sourness, not just chemical acid)"
+            }
+        },
+        {
+            "index": 18,
+            "startTimestamp": "00:01:55.900",
+            "endTimestamp": "00:02:00.940",
+            "vocab": {
+                "in questa insalata": "in this salad",
+                "non solo": "not only",
+                "vi fa male": "hurts you; is bad for you",
+                "in entrata": "going in; on the way in",
+                "ma": "but",
+                "ve la fa pagare": "makes you pay for it",
+                "in uscita": "coming out; on the way out",
+                "di brutto": "badly; big time (emphasizer, very strongly)"
+            },
+            "beginnerVocab": {
+                "insalata": "salad",
+                "male": "bad; hurt (as in 'it hurts')",
+                "pagare": "to pay",
+                "uscita": "exit; going out",
+                "brutto": "bad; ugly"
+            },
+            "advancedVocab": {
+                "vi fa male in entrata": "hurts you going in (figurative; causes discomfort when eating)",
+                "ve la fa pagare in uscita": "makes you pay for it on the way out (figurative; causes discomfort when excreted)",
+                "di brutto": "badly; big time (slang; intensifier)"
+            }
+        },
+        {
+            "index": 19,
+            "startTimestamp": "00:02:00.940",
+            "endTimestamp": "00:02:05.440",
+            "vocab": {
+                "per cui": "therefore; so; for which",
+                "piede di piombo": "caution; carefully; with a heavy foot (literally: lead foot)",
+                "anche perché": "also because; especially because",
+                "loro": "they; them",
+                "lo fanno": "they do it; they make it",
+                "in un mortaio": "in a mortar"
+            },
+            "beginnerVocab": {
+                "piede": "foot",
+                "piombo": "lead",
+                "chili": "chili; chili pepper",
+                "loro": "they",
+                "fanno": "do; make",
+                "mortaio": "mortar (kitchen tool)"
+            },
+            "advancedVocab": {
+                "piede di piombo": "caution; go slowly (literally 'lead foot', but means to proceed carefully)",
+                "one chili": "one chili pepper (note: 'one' is English, used in Italian speech for emphasis or style)",
+                "mortaio": "mortar (the bowl used with a pestle for grinding)"
+            }
+        },
+        {
+            "index": 20,
+            "startTimestamp": "00:02:05.440",
+            "endTimestamp": "00:02:10.280",
+            "vocab": {
+                "che": "that; which",
+                "adesso": "now",
+                "vedrete": "you will see",
+                "quel": "that (masculine singular)",
+                "mortaio": "mortar (kitchen tool)",
+                "è": "is",
+                "foderato di": "lined with; covered with",
+                "peperoncino": "chili pepper",
+                "per cui": "therefore; so; for which",
+                "anche se": "even if",
+                "voi": "you (plural/formal)"
+            },
+            "beginnerVocab": {
+                "adesso": "now",
+                "vedrete": "you will see",
+                "mortaio": "mortar (kitchen tool)",
+                "peperoncino": "chili pepper"
+            },
+            "advancedVocab": {
+                "foderato di": "lined with; coated with (note: 'foderato' literally means 'lined', often used for clothing or containers, here used metaphorically)",
+                "per cui": "therefore; for which reason (note: discourse marker indicating consequence or explanation)"
+            }
+        },
+        {
+            "index": 21,
+            "startTimestamp": "00:02:10.280",
+            "endTimestamp": "00:02:19.020",
+            "vocab": {
+                "non": "not",
+                "mettete": "put; add",
+                "peperoncino": "chili pepper",
+                "è": "is",
+                "piccante": "spicy; hot",
+                "lo stesso": "anyway; still; just the same",
+                "lacrime": "tears",
+                "senza respiro": "out of breath; breathless",
+                "allora": "so; then; well",
+                "rapa daikon": "daikon radish",
+                "che": "that; which",
+                "avrete visto": "you will have seen (future perfect)"
+            },
+            "beginnerVocab": {
+                "peperoncino": "chili pepper",
+                "piccante": "spicy; hot (taste)",
+                "lacrime": "tears",
+                "senza": "without",
+                "respiro": "breath",
+                "rapa": "turnip",
+                "daikon": "daikon (type of radish)",
+                "avrete visto": "you have seen"
+            },
+            "advancedVocab": {
+                "peperoncino": "chili pepper; hot pepper",
+                "è piccante lo stesso": "it's still spicy (even without it)",
+                "lacrime, senza respiro": "tears, out of breath (figurative: very spicy, causes strong reaction)",
+                "rapa daikon": "daikon radish (Japanese/Asian radish, culturally specific)"
+            }
+        },
+        {
+            "index": 22,
+            "startTimestamp": "00:02:19.020",
+            "endTimestamp": "00:02:30.220",
+            "vocab": {
+                "milioni di volte": "millions of times",
+                "in giro": "around",
+                "supermercato": "supermarket",
+                "mega": "mega; huge; giant",
+                "tuberone": "big tuber (root vegetable)",
+                "rapa daikon": "daikon radish",
+                "abbastanza": "quite; rather; enough",
+                "insapore": "tasteless; flavorless",
+                "bianca all'interno": "white inside",
+                "un po'": "a little; a bit",
+                "croccarella": "crunchy (diminutive/affectionate form)"
+            },
+            "beginnerVocab": {
+                "milioni": "millions",
+                "supermercato": "supermarket",
+                "bianca": "white (feminine)",
+                "interno": "inside; interior",
+                "croccarella": "crunchy"
+            },
+            "advancedVocab": {
+                "tuberone": "huge tuber; big root vegetable (augmentative, playful)",
+                "rapa daikon": "daikon radish (specific vegetable, less common in Italy)",
+                "insapore": "tasteless; flavorless",
+                "croccarella": "a bit crunchy (diminutive, informal)"
+            }
+        },
+        {
+            "index": 23,
+            "startTimestamp": "00:02:30.220",
+            "endTimestamp": "00:02:38.680",
+            "vocab": {
+                "quando": "when",
+                "la": "the (feminine)",
+                "tagli": "you cut; cuts",
+                "piange": "cries",
+                "via": "away; off",
+                "la buccia": "the peel; the skin",
+                "oggi": "today",
+                "usiamo": "we use",
+                "uno degli": "one of the",
+                "oggetti": "objects",
+                "più": "more; most",
+                "pericolosi": "dangerous"
+            },
+            "beginnerVocab": {
+                "quando": "when",
+                "tagli": "you cut",
+                "piange": "cries",
+                "via": "away; off (as in 'remove')",
+                "buccia": "peel; skin (of fruit/vegetable)",
+                "oggi": "today",
+                "usiamo": "we use",
+                "oggetti": "objects"
+            },
+            "advancedVocab": {
+                "quando la tagli piange": "it makes you cry when you cut it (refers to onions; idiomatic)",
+                "Via la buccia": "Off with the peel; Remove the peel (colloquial imperative)",
+                "oggetti più pericolosi": "most dangerous objects (nuanced: implies a tool or utensil, not just any object)"
+            }
+        },
+        {
+            "index": 24,
+            "startTimestamp": "00:02:38.680",
+            "endTimestamp": "00:02:45.680",
+            "vocab": {
+                "di tutta": "of all; of the whole",
+                "la cucina": "the kitchen; cooking",
+                "la mandolina": "the mandoline (kitchen slicer)",
+                "ne": "of it; about it (pronoun referring to something previously mentioned)",
+                "avevamo già parlato": "we had already talked (about it)",
+                "con": "with",
+                "i tuberi": "the tubers; root vegetables",
+                "ma": "but",
+                "non sarò mai abbastanza chiaro": "I will never be clear enough (note: 'abbastanza' = enough, 'chiaro' = clear)"
+            },
+            "beginnerVocab": {
+                "cucina": "kitchen; cooking",
+                "mandolina": "mandoline (kitchen slicer)",
+                "tuberi": "tubers (root vegetables)"
+            },
+            "advancedVocab": {
+                "mandolina": "mandoline (kitchen slicer)",
+                "tuberi": "root vegetables; tubers",
+                "non sarò mai abbastanza chiaro": "I can never be clear enough (emphasis on importance/clarity)"
+            }
+        },
+        {
+            "index": 25,
+            "startTimestamp": "00:02:45.680",
+            "endTimestamp": "00:02:51.510",
+            "vocab": {
+                "su": "on; about (context: about this thing)",
+                "questa cosa": "this thing",
+                "questo è": "this is",
+                "il prodotto": "the product",
+                "che": "that; which",
+                "vogliamo": "we want",
+                "sembrava": "it seemed; it looked",
+                "una schifezza": "a mess; a piece of junk; disgusting thing",
+                "'sta": "this (colloquial contraction of 'questa')",
+                "mandolina": "mandoline (kitchen slicer)"
+            },
+            "beginnerVocab": {
+                "questa": "this",
+                "cosa": "thing",
+                "questo": "this",
+                "prodotto": "product",
+                "vogliamo": "we want",
+                "sembrava": "it seemed; it looked (note: past tense of 'sembrare')",
+                "mandolina": "mandoline (note: kitchen slicer)"
+            },
+            "advancedVocab": {
+                "schifezza": "junk; rubbish; crap (slang, derogatory)",
+                "'sta": "this (colloquial contraction of 'questa', informal)"
+            }
+        },
+        {
+            "index": 26,
+            "startTimestamp": "00:02:51.510",
+            "endTimestamp": "00:02:59.560",
+            "vocab": {
+                "e invece": "and instead; but instead",
+                "tutto questo": "all this; all of this",
+                "è fantastico": "is fantastic; is great",
+                "brevettiamolo": "let's patent it",
+                "l'avranno già fatto": "they will have already done it; they've probably already done it",
+                "dovete": "you must; you have to",
+                "riceverne": "receive some (of it/of them)",
+                "un po'": "a little; some",
+                "questi": "these",
+                "bastoncini": "sticks; little sticks (note: contextually could mean breadsticks, etc.)"
+            },
+            "beginnerVocab": {
+                "tutto": "everything; all",
+                "questo": "this",
+                "è": "is",
+                "fantastico": "fantastic; wonderful",
+                "già": "already",
+                "fatto": "done; made",
+                "dovete": "you must; you have to (plural)",
+                "riceverne": "receive (some of it)",
+                "un po'": "a little; some",
+                "questi": "these",
+                "bastoncini": "sticks; little sticks"
+            },
+            "advancedVocab": {
+                "brevettiamolo": "let's patent it",
+                "l'avranno già fatto": "they've probably already done it; they've probably already patented it (note: future perfect used for speculation)",
+                "riceverne": "to receive some of it; to get some of it (note: 'ne' as a partitive pronoun)",
+                "bastoncini": "sticks; breadsticks (note: can refer to food or other stick-shaped items, context-dependent)"
+            }
+        },
+        {
+            "index": 27,
+            "startTimestamp": "00:02:59.560",
+            "endTimestamp": "00:03:07.079",
+            "vocab": {
+                "un po'": "a little; a bit",
+                "ariosi": "airy; light (in texture)",
+                "è": "is",
+                "rafanato": "horseradish-like; tastes like horseradish",
+                "fighissimo": "super cool; awesome",
+                "il daikon": "the daikon (Japanese radish)",
+                "fa bene": "is good for you; is healthy",
+                "anche": "also; too",
+                "forse": "maybe; perhaps",
+                "troppo": "too much"
+            },
+            "beginnerVocab": {
+                "un po'": "a little; a bit",
+                "fa bene": "is good for you; is healthy",
+                "troppo": "too much; too"
+            },
+            "advancedVocab": {
+                "ariosi": "airy; light (in texture, often used for food or spaces)",
+                "rafanato": "radish-like; with a taste of horseradish (from 'rafano', meaning horseradish; not a common adjective)",
+                "fighissimo": "super cool; awesome (slang, very informal)",
+                "fa bene": "it's good for you; it's healthy (idiomatic, not just 'does well')"
+            }
+        },
+        {
+            "index": 28,
+            "startTimestamp": "00:03:07.080",
+            "endTimestamp": "00:03:11.947",
+            "vocab": {
+                "faccio": "I do; I make",
+                "la stessa cosa": "the same thing",
+                "con": "with",
+                "la carota": "the carrot",
+                "vi": "to you all; to you (plural)",
+                "svelo": "I reveal; I unveil",
+                "l'arcano": "the mystery; the secret",
+                "di": "of",
+                "questa cosa": "this thing"
+            },
+            "beginnerVocab": {
+                "faccio": "I do; I make",
+                "carota": "carrot",
+                "cosa": "thing"
+            },
+            "advancedVocab": {
+                "vi svelo l'arcano": "I reveal the mystery; I unveil the secret (idiomatic, somewhat literary)"
+            }
+        },
+        {
+            "index": 29,
+            "startTimestamp": "00:03:11.947",
+            "endTimestamp": "00:03:17.820",
+            "vocab": {
+                "questo": "this",
+                "io": "I",
+                "non": "not",
+                "posso": "can",
+                "promettervi": "promise you",
+                "che": "that",
+                "sia": "is; may be (subjunctive)",
+                "esattamente": "exactly",
+                "così": "so; like this",
+                "però": "however; but",
+                "generalmente": "generally",
+                "quelli": "those",
+                "ad archetto": "headset-type; with headband (note: refers to a type of microphone)",
+                "professionali": "professional"
+            },
+            "beginnerVocab": {
+                "questo": "this",
+                "io": "I",
+                "non": "not",
+                "posso": "can",
+                "che": "that",
+                "così": "so; like this; this way",
+                "però": "but",
+                "quelli": "those",
+                "professionali": "professional"
+            },
+            "advancedVocab": {
+                "ad archetto": "headset-style; with a headband (refers to a type of microphone worn on the head)",
+                "professional(i)": "professional-grade; for professionals (can imply higher quality or specialized use)"
+            }
+        },
+        {
+            "index": 30,
+            "startTimestamp": "00:03:17.820",
+            "endTimestamp": "00:03:24.760",
+            "vocab": {
+                "funzionano": "they work; they function",
+                "in due direzioni": "in two directions",
+                "perché": "because",
+                "per": "to; in order to",
+                "rendere": "make; render",
+                "una carota": "a carrot",
+                "rotonda": "round",
+                "bisogna": "one must; it is necessary",
+                "fare": "do; make",
+                "quello che si chiama": "what is called; that which is called",
+                "overlapping": "overlapping (same in English)"
+            },
+            "beginnerVocab": {
+                "due": "two",
+                "carota": "carrot",
+                "rotonda": "round",
+                "fare": "to do; to make",
+                "quello": "that (thing)",
+                "che": "that; which"
+            },
+            "advancedVocab": {
+                "funzionano in due direzioni": "work in two directions; function both ways (can imply reciprocity or bidirectionality)",
+                "overlapping": "overlapping (used as a technical or borrowed English term in Italian)"
+            }
+        },
+        {
+            "index": 31,
+            "startTimestamp": "00:03:24.760",
+            "endTimestamp": "00:03:32.740",
+            "vocab": {
+                "cioè": "that is; i.e.; namely",
+                "fare": "to make; to do",
+                "punto e mezzo": "one and a half points (note: 'punto' can mean 'point', 'dot', or 'stitch', but here likely 'point')",
+                "ogni volta": "every time; each time",
+                "ecco": "here; here is; here are; look (attention-getter)",
+                "carota": "carrot",
+                "traditrice": "treacherous; tricky; deceptive (feminine form)",
+                "in mandolina": "on the mandoline (note: 'mandolina' is a kitchen slicer)",
+                "occhio": "watch out; be careful; eye"
+            },
+            "beginnerVocab": {
+                "fare": "to do; to make",
+                "punto": "point; stitch",
+                "ogni": "every; each",
+                "volta": "time (occasion)",
+                "carota": "carrot",
+                "occhio": "eye; watch out (note: also used as 'be careful')"
+            },
+            "advancedVocab": {
+                "cioè": "that is; I mean (discourse marker, clarifies or rephrases)",
+                "fare un punto e mezzo": "score one and a half points; make one and a half marks (idiomatic, context-dependent)",
+                "Ecco": "here; look; so (discourse marker, draws attention)",
+                "traditrice": "treacherous; tricky (feminine form, personifies object as deceptive)",
+                "mandolina": "mandoline (kitchen slicer, not the musical instrument)",
+                "occhio": "watch out; be careful (literally 'eye', used as a warning)"
+            }
+        },
+        {
+            "index": 32,
+            "startTimestamp": "00:03:33.340",
+            "endTimestamp": "00:03:40.940",
+            "vocab": {
+                "mandolina": "mandoline (kitchen slicer)",
+                "molto": "very",
+                "delicata": "delicate",
+                "quello che avanza": "what is left; leftovers",
+                "e poi": "and then",
+                "papaya": "papaya",
+                "deve essere": "must be; has to be",
+                "acerba": "unripe"
+            },
+            "beginnerVocab": {
+                "mandolina": "mandoline (kitchen slicer)",
+                "molto": "very",
+                "delicata": "delicate",
+                "papaya": "papaya",
+                "deve essere": "must be; has to be",
+                "acerba": "unripe"
+            },
+            "advancedVocab": {
+                "mandolina": "mandoline (kitchen slicer)",
+                "quello che avanza": "what's left; leftovers (note: can mean 'the remainder')",
+                "acerba": "unripe (note: feminine form, refers to fruit not being ripe)"
+            }
+        },
+        {
+            "index": 33,
+            "startTimestamp": "00:03:41.600",
+            "endTimestamp": "00:03:52.560",
+            "vocab": {
+                "e": "and",
+                "questa": "this (feminine)",
+                "non": "not",
+                "lo è": "it is",
+                "ma": "but",
+                "sono": "are",
+                "i problemi": "the problems",
+                "della": "of the",
+                "diretta": "live broadcast; live (as in live TV)",
+                "praticamente": "practically; basically",
+                "la nostra": "our (feminine)",
+                "papaya": "papaya",
+                "non è": "is not",
+                "acerba": "unripe; not ripe (feminine)"
+            },
+            "beginnerVocab": {
+                "questa": "this",
+                "non": "not",
+                "sono": "are",
+                "problemi": "problems",
+                "nostra": "our",
+                "papaya": "papaya",
+                "acerba": "unripe"
+            },
+            "advancedVocab": {
+                "problemi della diretta": "live broadcast issues; problems of live (unscripted) situations (idiom, refers to unexpected issues during live events)",
+                "praticamente": "basically; practically (discourse marker, often used for emphasis or to introduce clarification)",
+                "acerba": "unripe (used for fruit, but can also mean inexperienced metaphorically)"
+            }
+        },
+        {
+            "index": 34,
+            "startTimestamp": "00:03:52.560",
+            "endTimestamp": "00:03:59.100",
+            "vocab": {
+                "si spatascerà": "will splatter; will get smashed (reflexive, colloquial)",
+                "molto probabilmente": "very probably; most likely",
+                "caro": "dear",
+                "compatriota": "compatriot; fellow countryman",
+                "qua": "here",
+                "verrà": "will be; will come (future of 'venire')",
+                "spennato vivo": "plucked alive; fleeced alive (idiom: taken advantage of, exploited)"
+            },
+            "beginnerVocab": {
+                "caro": "dear; beloved",
+                "qua": "here",
+                "vivo": "alive"
+            },
+            "advancedVocab": {
+                "spatascerà": "will splatter; will get smashed (slang, vivid imagery)",
+                "spennato vivo": "plucked alive; fleeced (idiom, means to be cheated or lose all one's money)"
+            }
+        },
+        {
+            "index": 35,
+            "startTimestamp": "00:04:02.000",
+            "endTimestamp": "00:04:06.440",
+            "vocab": {
+                "la previdente": "the prudent one; the cautious one (feminine)",
+                "fa il bravo": "be good; behave",
+                "guarda": "look",
+                "che bello": "how beautiful; how nice",
+                "sembra": "seems; looks like",
+                "tramonto": "sunset",
+                "delle Hawaii": "of Hawaii"
+            },
+            "beginnerVocab": {
+                "fa": "do; make",
+                "bravo": "good; well-behaved (person)",
+                "guarda": "look",
+                "bello": "beautiful; nice",
+                "sembra": "seems; looks like",
+                "tramonto": "sunset",
+                "Hawaii": "Hawaii"
+            },
+            "advancedVocab": {
+                "La previdente": "the cautious one; the prudent one (feminine, used as a nickname or descriptor)",
+                "fa il bravo": "be good; behave yourself (imperative, familiar)"
+            }
+        },
+        {
+            "index": 36,
+            "startTimestamp": "00:04:06.560",
+            "endTimestamp": "00:04:09.540",
+            "vocab": {
+                "non": "not",
+                "uso": "I use",
+                "il": "the",
+                "pelapatate": "potato peeler",
+                "qua": "here",
+                "perché": "because",
+                "ho visto": "I saw; I have seen",
+                "che": "that",
+                "non è": "is not",
+                "esattamente": "exactly"
+            },
+            "beginnerVocab": {
+                "non": "not",
+                "uso": "I use",
+                "il": "the",
+                "qua": "here",
+                "perché": "because"
+            },
+            "advancedVocab": {
+                "pelapatate": "potato peeler",
+                "qua": "here (colloquial; instead of 'qui')",
+                "esattamente": "exactly; precisely (can imply 'not quite right' in context)"
+            }
+        },
+        {
+            "index": 37,
+            "startTimestamp": "00:04:09.860",
+            "endTimestamp": "00:04:16.800",
+            "vocab": {
+                "qua": "here",
+                "bisogna": "one must; it is necessary",
+                "stare attenti": "be careful; pay attention",
+                "molto": "very; a lot",
+                "a non": "not to",
+                "tagliare via": "cut off",
+                "mezza": "half",
+                "papaya": "papaya",
+                "ti ho preso": "I got you; I bought you",
+                "un biglietto": "a ticket",
+                "per": "for",
+                "una partita di calcio": "a soccer match; a football game"
+            },
+            "beginnerVocab": {
+                "qua": "here",
+                "bisogna": "one must; you have to (impersonal necessity)",
+                "stare attenti": "be careful; pay attention",
+                "tagliare": "cut",
+                "mezza": "half",
+                "papaya": "papaya",
+                "biglietto": "ticket",
+                "partita": "match; game",
+                "calcio": "soccer; football"
+            },
+            "advancedVocab": {
+                "tagliare via": "cut off; remove (note: 'via' adds emphasis to 'cut', meaning to remove completely)"
+            }
+        },
+        {
+            "index": 38,
+            "startTimestamp": "00:04:16.800",
+            "endTimestamp": "00:04:22.780",
+            "vocab": {
+                "sulla": "on the",
+                "corsia di sorpasso": "passing lane; overtaking lane",
+                "in autostrada": "on the highway; on the freeway",
+                "sto parlando": "I am speaking; I am talking",
+                "soprattutto": "especially; above all",
+                "persone": "people",
+                "che": "who; that (relative pronoun)",
+                "vivono": "live",
+                "sulle isole": "on the islands"
+            },
+            "beginnerVocab": {
+                "sulla": "on the",
+                "corsia": "lane",
+                "autostrada": "highway; freeway",
+                "persone": "people",
+                "vivono": "live",
+                "isole": "islands"
+            },
+            "advancedVocab": {
+                "corsia di sorpasso": "passing lane; overtaking lane",
+                "autostrada": "highway; motorway (Italian highways are often toll roads)",
+                "soprattutto": "above all; especially (as a discourse marker)",
+                "isole": "islands (refers to Sicily, Sardinia, or other Italian islands; culturally specific)"
+            }
+        },
+        {
+            "index": 39,
+            "startTimestamp": "00:04:22.790",
+            "endTimestamp": "00:04:27.300",
+            "vocab": {
+                "ma": "but",
+                "quanti": "how many",
+                "tramonti": "sunsets",
+                "quante": "how many (feminine)",
+                "spiagge": "beaches",
+                "abbiamo": "we have",
+                "camminato": "walked",
+                "guardando": "looking at; watching",
+                "colori": "colors",
+                "di questo tipo": "of this kind; like this"
+            },
+            "beginnerVocab": {
+                "ma": "but",
+                "quanti": "how many",
+                "tramonti": "sunsets",
+                "quante": "how many",
+                "spiagge": "beaches",
+                "abbiamo": "we have",
+                "camminato": "walked",
+                "guardando": "watching; looking at",
+                "colori": "colors",
+                "tipo": "type; kind"
+            },
+            "advancedVocab": {
+                "quanti tramonti": "how many sunsets",
+                "colori di questo tipo": "colors like these; colors of this kind (nuanced: refers to a specific, evocative palette, not just any colors)"
+            }
+        },
+        {
+            "index": 40,
+            "startTimestamp": "00:04:27.300",
+            "endTimestamp": "00:04:34.300",
+            "vocab": {
+                "quanti": "how many",
+                "tramonti": "sunsets",
+                "verdi": "green",
+                "no": "no",
+                "così": "like this; this way",
+                "non": "not; don't",
+                "la": "it; her (feminine object pronoun)",
+                "state a": "are (you all) doing; are (you all) about to (progressive construction)",
+                "svuotare": "empty",
+                "pelare": "peel",
+                "altro": "other; else"
+            },
+            "beginnerVocab": {
+                "quanti": "how many",
+                "verdi": "green",
+                "no": "no",
+                "così": "like this; so",
+                "svuotare": "to empty",
+                "pelare": "to peel"
+            },
+            "advancedVocab": {
+                "Non la state a": "Don't bother to; Don't go and (nuanced imperative, colloquial, discouraging unnecessary action)"
+            }
+        },
+        {
+            "index": 41,
+            "startTimestamp": "00:04:34.300",
+            "endTimestamp": "00:04:40.400",
+            "vocab": {
+                "perché": "because; why",
+                "non": "not",
+                "ce ne sarà bisogno": "there will be need (of it); it will be needed",
+                "allora": "then; so",
+                "sicuramente": "surely; certainly",
+                "adesso": "now",
+                "sarà": "will be",
+                "complicatissimo": "very complicated; extremely complicated",
+                "con": "with",
+                "questa cosa": "this thing"
+            },
+            "beginnerVocab": {
+                "perché": "because; why",
+                "adesso": "now",
+                "cosa": "thing"
+            },
+            "advancedVocab": {
+                "ce ne sarà bisogno": "there will be need for it; it will be needed (note: 'ce ne' is a pronominal construction, tricky for learners)",
+                "complicatissimo": "extremely complicated; very complicated (note: superlative form, more emphatic than 'complicato')"
+            }
+        },
+        {
+            "index": 42,
+            "startTimestamp": "00:04:41.260",
+            "endTimestamp": "00:04:45.940",
+            "vocab": {
+                "Sai che": "Do you know that; You know that",
+                "non è": "is not",
+                "neanche": "not even",
+                "così": "so; like this",
+                "male": "bad",
+                "verde": "green",
+                "lei": "her; she",
+                "ma": "but"
+            },
+            "beginnerVocab": {
+                "Sai": "you know",
+                "male": "bad",
+                "verde": "green",
+                "lei": "she; her"
+            },
+            "advancedVocab": {
+                "neanche": "not even; neither (negation intensifier)",
+                "così male": "that bad (nuanced: 'so bad', often used to soften criticism)"
+            }
+        },
+        {
+            "index": 43,
+            "startTimestamp": "00:04:47.140",
+            "endTimestamp": "00:04:52.580",
+            "vocab": {
+                "il resto": "the rest",
+                "lo": "it (masculine direct object pronoun)",
+                "mangiate": "you eat",
+                "ne": "of it; from it",
+                "fatte": "you make; you do",
+                "altra": "another; other (feminine)",
+                "date": "you give",
+                "a": "to",
+                "che così": "so that; in this way",
+                "la": "it; her (feminine direct object pronoun)",
+                "fa diventare": "makes (it/her) become",
+                "acerba": "unripe; sour (feminine)"
+            },
+            "beginnerVocab": {
+                "resto": "rest; remainder",
+                "mangiate": "you eat",
+                "fatte": "you make; you do",
+                "date": "you give",
+                "Pippo": "Pippo (name)",
+                "fa": "he/she/it makes; he/she/it does",
+                "diventare": "to become",
+                "acerba": "unripe; sour (for fruit)"
+            },
+            "advancedVocab": {
+                "ne fatte altra": "you make more of it (note: 'ne' refers back to something previously mentioned; 'fatte' is 2nd person plural, informal or regional)",
+                "che così la fa diventare acerba": "so that he makes it become unripe (note: 'acerba' usually means 'unripe', but can also mean 'harsh' or 'bitter'; the construction is unusual)"
+            }
+        },
+        {
+            "index": 44,
+            "startTimestamp": "00:04:52.840",
+            "endTimestamp": "00:05:02.400",
+            "vocab": {
+                "gli": "to him; to her; to them (indirect object pronoun)",
+                "fa": "does; makes",
+                "operazione inversa": "inverse operation; reverse operation",
+                "magie": "magic; tricks",
+                "di": "of",
+                "Pippo": "Pippo (proper name)",
+                "va che": "look; see; check it out (colloquial expression)",
+                "mortaio": "mortar (object; also nickname)",
+                "vuoi": "you want",
+                "momento": "moment",
+                "casa": "home; house"
+            },
+            "beginnerVocab": {
+                "operazione": "operation",
+                "magie": "magic; tricks",
+                "mortaio": "mortar (kitchen tool)",
+                "casa": "house; home"
+            },
+            "advancedVocab": {
+                "gli fa l'operazione inversa": "does the reverse operation to him; does the opposite trick to him (note: 'operazione inversa' can mean undoing or reversing an action)",
+                "le magie di Pippo": "Pippo's magic tricks; Pippo's magic (note: 'Pippo' is a common Italian nickname, sometimes used generically)",
+                "Va che...": "Look...; Hey, look... (note: colloquial northern Italian expression to draw attention)",
+                "Mortaio": "Mortaio (note: could be a nickname or reference to a mortar, context needed)",
+                "vuoi il momento casa?": "do you want the home moment? (note: unclear, possibly idiomatic or context-specific, could mean 'do you want to go home?' or refer to a special moment at home)"
+            }
+        },
+        {
+            "index": 45,
+            "startTimestamp": "00:05:03.900",
+            "endTimestamp": "00:05:12.280",
+            "vocab": {
+                "allora": "so; then",
+                "il limone": "the lemon",
+                "un quarto": "a quarter",
+                "in due spicchi": "into two wedges; into two segments",
+                "già": "already",
+                "iniziano": "begin; start",
+                "dei": "some (partitive article)",
+                "dolori lancinanti": "stabbing pains; sharp pains"
+            },
+            "beginnerVocab": {
+                "allora": "so; then",
+                "limone": "lemon",
+                "un quarto": "a quarter",
+                "due": "two",
+                "spicchi": "wedges; slices (of fruit)",
+                "dolori": "pains",
+                "già": "already"
+            },
+            "advancedVocab": {
+                "Allora": "So; Well (discourse marker)",
+                "spicchi": "segments; wedges (of fruit, especially citrus)",
+                "dolori lancinanti": "stabbing pains; excruciating pains (nuanced, very intense pain)"
+            }
+        },
+        {
+            "index": 46,
+            "startTimestamp": "00:05:12.840",
+            "endTimestamp": "00:05:21.180",
+            "vocab": {
+                "peperoncino": "chili pepper",
+                "nel": "in the",
+                "mortaio": "mortar (for grinding)",
+                "che ci siano": "that there are",
+                "quattro": "four",
+                "genovesi": "Genoese (people from Genoa)",
+                "che stanno": "who are",
+                "affilando": "sharpening",
+                "i coltelli": "the knives",
+                "guardando": "watching; looking at",
+                "questa cosa": "this thing"
+            },
+            "beginnerVocab": {
+                "peperoncino": "chili pepper",
+                "mortaio": "mortar (kitchen tool)",
+                "coltelli": "knives",
+                "guardando": "watching; looking"
+            },
+            "advancedVocab": {
+                "mortaio": "mortar (kitchen tool for grinding)",
+                "affilando i coltelli": "sharpening the knives (literal and idiomatic: preparing to criticize or attack)",
+                "guardando questa cosa": "watching this thing (nuanced: 'thing' can imply disapproval or skepticism in context)"
+            }
+        },
+        {
+            "index": 47,
+            "startTimestamp": "00:05:24.620",
+            "endTimestamp": "00:05:30.280",
+            "vocab": {
+                "il": "the",
+                "pinolo": "pine nut",
+                "e basta": "and that's it; and nothing else",
+                "questo": "this",
+                "noi": "we",
+                "lo": "it (masculine object pronoun)",
+                "spremiamo": "squeeze; press",
+                "poi": "then; afterwards",
+                "prendiamo": "we take",
+                "un po' di": "a bit of; some",
+                "aceto": "vinegar",
+                "di": "of",
+                "ananas": "pineapple"
+            },
+            "beginnerVocab": {
+                "pinolo": "pine nut",
+                "basta": "enough; that's all",
+                "noi": "we",
+                "spremiamo": "we squeeze; we press",
+                "prendiamo": "we take",
+                "un po'": "a little; a bit",
+                "aceto": "vinegar",
+                "ananas": "pineapple"
+            },
+            "advancedVocab": {
+                "pinolo": "pine nut",
+                "spremiamo": "we squeeze; we press (note: refers to extracting juice or oil, not just squeezing physically)",
+                "aceto di ananas": "pineapple vinegar (note: uncommon type of vinegar in Italian cuisine)"
+            }
+        },
+        {
+            "index": 48,
+            "startTimestamp": "00:05:30.280",
+            "endTimestamp": "00:05:39.320",
+            "vocab": {
+                "fategli": "make him; do to him (imperative, voi form, 'fare' + 'gli' indirect object)",
+                "un'inquadratura": "a shot; a framing (film/photography term)",
+                "sulla faccia": "on the face",
+                "mentre": "while",
+                "soffre": "he/she suffers",
+                "di quello che": "from what; of what",
+                "sta vedendo": "he/she is seeing; is watching",
+                "il sale": "the salt",
+                "la salsa di soia": "the soy sauce"
+            },
+            "beginnerVocab": {
+                "faccia": "face",
+                "sale": "salt",
+                "salsa di soia": "soy sauce",
+                "vedere": "to see"
+            },
+            "advancedVocab": {
+                "inquadratura": "framing; shot (film/photography term)",
+                "soffre di quello che sta vedendo": "suffers from what he is seeing (nuanced: emotionally affected by what he sees)"
+            }
+        },
+        {
+            "index": 49,
+            "startTimestamp": "00:05:41.420",
+            "endTimestamp": "00:05:52.580",
+            "vocab": {
+                "monosodio glutammatico": "monosodium glutamate; MSG",
+                "un pochettino così": "just a little; a tiny bit (gesture implied)",
+                "pepe": "pepper",
+                "zucchero di canna": "brown sugar; cane sugar",
+                "un goccino": "a drop; a little bit (liquid)",
+                "olio di semi": "seed oil"
+            },
+            "beginnerVocab": {
+                "pepe": "pepper",
+                "zucchero di canna": "brown sugar",
+                "olio di semi": "seed oil"
+            },
+            "advancedVocab": {
+                "un pochettino così": "just a little; a tiny bit (colloquial, vague amount)",
+                "un goccino": "a drop; a tiny bit (diminutive, informal)",
+                "olio di semi": "seed oil (generic term for oils from seeds, not olive oil)"
+            }
+        },
+        {
+            "index": 50,
+            "startTimestamp": "00:05:52.580",
+            "endTimestamp": "00:05:59.040",
+            "vocab": {
+                "io": "I",
+                "mi rifiuto": "I refuse",
+                "uso": "I use",
+                "l'olio d'oliva": "olive oil",
+                "qua": "here",
+                "bisogna": "one must; it is necessary",
+                "veramente": "really; truly",
+                "essere": "to be",
+                "un po'": "a little; a bit",
+                "genovesi": "Genovese (from Genoa; also means 'frugal' in Italian idiom)"
+            },
+            "beginnerVocab": {
+                "io": "I",
+                "uso": "I use",
+                "olio d'oliva": "olive oil",
+                "qua": "here",
+                "essere": "to be",
+                "un po'": "a little; a bit"
+            },
+            "advancedVocab": {
+                "mi rifiuto": "I refuse",
+                "bisogna": "one must; it is necessary (impersonal construction)",
+                "essere un po' genovesi": "to be a bit Genoese (idiom: to be thrifty or stingy, referencing the stereotype of people from Genoa)"
+            }
+        },
+        {
+            "index": 51,
+            "startTimestamp": "00:05:59.040",
+            "endTimestamp": "00:06:06.640",
+            "vocab": {
+                "un po'": "a little; a bit",
+                "allo stesso tempo": "at the same time",
+                "vieni qua": "come here",
+                "mettiamo": "let's put",
+                "spicchietto d'aglio": "clove of garlic"
+            },
+            "beginnerVocab": {
+                "un po'": "a little; a bit",
+                "vieni": "come",
+                "qua": "here",
+                "mettiamo": "let's put",
+                "spicchietto d'aglio": "clove of garlic"
+            },
+            "advancedVocab": {
+                "bangkokiani": "Bangkok-style; people from Bangkok (unusual adjective formation)",
+                "genovesi": "Genoese; people from Genoa (can refer to both people and things from Genoa)",
+                "spicchietto d'aglio": "small clove of garlic (diminutive form, nuance of smallness or affection)"
+            }
+        },
+        {
+            "index": 52,
+            "startTimestamp": "00:06:09.640",
+            "endTimestamp": "00:06:19.440",
+            "vocab": {
+                "con": "with",
+                "l'estate": "the summer",
+                "uno": "one; someone; a person",
+                "vuole": "wants",
+                "limonare": "make out; kiss passionately (slang)",
+                "è": "is",
+                "geniale": "brilliant; genius",
+                "si vede": "you can see; it's clear",
+                "che": "that",
+                "sto": "I am (from 'stare')",
+                "gioendo": "rejoicing; enjoying (from 'gioire')"
+            },
+            "beginnerVocab": {
+                "estate": "summer",
+                "vuole": "wants",
+                "geniale": "brilliant;genius",
+                "vede": "sees",
+                "gioendo": "rejoicing;enjoying (from 'gioire', to rejoice/enjoy)"
+            },
+            "advancedVocab": {
+                "limonare": "to make out; to kiss passionately (slang)",
+                "geniale": "brilliant; genius (nuanced: very clever or cool, not just 'genius')",
+                "sto gioendo": "I'm rejoicing; I'm really happy (nuanced: expressing strong joy, not just 'happy')"
+            }
+        },
+        {
+            "index": 53,
+            "startTimestamp": "00:06:19.440",
+            "endTimestamp": "00:06:32.960",
+            "vocab": {
+                "come": "like; as",
+                "un bimbo": "a child; a kid",
+                "di": "of",
+                "anni": "years",
+                "chi": "who",
+                "è che": "is it that; who is it that",
+                "hai insultato": "you insulted",
+                "guarda che": "look that; just so you know (attention-getting phrase)",
+                "m'hanno": "they have me; they did to me (short for 'mi hanno')",
+                "vaccinato": "vaccinated",
+                "a me": "to me"
+            },
+            "beginnerVocab": {
+                "bimbo": "child; kid; baby",
+                "anni": "years",
+                "chi": "who",
+                "hai": "you have (from 'avere')",
+                "guarda": "look",
+                "me": "me"
+            },
+            "advancedVocab": {
+                "Chi è che": "Who is it that; Who exactly (emphatic, clarifying question)",
+                "Guarda che": "Look, you should know that; Mind you (discourse marker, draws attention)",
+                "m'hanno": "they have (to) me (colloquial contraction of 'mi hanno')"
+            }
+        },
+        {
+            "index": 54,
+            "startTimestamp": "00:06:35.320",
+            "endTimestamp": "00:06:41.200",
+            "vocab": {
+                "Eh sì": "Yeah; Yes (colloquial affirmation)",
+                "è": "is",
+                "piccante": "spicy",
+                "Diamo": "Let's give; We give",
+                "due giri": "two turns; two stirs (context: stirring/mixing)",
+                "qua": "here",
+                "per": "to; in order to",
+                "amalgamare": "mix; blend",
+                "un po'": "a bit; a little",
+                "i colori": "the colors",
+                "tentando di": "trying to"
+            },
+            "beginnerVocab": {
+                "sì": "yes",
+                "piccante": "spicy",
+                "due": "two",
+                "qua": "here",
+                "colori": "colors"
+            },
+            "advancedVocab": {
+                "Eh sì": "Well yes; Yeah (discourse marker, conversational filler)",
+                "diamo due giri": "let's stir twice; let's give it two turns (idiomatic for stirring or mixing)",
+                "amalgamare": "to blend; to amalgamate (specialized culinary term)"
+            }
+        },
+        {
+            "index": 55,
+            "startTimestamp": "00:06:41.200",
+            "endTimestamp": "00:06:48.260",
+            "vocab": {
+                "non": "not",
+                "spezzare": "break",
+                "i nostri": "our",
+                "belli": "beautiful; nice",
+                "spaghettini": "little spaghetti; thin spaghetti",
+                "abbiamo": "we have",
+                "delle": "some; of the",
+                "tonalità": "shades; tones",
+                "tramonto": "sunset",
+                "fino a": "up to; until",
+                "bianco nuvola": "cloud white",
+                "fantastico": "fantastic; wonderful"
+            },
+            "beginnerVocab": {
+                "non": "not",
+                "spezzare": "break",
+                "nostri": "our",
+                "belli": "beautiful; nice",
+                "spaghettini": "spaghettini (small spaghetti)",
+                "bianco": "white",
+                "nuvola": "cloud",
+                "fantastico": "fantastic; great"
+            },
+            "advancedVocab": {
+                "spezzare": "break; snap (can mean to break physically or metaphorically)",
+                "spaghettini": "thin spaghetti (diminutive form, refers to a specific pasta type)",
+                "tonalità di tramonto": "sunset shades; sunset hues (refers to colors resembling a sunset)",
+                "bianco nuvola": "cloud white (specific color description, poetic)"
+            }
+        },
+        {
+            "index": 56,
+            "startTimestamp": "00:06:48.260",
+            "endTimestamp": "00:06:54.760",
+            "vocab": {
+                "piatto": "plate; dish",
+                "scuro": "dark",
+                "metto": "I put",
+                "un po'": "a little; a bit",
+                "del mio composto": "of my mixture",
+                "a fondo": "at the bottom; to the bottom",
+                "loro": "they",
+                "nel": "in the",
+                "mettono": "they put",
+                "anche": "also; too",
+                "questi": "these"
+            },
+            "beginnerVocab": {
+                "piatto": "plate; dish",
+                "scuro": "dark",
+                "metto": "I put",
+                "un po'": "a little; a bit",
+                "mio": "my",
+                "composto": "mixture; compound (note: here likely 'mixture')",
+                "fondo": "bottom",
+                "loro": "they",
+                "nel": "in the",
+                "mettono": "they put",
+                "anche": "also; too",
+                "questi": "these"
+            },
+            "advancedVocab": {
+                "Piatto scuro": "dark plate",
+                "composto": "mixture; blend; compound (here: culinary mixture)",
+                "a fondo": "at the bottom; to the bottom (placement, not 'thoroughly')"
+            }
+        },
+        {
+            "index": 57,
+            "startTimestamp": "00:06:54.760",
+            "endTimestamp": "00:06:59.105",
+            "vocab": {
+                "cioè": "that is; i.e.; namely",
+                "le bucce": "the peels; the rinds",
+                "del lime": "of the lime",
+                "secondo me": "in my opinion",
+                "più perché": "more because",
+                "non": "not",
+                "le vogliono togliere": "they want to remove them",
+                "che perché": "than because"
+            },
+            "beginnerVocab": {
+                "le bucce": "the peels; the skins",
+                "lime": "lime"
+            },
+            "advancedVocab": {
+                "cioè": "that is; I mean (discourse marker, used to clarify or rephrase)",
+                "secondo me": "in my opinion (nuanced, softens statement)"
+            }
+        },
+        {
+            "index": 58,
+            "startTimestamp": "00:06:59.105",
+            "endTimestamp": "00:07:06.080",
+            "vocab": {
+                "è": "is; it is",
+                "un": "a; one",
+                "reale": "real; actual",
+                "ingrediente": "ingredient",
+                "io": "I",
+                "le": "them (feminine, direct object pronoun)",
+                "tolgo": "remove; take away",
+                "però": "however; but",
+                "andiamo": "let's go; we go",
+                "a": "to; at",
+                "storcinettare": "to twist (colloquial, playful form)",
+                "tipo": "like; kind of",
+                "spaghetto": "spaghetti (singular, noodle)"
+            },
+            "beginnerVocab": {
+                "ingrediente": "ingredient",
+                "tolgo": "I remove; I take away",
+                "andiamo": "let's go",
+                "spaghetto": "spaghetti (singular)"
+            },
+            "advancedVocab": {
+                "storcinettare": "to twist; to twirl (nonstandard, playful verb based on 'storcere', meaning to twist)",
+                "tipo": "like; sort of (discourse marker, informal)"
+            }
+        },
+        {
+            "index": 59,
+            "startTimestamp": "00:07:08.920",
+            "endTimestamp": "00:07:17.400",
+            "vocab": {
+                "qui": "here",
+                "non": "not",
+                "ci serve": "we need; is needed (to us)",
+                "altro che": "nothing but; only",
+                "fare": "to do; to make",
+                "questo": "this",
+                "allora": "so; then",
+                "questa": "this (feminine)",
+                "qua": "here (colloquial)",
+                "è": "is",
+                "la versione": "the version",
+                "vegetale": "plant-based; vegetable",
+                "e basta": "and that's it; and nothing else"
+            },
+            "beginnerVocab": {
+                "qui": "here",
+                "fare": "to do; to make",
+                "questo": "this",
+                "allora": "so; then",
+                "questa": "this (feminine)",
+                "versione": "version",
+                "vegetale": "vegetable (plant-based)",
+                "basta": "enough; that's it"
+            },
+            "advancedVocab": {
+                "non ci serve altro che": "all we need to do is; we only need to (note: idiomatic, literally 'we don't need anything else but')",
+                "questa qua": "this one here (note: 'qua' adds emphasis or proximity, informal)",
+                "versione vegetale": "plant-based version; vegetarian version (note: 'vegetale' can mean plant-based, not just 'vegetable')",
+                "e basta": "and that's it; and nothing more (note: used to emphasize sufficiency or finality)"
+            }
+        },
+        {
+            "index": 60,
+            "startTimestamp": "00:07:17.400",
+            "endTimestamp": "00:07:23.000",
+            "vocab": {
+                "si può fare": "one can make; it is possible to make",
+                "som tam kai": "som tam with chicken",
+                "som tam kum": "som tam with shrimp",
+                "kai": "chicken",
+                "kum": "shrimp; prawns",
+                "e": "and"
+            },
+            "beginnerVocab": {
+                "si può": "one can; it is possible",
+                "fare": "do; make",
+                "pollo": "chicken",
+                "gamberi": "shrimp; prawns"
+            },
+            "advancedVocab": {
+                "som tam kai": "som tam with chicken (Thai dish name; 'kai' means chicken)",
+                "som tam kum": "som tam with shrimp (Thai dish name; 'kum' means shrimp/gamberi)",
+                "kai": "chicken (in Thai; not Italian)",
+                "kum": "shrimp; prawns (in Thai; not Italian)"
+            }
+        },
+        {
+            "index": 61,
+            "startTimestamp": "00:07:23.000",
+            "endTimestamp": "00:07:28.080",
+            "vocab": {
+                "non": "not",
+                "si fa altro che": "one only; all you do is; nothing else but (impersonal construction)",
+                "sbianchire": "to blanch (literally: to whiten; cooking term)",
+                "gambero": "shrimp; prawn",
+                "metterlo": "put it",
+                "in": "in",
+                "questo": "this",
+                "composto": "mixture; compound",
+                "sbollentare": "to parboil; to blanch (cooking term)",
+                "vuol dire": "means"
+            },
+            "beginnerVocab": {
+                "fare": "to do; to make",
+                "gambero": "shrimp; prawn",
+                "mettere": "to put",
+                "composto": "mixture; compound",
+                "sbianchire": "to blanch (cooking term: briefly boil)",
+                "sbollentare": "to boil briefly; to blanch"
+            },
+            "advancedVocab": {
+                "non si fa altro che": "all you do is; you just (discourse marker, limits the action to only this)",
+                "sbianchire": "to blanch (literally 'to whiten', culinary term)",
+                "sbollentare": "to parboil; to scald (culinary term, related to blanching)"
+            }
+        },
+        {
+            "index": 62,
+            "startTimestamp": "00:07:28.080",
+            "endTimestamp": "00:07:32.620",
+            "vocab": {
+                "e": "and",
+                "col": "with the (col = con + il)",
+                "pollo": "chicken",
+                "fare": "to make; to do",
+                "saltato": "sautéed; stir-fried",
+                "ma": "but",
+                "si sposa": "goes well; matches; pairs (literally: marries)",
+                "letteralmente": "literally",
+                "con": "with",
+                "qualsiasi cosa": "anything; whatever; any thing"
+            },
+            "beginnerVocab": {
+                "pollo": "chicken",
+                "fare": "to make; to do",
+                "saltato": "sautéed; stir-fried",
+                "cosa": "thing"
+            },
+            "advancedVocab": {
+                "si sposa": "goes well; pairs well (literally 'marries', used figuratively for food combinations)",
+                "letteralmente": "literally (used for emphasis, sometimes exaggeration)"
+            }
+        },
+        {
+            "index": 63,
+            "startTimestamp": "00:07:34.160",
+            "endTimestamp": "00:07:38.210",
+            "vocab": {
+                "è": "is",
+                "una delle poche": "one of the few",
+                "cose": "things",
+                "vegetariane": "vegetarian",
+                "che": "that; which",
+                "io": "I",
+                "faccio": "do; make",
+                "arrivato": "arrived",
+                "in": "in",
+                "Thailandia": "Thailand",
+                "mangio": "I eat"
+            },
+            "beginnerVocab": {
+                "una": "a; one",
+                "delle": "of the",
+                "poche": "few",
+                "cose": "things",
+                "vegetariane": "vegetarian (feminine plural)",
+                "faccio": "I do; I make",
+                "arrivato": "arrived",
+                "mangio": "I eat"
+            },
+            "advancedVocab": {
+                "una delle poche": "one of the few",
+                "che io faccio": "that I make;that I do (emphasis on 'I')"
+            }
+        },
+        {
+            "index": 64,
+            "startTimestamp": "00:07:38.210",
+            "endTimestamp": "00:08:00.940",
+            "vocab": {
+                "praticamente": "practically; basically",
+                "solo": "only; just",
+                "questo": "this",
+                "per": "for",
+                "un mese intero": "a whole month; an entire month",
+                "som tam": "som tam (Thai papaya salad)",
+                "con": "with",
+                "bacchetta": "chopstick",
+                "mentre": "while",
+                "in tutta": "throughout; in all",
+                "la Thailandia": "Thailand"
+            },
+            "beginnerVocab": {
+                "solo": "only; alone",
+                "questo": "this",
+                "mese": "month",
+                "intero": "whole; entire",
+                "con": "with",
+                "bacchetta": "chopstick; stick",
+                "in": "in",
+                "tutta": "all; whole (feminine)",
+                "Thailandia": "Thailand"
+            },
+            "advancedVocab": {
+                "praticamente": "basically; practically (discourse marker, softener)",
+                "Som tam": "Som tam (Thai papaya salad; culturally specific dish)",
+                "bacchetta": "chopsticks (literally 'little stick'; can also mean 'baton', but here refers to eating utensils)"
+            }
+        },
+        {
+            "index": 65,
+            "startTimestamp": "00:08:00.940",
+            "endTimestamp": "00:08:05.860",
+            "vocab": {
+                "mangiano": "they eat",
+                "con": "with",
+                "forchetta": "fork",
+                "cucchiaio": "spoon",
+                "questa": "this",
+                "qua": "here; this (colloquial emphasis)",
+                "viene servita": "is served",
+                "bacchette cinesi": "chopsticks (Chinese chopsticks)"
+            },
+            "beginnerVocab": {
+                "mangiano": "they eat",
+                "forchetta": "fork",
+                "cucchiaio": "spoon",
+                "questa": "this",
+                "servita": "served",
+                "bacchette": "chopsticks",
+                "cinesi": "Chinese"
+            },
+            "advancedVocab": {
+                "questa qua": "this one (emphatic, colloquial)",
+                "bacchette cinesi": "chopsticks (literally 'Chinese sticks')"
+            }
+        },
+        {
+            "index": 66,
+            "startTimestamp": "00:08:05.920",
+            "endTimestamp": "00:08:13.780",
+            "vocab": {
+                "alla fine": "in the end; finally",
+                "entità": "entity; amount; size (context-dependent)",
+                "sembra": "seems; appears",
+                "quasi": "almost",
+                "piatto di pasta": "plate of pasta",
+                "vieni qua": "come here",
+                "miracoli": "miracles",
+                "mortaio": "mortar (kitchen tool)"
+            },
+            "beginnerVocab": {
+                "fine": "end; finish",
+                "piatto": "plate; dish",
+                "pasta": "pasta",
+                "vieni": "come",
+                "qua": "here",
+                "miracoli": "miracles",
+                "mortaio": "mortar (kitchen tool)"
+            },
+            "advancedVocab": {
+                "entità": "entity; amount; size (here: the 'amount' or 'quantity', not a being)",
+                "i miracoli del mortaio": "the miracles of the mortar (refers to the traditional mortar used in Genoese cuisine, especially for making pesto)"
+            }
+        },
+        {
+            "index": 67,
+            "startTimestamp": "00:08:13.780",
+            "endTimestamp": "00:08:26.640",
+            "vocab": {
+                "buonissimo": "very good; delicious",
+                "è": "is",
+                "come": "as; like; how",
+                "dovrebbe": "should; it should",
+                "iscrivetevi": "subscribe (you all)",
+                "canale": "channel",
+                "commentate": "comment (you all)",
+                "qui sotto": "below; down here",
+                "dicendo": "saying",
+                "ahi": "ouch",
+                "che": "what; how (exclamatory)",
+                "piccante": "spicy; hot"
+            },
+            "beginnerVocab": {
+                "buonissimo": "very good; delicious",
+                "canale": "channel",
+                "commentate": "comment",
+                "qui sotto": "below (here below)",
+                "piccante": "spicy; hot"
+            },
+            "advancedVocab": {
+                "Iscrivetevi": "Subscribe; Sign up (imperative, plural/formal)",
+                "ahi": "ouch; ow (exclamation of pain or surprise)",
+                "che piccante": "how spicy; so spicy (emphatic, colloquial)"
+            }
+        }
+    ],
+    "topics": [
+        "thai street food",
+        "som tam salad",
+        "papaya salad",
+        "spicy thai cuisine",
+        "southeast asian food",
+        "thai cooking techniques",
+        "vegetarian thai dishes",
+        "thai ingredients",
+        "thai food culture",
+        "thai food preparation",
+        "thai food history",
+        "thai food recipes"
+    ]
+}

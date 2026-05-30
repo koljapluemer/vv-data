@@ -1,0 +1,442 @@
+{
+    "videoId": "fedkIm1vZ54",
+    "language": {
+        "iso3": "ita",
+        "subtitleLanguage": "it",
+        "humanReadable": "Italian"
+    },
+    "segments": [
+        {
+            "index": 1,
+            "startTimestamp": "00:00:00.660",
+            "endTimestamp": "00:02:17.640",
+            "vocab": {
+                "vantaggio": "advantage; lead",
+                "con": "with",
+                "minuti": "minutes",
+                "gioco": "game; play",
+                "passano": "they pass; they go",
+                "in vantaggio": "into the lead",
+                "lancio": "pass; throw; launch (sports context)",
+                "per": "for; to"
+            },
+            "beginnerVocab": {
+                "vantaggio": "advantage; lead",
+                "gioco": "game; play",
+                "minuti": "minutes",
+                "passano": "they pass; they go",
+                "lancio": "pass; throw",
+                "applauso": "applause"
+            },
+            "advancedVocab": {
+                "vantaggio": "advantage; lead (sports context)",
+                "passano in vantaggio": "take the lead (sports idiom)",
+                "lancio": "pass; throw (sports context)"
+            }
+        },
+        {
+            "index": 2,
+            "startTimestamp": "00:02:15.319",
+            "endTimestamp": "00:02:36.519",
+            "vocab": {
+                "Eccolo qua": "here it is",
+                "segna": "scores",
+                "ancora": "again; still",
+                "bene": "well",
+                "pallone": "ball",
+                "non c'è": "there isn't; there is no",
+                "fuorigioco": "offside",
+                "non si alza": "does not go up; is not raised",
+                "bandierina": "flag (referee's flag)"
+            },
+            "beginnerVocab": {
+                "eccolo": "here he is; here it is",
+                "pallone": "ball",
+                "fuorigioco": "offside",
+                "bandierina": "flag"
+            },
+            "advancedVocab": {
+                "Eccolo qua": "Here it is; There it is (emphatic presentation)",
+                "Segna": "He scores (from 'segnare', to score in sports)",
+                "Torero": "Bullfighter (nickname or metaphor for a player)",
+                "fuorigioco": "offside (soccer term)",
+                "non si alza la bandierina": "the flag doesn't go up (refers to the assistant referee not signaling offside)"
+            }
+        },
+        {
+            "index": 3,
+            "startTimestamp": "00:02:33.920",
+            "endTimestamp": "00:03:00.400",
+            "vocab": {
+                "a sinistra": "to the left; on the left",
+                "vede": "sees",
+                "finta": "feints; fakes",
+                "gol del vantaggio": "goal for the lead; go-ahead goal",
+                "mezza": "half (feminine)",
+                "mezzo": "half (masculine)",
+                "errore": "mistake; error",
+                "porta in vantaggio": "puts ahead; brings into the lead",
+                "ribaltato": "turned around; overturned (context: reversed the situation)",
+                "azzurri": "the blues (nickname for Italian teams)",
+                "passi male": "bad steps; steps badly (note: can mean 'bad movement' or 'misstep')"
+            },
+            "beginnerVocab": {
+                "sinistra": "left",
+                "vede": "sees",
+                "finta": "feint; fake (move)",
+                "gol": "goal",
+                "vantaggio": "advantage; lead",
+                "errore": "mistake; error",
+                "porta": "brings; carries",
+                "azzurri": "the blues (Italian team nickname)",
+                "male": "bad; badly"
+            },
+            "advancedVocab": {
+                "finta": "feint; fake (sports move)",
+                "vantaggio": "lead; advantage (sports context)",
+                "mezza un mezzo errore": "half a mistake; partial mistake (nuanced, informal phrasing)",
+                "porta in vantaggio": "puts ahead; gives the lead",
+                "azzurri": "the Blues (nickname for Italian teams, especially national teams)",
+                "ribaltato": "turned around; overturned (context: reversed the situation)",
+                "Passi male": "bad step; misstep (can mean a mistake or error, possibly idiomatic)"
+            }
+        },
+        {
+            "index": 4,
+            "startTimestamp": "00:03:01.360",
+            "endTimestamp": "00:03:26.159",
+            "vocab": {
+                "calcio d'angolo": "corner kick",
+                "dopo": "after",
+                "conclusione": "shot; attempt (in sports context)",
+                "corto": "short",
+                "mette": "puts; places",
+                "bel": "nice; beautiful",
+                "pallone": "ball",
+                "al centro": "to the center; in the middle",
+                "con": "with",
+                "mia": "my",
+                "vita mia": "my life"
+            },
+            "beginnerVocab": {
+                "calcio": "kick; soccer (note: 'calcio' means both 'kick' and 'soccer')",
+                "angolo": "corner",
+                "dopo": "after",
+                "conclusione": "shot; conclusion (note: in soccer, 'conclusione' often means 'shot')",
+                "corto": "short",
+                "mette": "puts; places",
+                "bel": "nice; beautiful (note: 'bel' is a form of 'bello')",
+                "pallone": "ball",
+                "centro": "center",
+                "mia": "my",
+                "vita": "life"
+            },
+            "advancedVocab": {
+                "calcio d'angolo": "corner kick",
+                "conclusione": "shot; attempt on goal (in sports context)",
+                "calcio d'angolo corto": "short corner (kick)",
+                "mette un bel pallone al centro": "puts a good ball into the middle (soccer phrase)",
+                "mia, vita mia": "my, my life (term of endearment; expression of affection or passion)"
+            }
+        },
+        {
+            "index": 5,
+            "startTimestamp": "00:03:24.200",
+            "endTimestamp": "00:03:41.560",
+            "vocab": {
+                "tutti": "all; everyone",
+                "gli eventi": "the events",
+                "questa tre giorni": "these three days; this three-day event",
+                "anche dopo": "also afterwards; even after",
+                "ci sarà": "there will be",
+                "after party": "after party (same in English)",
+                "calciatori": "footballers; soccer players",
+                "quindi": "so; therefore",
+                "li volevo": "I wanted them",
+                "pubblicamente": "publicly",
+                "No": "No",
+                "è fuorigioco": "it's offside",
+                "ma": "but",
+                "non c'è": "there isn't; there is no",
+                "il Bar": "the VAR (Video Assistant Referee; note: 'Bar' is a play on 'VAR')",
+                "Fuorigioco": "Offside"
+            },
+            "beginnerVocab": {
+                "tutti": "all; everyone",
+                "eventi": "events",
+                "giorni": "days",
+                "dopo": "after",
+                "party": "party",
+                "calciatori": "football players; soccer players",
+                "pubblicamente": "publicly",
+                "fuorigioco": "offside (soccer)",
+                "Bar": "VAR (Video Assistant Referee)"
+            },
+            "advancedVocab": {
+                "tre giorni": "three-day event (lit. 'three days', used as a noun for a multi-day event)",
+                "after party": "after-party (post-event party; English loanword used in Italian)",
+                "fuorigioco": "offside (soccer term)",
+                "Bar": "VAR (Video Assistant Referee; pronounced 'var', but written as 'Bar' here, possibly as a pun or mishearing)"
+            }
+        },
+        {
+            "index": 6,
+            "startTimestamp": "00:03:39.799",
+            "endTimestamp": "00:04:00.599",
+            "vocab": {
+                "di": "of; by",
+                "passano in vantaggio": "take the lead; go ahead",
+                "quelli": "those; the ones",
+                "maglia bianca": "white jersey; white shirt",
+                "perché": "because",
+                "proteste": "protests",
+                "tutti": "everyone; all",
+                "ce l'hanno con": "are angry with; blame",
+                "assistente dell'arbitro": "assistant referee; linesman",
+                "alzato la bandierina": "raised the flag",
+                "mi pare": "it seems to me; I think",
+                "gol": "goal"
+            },
+            "beginnerVocab": {
+                "maglia": "shirt; jersey",
+                "bianca": "white",
+                "proteste": "protests",
+                "assistente": "assistant",
+                "arbitro": "referee",
+                "bandierina": "flag",
+                "gol": "goal"
+            },
+            "advancedVocab": {
+                "passano in vantaggio": "take the lead; go ahead (sports context)",
+                "ce l'hanno con": "are angry with; have it in for (idiom)",
+                "assistente dell'arbitro": "assistant referee (soccer-specific term)",
+                "alzato la bandierina": "raised the flag (referee signal in soccer)"
+            }
+        },
+        {
+            "index": 7,
+            "startTimestamp": "00:03:57.959",
+            "endTimestamp": "00:04:18.759",
+            "vocab": {
+                "comunque": "anyway; however",
+                "è convalidato": "is validated; is confirmed",
+                "rivediamo": "let's review; we review",
+                "azione": "action; play (sports context)",
+                "è stato bravo a": "was good at; did well to",
+                "convincere": "to convince",
+                "famiglia": "family",
+                "parcheggiarlo": "to park him (metaphorically: to set him aside)",
+                "tra virgolette": "in quotation marks; so to speak (metaphorically)",
+                "ahi ahi ahi": "ouch ouch ouch (expression of concern or disappointment)",
+                "adesso": "now",
+                "si trasforma in": "turns into; transforms into",
+                "goleata": "goal fest; rout (sports context, many goals scored)"
+            },
+            "beginnerVocab": {
+                "comunque": "anyway; however",
+                "azione": "action",
+                "famiglia": "family",
+                "parcheggiare": "to park",
+                "adesso": "now"
+            },
+            "advancedVocab": {
+                "comunque": "anyway; in any case (discourse marker)",
+                "convalidato": "validated; confirmed (sports context: goal/decision stands)",
+                "tra virgolette": "in quotation marks; so to speak (implies irony or euphemism)",
+                "Ahi ahi ahi": "Oh dear; uh-oh; ouch (expresses concern or trouble)",
+                "goleata": "goal fest; rout (sports slang for a game with many goals)"
+            }
+        },
+        {
+            "index": 8,
+            "startTimestamp": "00:04:16.959",
+            "endTimestamp": "00:04:45.120",
+            "vocab": {
+                "pallone": "ball",
+                "proprio per": "just for; exactly for",
+                "al centro": "in the center; to the center",
+                "forse": "maybe; perhaps",
+                "tocco": "touch",
+                "con": "with",
+                "braccio": "arm",
+                "poi": "then; afterwards",
+                "termina": "ends; finishes",
+                "in porta": "in the goal; into the goal",
+                "degli azzurri": "of the blues (Napoli team nickname)",
+                "ancora": "again; still",
+                "non finisce qui": "it doesn't end here; it's not over",
+                "rimpallato": "deflected; bounced back"
+            },
+            "beginnerVocab": {
+                "pallone": "ball",
+                "centro": "center",
+                "braccio": "arm",
+                "porta": "goal;door (in soccer: goal)",
+                "azzurri": "the blues (nickname for Italian team; blue ones)",
+                "qui": "here"
+            },
+            "advancedVocab": {
+                "forse forse": "maybe; perhaps (repetition for emphasis)",
+                "tocco con un braccio": "touch with an arm (possible handball, nuanced in football context)",
+                "termina in porta": "ends up in the goal (football-specific phrasing)",
+                "azzurri": "the Blues (nickname for Italian national teams, especially football)",
+                "non finisce qui": "it doesn't end here (discourse marker, implies more action to come)",
+                "rimpallato": "deflected; ricocheted (football-specific, can be confusing)",
+                "la ola": "the wave (crowd movement at sports events, Spanish loanword)"
+            }
+        },
+        {
+            "index": 9,
+            "startTimestamp": "00:04:46.000",
+            "endTimestamp": "00:05:09.499",
+            "vocab": {
+                "mia vita": "my life",
+                "me lo aspettavo": "I expected it",
+                "l'ha segnato": "he scored it",
+                "il gol": "the goal",
+                "ma quanto è bello": "but how beautiful he is; but how great he is",
+                "fatemelo dire": "let me say it",
+                "ancora una volta": "one more time; again",
+                "mio": "mine"
+            },
+            "beginnerVocab": {
+                "mia": "my",
+                "vita": "life",
+                "gol": "goal",
+                "bello": "beautiful; nice; handsome",
+                "ancora": "again",
+                "una volta": "one time; once",
+                "applauso": "applause"
+            },
+            "advancedVocab": {
+                "mia vita mia": "my life, my everything (intensely affectionate expression)",
+                "me lo aspettavo": "I expected it (nuanced: 'I saw it coming')",
+                "fatemelo dire": "let me say it (nuanced: 'allow me to say this')"
+            }
+        },
+        {
+            "index": 10,
+            "startTimestamp": "00:05:09.520",
+            "endTimestamp": "00:05:42.160",
+            "vocab": {
+                "qui": "here",
+                "a": "in; at",
+                "nella": "in the",
+                "serata": "evening",
+                "più": "most; more",
+                "emozionante": "exciting; thrilling",
+                "Mamma mia": "Oh my!; My goodness! (exclamation)",
+                "Non ci credo": "I don't believe it",
+                "piede": "foot",
+                "magico": "magical",
+                "fatato": "enchanted; fairy-like",
+                "ma": "but",
+                "cosa": "what",
+                "ha tirato": "he/she/it shot; he/she/it kicked (sports context)",
+                "momento": "moment",
+                "straordinariamente": "extraordinarily"
+            },
+            "beginnerVocab": {
+                "qui": "here",
+                "serata": "evening",
+                "mamma mia": "oh my; wow (exclamation)",
+                "piede": "foot",
+                "magico": "magic; magical",
+                "momento": "moment"
+            },
+            "advancedVocab": {
+                "Mamma mia": "Oh my god; Wow (exclamation of surprise or emotion)",
+                "Non ci credo": "I can't believe it; I don't believe it (expression of disbelief)",
+                "piede magico": "magic foot (metaphor for exceptional skill, often in sports)",
+                "piede fatato": "enchanted foot; fairy-like foot (metaphor for extraordinary talent, poetic)",
+                "ha tirato": "he/she/they shot; kicked (in sports context, 'tirare' means to shoot or kick, not just 'pull')",
+                "straordinariamente": "extraordinarily; remarkably (adverb, stronger than 'very')"
+            }
+        },
+        {
+            "index": 11,
+            "startTimestamp": "00:05:39.280",
+            "endTimestamp": "00:06:00.240",
+            "vocab": {
+                "bello": "beautiful; nice",
+                "momento": "moment",
+                "emozionante": "emotional; moving",
+                "strappa lacrime": "tear-jerking; heart-wrenching",
+                "addio": "farewell; goodbye",
+                "calcio": "soccer; football",
+                "campione": "champion",
+                "grande professionista": "great professional",
+                "uomo serio": "serious man",
+                "galantuomo": "gentleman",
+                "uno di noi": "one of us",
+                "lascia": "leaves; is leaving",
+                "calcio giocato": "played football; playing football (note: refers to active playing career)"
+            },
+            "beginnerVocab": {
+                "bello": "beautiful; nice",
+                "momento": "moment",
+                "calcio": "soccer; football",
+                "uomo": "man"
+            },
+            "advancedVocab": {
+                "strappa lacrime": "tearjerker; heart-wrenching (literally 'tear-pulling', used for something very emotional)",
+                "addio al calcio": "farewell to football (retirement from playing football)",
+                "galantuomo": "gentleman (with connotations of integrity and honor)",
+                "calcio giocato": "playing football (as opposed to other roles in football, e.g., coaching)"
+            }
+        },
+        {
+            "index": 12,
+            "startTimestamp": "00:05:58.199",
+            "endTimestamp": "00:06:15.319",
+            "vocab": {
+                "con": "with",
+                "dei": "some; of the",
+                "numeri": "numbers",
+                "straordinari": "extraordinary",
+                "una serata": "an evening",
+                "fantastica": "fantastic",
+                "dinanzi a": "in front of; before",
+                "suoi familiari": "his/her relatives; his/her family members",
+                "pubblico": "audience; public",
+                "tifosi": "fans (sports context)",
+                "Napoli": "Naples (city; football team)",
+                "figli": "children; sons",
+                "famiglia": "family",
+                "lacrime": "tears",
+                "negli occhi": "in (the) eyes",
+                "Sì": "Yes"
+            },
+            "beginnerVocab": {
+                "numeri": "numbers",
+                "serata": "evening",
+                "familiari": "family members; relatives",
+                "pubblico": "audience; public",
+                "tifosi": "fans (sports)",
+                "figli": "children; sons",
+                "famiglia": "family",
+                "lacrime": "tears",
+                "occhi": "eyes"
+            },
+            "advancedVocab": {
+                "dinanzi": "in front of; before (formal, literary)",
+                "tifosi": "fans (sports supporters; often used for soccer)",
+                "lacrime negli occhi": "tears in (one's) eyes (idiomatic, emotional expression)"
+            }
+        }
+    ],
+    "topics": [
+        "football match highlights",
+        "marek hamsik goals",
+        "slovakia national team",
+        "bratislava football",
+        "goal celebration",
+        "professional football",
+        "sports commentary",
+        "football tactics",
+        "match review",
+        "football fans",
+        "sports drama",
+        "football history"
+    ]
+}

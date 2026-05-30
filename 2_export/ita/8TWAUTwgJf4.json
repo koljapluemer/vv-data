@@ -1,0 +1,1019 @@
+{
+    "videoId": "8TWAUTwgJf4",
+    "language": {
+        "iso3": "ita",
+        "subtitleLanguage": "it",
+        "humanReadable": "Italian"
+    },
+    "segments": [
+        {
+            "index": 1,
+            "startTimestamp": "00:00:00.380",
+            "endTimestamp": "00:00:26.290",
+            "vocab": {
+                "sei": "you are",
+                "tu": "you",
+                "tv": "TV",
+                "internet": "internet",
+                "sul": "on the",
+                "canale": "channel",
+                "questo": "this",
+                "è": "is",
+                "il primo": "the first",
+                "video": "video",
+                "che": "that;which",
+                "faccio": "I do;I make",
+                "da quando": "since (from when)"
+            },
+            "beginnerVocab": {
+                "tu": "you",
+                "tv": "TV",
+                "internet": "internet",
+                "canale": "channel",
+                "video": "video",
+                "primo": "first",
+                "faccio": "I do; I make (from 'fare')"
+            },
+            "advancedVocab": {
+                "sei tu tv internet": "you are TV internet (unusual phrasing; possibly a play on words or branding)",
+                "canale": "channel (can refer to TV, YouTube, or other media channels; context-dependent)"
+            }
+        },
+        {
+            "index": 2,
+            "startTimestamp": "00:00:24.700",
+            "endTimestamp": "00:00:37.030",
+            "vocab": {
+                "sono tornato": "I have returned; I came back",
+                "dalle vacanze": "from vacation; from the holidays",
+                "devo ammettere": "I must admit; I have to admit",
+                "mi siete mancati": "I missed you (plural)",
+                "tantissima": "very much; so much",
+                "da quando": "since",
+                "ho aperto": "I opened; I have opened",
+                "il canale": "the channel",
+                "ogni volta": "every time; each time",
+                "vedo l'ora": "I look forward; I can't wait",
+                "di fare": "to do; to make"
+            },
+            "beginnerVocab": {
+                "sono": "I am; they are (note: 'sono' is 'I am' or 'they are')",
+                "tornato": "returned; come back",
+                "vacanze": "holidays; vacation",
+                "devo": "I must; I have to",
+                "ammettere": "admit",
+                "mancati": "missed (note: as in 'I missed you')",
+                "canale": "channel",
+                "vedere": "see",
+                "fare": "do; make",
+                "ora": "hour; time"
+            },
+            "advancedVocab": {
+                "mi siete mancati": "I missed you (plural; literally 'you were missed by me')",
+                "vedo l'ora": "I look forward; I can't wait (short for 'non vedo l'ora', idiomatic)"
+            }
+        },
+        {
+            "index": 3,
+            "startTimestamp": "00:00:35.350",
+            "endTimestamp": "00:00:49.210",
+            "vocab": {
+                "video": "video",
+                "per": "for; to",
+                "condividerlo": "share it",
+                "con": "with",
+                "voi": "you (plural)",
+                "finalmente": "finally",
+                "un uomo": "a man",
+                "makeup tutorial": "makeup tutorial",
+                "ho pensato di": "I thought to; I decided to",
+                "proporvi": "propose to you; offer you",
+                "un trucco": "a makeup; a trick (here: makeup)",
+                "giornale": "daily; day (note: likely a typo for 'giornaliero' meaning 'daily')",
+                "ha visto": "has seen",
+                "l'arrivo": "the arrival",
+                "della nuova stagione": "of the new season",
+                "purtroppo": "unfortunately",
+                "finita": "ended; finished",
+                "l'estate": "the summer",
+                "però": "but; however",
+                "noi": "we"
+            },
+            "beginnerVocab": {
+                "video": "video",
+                "uomo": "man",
+                "trucco": "makeup; trick (note: here, 'makeup')",
+                "giornale": "newspaper",
+                "stagione": "season",
+                "estate": "summer"
+            },
+            "advancedVocab": {
+                "condividerlo": "to share it",
+                "trucco giornale": "daily makeup; everyday makeup (note: 'giornale' usually means 'newspaper', but here it's a mistaken or playful form of 'giornaliero' meaning 'daily')",
+                "ha visto l'arrivo": "has seen the arrival (note: idiomatic way to say 'with the arrival of')",
+                "purtroppo": "unfortunately"
+            }
+        },
+        {
+            "index": 4,
+            "startTimestamp": "00:00:46.570",
+            "endTimestamp": "00:01:11.530",
+            "vocab": {
+                "ci demoralizziamo": "we get discouraged",
+                "ah": "ah; oh",
+                "dimenticavo": "I forgot",
+                "voglio": "I want",
+                "presentarvi": "to introduce to you (plural)",
+                "nuova arrivata": "new arrival (feminine)",
+                "in casa": "at home; in the house",
+                "ecco": "here; here is",
+                "vieni qua": "come here",
+                "fatti vedere": "let yourself be seen; show yourself",
+                "da tutti": "by everyone",
+                "piccola": "little one; small (feminine)",
+                "lei": "she",
+                "saluta": "say hello; greet",
+                "quella che": "the one who; she who",
+                "su youtube": "on YouTube",
+                "ben salute": "good health",
+                "è arrivata": "she arrived; has arrived",
+                "qualche mese fa": "a few months ago",
+                "b in casa": "b at home (note: unclear, possibly a name or typo)"
+            },
+            "beginnerVocab": {
+                "voglio": "I want",
+                "presentarvi": "introduce you (all)",
+                "nuova": "new",
+                "arrivata": "arrived; new arrival",
+                "casa": "house; home",
+                "ecco": "here is; here",
+                "vieni": "come",
+                "qua": "here",
+                "fatti vedere": "show yourself; let yourself be seen",
+                "piccola": "little; small",
+                "lei": "she",
+                "saluta": "say hello; greet",
+                "qualche": "some; a few",
+                "mese": "month"
+            },
+            "advancedVocab": {
+                "ci demoralizziamo": "we get discouraged (reflexive, nuanced)",
+                "dimenticavo": "I was forgetting; I almost forgot (discourse marker, conversational)",
+                "nuova arrivata": "new arrival (feminine; newcomer, often for a pet or baby)",
+                "in casa": "in the house; at home (can mean 'in the family' or 'part of the household')",
+                "fatti vedere": "show yourself; let yourself be seen (imperative, reflexive)",
+                "saluta": "say hello; greet (imperative, can be used to prompt a pet or child)",
+                "quella che potevano su youtube": "the one they could on YouTube (unclear/elliptical, possibly referencing a previous context)",
+                "ben salute": "good health (set phrase, sometimes used as a greeting or wish)",
+                "è arrivata qualche mese fa": "she arrived a few months ago (nuanced past, feminine subject)",
+                "b in casa": "'b' at home (possibly a typo or abbreviation, context-dependent)"
+            }
+        },
+        {
+            "index": 5,
+            "startTimestamp": "00:01:08.799",
+            "endTimestamp": "00:01:25.030",
+            "vocab": {
+                "nostra": "our",
+                "sarebbe": "would be",
+                "il camion": "the truck",
+                "in occasioni di": "on occasions of; during",
+                "innamoro": "I fall in love",
+                "ha preso": "has taken; took",
+                "il fratello": "the brother",
+                "adesso": "now",
+                "è qui": "is here",
+                "con noi": "with us",
+                "per questo": "for this; because of this",
+                "trucco": "makeup; trick (context: likely 'makeup')",
+                "sulla destinazione": "about the destination; on the destination",
+                "nuova collezione": "new collection",
+                "neo noir": "neo noir",
+                "di": "of",
+                "chico": "Chico (proper name)",
+                "che": "that; which"
+            },
+            "beginnerVocab": {
+                "nostra": "our",
+                "camion": "truck",
+                "fratello": "brother",
+                "adesso": "now",
+                "qui": "here",
+                "con": "with",
+                "noi": "us; we",
+                "nuova": "new"
+            },
+            "advancedVocab": {
+                "in occasioni di": "on occasions of; during events of (nuanced use, not just 'occasion')",
+                "innamoro": "I fall in love (verb form, may be confused with noun 'innamorato')",
+                "trucco": "trick; makeup (can mean 'trick' or 'cosmetics', context-dependent)",
+                "destinazione": "destination; purpose (can mean 'destination' or 'intended use')",
+                "collezione": "collection (in fashion, refers to a designer's seasonal line)",
+                "neo noir": "neo-noir (film/fashion genre, refers to a modern take on 'noir' style)",
+                "chico": "Chico (brand name, not a common word)"
+            }
+        },
+        {
+            "index": 6,
+            "startTimestamp": "00:01:22.780",
+            "endTimestamp": "00:01:37.149",
+            "vocab": {
+                "uscita": "release; exit",
+                "ad agosto": "in August",
+                "si tratta di": "it's about; it concerns",
+                "collezione": "collection",
+                "ispirata a": "inspired by",
+                "ministero": "ministry",
+                "fascino": "charm; allure",
+                "dove": "where",
+                "domina": "dominates; prevails",
+                "color nero": "black color",
+                "dedicata a": "dedicated to",
+                "donna": "woman",
+                "vuole": "wants",
+                "sedurre": "to seduce",
+                "creare": "to create",
+                "devo ammettere": "I must admit"
+            },
+            "beginnerVocab": {
+                "uscita": "exit; release",
+                "agosto": "August",
+                "collezione": "collection",
+                "ministero": "ministry",
+                "fascino": "charm; fascination",
+                "colore": "color",
+                "nero": "black",
+                "donna": "woman",
+                "creare": "to create",
+                "ammettere": "to admit"
+            },
+            "advancedVocab": {
+                "uscita": "release; coming out (note: can mean 'exit' but here refers to product launch)",
+                "collezione": "collection (note: often used in fashion context for seasonal lines)",
+                "ispirata al ministero": "inspired by the ministry (note: 'ministero' can refer to a government department or, in fashion, sometimes to a theme of authority or power)",
+                "fascino": "charm; allure (note: nuanced, can imply seductive or mysterious appeal)",
+                "dove domina il color nero": "where black color prevails (note: 'domina' means 'dominates', often used metaphorically in fashion)",
+                "sedurre": "to seduce (note: can mean to attract or entice, not just in a sexual sense)",
+                "devo ammettere": "I must admit (note: discourse marker for personal opinion or confession)"
+            }
+        },
+        {
+            "index": 7,
+            "startTimestamp": "00:01:35.679",
+            "endTimestamp": "00:01:46.090",
+            "vocab": {
+                "caffè": "coffee",
+                "nomi": "names",
+                "sono": "I am; they are",
+                "strada": "street",
+                "davanti a": "in front of",
+                "nuova": "new",
+                "collezione": "collection",
+                "non": "not",
+                "riuscita": "managed; succeeded (feminine, past participle)",
+                "resistere": "to resist",
+                "tentazione": "temptation",
+                "vedere": "to see",
+                "trovare": "to find",
+                "miei": "my (plural, masculine)",
+                "prodotti": "products",
+                "dai": "from the; come on (context-dependent)"
+            },
+            "beginnerVocab": {
+                "caffè": "coffee",
+                "nomi": "names",
+                "strada": "street",
+                "davanti": "in front; before",
+                "nuova": "new",
+                "collezione": "collection",
+                "non": "not",
+                "vedere": "to see",
+                "trovare": "to find",
+                "prodotti": "products"
+            },
+            "advancedVocab": {
+                "non sono riuscita a resistere alla tentazione": "I couldn't resist the temptation (idiomatic, strong urge)",
+                "dai": "come on; go on (discourse marker, can express encouragement or impatience)"
+            }
+        },
+        {
+            "index": 8,
+            "startTimestamp": "00:01:44.560",
+            "endTimestamp": "00:02:01.329",
+            "vocab": {
+                "fondotinta": "foundation",
+                "prodotti": "products",
+                "terra": "bronzer; earth (context: makeup product)",
+                "contouring": "contouring",
+                "blush": "blush",
+                "browser": "browser (likely a mishearing or typo; possibly 'bronzer')",
+                "smalti": "nail polish",
+                "pennelli": "brushes",
+                "rossetti": "lipsticks",
+                "labbra": "lips",
+                "ombretti": "eyeshadows",
+                "informato": "informed",
+                "matitone": "jumbo pencil; big pencil (context: makeup)",
+                "tremenda": "terrible; tremendous (context: strong personality)",
+                "morde": "bites",
+                "qualsiasi cosa": "anything; whatever",
+                "trova": "finds",
+                "davanti": "in front",
+                "come vi dicevo": "as I was telling you; as I said",
+                "hanno saputo": "they managed; they knew how",
+                "resisterà": "will resist"
+            },
+            "beginnerVocab": {
+                "fondotinta": "foundation",
+                "prodotti": "products",
+                "terra": "bronzer; earth (note: here, makeup bronzer)",
+                "blush": "blush",
+                "smalti": "nail polish",
+                "pennelli": "brushes",
+                "rossetti": "lipsticks",
+                "labbra": "lips",
+                "ombretti": "eyeshadows",
+                "matitone": "crayon; jumbo pencil (note: makeup pencil)",
+                "morde": "bites",
+                "cosa": "thing",
+                "davanti": "in front"
+            },
+            "advancedVocab": {
+                "fondotinta": "foundation (makeup)",
+                "terra": "bronzer (makeup; literally 'earth')",
+                "contouring": "contouring (makeup technique)",
+                "blush": "blush (makeup)",
+                "browser": "browser (possible mispronunciation or confusion with 'bronzer')",
+                "smalti": "nail polish",
+                "pennelli": "brushes (makeup brushes)",
+                "rossetti": "lipsticks",
+                "ombretti": "eyeshadows",
+                "matitone": "jumbo pencil (large makeup pencil)",
+                "è tremenda": "she's a handful; she's terrible (colloquial, playful)",
+                "morde qualsiasi cosa che trova davanti": "bites anything she finds in front of her (idiomatic, describing mischievous behavior)",
+                "come vi dicevo": "as I was telling you; as I was saying",
+                "hanno saputo resisterà": "they managed to resist (note: 'resisterà' is future tense, but context suggests past ability)"
+            }
+        },
+        {
+            "index": 9,
+            "startTimestamp": "00:01:59.140",
+            "endTimestamp": "00:02:15.250",
+            "vocab": {
+                "tentazione": "temptation",
+                "mentre": "while",
+                "acquistato": "bought; purchased",
+                "l'intera collezione": "the entire collection",
+                "anche se": "even if; although",
+                "mi sarebbe piaciuto": "I would have liked",
+                "ho acquistato": "I bought; I purchased",
+                "faticoni": "big efforts; hard work (note: here likely refers to a product name or something difficult)",
+                "ombretto": "eyeshadow",
+                "tenuta": "hold; staying power (makeup context)",
+                "finish metallico": "metallic finish",
+                "infatti": "in fact; indeed",
+                "come vedrete": "as you will see",
+                "dal trucco": "from the makeup",
+                "che ho realizzato": "that I did; that I created",
+                "rendono": "they make; they give"
+            },
+            "beginnerVocab": {
+                "tentazione": "temptation",
+                "acquistato": "bought; purchased",
+                "collezione": "collection",
+                "piaciuto": "liked",
+                "io": "I",
+                "due": "two",
+                "ombretto": "eyeshadow",
+                "tenuta": "hold; staying power (makeup context)",
+                "finish": "finish (appearance; makeup context)",
+                "metallico": "metallic",
+                "trucco": "makeup",
+                "realizzato": "created; made",
+                "rendono": "make; render"
+            },
+            "advancedVocab": {
+                "tentazione": "temptation (can also mean strong desire, not just literal temptation)",
+                "faticoni": "big efforts; hard tasks (here, likely slang for 'difficult things' or 'challenging products')",
+                "tenuta": "lasting power; hold (in cosmetics, refers to how long a product stays on)",
+                "finish metallico": "metallic finish (cosmetic term for shiny, metal-like appearance)",
+                "rendono": "they make; they result in (here, nuanced as 'they give the effect of')"
+            }
+        },
+        {
+            "index": 10,
+            "startTimestamp": "00:02:13.299",
+            "endTimestamp": "00:02:24.569",
+            "vocab": {
+                "sguardo": "look; gaze",
+                "subito": "immediately; right away",
+                "ominoso": "ominous",
+                "un'altra": "another",
+                "mobilità": "mobility",
+                "qui": "here",
+                "stata": "been",
+                "matita labbra": "lip pencil",
+                "vi lasciamo": "we leave you",
+                "realtà": "reality",
+                "storia": "story",
+                "trucco": "makeup; trick",
+                "presto": "soon",
+                "un bacione": "a big kiss",
+                "ciao": "bye; hello"
+            },
+            "beginnerVocab": {
+                "sguardo": "look; glance",
+                "subito": "immediately; right away",
+                "matita": "pencil",
+                "labbra": "lips",
+                "storia": "story",
+                "trucco": "makeup; trick",
+                "presto": "soon; quickly",
+                "bacione": "big kiss",
+                "ciao": "hello; bye"
+            },
+            "advancedVocab": {
+                "sguardo subito ominoso": "immediately ominous look (nuanced, 'subito' intensifies the suddenness)",
+                "matita labbra": "lip liner (cosmetic term)",
+                "vi lasciamo alla realtà": "we leave you to reality (idiomatic, meaning 'back to real life')",
+                "un bacione": "a big kiss (affectionate closing)",
+                "ciao": "bye; hello (context-dependent, here as 'bye')"
+            }
+        },
+        {
+            "index": 11,
+            "startTimestamp": "00:02:24.850",
+            "endTimestamp": "00:02:48.860",
+            "vocab": {
+                "prima di tutto": "first of all",
+                "vi consiglio di": "I advise you to; I recommend you to",
+                "applicare": "to apply",
+                "ombretto chiaro": "light eyeshadow",
+                "preferibilmente": "preferably",
+                "su tutta la palpebra": "on the whole eyelid",
+                "in questo modo": "in this way; like this",
+                "andremo a": "we will; we are going to (future construction)",
+                "far aderire": "make adhere; help stick",
+                "il più possibile": "as much as possible",
+                "ombretto in crema": "cream eyeshadow",
+                "ora": "now"
+            },
+            "beginnerVocab": {
+                "prima": "first",
+                "tutto": "everything; all",
+                "consiglio": "advice; I advise",
+                "applicare": "to apply",
+                "ombretto": "eyeshadow",
+                "chiaro": "light (color)",
+                "palpebra": "eyelid",
+                "modo": "way; manner",
+                "aderire": "to stick; to adhere",
+                "crema": "cream",
+                "ora": "now"
+            },
+            "advancedVocab": {
+                "prima di tutto": "first of all; before anything else",
+                "ombretto": "eyeshadow (makeup term)",
+                "palpebra": "eyelid",
+                "andremo a": "we are going to; we will (nuanced future construction)",
+                "aderire": "to adhere; to stick (specialized in makeup context)"
+            }
+        },
+        {
+            "index": 12,
+            "startTimestamp": "00:02:47.060",
+            "endTimestamp": "00:03:05.319",
+            "vocab": {
+                "vado": "I go; I am going",
+                "applicare": "to apply",
+                "matitone": "jumbo pencil; big pencil (makeup)",
+                "nuova collezione": "new collection",
+                "tonalità": "shade; tone",
+                "numero": "number",
+                "applicarlo": "to apply it",
+                "esattamente": "exactly",
+                "piega della palpebra": "crease of the eyelid",
+                "formando": "forming",
+                "una vita": "a line (note: 'vita' literally means 'waist' or 'life', but here likely refers to a line or shape)"
+            },
+            "beginnerVocab": {
+                "vado": "I go; I am going",
+                "applicare": "to apply",
+                "nuova": "new",
+                "collezione": "collection",
+                "numero": "number",
+                "applicarlo": "to apply it",
+                "esattamente": "exactly",
+                "piega": "fold; crease",
+                "palpebra": "eyelid",
+                "formando": "forming"
+            },
+            "advancedVocab": {
+                "matitone": "jumbo pencil; chubby pencil (makeup term)",
+                "col neo noir": "with neo noir (brand/collection name; may be confusing)",
+                "tonalità": "shade; tone (makeup context)",
+                "piega della palpebra": "crease of the eyelid",
+                "formando una vita": "forming a waist (unusual in makeup context; may refer to a shape or contour)"
+            }
+        },
+        {
+            "index": 13,
+            "startTimestamp": "00:03:07.250",
+            "endTimestamp": "00:03:23.319",
+            "vocab": {
+                "a questo punto": "at this point",
+                "vado a": "I go to; I'm going to",
+                "sfumare": "blend; fade (make-up context: blend)",
+                "con": "with",
+                "pennello da sfumatura": "blending brush",
+                "cosa importante": "important thing",
+                "sfumare bene": "blend well",
+                "portando": "bringing; carrying",
+                "verso": "towards",
+                "angolo interno dell'occhio": "inner corner of the eye",
+                "un pochino": "a little bit",
+                "anche": "also; too",
+                "per soli in su": "slightly upwards (note: 'per soli in su' is likely a mishearing or typo, intended meaning is 'slightly upwards')"
+            },
+            "beginnerVocab": {
+                "punto": "point",
+                "vado": "I go",
+                "pennello": "brush",
+                "occhio": "eye",
+                "musica": "music"
+            },
+            "advancedVocab": {
+                "a questo punto": "at this point",
+                "sfumare": "blend; fade (makeup context: to blend colors)",
+                "pennello da sfumatura": "blending brush (makeup tool)",
+                "angolo interno dell'occhio": "inner corner of the eye",
+                "un pochino": "a little bit; just a bit",
+                "per soli in su": "slightly upwards (note: 'per soli in su' is likely a mishearing or typo, possibly meaning 'verso l'insù' = upwards)"
+            }
+        },
+        {
+            "index": 14,
+            "startTimestamp": "00:03:35.180",
+            "endTimestamp": "00:03:57.900",
+            "vocab": {
+                "applico": "I apply",
+                "ancora": "again; still",
+                "passato": "past; applied (makeup context)",
+                "magico": "magical",
+                "le": "the (feminine plural)",
+                "di prima": "from before; earlier",
+                "comunque": "anyway; however",
+                "ora": "now",
+                "un po": "a little; a bit",
+                "ombretto": "eyeshadow",
+                "nella": "in the (feminine singular)",
+                "parte inferiore": "lower part; bottom part",
+                "dell'occhio": "of the eye"
+            },
+            "beginnerVocab": {
+                "applico": "I apply; I put on",
+                "magico": "magic",
+                "musica": "music",
+                "applauso": "applause",
+                "ora": "now",
+                "un po": "a little; a bit",
+                "ombretto": "eyeshadow",
+                "parte": "part",
+                "inferiore": "lower; bottom",
+                "occhio": "eye"
+            },
+            "advancedVocab": {
+                "passato del magico": "magic touch; magic product (makeup context, refers to a specific cosmetic or technique)",
+                "ap": "abbr. for 'applico' (I apply) (spoken abbreviation, informal)",
+                "comunque": "anyway; in any case (discourse marker)",
+                "parte inferiore dell'occhio": "lower part of the eye (makeup-specific area)"
+            }
+        },
+        {
+            "index": 15,
+            "startTimestamp": "00:03:59.750",
+            "endTimestamp": "00:04:04.300",
+            "vocab": {
+                "e": "and",
+                "lo": "it; him (direct object pronoun)",
+                "assumo": "I take; I assume; I hire (from 'assumere', context-dependent)",
+                "qua": "here",
+                "non": "not",
+                "per": "for; to",
+                "nella": "in the",
+                "lingua di gatto": "cat's tongue (literally; also a type of biscuit)"
+            },
+            "beginnerVocab": {
+                "lingua": "tongue; language",
+                "gatto": "cat",
+                "qua": "here"
+            },
+            "advancedVocab": {
+                "assumo": "I take; I assume; I hire (context-dependent)",
+                "lingua di gatto": "cat's tongue (note: also refers to a type of Italian biscuit or chocolate shaped like a cat's tongue)"
+            }
+        },
+        {
+            "index": 16,
+            "startTimestamp": "00:04:10.800",
+            "endTimestamp": "00:04:22.700",
+            "vocab": {
+                "a questo punto": "at this point",
+                "applica": "apply",
+                "un altro": "another",
+                "matitone": "jumbo pencil; big pencil (makeup context)",
+                "sembra": "seems; looks like",
+                "collezione": "collection",
+                "neo noir": "neo noir (name of collection)",
+                "fico": "Fico (brand name)",
+                "questo è": "this is",
+                "il più chiaro": "the lightest",
+                "della linea": "of the line; of the range",
+                "tonalità": "shade; tone",
+                "numero uno": "number one"
+            },
+            "beginnerVocab": {
+                "applica": "apply",
+                "matitone": "big pencil; crayon (makeup)",
+                "collezione": "collection",
+                "chiaro": "light (color)",
+                "linea": "line (product line)",
+                "tonalità": "shade; tone",
+                "numero": "number"
+            },
+            "advancedVocab": {
+                "a questo punto": "at this point",
+                "matitone": "jumbo pencil; chubby pencil (makeup context)",
+                "neo noir": "neo noir (reference to a style or collection, possibly inspired by film genre)",
+                "fico": "cool; fig (brand name or slang, context-dependent)",
+                "tonalità": "shade; tone (makeup context)"
+            }
+        },
+        {
+            "index": 17,
+            "startTimestamp": "00:04:23.340",
+            "endTimestamp": "00:04:42.930",
+            "vocab": {
+                "questo": "this",
+                "non": "not",
+                "vado a": "I go to; I am going to (used for 'I will' or 'I am going to')",
+                "applicare": "apply",
+                "nell'angolo interno dell'occhio": "in the inner corner of the eye",
+                "sotto": "under",
+                "l'arcata sopracciliare": "the brow bone; the eyebrow arch",
+                "per dare": "to give",
+                "luminosità": "brightness; luminosity",
+                "allo sguardo": "to the gaze; to the look (meaning 'to the eyes' appearance')",
+                "anche": "also; too",
+                "un po": "a little; a bit",
+                "al centro": "in the center",
+                "della palpebra mobile": "of the mobile eyelid",
+                "lo vado a": "I go to it; I am going to it (here, 'I am going to [do something to] it')",
+                "male": "blend; smudge (context: makeup application)",
+                "con un pennellino": "with a small brush",
+                "a piccolo di precisione a penna": "a small precision pen brush (makeup tool)",
+                "Musica": "Music (background music indicator)"
+            },
+            "beginnerVocab": {
+                "questo": "this",
+                "applicare": "to apply",
+                "occhio": "eye",
+                "sopraccigliare": "eyebrow (related)",
+                "luminosità": "brightness; light",
+                "sguardo": "look; gaze",
+                "centro": "center",
+                "palpebra": "eyelid",
+                "mobile": "movable (note: here refers to 'movable eyelid')",
+                "pennellino": "small brush",
+                "piccolo": "small",
+                "precisione": "precision",
+                "penna": "pen"
+            },
+            "advancedVocab": {
+                "arcata sopracciliare": "brow bone (area under the eyebrow)",
+                "luminosità allo sguardo": "brightness to the gaze; brightness to the eyes (nuanced: making the eyes look brighter/more awake)",
+                "palpebra mobile": "mobile eyelid (the part of the eyelid that moves)",
+                "pennellino a piccolo di precisione a penna": "small precision brush; pen-shaped precision brush"
+            }
+        },
+        {
+            "index": 18,
+            "startTimestamp": "00:04:42.690",
+            "endTimestamp": "00:04:57.400",
+            "vocab": {
+                "per": "to; for",
+                "intensificare": "intensify",
+                "colore": "color",
+                "appiccato": "applied; stuck (here: applied)",
+                "piega dell'occhio": "crease of the eye",
+                "vado a": "I am going to; I go to",
+                "applicare": "apply",
+                "ombretto": "eyeshadow",
+                "palette": "palettes",
+                "make up academy": "make up academy"
+            },
+            "beginnerVocab": {
+                "applauso": "applause",
+                "musica": "music",
+                "colore": "color",
+                "occhio": "eye",
+                "applicare": "to apply",
+                "ombretto": "eyeshadow",
+                "palette": "palette"
+            },
+            "advancedVocab": {
+                "appiccato": "stuck; applied (in a sticky way)",
+                "piega dell'occhio": "crease of the eye (makeup term)",
+                "palette": "palette (set of makeup colors)",
+                "make up academy": "makeup academy (brand or institution name)"
+            }
+        },
+        {
+            "index": 19,
+            "startTimestamp": "00:05:00.010",
+            "endTimestamp": "00:05:08.920",
+            "vocab": {
+                "cielo": "sky",
+                "picchietto": "I tap; I dab",
+                "sopra": "above; on top",
+                "con": "with",
+                "lo stesso": "the same",
+                "pannello": "panel",
+                "di prima": "as before; from before",
+                "ti piace": "do you like",
+                "il pennello": "the brush",
+                "faccio": "I do; I make",
+                "anche": "also; too",
+                "un po' di": "a bit of; some",
+                "con touring": "contouring (makeup technique)"
+            },
+            "beginnerVocab": {
+                "cielo": "sky",
+                "sopra": "above; on top",
+                "pannello": "panel",
+                "pennello": "brush",
+                "piace": "like",
+                "faccio": "I do; I make"
+            },
+            "advancedVocab": {
+                "picchietto": "I tap; I knock (diminutive/intensive form of 'picchiare', often used in makeup or painting contexts)",
+                "con touring": "contouring (makeup technique; Italianized pronunciation/spelling)"
+            }
+        },
+        {
+            "index": 20,
+            "startTimestamp": "00:05:16.400",
+            "endTimestamp": "00:06:01.149",
+            "vocab": {
+                "ora": "now",
+                "passiamo": "let's move on; we pass",
+                "le line": "the lines",
+                "arioso": "airy; light (in style)",
+                "quello": "that one; that",
+                "in design": "in design",
+                "ok": "ok",
+                "adesso": "now",
+                "un velo di": "a veil of; a thin layer of",
+                "mascara": "mascara"
+            },
+            "beginnerVocab": {
+                "ora": "now",
+                "passiamo": "we pass; we move on (from 'passare')",
+                "ok": "ok",
+                "adesso": "now",
+                "velo": "veil; layer (thin layer, context: makeup)",
+                "mascara": "mascara"
+            },
+            "advancedVocab": {
+                "passiamo le line": "let's do the eyeliner; let's apply the eyeliner (colloquial, makeup context)",
+                "arioso": "airy; light (can refer to a light, open look in makeup or design)",
+                "un velo di mascara": "a touch of mascara; a thin layer of mascara (idiomatic, 'velo' literally means 'veil')"
+            }
+        },
+        {
+            "index": 21,
+            "startTimestamp": "00:06:01.510",
+            "endTimestamp": "00:06:20.069",
+            "vocab": {
+                "non": "not",
+                "è": "is",
+                "né": "nor; neither",
+                "sguardo": "look; gaze",
+                "ancora": "still; yet",
+                "più": "more",
+                "intenso": "intense",
+                "attico": "(likely a mishearing or typo; no direct translation)",
+                "un po": "a bit; a little",
+                "di": "of",
+                "matita nera": "black pencil (makeup)",
+                "nella": "in the",
+                "rima interna": "inner rim (of the eye)",
+                "dell'occhio": "of the eye",
+                "Musica": "[Music] (sound cue)",
+                "Applauso": "[Applause] (sound cue)"
+            },
+            "beginnerVocab": {
+                "occhio": "eye",
+                "matita": "pencil",
+                "nera": "black",
+                "musica": "music",
+                "applauso": "applause"
+            },
+            "advancedVocab": {
+                "rima interna dell'occhio": "waterline (inner rim of the eye, makeup term)"
+            }
+        },
+        {
+            "index": 22,
+            "startTimestamp": "00:06:26.449",
+            "endTimestamp": "00:06:38.919",
+            "vocab": {
+                "sulle labbra": "on the lips",
+                "vi mostro": "I show you",
+                "un altro": "another",
+                "prodotto": "product",
+                "nuova collezione": "new collection",
+                "neo noir": "neo noir",
+                "di": "of; by",
+                "kiko": "Kiko (brand name)",
+                "si tratta di": "it's about; it's",
+                "matita labbra": "lip pencil",
+                "scelta": "choice; selection",
+                "tonalità": "shade; tone",
+                "06": "06 (number/shade)",
+                "bellissimo": "beautiful; very beautiful",
+                "rosa": "pink"
+            },
+            "beginnerVocab": {
+                "labbra": "lips",
+                "mostro": "I show; I demonstrate",
+                "prodotto": "product",
+                "nuova": "new",
+                "collezione": "collection",
+                "matita": "pencil",
+                "scelta": "choice; selection",
+                "tonalità": "shade; tone",
+                "bellissimo": "very beautiful; gorgeous",
+                "rosa": "pink"
+            },
+            "advancedVocab": {
+                "sulle labbra": "on the lips (can mean 'applied to the lips', not just physically on)",
+                "collezione neo noir": "Neo Noir collection (brand/product line name; 'neo noir' is a style reference)",
+                "matita labbra": "lip pencil; lip liner",
+                "tonalità": "shade; tone (in cosmetics, refers to color variant)"
+            }
+        },
+        {
+            "index": 23,
+            "startTimestamp": "00:06:39.449",
+            "endTimestamp": "00:06:58.570",
+            "vocab": {
+                "il sito": "the site",
+                "descrive": "describes",
+                "manica lunga": "long sleeve",
+                "tenuta": "lasting; hold (as in staying power)",
+                "consente di": "allows to; enables to",
+                "donare": "give; impart",
+                "labbra": "lips",
+                "colore pieno": "full color; rich color",
+                "texture": "texture",
+                "pigmentata": "pigmented",
+                "scorrevole": "smooth; gliding",
+                "disponibile": "available",
+                "tonalità": "shades; tones",
+                "inoltre": "furthermore; moreover",
+                "risulta": "is; turns out",
+                "l'acqua": "water",
+                "no transfer": "no transfer (does not transfer)",
+                "Musica": "Music (background music note)"
+            },
+            "beginnerVocab": {
+                "sito": "site",
+                "manica lunga": "long sleeve",
+                "labbra": "lips",
+                "colore": "color",
+                "texture": "texture",
+                "acqua": "water",
+                "tonalità": "shades; tones",
+                "musica": "music"
+            },
+            "advancedVocab": {
+                "manica lunga tenuta": "long-lasting (literally 'long sleeve hold'; refers to long-wear in cosmetics)",
+                "colore pieno": "full color; intense color",
+                "texture pigmentata": "pigmented texture (texture with strong color)",
+                "scorrevole": "smooth; glides on easily (in cosmetics context)",
+                "no transfer": "no transfer (does not smudge or transfer; English phrase used in Italian)",
+                "tonalità": "shades; tones (in cosmetics, refers to color options)"
+            }
+        },
+        {
+            "index": 24,
+            "startTimestamp": "00:06:56.400",
+            "endTimestamp": "00:07:26.880",
+            "vocab": {
+                "quindi": "so; therefore",
+                "questo": "this",
+                "trucco": "makeup; trick (here: makeup)",
+                "finito": "finished; done",
+                "pertanto": "therefore; thus",
+                "vi sia piaciuto": "you liked it; it pleased you",
+                "anche": "also; too",
+                "voi": "you (plural)",
+                "avete provato": "you have tried",
+                "prodotti": "products",
+                "collezione": "collection",
+                "neo noir": "neo noir (name of collection)",
+                "fatemi sapere": "let me know",
+                "cosa": "what",
+                "ne pensate": "you think about it",
+                "come": "how",
+                "vi siete trovate": "you found yourselves; you got on (here: how you liked it)",
+                "come sempre": "as always",
+                "non dimenticatevi": "don't forget",
+                "deriva di": "comes from; derives from (incomplete phrase)"
+            },
+            "beginnerVocab": {
+                "applauso": "applause",
+                "musica": "music",
+                "questo": "this",
+                "trucco": "makeup; trick (note: here likely 'makeup')",
+                "finito": "finished; done",
+                "voi": "you (plural)",
+                "prodotti": "products",
+                "collezione": "collection",
+                "nero": "black (note: 'neo noir' is a name, but 'nero' means black)",
+                "sapere": "to know",
+                "pensare": "to think",
+                "sempre": "always",
+                "non": "not",
+                "dimenticare": "to forget"
+            },
+            "advancedVocab": {
+                "quindi": "so; therefore (discourse marker)",
+                "pertanto": "therefore; thus (formal, less common in speech)",
+                "neo noir": "neo noir (name of a collection; refers to a style influenced by film noir)",
+                "le fatemi sapere": "let me know (formal/plural 'le' may confuse learners; 'fatemi sapere' = let me know)",
+                "come vi siete trovate": "how you found it; how it worked for you (idiomatic, literally 'how you found yourselves')",
+                "deriva di": "derives from; drift of (fragment, may be confusing out of context)"
+            }
+        },
+        {
+            "index": 25,
+            "startTimestamp": "00:07:24.960",
+            "endTimestamp": "00:07:45.919",
+            "vocab": {
+                "lasciarmi": "let me; leave me",
+                "un commentino": "a little comment",
+                "qui sotto": "down here; below",
+                "un pollice in su": "a thumbs up",
+                "iscrivetevi": "subscribe (you all)",
+                "al mio canale": "to my channel",
+                "perché": "because; why",
+                "perdere": "to miss; to lose",
+                "in questo video": "in this video",
+                "vi mando": "I send you all",
+                "un bacio grandissimo": "a big kiss; a huge kiss",
+                "ce le opere": "here are the works (note: unclear, possibly a mishearing or typo)",
+                "video": "video",
+                "saluta tutti": "say hi to everyone; greet everyone",
+                "ciao": "bye; hello",
+                "Musica": "music"
+            },
+            "beginnerVocab": {
+                "qui": "here",
+                "sotto": "under; below",
+                "pollice": "thumb",
+                "su": "up",
+                "canale": "channel",
+                "video": "video",
+                "bacio": "kiss",
+                "grande": "big; great",
+                "saluta": "greet; say hello",
+                "tutti": "everyone; all",
+                "ciao": "hello; bye"
+            },
+            "advancedVocab": {
+                "commentino": "little comment (diminutive, affectionate)",
+                "un pollice in su": "a thumbs up (gesture meaning 'like')",
+                "iscrivetevi": "subscribe (imperative, reflexive)",
+                "vi mando un bacio grandissimo": "I send you a huge kiss (affectionate closing)",
+                "ce le opere video": "here are the video works (unclear/possibly a mishearing or idiomatic)",
+                "saluta tutti": "say hi to everyone; greet everyone"
+            }
+        }
+    ],
+    "topics": [
+        "makeup tutorial",
+        "kiko neo noir",
+        "eyeliner application",
+        "lipstick review",
+        "black eye makeup",
+        "cosmetics haul",
+        "beauty routine",
+        "summer makeup",
+        "glam look",
+        "makeup products",
+        "tutorial video",
+        "beauty tips"
+    ]
+}

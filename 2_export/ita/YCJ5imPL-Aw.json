@@ -1,0 +1,1289 @@
+{
+    "videoId": "YCJ5imPL-Aw",
+    "language": {
+        "iso3": "ita",
+        "subtitleLanguage": "it",
+        "humanReadable": "Italian"
+    },
+    "segments": [
+        {
+            "index": 1,
+            "startTimestamp": "00:00:00.080",
+            "endTimestamp": "00:00:16.920",
+            "vocab": {
+                "siamo andati": "we went",
+                "o meglio": "or rather",
+                "tornati": "returned; came back",
+                "perché": "because",
+                "seconda volta": "second time",
+                "incredibile": "incredible",
+                "vi porteremo": "we will take you",
+                "con noi": "with us",
+                "visitare": "to visit",
+                "capitali": "capitals",
+                "più sottovalutate": "most underrated",
+                "interessanti": "interesting",
+                "siete pronti": "are you ready",
+                "Salite": "get on; hop on (imperative)",
+                "Musica": "music (background cue)"
+            },
+            "beginnerVocab": {
+                "siamo": "we are",
+                "andati": "gone; went",
+                "tornati": "returned; came back",
+                "paese": "country",
+                "incredibile": "incredible",
+                "visitare": "to visit",
+                "capitale": "capital (city)",
+                "pronti": "ready",
+                "salite": "get on; climb; board"
+            },
+            "advancedVocab": {
+                "o meglio": "or rather; better said",
+                "tornati": "returned (note: implies having been there before)",
+                "sottovalutate": "underrated; underestimated",
+                "Salite in": "get in; hop in (note: informal invitation, often used when inviting someone into a vehicle or to join an experience)"
+            }
+        },
+        {
+            "index": 2,
+            "startTimestamp": "00:00:17.880",
+            "endTimestamp": "00:00:31.119",
+            "vocab": {
+                "aereo": "airplane",
+                "canale": "channel",
+                "trovate": "you find; you can find",
+                "video": "video; videos",
+                "dedicati a": "dedicated to",
+                "viaggi": "trips; travels; journeys",
+                "destinazioni": "destinations",
+                "viaggiare": "to travel",
+                "passione": "passion",
+                "volete": "you want",
+                "scoprire": "to discover",
+                "cose nuove": "new things",
+                "iscrivetevi": "subscribe; sign up (imperative, you all)",
+                "viaggiate": "travel (imperative, you all)",
+                "con noi": "with us",
+                "siamo": "we are"
+            },
+            "beginnerVocab": {
+                "aereo": "airplane",
+                "canale": "channel",
+                "video": "video",
+                "viaggi": "trips; travels",
+                "destinazioni": "destinations",
+                "viaggiare": "to travel",
+                "passione": "passion",
+                "cose": "things",
+                "nuove": "new",
+                "iscrivetevi": "subscribe; sign up (imperative)",
+                "noi": "us; we"
+            },
+            "advancedVocab": {
+                "dedicati a": "dedicated to; focused on (note: often used for content/topics)",
+                "iscrivetevi al canale": "subscribe to the channel (note: common YouTube phrase)",
+                "viaggiare è la vostra passione": "travel is your passion (note: idiomatic way to say 'if you love traveling')"
+            }
+        },
+        {
+            "index": 3,
+            "startTimestamp": "00:00:29.279",
+            "endTimestamp": "00:00:39.680",
+            "vocab": {
+                "arrivati": "arrived",
+                "presto": "early; soon",
+                "la mattina": "the morning",
+                "dopo": "after",
+                "aver preso possesso": "having taken possession; after taking possession (note: idiomatic for 'checked in')",
+                "nostro": "our",
+                "bellissimo": "very beautiful; gorgeous",
+                "monolocale": "studio apartment",
+                "ci siamo diretti": "we headed; we went",
+                "subito": "immediately; right away",
+                "centro storico": "historic center; old town",
+                "cioè": "that is; i.e.; namely",
+                "zona": "area; zone"
+            },
+            "beginnerVocab": {
+                "arrivati": "arrived",
+                "presto": "early",
+                "mattina": "morning",
+                "dopo": "after",
+                "preso": "taken",
+                "nostro": "our",
+                "bellissimo": "very beautiful; gorgeous",
+                "monolocale": "studio apartment",
+                "diretti": "headed; gone (towards)",
+                "subito": "immediately; right away",
+                "centro storico": "historic center",
+                "zona": "area; zone"
+            },
+            "advancedVocab": {
+                "prendere possesso": "to take possession; to move in (context: accommodation)",
+                "monolocale": "studio apartment",
+                "centro storico": "historic center; old town",
+                "cioè": "that is; i.e.; namely (discourse marker, clarifying or specifying)"
+            }
+        },
+        {
+            "index": 4,
+            "startTimestamp": "00:00:40.370",
+            "endTimestamp": "00:00:58.130",
+            "vocab": {
+                "Allora": "so; then",
+                "siamo a": "we are at",
+                "che è": "which is; that is",
+                "una biblioteca": "a library",
+                "molto importante": "very important",
+                "una libreria": "a bookstore",
+                "qui": "here"
+            },
+            "beginnerVocab": {
+                "applauso": "applause; clapping",
+                "allora": "so; then",
+                "siamo": "we are",
+                "biblioteca": "library",
+                "libreria": "bookstore",
+                "importante": "important",
+                "qui": "here",
+                "musica": "music"
+            },
+            "advancedVocab": {
+                "Allora": "So; Well (discourse marker, often used to start a sentence or transition)",
+                "libreria": "bookstore (false friend; NOT 'library')",
+                "biblioteca": "library (can be confused with 'libreria', which means 'bookstore')"
+            }
+        },
+        {
+            "index": 5,
+            "startTimestamp": "00:00:58.920",
+            "endTimestamp": "00:01:08.520",
+            "vocab": {
+                "prima": "first; before",
+                "sera": "evening",
+                "fa molto freddo": "it's very cold",
+                "forse": "maybe; perhaps",
+                "per questo": "because of this; for this reason",
+                "biglietti": "tickets",
+                "gennaio": "January",
+                "costano": "they cost",
+                "sì": "yes"
+            },
+            "beginnerVocab": {
+                "sera": "evening",
+                "freddo": "cold",
+                "biglietti": "tickets",
+                "gennaio": "January",
+                "costa": "costs; is (price)",
+                "sì": "yes"
+            },
+            "advancedVocab": {
+                "fa molto freddo": "it's very cold",
+                "Forse è per questo che": "Maybe that's why; Perhaps that's why",
+                "biglietti per a gennaio": "tickets for January (note: 'per a gennaio' is a nonstandard/colloquial construction)"
+            }
+        },
+        {
+            "index": 6,
+            "startTimestamp": "00:01:06.799",
+            "endTimestamp": "00:01:19.520",
+            "vocab": {
+                "mi piacciono": "I like",
+                "questi posti": "these places",
+                "però": "but; however",
+                "che freddo": "how cold; it's so cold",
+                "Lipscani": "Lipscani (name of a district)",
+                "zona": "area; district",
+                "molto vivace": "very lively",
+                "Bucarest": "Bucharest",
+                "nota per": "known for",
+                "strade acciottolate": "cobblestone streets",
+                "edifici storici": "historic buildings",
+                "atmosfera vibrante": "vibrant atmosphere",
+                "soprattutto": "especially",
+                "di sera": "in the evening"
+            },
+            "beginnerVocab": {
+                "posti": "places",
+                "freddo": "cold",
+                "zona": "area; zone",
+                "strade": "streets",
+                "edifici": "buildings",
+                "storici": "historic; historical",
+                "sera": "evening"
+            },
+            "advancedVocab": {
+                "posti": "places (can mean 'spots', informal)",
+                "Lipscani": "Lipscani (historic district in Bucharest)",
+                "vivace": "lively; vibrant",
+                "nota per": "known for",
+                "acciottolate": "cobblestone; cobbled",
+                "atmosfera vibrante": "vibrant atmosphere"
+            }
+        },
+        {
+            "index": 7,
+            "startTimestamp": "00:01:17.840",
+            "endTimestamp": "00:01:25.759",
+            "vocab": {
+                "di notte": "at night",
+                "infatti": "in fact; actually",
+                "questa zona": "this area",
+                "si trasforma": "transforms; turns into",
+                "centro di vita notturna": "center of nightlife",
+                "numerosi": "numerous; many",
+                "bar": "bars",
+                "ristoranti": "restaurants",
+                "facciamo": "we do; let's do (note: can mean 'let's' or 'we do/make', depending on context)"
+            },
+            "beginnerVocab": {
+                "notte": "night",
+                "zona": "area; zone",
+                "centro": "center",
+                "vita": "life",
+                "bar": "bar",
+                "ristoranti": "restaurants"
+            },
+            "advancedVocab": {
+                "di notte": "at night",
+                "vita notturna": "nightlife",
+                "Infatti": "in fact; actually (discourse marker, emphasizes explanation or clarification)"
+            }
+        },
+        {
+            "index": 8,
+            "startTimestamp": "00:01:27.200",
+            "endTimestamp": "00:01:39.680",
+            "vocab": {
+                "giro": "walk; stroll; outing",
+                "allora": "so; then",
+                "siamo": "we are",
+                "fa": "ago; does; makes (here: ago, as in 'time ago')",
+                "nella": "in the",
+                "città vecchia": "old town; old city",
+                "a bere": "to drink",
+                "uno sprizz": "a spritz (cocktail)",
+                "uno sprizzino": "a small spritz (diminutive form)",
+                "finalmente": "finally",
+                "come si deve": "properly; as it should be",
+                "perché": "because; why",
+                "queste": "these",
+                "sono": "are",
+                "sprizze": "spritzes (plural, informal)",
+                "di grandezza decente": "of decent size",
+                "no": "right?; isn't it? (tag question)"
+            },
+            "beginnerVocab": {
+                "giro": "walk; stroll; tour",
+                "città": "city",
+                "vecchia": "old",
+                "bere": "to drink",
+                "uno": "one; a",
+                "finalmente": "finally",
+                "grandezza": "size",
+                "no": "no"
+            },
+            "advancedVocab": {
+                "giro": "walk; stroll; outing (can mean 'walk' or 'outing' depending on context)",
+                "città vecchia": "old town; historic center",
+                "sprizz": "Spritz (Venetian cocktail; regional spelling)",
+                "sprizzino": "small Spritz; little Spritz (diminutive form, not standard Italian)",
+                "come si deve": "properly; as it should be; the right way",
+                "sprizze": "Spritzes (nonstandard plural, playful or regional)",
+                "di grandezza decente": "of decent size; of reasonable size"
+            }
+        },
+        {
+            "index": 9,
+            "startTimestamp": "00:01:38.079",
+            "endTimestamp": "00:01:50.479",
+            "vocab": {
+                "come": "like; as",
+                "quelli che": "those that; those who",
+                "ti fanno": "they make you",
+                "bruttini": "a bit ugly; not very nice (diminutive)",
+                "piccolini": "a bit small; little (diminutive)",
+                "la prima sera": "the first evening; the first night",
+                "siamo andati": "we went",
+                "a mangiare": "to eat",
+                "in un ristorante": "in a restaurant",
+                "molto conosciuto": "very well-known; very famous",
+                "a Bucarest": "in Bucharest",
+                "che si chiama": "that is called; named",
+                "ristorante a tema medievale": "medieval-themed restaurant"
+            },
+            "beginnerVocab": {
+                "come": "like; as",
+                "quelli": "those",
+                "ti": "you (to you)",
+                "fanno": "make; do",
+                "bruttini": "a bit ugly; not very nice (diminutive of 'brutto')",
+                "piccolini": "small; little (diminutive of 'piccolo')",
+                "prima": "first",
+                "sera": "evening",
+                "siamo andati": "we went",
+                "mangiare": "to eat",
+                "ristorante": "restaurant",
+                "molto": "very; a lot",
+                "conosciuto": "known; famous",
+                "tema": "theme",
+                "medievale": "medieval"
+            },
+            "advancedVocab": {
+                "bruttini": "a bit ugly; not very nice (diminutive, mildly negative)",
+                "piccolini": "a bit small; quite small (diminutive, affectionate or minimizing)",
+                "ristorante a tema": "theme restaurant (restaurant with a specific theme or decor)"
+            }
+        },
+        {
+            "index": 10,
+            "startTimestamp": "00:01:48.840",
+            "endTimestamp": "00:02:04.719",
+            "vocab": {
+                "dove": "where",
+                "si può": "one can; you can",
+                "mangiare": "to eat",
+                "solo": "only",
+                "con": "with",
+                "le mani": "hands",
+                "date un'occhiata": "take a look",
+                "cioè": "that is; I mean",
+                "guardate": "look",
+                "hanno portato": "they brought",
+                "no": "no",
+                "raga": "guys",
+                "è enorme": "it's huge",
+                "c'è": "there is",
+                "la mia mano": "my hand",
+                "è soltanto": "is only",
+                "una parte": "a part",
+                "distrutto": "destroyed",
+                "ragazzi": "guys",
+                "ce l'abbiamo fatta": "we did it; we made it",
+                "ora": "now",
+                "vi facciamo vedere": "we show you; we'll show you"
+            },
+            "beginnerVocab": {
+                "dove": "where",
+                "mangiare": "to eat",
+                "mani": "hands",
+                "guardate": "look; watch",
+                "mano": "hand",
+                "parte": "part",
+                "ragazzi": "guys; kids; boys (note: informal address)",
+                "vedere": "to see"
+            },
+            "advancedVocab": {
+                "Date un'occhiata": "Take a look; Have a look (imperative, informal plural)",
+                "cioè": "that is; I mean (discourse marker, filler)",
+                "piant": "dish; plate (slang/shortened form of 'piatto')",
+                "raga": "guys; folks (slang, short for 'ragazzi')",
+                "c'è": "there is; you know (can be a filler/discourse marker)",
+                "ce l'abbiamo fatta": "we made it; we did it (idiomatic expression)"
+            }
+        },
+        {
+            "index": 11,
+            "startTimestamp": "00:02:03.200",
+            "endTimestamp": "00:02:18.120",
+            "vocab": {
+                "quanto costa": "how much does it cost",
+                "questa cena": "this dinner",
+                "in questo ristorante": "in this restaurant",
+                "medievale": "medieval",
+                "a base di carne": "meat-based; based on meat",
+                "si paga": "one pays; you pay",
+                "il fatto che": "the fact that",
+                "si è": "one is; you are",
+                "in un posto": "in a place",
+                "un po' a tema": "a bit themed; somewhat themed",
+                "e basta": "and that's it; and that's all",
+                "fondamentalmente": "basically; fundamentally",
+                "No perché": "No because",
+                "li trovi benissimo": "you find them very easily; you can find them easily",
+                "nei": "in the (plural, masculine)"
+            },
+            "beginnerVocab": {
+                "quanto": "how much",
+                "costa": "costs",
+                "questa": "this",
+                "cena": "dinner",
+                "in": "in",
+                "ristorante": "restaurant",
+                "carne": "meat",
+                "euro": "euro",
+                "si paga": "you pay; is paid",
+                "posto": "place",
+                "tema": "theme",
+                "no": "no",
+                "perché": "because"
+            },
+            "advancedVocab": {
+                "a base di": "based on; featuring (used for food, e.g., meat-based)",
+                "si paga il fatto che": "you pay for the fact that; the price reflects that (nuanced: not just the food, but the experience)",
+                "un po' a tema": "somewhat themed; a bit themed (refers to a place with a specific decorative or experiential theme)",
+                "e basta fondamentalmente": "and that's basically it; and that's fundamentally all (discourse marker, summarizing)",
+                "No perché": "No, because (discourse marker, used to introduce a justification or explanation)"
+            }
+        },
+        {
+            "index": 12,
+            "startTimestamp": "00:02:16.360",
+            "endTimestamp": "00:02:34.480",
+            "vocab": {
+                "ristoranti": "restaurants",
+                "con": "with",
+                "a": "in;to;at (location preposition)",
+                "pieno di": "full of",
+                "rosticcerie": "delis;rotisseries",
+                "panetterie": "bakeries",
+                "dove": "where",
+                "puoi": "you can",
+                "comprare": "buy",
+                "pizze": "pizzas",
+                "panini": "sandwiches;rolls",
+                "prezzi": "prices",
+                "veramente": "really;truly",
+                "assurdi": "absurd;unbelievable",
+                "€1": "1 euro",
+                "posto": "place",
+                "più economico": "cheapest",
+                "per": "for;to",
+                "acquistare": "purchase;buy",
+                "cibo": "food"
+            },
+            "beginnerVocab": {
+                "ristoranti": "restaurants",
+                "Bucarest": "Bucharest",
+                "pieno": "full",
+                "rosticcerie": "delis; rotisseries",
+                "panetterie": "bakeries",
+                "comprare": "to buy",
+                "pizze": "pizzas",
+                "panini": "sandwiches",
+                "prezzi": "prices",
+                "cibo": "food",
+                "posto": "place",
+                "economico": "cheap; inexpensive"
+            },
+            "advancedVocab": {
+                "rosticcerie": "rotisseries; takeaway delis (Italian fast-food shops specializing in roasted foods)",
+                "prezzi che sono veramente assurdi": "prices that are really unbelievable; prices that are truly absurd (emphasizes how cheap or surprising the prices are)",
+                "il posto più economico": "the cheapest place (superlative construction, may be confused with 'economic' meaning 'related to economy')"
+            }
+        },
+        {
+            "index": 13,
+            "startTimestamp": "00:02:32.360",
+            "endTimestamp": "00:02:46.640",
+            "vocab": {
+                "è": "is; it is",
+                "questa": "this",
+                "catena": "chain",
+                "che": "that; which",
+                "si chiama": "is called",
+                "ed è": "and is",
+                "in tutta": "throughout; in all",
+                "la città": "the city",
+                "la metropolitana": "the subway; metro",
+                "di": "of",
+                "costa": "costs",
+                "0 Cent": "0 cents",
+                "a biglietto": "per ticket",
+                "si paga": "one pays; is paid",
+                "direttamente": "directly",
+                "con": "with",
+                "il telefono": "the phone",
+                "se": "if",
+                "avete": "you have",
+                "Google Pay o Apple": "Google Pay or Apple (Pay)"
+            },
+            "beginnerVocab": {
+                "catena": "chain",
+                "città": "city",
+                "metropolitana": "subway; metro",
+                "costa": "costs",
+                "biglietto": "ticket",
+                "telefono": "phone",
+                "pagare": "to pay"
+            },
+            "advancedVocab": {
+                "catena": "chain (can mean 'chain store' or 'network' in this context)",
+                "si paga direttamente": "you pay directly (impersonal construction; 'one pays directly')"
+            }
+        },
+        {
+            "index": 14,
+            "startTimestamp": "00:02:48.000",
+            "endTimestamp": "00:02:57.760",
+            "vocab": {
+                "con": "with",
+                "la metro": "the subway; the metro",
+                "siamo andati": "we went",
+                "a vedere": "to see",
+                "il Parlamento rumeno": "the Romanian Parliament",
+                "una delle cose": "one of the things",
+                "che dovete vedere": "that you must see; that you have to see",
+                "assolutamente": "absolutely",
+                "qui": "here",
+                "a Bucarest": "in Bucharest",
+                "questo edificio": "this building",
+                "si è": "it is; it has (note: part of a reflexive or passive construction)"
+            },
+            "beginnerVocab": {
+                "metro": "subway; metro",
+                "andare": "to go",
+                "vedere": "to see",
+                "Parlamento": "Parliament",
+                "cosa": "thing",
+                "qui": "here",
+                "edificio": "building"
+            },
+            "advancedVocab": {
+                "Pay": "Hey; Listen (discourse marker, informal)",
+                "assolutamente": "absolutely; definitely (used for emphasis, often stronger than in English)",
+                "edificio": "building (can refer to a large or important structure, not just any building)"
+            }
+        },
+        {
+            "index": 15,
+            "startTimestamp": "00:02:56.159",
+            "endTimestamp": "00:03:04.920",
+            "vocab": {
+                "guadagnato": "gained; earned",
+                "primato": "record; primacy",
+                "uno degli": "one of the",
+                "edifici": "buildings",
+                "più": "more; most",
+                "pesanti": "heavy; heavy ones",
+                "del mondo": "in the world",
+                "considerato": "considered",
+                "secondo": "second",
+                "dopo": "after",
+                "pentagono": "Pentagon"
+            },
+            "beginnerVocab": {
+                "mondo": "world",
+                "edificio": "building",
+                "secondo": "second",
+                "grande": "big; large",
+                "dopo": "after"
+            },
+            "advancedVocab": {
+                "guadagnato il primato": "gained the distinction; achieved the record (note: 'primato' here means 'record' or 'distinction', not 'primacy')",
+                "edifici più pesanti": "heaviest buildings (note: 'pesanti' literally means 'heavy', but here refers to massiveness or weight in a structural sense)",
+                "il pentagono": "the Pentagon (note: refers to the US Department of Defense headquarters, culturally specific reference)"
+            }
+        },
+        {
+            "index": 16,
+            "startTimestamp": "00:03:03.480",
+            "endTimestamp": "00:03:20.879",
+            "vocab": {
+                "stato costruito": "was built",
+                "durante": "during",
+                "regime comunista": "communist regime",
+                "di": "of",
+                "caratterizzato da": "characterized by",
+                "design neoclassico": "neoclassical design",
+                "comunista": "communist",
+                "veramente": "really; truly",
+                "imponente": "imposing; impressive",
+                "di fronte a": "in front of",
+                "parlamento rumeno": "Romanian parliament",
+                "ci sta": "there is; there stands (colloquial)",
+                "parco gigante": "giant park",
+                "abbiamo preso": "we took"
+            },
+            "beginnerVocab": {
+                "stato": "state",
+                "costruito": "built",
+                "regime": "regime",
+                "comunista": "communist",
+                "design": "design",
+                "imponente": "imposing; impressive",
+                "di fronte": "in front (of)",
+                "parlamento": "parliament",
+                "parco": "park",
+                "gigante": "giant; huge",
+                "abbiamo preso": "we took"
+            },
+            "advancedVocab": {
+                "regime comunista": "communist regime",
+                "Nicolai cescu": "Nicolae Ceaușescu (Romanian dictator; note spelling)",
+                "neoclassico e comunista": "neoclassical and communist (architectural styles; unusual pairing)",
+                "imponente": "imposing; impressive (nuanced: conveys grandeur, not just size)",
+                "ci sta": "there is; stands (colloquial, literally 'there stays')"
+            }
+        },
+        {
+            "index": 17,
+            "startTimestamp": "00:03:18.959",
+            "endTimestamp": "00:03:38.120",
+            "vocab": {
+                "bellissima": "very beautiful; gorgeous",
+                "giornata": "day",
+                "invernale": "winter; wintry",
+                "freddissima": "very cold; freezing",
+                "però": "but; however",
+                "raga": "guys; folks (informal)",
+                "c'è": "there is",
+                "bellissimo": "very beautiful; gorgeous",
+                "sole": "sun",
+                "piazza": "square; plaza",
+                "si chiama": "is called; is named",
+                "ha cambiato nome": "changed name",
+                "dopo che": "after",
+                "ci fu": "there was",
+                "rivoluzione": "revolution"
+            },
+            "beginnerVocab": {
+                "giornata": "day",
+                "invernale": "winter; wintry",
+                "freddissima": "very cold",
+                "raga": "guys; friends (informal)",
+                "sole": "sun",
+                "piazza": "square; plaza",
+                "nome": "name",
+                "rivoluzione": "revolution"
+            },
+            "advancedVocab": {
+                "raga": "guys; folks (slang, informal for 'ragazzi')",
+                "c'è un bellissimo sole": "there's beautiful sun (note: 'sole' as 'sunshine', not just 'sun')",
+                "ha cambiato nome": "changed its name (note: 'cambiare nome' as 'to be renamed')",
+                "ci fu": "there was (note: literary/past historic form, less common in spoken Italian)"
+            }
+        },
+        {
+            "index": 18,
+            "startTimestamp": "00:03:35.720",
+            "endTimestamp": "00:03:56.819",
+            "vocab": {
+                "rumena": "Romanian",
+                "mise agli arresti": "put under arrest; arrested",
+                "allora": "then; at the time",
+                "dittatore": "dictator",
+                "Romania": "Romania",
+                "Ciao cescu": "Ceausescu (name; refers to Nicolae Ceaușescu)",
+                "fece": "he did; he made",
+                "ultimo discorso": "last speech",
+                "proprio qui": "right here",
+                "era pieno di gente": "was full of people",
+                "vennero qua": "they came here",
+                "destituirlo": "to depose him; to remove him",
+                "praticamente": "practically; basically",
+                "ci fu": "there was",
+                "rivoluzione": "revolution",
+                "quanta": "how much; how many (contextual, may refer to 'how many people' or 'how much' in general)"
+            },
+            "beginnerVocab": {
+                "ciao": "hello; hi",
+                "lui": "he; him",
+                "qui": "here",
+                "gente": "people",
+                "vennero": "they came",
+                "musica": "music"
+            },
+            "advancedVocab": {
+                "mise agli arresti": "placed under arrest; put under house arrest (formal/legal phrasing)",
+                "l'allora": "the then- (at that time; used to refer to someone's former position)",
+                "destituirlo": "to depose him; to remove him from office (formal/political term)",
+                "Praticamente": "basically; practically (discourse marker, often used to summarize or emphasize)",
+                "ci fu": "there was; there occurred (impersonal construction, often used in narration)"
+            }
+        },
+        {
+            "index": 19,
+            "startTimestamp": "00:03:58.720",
+            "endTimestamp": "00:04:19.600",
+            "vocab": {
+                "cultura": "culture",
+                "roba": "stuff; things",
+                "costa pochissimo": "costs very little; is very cheap",
+                "lei": "lei (Romanian currency)",
+                "dentro": "inside",
+                "queste": "these",
+                "bolle": "bubbles",
+                "carino": "nice; cute",
+                "come": "like; as",
+                "questa": "this",
+                "qua": "here",
+                "sono riscaldate": "are heated",
+                "questo è": "this is",
+                "gulash": "goulash",
+                "zuppa di pomodoro": "tomato soup",
+                "patate": "potatoes",
+                "carne": "meat",
+                "allora": "so; well; then (discourse marker)"
+            },
+            "beginnerVocab": {
+                "cultura": "culture",
+                "roba": "stuff; things",
+                "costa": "costs",
+                "pochissimo": "very little; very cheap",
+                "dentro": "inside",
+                "carino": "cute; nice",
+                "bolla": "bubble",
+                "riscaldate": "heated",
+                "zuppa": "soup",
+                "pomodoro": "tomato",
+                "patate": "potatoes",
+                "carne": "meat"
+            },
+            "advancedVocab": {
+                "roba": "stuff; things (informal, can mean 'things' in a broad sense)",
+                "bolle": "bubbles (here: dome-shaped tents or structures, not literal bubbles)",
+                "riscaldate": "heated (warmed up; refers to the domes being warm inside)",
+                "gulash": "goulash (a traditional Central/Eastern European stew, not originally Italian)"
+            }
+        },
+        {
+            "index": 20,
+            "startTimestamp": "00:04:17.919",
+            "endTimestamp": "00:04:43.859",
+            "vocab": {
+                "queste due": "these two",
+                "chiorbo": "chiorbo (unclear; possibly a local food or slang)",
+                "€5": "5 euros",
+                "l'uno": "each; per one",
+                "dopo": "after",
+                "quei due": "those two",
+                "gulash": "goulash",
+                "ciè venuta voglia di": "we felt like; we wanted",
+                "dolce": "dessert; sweet",
+                "quindi": "so; therefore",
+                "vi portiamo": "we take you; we bring you",
+                "in una delle": "to one of the",
+                "pasticcerie": "pastry shops; bakeries",
+                "più conosciute": "most well-known; most famous",
+                "di Bucarest": "of Bucharest",
+                "casa": "house; home"
+            },
+            "beginnerVocab": {
+                "due": "two",
+                "cinque": "five",
+                "dopo": "after",
+                "voglia": "desire; want (note: as in 'to want')",
+                "dolce": "sweet; dessert",
+                "portiamo": "we bring; we take",
+                "una": "a; one (feminine)",
+                "pasticcerie": "pastry shops; bakeries",
+                "più": "more; most",
+                "conosciute": "known; famous",
+                "casa": "house; home"
+            },
+            "advancedVocab": {
+                "chiorbo": "stew (Romanian dish; regional term)",
+                "l'uno": "each; apiece (used after a price)",
+                "ciè": "there is; there's (colloquial contraction of 'ci è')"
+            }
+        },
+        {
+            "index": 21,
+            "startTimestamp": "00:04:45.039",
+            "endTimestamp": "00:04:56.639",
+            "vocab": {
+                "la seconda sera": "the second evening",
+                "siamo andati": "we went",
+                "a mangiare": "to eat",
+                "da": "at; to (someone's place or business)",
+                "ristorante": "restaurant",
+                "si dice": "it is said",
+                "sia": "is; may be (subjunctive, hearsay)",
+                "il più antico": "the oldest",
+                "di": "of; in",
+                "è": "is",
+                "una vera e propria": "a real; a true",
+                "attrazione": "attraction"
+            },
+            "beginnerVocab": {
+                "sera": "evening",
+                "andare": "to go",
+                "mangiare": "to eat",
+                "ristorante": "restaurant",
+                "antico": "old; ancient",
+                "attrazione": "attraction"
+            },
+            "advancedVocab": {
+                "capsa": "Capsa (name of a famous historic restaurant in Bucharest)",
+                "da caro cubere": "at Caru' cu Bere (name of a famous restaurant; note: 'caro cubere' is a mishearing or misspelling of 'Caru' cu Bere')",
+                "si dice": "it is said; people say",
+                "vera e propria": "real and true; genuine (emphasizes authenticity)",
+                "attrazione": "attraction (in the sense of a tourist or cultural draw, not just 'attraction' in general)"
+            }
+        },
+        {
+            "index": 22,
+            "startTimestamp": "00:04:54.840",
+            "endTimestamp": "00:05:06.199",
+            "vocab": {
+                "turistica": "touristic; tourist (adj.)",
+                "tutti quelli che": "all those who; everyone who",
+                "vengono": "come",
+                "a": "to; at",
+                "mangiare": "to eat",
+                "qua": "here",
+                "alcuni": "some",
+                "dicono che": "say that",
+                "sia": "is; may be (subjunctive)",
+                "ristorante": "restaurant",
+                "migliore": "best; better",
+                "della città": "of the city",
+                "alla fine": "at the end",
+                "del video": "of the video",
+                "ve ne": "to you of it; of them to you (ve = to you all, ne = of it/them)",
+                "faremo vedere": "we will show",
+                "un altro": "another one",
+                "secondo noi": "in our opinion",
+                "è": "is",
+                "una": "a; one"
+            },
+            "beginnerVocab": {
+                "tutti": "all; everyone",
+                "quelli": "those (people)",
+                "vengono": "come",
+                "mangiare": "to eat",
+                "ristorante": "restaurant",
+                "città": "city",
+                "video": "video",
+                "vedere": "to see",
+                "altro": "other; another"
+            },
+            "advancedVocab": {
+                "alla fine del video": "at the end of the video",
+                "ve ne faremo vedere un altro": "we will show you another one (of them) (note: 've ne' = 'to you of them', a pronominal construction)",
+                "secondo noi": "in our opinion"
+            }
+        },
+        {
+            "index": 23,
+            "startTimestamp": "00:05:04.360",
+            "endTimestamp": "00:05:19.759",
+            "vocab": {
+                "valida alternativa": "valid alternative",
+                "ristorante": "restaurant",
+                "più antico": "oldest; most ancient",
+                "di": "of",
+                "ora": "now",
+                "proveremo": "we will try",
+                "piatto tipico": "typical dish",
+                "rumeno": "Romanian",
+                "che": "that; which",
+                "sarebbe": "would be; is (in this context, explanatory)",
+                "Ciorba": "Ciorba (Romanian soup)",
+                "zuppa": "soup",
+                "fagioli": "beans",
+                "maiale": "pork",
+                "sta dentro": "is inside; stays inside"
+            },
+            "beginnerVocab": {
+                "ristorante": "restaurant",
+                "piatto": "dish; plate",
+                "zuppa": "soup",
+                "fagioli": "beans",
+                "maiale": "pork; pig"
+            },
+            "advancedVocab": {
+                "valida alternativa": "valid alternative (can mean 'good option' in context)",
+                "piatto tipico": "typical dish; traditional dish",
+                "Ciorba": "Ciorba (Romanian sour soup; culturally specific)",
+                "sta dentro dentro": "is inside inside (emphatic repetition for emphasis or to mean 'really inside')"
+            }
+        },
+        {
+            "index": 24,
+            "startTimestamp": "00:05:17.600",
+            "endTimestamp": "00:05:34.399",
+            "vocab": {
+                "il pane": "the bread",
+                "raccolta": "gathered; collected",
+                "dentro": "inside",
+                "una ciotola": "a bowl",
+                "assaggiami": "taste me; try me",
+                "non è male": "it's not bad",
+                "quello che": "that which; what",
+                "attira": "attracts",
+                "Gli avventori": "the patrons; the customers",
+                "ristorante": "restaurant",
+                "i balli": "the dances",
+                "si svolgono": "take place; happen",
+                "durante": "during",
+                "le serate": "the evenings",
+                "coinvolgono": "involve",
+                "anche": "also; too",
+                "gli": "the (masculine plural)"
+            },
+            "beginnerVocab": {
+                "pane": "bread",
+                "ciotola": "bowl",
+                "assaggiami": "taste me; try me (imperative)",
+                "male": "bad",
+                "ristorante": "restaurant",
+                "balli": "dances",
+                "serate": "evenings",
+                "musica": "music"
+            },
+            "advancedVocab": {
+                "avventori": "patrons; customers (note: formal/literary for 'customers')",
+                "si svolgono": "take place; are held (note: reflexive construction for events)",
+                "coinvolgono": "involve; engage (note: can mean 'draw in' or 'include')",
+                "serate": "evenings; evening events (note: often refers to social events, not just time of day)"
+            }
+        },
+        {
+            "index": 25,
+            "startTimestamp": "00:05:34.440",
+            "endTimestamp": "00:05:54.840",
+            "vocab": {
+                "ospiti": "guests",
+                "oggi": "today",
+                "stiamo andando": "we are going",
+                "alle terme": "to the thermal baths; to the spa",
+                "finalmente": "finally",
+                "aspettavamo": "we were waiting for",
+                "solo quello": "just that; only that",
+                "ci sono": "there are",
+                "meno 3°": "minus 3 degrees",
+                "raga": "guys; folks (informal)",
+                "fa un freddo incredibile": "it's incredibly cold",
+                "Non avete idea": "you have no idea",
+                "siamo alle terme": "we are at the thermal baths; we are at the spa",
+                "vi facciamo vedere": "we show you; we'll show you",
+                "quello che": "what; that which"
+            },
+            "beginnerVocab": {
+                "ospiti": "guests",
+                "oggi": "today",
+                "andando": "going",
+                "terme": "thermal baths; spa",
+                "finalmente": "finally",
+                "meno": "minus; less (here: minus for temperature)",
+                "fa": "it is (weather; makes)",
+                "freddo": "cold",
+                "incredibile": "incredible",
+                "idea": "idea",
+                "Ok": "okay",
+                "vedere": "see; show"
+            },
+            "advancedVocab": {
+                "ospiti": "guests; visitors (can refer to people being hosted or attending an event)",
+                "terme": "thermal baths; hot springs (public spa facilities, culturally common in Italy and parts of Europe)",
+                "raga": "guys; folks (slang, short for 'ragazzi', informal address to a group)",
+                "fa un freddo incredibile": "it's incredibly cold (idiomatic, emphasizes extreme cold)",
+                "Non avete idea": "You have no idea (idiomatic, expresses something is beyond imagination)"
+            }
+        },
+        {
+            "index": 26,
+            "startTimestamp": "00:05:58.639",
+            "endTimestamp": "00:06:17.960",
+            "vocab": {
+                "possiamo": "we can",
+                "allora": "so; then",
+                "piscina": "pool",
+                "all'esterno": "outside; outdoors",
+                "carina": "nice; cute",
+                "ha": "has; it has",
+                "freddo polare": "polar cold; freezing cold",
+                "qua": "here",
+                "c'è": "there is; there's",
+                "all'interno": "inside; indoors",
+                "però": "but; however",
+                "un po'": "a bit; a little",
+                "complicato": "complicated; tricky",
+                "filmare": "to film; to record",
+                "non è facile": "it's not easy",
+                "sì": "yes",
+                "più": "more"
+            },
+            "beginnerVocab": {
+                "possiamo": "we can",
+                "piscina": "pool",
+                "all'esterno": "outside",
+                "carina": "nice; cute",
+                "freddo": "cold",
+                "qua": "here",
+                "all'interno": "inside",
+                "filmare": "to film; to record",
+                "facile": "easy",
+                "sì": "yes"
+            },
+            "advancedVocab": {
+                "carina": "cute; nice (note: can refer to appearance or general pleasantness)",
+                "freddo polare": "freezing cold; polar cold (note: idiomatic, means extremely cold)",
+                "un po' complicato": "a bit complicated; a little tricky (note: 'un po'' softens the statement)",
+                "filmare": "to film; to record (note: less common than 'registrare' for audio, but standard for video)",
+                "non è facile": "it's not easy (note: can imply 'it's difficult' in context)",
+                "più Bron": "more Bron (note: unclear, possibly a name or reference, not standard Italian)"
+            }
+        },
+        {
+            "index": 27,
+            "startTimestamp": "00:06:19.160",
+            "endTimestamp": "00:06:36.479",
+            "vocab": {
+                "siano": "they are; may be (subjunctive of 'essere')",
+                "nelle": "in the; inside the",
+                "Terme": "thermal baths; spa",
+                "non ci sono solo": "there are not only",
+                "piscine": "pools",
+                "ma anche": "but also",
+                "aree relax": "relaxation areas",
+                "saune": "saunas",
+                "ristoranti": "restaurants",
+                "fateci sapere": "let us know",
+                "se vorreste": "if you would like; if you want (polite/conditional)",
+                "vedere": "to see",
+                "interamente dedicato": "entirely dedicated",
+                "l'ultima sera": "the last evening",
+                "siamo": "we are"
+            },
+            "beginnerVocab": {
+                "Terme": "thermal baths; spa",
+                "piscine": "swimming pools",
+                "aree relax": "relaxation areas",
+                "saune": "saunas",
+                "ristoranti": "restaurants",
+                "video": "video",
+                "sera": "evening"
+            },
+            "advancedVocab": {
+                "Terme": "thermal baths; spa (public bath complex, often with pools and saunas)",
+                "aree relax": "relaxation areas (dedicated spaces for resting, common in spas)",
+                "fateci sapere": "let us know (imperative + pronoun, informal request for feedback)",
+                "interamente dedicato": "entirely dedicated (completely focused on, often used for content or events)"
+            }
+        },
+        {
+            "index": 28,
+            "startTimestamp": "00:06:34.479",
+            "endTimestamp": "00:06:44.919",
+            "vocab": {
+                "andati": "gone",
+                "a": "to; at",
+                "mangiare": "eat; to eat",
+                "in": "in; into",
+                "un altro": "another",
+                "ristorante": "restaurant",
+                "storico": "historic; historical",
+                "della città": "of the city",
+                "che": "that; which",
+                "si chiama": "is called; is named",
+                "il cibo": "the food",
+                "qui": "here",
+                "era": "was",
+                "veramente": "really; truly",
+                "buono": "good"
+            },
+            "beginnerVocab": {
+                "andati": "gone",
+                "mangiare": "to eat",
+                "ristorante": "restaurant",
+                "città": "city",
+                "cibo": "food",
+                "buono": "good"
+            },
+            "advancedVocab": {
+                "ristorante storico": "historic restaurant",
+                "anului manuk": "Anului Manuk (proper name; may be unfamiliar)"
+            }
+        },
+        {
+            "index": 29,
+            "startTimestamp": "00:06:42.680",
+            "endTimestamp": "00:07:01.520",
+            "vocab": {
+                "nostro parere": "our opinion",
+                "meglio di": "better than",
+                "intrattenimento": "entertainment",
+                "molto molto": "very very; very much",
+                "prorompente": "overwhelming; powerful (note: strong impact)",
+                "nel senso che": "in the sense that",
+                "hanno suonato": "they played (music)",
+                "tutta la sera": "all evening",
+                "spettacolo": "show; performance",
+                "è andato avanti": "went on; continued",
+                "ancora ancora e ancora": "again and again and again"
+            },
+            "beginnerVocab": {
+                "nostro": "our",
+                "meglio": "better",
+                "caro": "dear",
+                "intrattenimento": "entertainment",
+                "molto": "very; a lot",
+                "sera": "evening",
+                "spettacolo": "show; performance",
+                "avanti": "forward; on; ahead",
+                "ancora": "again; still"
+            },
+            "advancedVocab": {
+                "prorompente": "overwhelming; explosive; powerful (nuanced, intense impact)",
+                "ancora ancora e ancora": "again and again and again (emphatic repetition, idiomatic)",
+                "nel senso che": "meaning that; in the sense that (discourse marker, clarifying)"
+            }
+        },
+        {
+            "index": 30,
+            "startTimestamp": "00:07:01.870",
+            "endTimestamp": "00:07:19.199",
+            "vocab": {
+                "molto": "very; a lot",
+                "belli": "beautiful; nice",
+                "a quando": "when (at the moment when)",
+                "entra": "he/she/it enters; you enter",
+                "sei": "you are",
+                "anche": "also; too",
+                "contenta": "happy; glad (feminine)",
+                "poter": "to be able to; can",
+                "assistere a": "to attend; to witness",
+                "questa cosa": "this thing",
+                "però": "but; however",
+                "poi": "then; afterwards",
+                "dopo": "after; later",
+                "veramente": "really; truly",
+                "diventa": "becomes",
+                "pesante": "heavy; burdensome; hard",
+                "insopportabile": "unbearable; intolerable",
+                "l'ultimo giorno": "the last day",
+                "siamo": "we are"
+            },
+            "beginnerVocab": {
+                "molto": "very",
+                "belli": "beautiful; nice",
+                "entra": "enter; goes in",
+                "contenta": "happy; glad",
+                "cosa": "thing",
+                "giorno": "day",
+                "ultimo": "last"
+            },
+            "advancedVocab": {
+                "a quando entra": "when it starts; when it comes in (note: 'a quando' is an unusual construction for 'when', often context-dependent)",
+                "assistere a": "to attend; to witness (note: can mean both to be present at and to watch something)",
+                "diventa una cosa pesante": "becomes a heavy thing; becomes burdensome (note: 'pesante' is figurative here, meaning emotionally or mentally heavy)",
+                "insopportabile": "unbearable; intolerable"
+            }
+        },
+        {
+            "index": 31,
+            "startTimestamp": "00:07:17.039",
+            "endTimestamp": "00:07:33.160",
+            "vocab": {
+                "andati": "gone",
+                "parco": "park",
+                "in cui": "in which; where",
+                "monumento": "monument",
+                "dedicato a": "dedicated to",
+                "Milite Ignoto": "Unknown Soldier",
+                "struttura": "structure",
+                "veramente": "really; truly",
+                "imponente": "imposing; impressive",
+                "ci ha lasciati a bocca aperta": "left us open-mouthed; amazed (expression of astonishment)"
+            },
+            "beginnerVocab": {
+                "parco": "park",
+                "monumento": "monument",
+                "struttura": "structure",
+                "imponente": "imposing; impressive",
+                "bocca": "mouth",
+                "aperta": "open"
+            },
+            "advancedVocab": {
+                "Milite Ignoto": "Unknown Soldier (refers to a national monument for unidentified fallen soldiers)",
+                "ci ha lasciati a bocca aperta": "left us speechless; amazed us (idiom: literally 'left us with open mouth')"
+            }
+        },
+        {
+            "index": 32,
+            "startTimestamp": "00:07:31.319",
+            "endTimestamp": "00:07:41.639",
+            "vocab": {
+                "speriamo": "we hope",
+                "che": "that",
+                "questo": "this",
+                "video": "video",
+                "vi sia piaciuto": "you liked it;it pleased you (formal/plural)",
+                "ce ne sarebbero": "there would be (of them);there would be (here)",
+                "mille": "thousand",
+                "altre cose": "other things",
+                "da farvi vedere": "to show you",
+                "ma": "but",
+                "non": "not",
+                "entrerebbero": "would fit;would go in",
+                "neanche": "not even",
+                "scopritele": "discover them;find them out (imperative, you all)"
+            },
+            "beginnerVocab": {
+                "video": "video",
+                "cose": "things",
+                "vedere": "to see; to watch",
+                "ore": "hours",
+                "scoprire": "to discover; to find out"
+            },
+            "advancedVocab": {
+                "ce ne sarebbero mille altre": "there would be a thousand more (things; idiomatic, emphasizes abundance)",
+                "non entrerebbero": "would not fit (contextual, not 'enter')",
+                "scopritele": "discover them (imperative, referring to things previously mentioned)"
+            }
+        },
+        {
+            "index": 33,
+            "startTimestamp": "00:07:39.879",
+            "endTimestamp": "00:07:55.599",
+            "vocab": {
+                "voi": "you (plural)",
+                "quando": "when",
+                "andrete": "you will go",
+                "in": "in; to",
+                "questo": "this",
+                "paese": "country",
+                "bellissimo": "very beautiful; gorgeous",
+                "iscrivetevi": "subscribe (you all)",
+                "al": "to the",
+                "nostro": "our",
+                "canale": "channel",
+                "se": "if",
+                "volete": "you want (plural)",
+                "guardare": "to watch",
+                "altri": "other",
+                "video": "videos",
+                "e": "and",
+                "sostenere": "to support",
+                "progetto": "project",
+                "noi": "we",
+                "vi ringraziamo": "we thank you",
+                "ci vediamo": "see you",
+                "al prossimo viaggio": "on the next trip",
+                "ciao": "bye; hello"
+            },
+            "beginnerVocab": {
+                "paese": "country",
+                "bellissimo": "very beautiful; beautiful",
+                "canale": "channel",
+                "video": "video",
+                "progetto": "project",
+                "viaggio": "trip; journey; travel",
+                "ciao": "hello; bye"
+            },
+            "advancedVocab": {
+                "iscrivetevi al nostro canale": "subscribe to our channel",
+                "sostenere il nostro progetto": "support our project",
+                "ci vediamo al prossimo viaggio": "see you on the next trip (idiomatic farewell for travel content)"
+            }
+        }
+    ],
+    "topics": [
+        "bucharest travel guide",
+        "romanian nightlife",
+        "medieval dining",
+        "romanian parliament",
+        "revolution square",
+        "romanian thermal baths",
+        "cheap food bucharest",
+        "romanian cuisine",
+        "winter travel europe",
+        "romanian history",
+        "city exploration",
+        "budget travel romania"
+    ]
+}
