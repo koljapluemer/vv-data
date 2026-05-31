@@ -1,0 +1,4204 @@
+{
+    "videoId": "uWuLSQKSBYU",
+    "language": {
+        "iso3": "vie",
+        "subtitleLanguage": "vi",
+        "humanReadable": "Vietnamese"
+    },
+    "segments": [
+        {
+            "index": 1,
+            "startTimestamp": "00:00:00.760",
+            "endTimestamp": "00:00:14.080",
+            "vocab": {
+                "có": "there is; have",
+                "câu hỏi": "question",
+                "rằng": "that (introducing reported speech or clause)",
+                "nếu": "if",
+                "chỉ còn": "only left; only remain",
+                "2 phút": "2 minutes",
+                "để": "to (purpose)",
+                "sống": "live",
+                "bạn": "you",
+                "sẽ": "will",
+                "làm gì": "do what; what to do",
+                "với": "with",
+                "mọi": "all; every",
+                "quyền năng": "power",
+                "tối tượng": "supreme; ultimate (note: 'tối tượng' likely a typo for 'tối thượng')",
+                "gặp lại": "meet again; see again",
+                "những người": "people; those",
+                "mình thương": "I love; you love; loved ones",
+                "giải cứu": "rescue; save",
+                "thế giới": "the world"
+            },
+            "beginnerVocab": {
+                "câu hỏi": "question",
+                "nếu": "if",
+                "chỉ": "only",
+                "còn": "left; remain",
+                "phút": "minute",
+                "sống": "live",
+                "làm": "do; make",
+                "gì": "what",
+                "mọi": "every; all",
+                "người": "person; people",
+                "gặp": "meet",
+                "thương": "love; care about",
+                "giải cứu": "rescue; save",
+                "thế giới": "world"
+            },
+            "advancedVocab": {
+                "quyền năng tối tượng": "supreme power; ultimate power (note: 'tối tượng' is likely a typo for 'tối thượng', meaning 'supreme')",
+                "giải cứu thế giới": "save the world; rescue the world (note: common in pop culture, superhero context)"
+            }
+        },
+        {
+            "index": 2,
+            "startTimestamp": "00:00:11.679",
+            "endTimestamp": "00:00:26.679",
+            "vocab": {
+                "hay": "or; just",
+                "chỉ": "only; just",
+                "để": "to let; in order to",
+                "nó": "it",
+                "lặng lẽ": "quietly; silently",
+                "trôi qua": "pass by; go by",
+                "kể về": "tell about; narrate",
+                "một người đàn ông trung niên": "a middle-aged man",
+                "tên": "named; name",
+                "sống": "live",
+                "trong": "in; inside",
+                "một căn hộ chật hẹp": "a cramped apartment",
+                "chỉ vừa đủ": "just enough",
+                "trải": "spread (out)",
+                "một chiếc niệm mỏng": "a thin mattress",
+                "kiểu Nhật": "Japanese style",
+                "nằm ngủ": "lie down to sleep",
+                "ban": "room; area (context: sleeping area)"
+            },
+            "beginnerVocab": {
+                "hay": "or",
+                "chỉ": "only; just",
+                "để": "let; allow",
+                "nó": "it",
+                "lặng lẽ": "quietly; silently",
+                "trôi qua": "pass by; go by",
+                "người đàn ông": "man",
+                "trung niên": "middle-aged",
+                "tên": "name; named",
+                "sống": "live",
+                "căn hộ": "apartment",
+                "chật hẹp": "narrow; cramped",
+                "chỉ vừa đủ": "just enough",
+                "chiếc": "classifier for objects (note)",
+                "nệm": "mattress",
+                "mỏng": "thin",
+                "nằm": "lie; lying",
+                "ngủ": "sleep"
+            },
+            "advancedVocab": {
+                "lặng lẽ trôi qua": "quietly pass by; fade away (nuanced, implies unnoticed passage of time)",
+                "trài một chiếc niệm mỏng": "spread out a thin mattress (trài = to spread, niệm = mattress, culturally specific sleeping arrangement)",
+                "Kiểu Nhật": "Japanese style (culturally specific, refers to Japanese way of doing something)"
+            }
+        },
+        {
+            "index": 3,
+            "startTimestamp": "00:00:24.800",
+            "endTimestamp": "00:00:36.280",
+            "vocab": {
+                "ngày": "day",
+                "lau dọn": "clean; cleaning",
+                "hãng vệ sinh công cộng": "public sanitation company",
+                "trái với kỳ vọng": "contrary to expectations",
+                "chỉ là": "just; only",
+                "công việc tạm bợ": "temporary job",
+                "kiếm sống": "make a living; earn a living"
+            },
+            "beginnerVocab": {
+                "ngày": "day",
+                "lau dọn": "clean; cleaning",
+                "hãng": "company",
+                "vệ sinh": "hygiene; sanitation; toilet",
+                "công cộng": "public",
+                "công việc": "job; work",
+                "kiếm sống": "make a living",
+                "lau": "wipe; clean"
+            },
+            "advancedVocab": {
+                "hãng vệ sinh công cộng": "public sanitation company; public cleaning company",
+                "trá với kỳ vọng": "contrary to expectations; against expectations (note: 'trá' is formal/literary for 'contrary to')",
+                "công việc tạm bợ": "temporary job; makeshift job (note: 'tạm bợ' implies instability or impermanence)"
+            }
+        },
+        {
+            "index": 4,
+            "startTimestamp": "00:00:34.200",
+            "endTimestamp": "00:00:47.199",
+            "vocab": {
+                "chùi": "scrub; clean",
+                "từng": "each; every (emphasizing individual items)",
+                "ngóc ngách": "nooks and crannies; every corner",
+                "với": "with",
+                "tất cả": "all; every",
+                "sự chu toàn": "thoroughness; completeness",
+                "nhiệt tình": "enthusiasm; zeal",
+                "tỉ mì": "meticulous; detailed",
+                "Tần mẩn": "painstaking; absorbed (in a task)",
+                "như": "like; as",
+                "mổ xẻ": "dissect; analyze",
+                "một loại": "a kind of; a type of",
+                "đam mê": "passion",
+                "hết ca": "after the shift; end of shift",
+                "ông": "he; the man (polite/older male)",
+                "về nhà": "go home; return home",
+                "thay quần áo": "change clothes",
+                "tới": "to; go to",
+                "quán": "shop; restaurant; place",
+                "yêu thích": "favorite; beloved",
+                "rồi": "then; after that",
+                "quay": "return; go back"
+            },
+            "beginnerVocab": {
+                "chùi": "wipe; clean",
+                "nhà": "house; home",
+                "thay quần áo": "change clothes",
+                "quán": "shop; restaurant; cafe",
+                "yêu thích": "favorite; like",
+                "về": "return; go home",
+                "tới": "to; arrive"
+            },
+            "advancedVocab": {
+                "ngóc ngách": "nooks and crannies; every corner (meticulous detail)",
+                "chu toàn": "thoroughness; perfection (doing something completely and well)",
+                "tỉ mì": "meticulous; painstaking (very careful and detailed)",
+                "Tần mẩn": "absorbed; engrossed; fussing over (doing something with great care and attention)",
+                "mổ xẻ": "dissect; analyze in detail (literally 'dissect', often used figuratively)",
+                "đam mê": "passion; obsession (strong enthusiasm)"
+            }
+        },
+        {
+            "index": 5,
+            "startTimestamp": "00:00:45.239",
+            "endTimestamp": "00:00:55.920",
+            "vocab": {
+                "trở về": "return; go back",
+                "đọc sách": "read books",
+                "trước khi": "before",
+                "chìm vào": "sink into; fall into",
+                "giấc ngủ": "sleep",
+                "cơn mơ": "dream",
+                "Bình Minh": "dawn; sunrise (name or time of day)",
+                "gọi": "call",
+                "tia nắng": "sunbeam; ray of sunlight",
+                "quét sân": "sweep the yard",
+                "tưới tắm": "water (plants); irrigate",
+                "chậu cây nhỏ": "small potted plant",
+                "trong nhà": "in the house; indoors"
+            },
+            "beginnerVocab": {
+                "trở về": "return; go back",
+                "đọc sách": "read books",
+                "ngủ": "sleep",
+                "mơ": "dream",
+                "Bình Minh": "dawn; sunrise",
+                "tia nắng": "sunbeam; sunlight",
+                "quét sân": "sweep the yard",
+                "tưới": "water (plants)",
+                "chậu cây": "plant pot; potted plant",
+                "nhà": "house; home"
+            },
+            "advancedVocab": {
+                "chìm vào giấc ngủ": "fall into sleep; drift off to sleep",
+                "Bình Minh": "Dawn (personified; literally 'morning light')",
+                "tia nắng": "sunbeam; ray of sunlight",
+                "quét sân": "sweep the yard (cultural: common morning chore)",
+                "tưới tắm": "water; shower (plants) (nuanced: to thoroughly water or refresh)",
+                "chậu cây": "potted plant"
+            }
+        },
+        {
+            "index": 6,
+            "startTimestamp": "00:00:54.120",
+            "endTimestamp": "00:01:03.039",
+            "vocab": {
+                "rồi": "then; already",
+                "đi đến": "go to",
+                "chỗ làm": "workplace; place of work",
+                "trong": "in; inside",
+                "tiếng": "sound",
+                "băng cát sét": "cassette tape",
+                "phắt": "playing (quickly; abruptly)",
+                "những": "those; the (plural marker)",
+                "bài nhạc": "songs; music tracks",
+                "xưa cũ": "old; ancient; nostalgic",
+                "giống như": "like; similar to",
+                "một chiếc đồng hồ": "a clock; a watch",
+                "dù": "even though; although",
+                "ông": "he; Mr.; the man",
+                "chẳng": "not; doesn't (colloquial, negative particle)"
+            },
+            "beginnerVocab": {
+                "đi": "go; walk",
+                "đến": "come; arrive",
+                "chỗ làm": "workplace; place of work",
+                "bài nhạc": "song",
+                "xưa cũ": "old; ancient",
+                "giống như": "like; similar to",
+                "chiếc đồng hồ": "clock; watch"
+            },
+            "advancedVocab": {
+                "băng cát sét": "cassette tape",
+                "phắt": "quickly; abruptly (note: colloquial, indicates sudden action)",
+                "nhạc xưa cũ": "old music; nostalgic songs",
+                "giống như một chiếc đồng hồ": "like a clock (note: simile, implies regularity or routine)"
+            }
+        },
+        {
+            "index": 7,
+            "startTimestamp": "00:01:01.359",
+            "endTimestamp": "00:01:09.479",
+            "vocab": {
+                "cần": "need",
+                "chiếc đồng hồ": "clock; watch",
+                "nào": "which; any",
+                "đo đạc": "measure",
+                "thời gian": "time",
+                "việc cần làm": "things to do; tasks",
+                "trong ngày": "in the day; during the day",
+                "cuộc sống": "life",
+                "được lập trình": "is programmed; programmed",
+                "lặp": "repeat; loop"
+            },
+            "beginnerVocab": {
+                "cần": "need",
+                "chiếc đồng hồ": "watch; clock",
+                "đo": "measure",
+                "thời gian": "time",
+                "ngày": "day",
+                "cuộc sống": "life",
+                "lặp": "repeat"
+            },
+            "advancedVocab": {
+                "đo đạc": "measure (formal; more precise than just 'measure')",
+                "lập trình": "program; programmed (originally computing term, here used metaphorically)",
+                "lặp": "repeat; loop (can refer to repetition, often used in technical or formal contexts)"
+            }
+        },
+        {
+            "index": 8,
+            "startTimestamp": "00:01:07.439",
+            "endTimestamp": "00:01:19.360",
+            "vocab": {
+                "lại": "again; repeat",
+                "thói quen": "habit",
+                "nghi thức": "ritual; ceremony",
+                "điều đó": "that; this thing",
+                "tạo nên": "create; make",
+                "hoàn hảo": "perfect",
+                "cuộc sống": "life",
+                "lặp đi lặp lại": "repetitive; repeat over and over",
+                "thú vị": "interesting; fun",
+                "kể": "tell; narrate"
+            },
+            "beginnerVocab": {
+                "lại": "again",
+                "ngày": "day",
+                "cuộc sống": "life",
+                "thú vị": "interesting; fun",
+                "kể": "tell"
+            },
+            "advancedVocab": {
+                "nghi thức": "ritual; ceremony (note: here means 'ritual' as in a repeated, almost ceremonial habit)",
+                "lặp đi lặp lại": "repetitive; repeated over and over (note: can imply monotony or boredom)",
+                "Wi wenders": "Wim Wenders (note: Vietnamese spelling of the German filmmaker's name)"
+            }
+        },
+        {
+            "index": 9,
+            "startTimestamp": "00:01:17.479",
+            "endTimestamp": "00:01:28.479",
+            "vocab": {
+                "suốt": "throughout; during",
+                "hai tiếng đồng hồ": "two hours",
+                "một cách thú vị": "in an interesting way",
+                "điều thú vị": "interesting thing; the interesting part",
+                "nằm ở chỗ": "lies in; is in (location of the point)",
+                "mỗi ngày": "each day; every day",
+                "trôi qua": "passes; goes by",
+                "sống tận": "live fully; live to the fullest",
+                "một ngày": "one day",
+                "cảm": "feel"
+            },
+            "beginnerVocab": {
+                "ngày": "day",
+                "sống": "live",
+                "điều": "thing",
+                "thú vị": "interesting; fun",
+                "trôi qua": "pass (as in time passing)",
+                "ông": "he; man; old man"
+            },
+            "advancedVocab": {
+                "suốt hai tiếng đồng hồ": "for two whole hours (emphasizes duration)",
+                "một cách thú vị": "in an interesting way; interestingly (adverbial construction)",
+                "nằm ở chỗ": "lies in; consists in (discourse marker for explanation)",
+                "trôi qua": "pass by; elapse (often used for time)",
+                "sống tận một ngày": "live a whole day to the fullest (nuanced meaning of 'tận' as 'to the fullest')"
+            }
+        },
+        {
+            "index": 10,
+            "startTimestamp": "00:01:25.880",
+            "endTimestamp": "00:01:36.439",
+            "vocab": {
+                "tưởng như": "as if; it seems like",
+                "nếu": "if",
+                "ai đó": "someone; anyone",
+                "hỏi": "ask",
+                "câu hỏi": "question",
+                "trả lời": "answer; reply",
+                "sẽ": "will (future marker)",
+                "để": "let; allow; in order to",
+                "hai phút": "two minutes",
+                "lặng lẽ": "quietly; silently",
+                "trôi qua": "pass by; go by",
+                "như": "like; as",
+                "mọi thứ": "everything; all things",
+                "vốn": "originally; inherently (note: often used to indicate something's natural state)"
+            },
+            "beginnerVocab": {
+                "ai đó": "someone; anyone",
+                "hỏi": "ask",
+                "câu hỏi": "question",
+                "trả lời": "answer",
+                "hai phút": "two minutes",
+                "lặng lẽ": "quietly; silently",
+                "trôi qua": "pass; go by"
+            },
+            "advancedVocab": {
+                "tưởng như": "it seems as if; as though (nuanced hypothetical construction)",
+                "lặng lẽ trôi qua": "pass by quietly; pass in silence (nuanced, poetic phrasing)",
+                "như mọi thứ vốn": "as everything inherently is; as things naturally are (elliptical, culturally nuanced ending)"
+            }
+        },
+        {
+            "index": 11,
+            "startTimestamp": "00:01:33.920",
+            "endTimestamp": "00:01:47.280",
+            "vocab": {
+                "phải vậy": "that's right; correct",
+                "bởi": "because",
+                "chẳng cần": "don't need",
+                "chờ": "wait",
+                "hai phút cuối đời": "last two minutes of life",
+                "sống": "live",
+                "một cuộc đời hạnh phúc": "a happy life",
+                "nhìn": "look; see",
+                "nghe": "listen; hear",
+                "nói": "speak; talk",
+                "nếm": "taste",
+                "chạm": "touch",
+                "chánh niệm": "mindfulness",
+                "trong từng giây": "in every second; in each moment"
+            },
+            "beginnerVocab": {
+                "phải": "must; right; correct",
+                "chờ": "wait",
+                "sống": "live",
+                "cuộc đời": "life",
+                "hạnh phúc": "happy; happiness",
+                "nhìn": "look; see",
+                "nghe": "listen; hear",
+                "nói": "speak; talk",
+                "nếm": "taste",
+                "chạm": "touch",
+                "giây": "second (time)"
+            },
+            "advancedVocab": {
+                "phải vậy": "that's right; exactly (affirmative discourse marker)",
+                "hai phút cuối đời": "the last two minutes of life (nuanced, poetic phrasing)",
+                "chánh niệm": "mindfulness (Buddhist concept)",
+                "trong từng giây": "in every second; in each moment (emphasizing present awareness)"
+            }
+        },
+        {
+            "index": 12,
+            "startTimestamp": "00:01:45.159",
+            "endTimestamp": "00:01:54.240",
+            "vocab": {
+                "phút": "minute; moment",
+                "sống trọn vẹn": "live fully; live to the fullest",
+                "niềm vui": "joy; happiness",
+                "nỗi buồn": "sadness; sorrow",
+                "để rồi": "so that; and then (resulting in)",
+                "vật lội": "struggle; wrestle",
+                "vồn vã": "hustle; bustle; rush",
+                "áp lực": "pressure; stress",
+                "Tokyo": "Tokyo (city name)",
+                "ta": "we; I; one (contextual, informal pronoun)"
+            },
+            "beginnerVocab": {
+                "phút": "minute",
+                "sống": "live",
+                "vui": "happy; joy",
+                "buồn": "sad; sadness",
+                "người": "person; people",
+                "Tokyo": "Tokyo"
+            },
+            "advancedVocab": {
+                "sống trọn vẹn": "live fully; live to the fullest",
+                "vật lội": "struggle; wrestle (note: metaphorical, not literal physical action)",
+                "vồn vã": "hustle and bustle; rush (note: conveys a sense of overwhelming busyness)"
+            }
+        },
+        {
+            "index": 13,
+            "startTimestamp": "00:01:52.280",
+            "endTimestamp": "00:02:01.000",
+            "vocab": {
+                "thấy": "see; notice",
+                "có": "there is; have",
+                "người đàn ông": "man",
+                "vẫn": "still",
+                "lặng lẽ": "quietly; silently",
+                "sống": "live",
+                "một cách": "in a way; in a manner (used to form adverbs)",
+                "biết ơn": "grateful; thankful",
+                "tận hưởng": "enjoy",
+                "hôm nay": "today",
+                "hãy": "let's; please (imperative particle)",
+                "cùng": "together; with",
+                "đi qua": "go through; pass through",
+                "những": "those; the (plural marker)",
+                "phút giây": "moments"
+            },
+            "beginnerVocab": {
+                "người": "person; man",
+                "đàn ông": "man",
+                "sống": "live",
+                "hôm nay": "today",
+                "đi": "go",
+                "phút": "minute",
+                "giây": "second"
+            },
+            "advancedVocab": {
+                "lặng lẽ": "quietly; silently (nuanced: unobtrusively, without drawing attention)",
+                "biết ơn": "grateful; thankful (nuanced: sense of appreciation)",
+                "tận hưởng": "enjoy to the fullest; savor (nuanced: deeply experience pleasure)",
+                "phê phim": "enjoy movies; movie appreciation (slang: name of a Vietnamese YouTube channel, also means 'get high on movies')",
+                "những phút giây": "moments; instants (nuanced: poetic way to refer to short periods of time)"
+            }
+        },
+        {
+            "index": 14,
+            "startTimestamp": "00:01:59.079",
+            "endTimestamp": "00:02:08.320",
+            "vocab": {
+                "nhẹ nhàng": "gentle; softly",
+                "so chiếu": "comparison; reflection (context: comparing or reflecting upon oneself)",
+                "tìm ra": "find; discover",
+                "điều đẹp đẽ": "beautiful things",
+                "thật sự": "truly; really",
+                "sống tự tại": "live freely; live at ease",
+                "không nuối": "no regret; without regret"
+            },
+            "beginnerVocab": {
+                "nhẹ nhàng": "gentle; softly",
+                "điều": "thing",
+                "đẹp": "beautiful",
+                "sống": "live",
+                "tự tại": "at ease; free",
+                "không": "no; not"
+            },
+            "advancedVocab": {
+                "so chiếu": "comparison; juxtaposition (can mean reflecting or comparing oneself to something)",
+                "tự tại": "at ease; carefree; unburdened (Buddhist/poetic nuance)",
+                "nuối": "regret (short for 'nuối tiếc', rarely used alone)"
+            }
+        },
+        {
+            "index": 15,
+            "startTimestamp": "00:02:08.520",
+            "endTimestamp": "00:02:23.440",
+            "vocab": {
+                "tiếc": "regret; pity",
+                "lãng đãng": "drifting; wandering (emotionally or mentally)",
+                "đưa vào": "lead into; bring into",
+                "thước phim": "film frame; scene",
+                "cuộc đời": "life",
+                "người đàn ông": "man",
+                "60 tuổi": "60 years old",
+                "tên": "named; name",
+                "thoạt qua": "at first glance; initially",
+                "chẳng có gì": "nothing; not interesting",
+                "thú vị": "interesting",
+                "sống như": "live like",
+                "vị tu sĩ": "monk",
+                "đôi phần": "somewhat; partly",
+                "khổ hạnh": "ascetic; austere",
+                "chẳng có": "does not have; there is no"
+            },
+            "beginnerVocab": {
+                "tiếc": "regret; pity",
+                "đưa": "bring; take",
+                "ta": "me; us",
+                "vào": "into",
+                "từng": "each; every",
+                "phim": "film; movie",
+                "cuộc đời": "life",
+                "người đàn ông": "man",
+                "tuổi": "age",
+                "tên": "name",
+                "chẳng": "not; no",
+                "có": "have; there is",
+                "sống": "live",
+                "như": "like; as",
+                "vị": "person (polite); monk (note: here, 'vị tu sĩ' means 'monk')",
+                "tu sĩ": "monk",
+                "đôi": "pair; some",
+                "phần": "part",
+                "khổ hạnh": "ascetic (note: living simply, self-denial)"
+            },
+            "advancedVocab": {
+                "tiếc": "regret; pity (nuanced emotional term)",
+                "lãng đáng": "drifting; wandering (poetic, evocative)",
+                "thước phim": "film reel; scene (metaphorical for life events)",
+                "vị tu sĩ": "monk (formal, respectful)",
+                "khổ hạnh": "asceticism; self-denial (Buddhist/religious nuance)",
+                "thoạt qua": "at first glance; seemingly (discourse marker, nuanced)"
+            }
+        },
+        {
+            "index": 16,
+            "startTimestamp": "00:02:21.959",
+            "endTimestamp": "00:02:32.840",
+            "vocab": {
+                "những loại": "types; kinds (plural marker)",
+                "trải nghiệm": "experience",
+                "mang": "bring; carry",
+                "cảm giác mạnh": "strong feeling; thrill; intense sensation",
+                "trong lúc": "while; during",
+                "cả thế giới": "the whole world; everyone",
+                "hô hào": "call out; urge; rally",
+                "phải": "must; have to",
+                "sống nhanh hơn nữa": "live even faster",
+                "làm nhiều điều điên dổ hơn nữa": "do even crazier things",
+                "hirayama sống": "hirayama lives (name + verb)"
+            },
+            "beginnerVocab": {
+                "loại": "type; kind",
+                "trải nghiệm": "experience",
+                "cảm giác": "feeling; sense",
+                "mạnh": "strong",
+                "thế giới": "world",
+                "sống": "live",
+                "nhanh": "fast; quickly",
+                "nhiều": "many; much; more",
+                "điều": "thing",
+                "điên": "crazy"
+            },
+            "advancedVocab": {
+                "cảm giác mạnh": "thrill; intense sensation (often used for extreme sports or adrenaline activities)",
+                "hô hào": "to call out; to rally; to urge (publicly encourage or incite)",
+                "sống nhanh hơn nữa": "live even faster (nuanced: live life at a faster, more intense pace)",
+                "điên dồ": "crazy; wild (note: 'điên dồ' is a variant of 'điên rồ', meaning wild or reckless, sometimes used informally or as a typo)"
+            }
+        },
+        {
+            "index": 17,
+            "startTimestamp": "00:02:30.519",
+            "endTimestamp": "00:02:38.920",
+            "vocab": {
+                "một": "one; a (classifier for counting)",
+                "cuộc đời": "life",
+                "nằm lăn lóc": "lying around; sprawled",
+                "bị": "to be (passive marker)",
+                "thời gian": "time",
+                "bỏ quên": "to forget; to leave behind",
+                "đâu đó": "somewhere",
+                "ở": "at; in",
+                "phần còn lại": "the rest; the remainder",
+                "ra sức": "make every effort; try hard",
+                "chạy đua": "race; compete"
+            },
+            "beginnerVocab": {
+                "một": "one; a",
+                "đời": "life",
+                "nằm": "lie; lying",
+                "lăn": "roll",
+                "lóc": "tumble",
+                "thời gian": "time",
+                "Tokyo": "Tokyo",
+                "chạy": "run",
+                "đua": "race"
+            },
+            "advancedVocab": {
+                "nằm lăn lóc": "lying around; sprawled (conveys neglect or aimlessness)",
+                "bị thời gian bỏ quên": "forgotten by time; left behind by time (nuanced: neglected by the passage of time)",
+                "ra sức": "make every effort; strive (emphasizes strong effort)"
+            }
+        },
+        {
+            "index": 18,
+            "startTimestamp": "00:02:37.000",
+            "endTimestamp": "00:02:47.239",
+            "vocab": {
+                "loại": "type; kind",
+                "công nghệ": "technology",
+                "tiên tiến": "advanced",
+                "đời sống": "life; lifestyle",
+                "văn minh": "civilized; civilization",
+                "đầy đủ": "full; sufficient",
+                "hiện đại": "modern",
+                "công việc": "job; work",
+                "dọ": "inspect; check (note: informal/colloquial)",
+                "nhà vệ sinh": "toilet; restroom",
+                "xuất hiện": "appear",
+                "người đàn ông": "man",
+                "hết thời": "outdated; past one's prime"
+            },
+            "beginnerVocab": {
+                "công nghệ": "technology",
+                "đời sống": "life",
+                "hiện đại": "modern",
+                "công việc": "job; work",
+                "nhà vệ sinh": "toilet; restroom",
+                "người đàn ông": "man"
+            },
+            "advancedVocab": {
+                "tiên tiến": "advanced; cutting-edge",
+                "đời sống văn minh": "civilized life; modern lifestyle",
+                "đầy đủ hơn": "more complete; more sufficient (nuanced: improved quality of life)",
+                "dọ nhà vệ sinh": "to check/inspect toilets (unusual construction; 'dọ' is not common in this context)",
+                "đã hết thời": "past one's prime; outdated; no longer fashionable"
+            }
+        },
+        {
+            "index": 19,
+            "startTimestamp": "00:02:45.800",
+            "endTimestamp": "00:02:56.640",
+            "vocab": {
+                "hoàn toàn": "completely; entirely",
+                "khỏi": "from; out of (indicating separation)",
+                "khối sống chung": "communal living group; collective life",
+                "Đại đoàn thể": "Great Collective (proper noun; possibly an organization or group)",
+                "bộ phim": "film; movie",
+                "bắt đầu": "begin; start",
+                "tia sáng": "ray of light",
+                "màu cam": "orange (color)",
+                "lờ nhờ": "dim; faint",
+                "bình minh": "dawn; sunrise",
+                "chiếu rọi": "shine; illuminate",
+                "căn phòng nhỏ": "small room",
+                "chứa": "contain; hold",
+                "vài": "a few; several",
+                "món": "items; things (classifier for objects)"
+            },
+            "beginnerVocab": {
+                "bộ phim": "movie; film",
+                "bắt đầu": "start; begin",
+                "tia sáng": "ray of light",
+                "màu cam": "orange (color)",
+                "bình minh": "dawn; sunrise",
+                "căn phòng": "room",
+                "nhỏ": "small",
+                "chứa": "contain; hold",
+                "vài": "some; a few",
+                "món": "item; thing"
+            },
+            "advancedVocab": {
+                "khối sống chung": "communal living group; collective life (note: refers to a group living together, often with ideological or organizational connotations)",
+                "Đại đoàn thể": "Great Collective; Mass Organization (note: can refer to a large, unified group, sometimes with political or social implications)",
+                "tia sáng màu cam lờ nhờ": "dim orange rays (note: 'lờ nhờ' means faint, dull, or hazy, not bright)",
+                "chiếu rọi": "shine upon; illuminate (note: more poetic or formal than 'chiếu')"
+            }
+        },
+        {
+            "index": 20,
+            "startTimestamp": "00:02:54.239",
+            "endTimestamp": "00:03:04.200",
+            "vocab": {
+                "đồ nội thất": "furniture",
+                "cơ bản": "basic",
+                "quan sát": "observe; watch",
+                "người đàn ông": "man",
+                "lẳng lặng": "quietly; silently",
+                "gấp chăn": "fold blanket",
+                "đánh răng": "brush teeth",
+                "rửa mặt": "wash face",
+                "tỉa tót": "trim; groom",
+                "bộ râu": "beard",
+                "tưới": "water (as in plants)"
+            },
+            "beginnerVocab": {
+                "đồ nội thất": "furniture",
+                "người đàn ông": "man",
+                "gấp": "fold",
+                "chăn": "blanket",
+                "đánh răng": "brush teeth",
+                "rửa mặt": "wash face",
+                "bộ râu": "beard",
+                "tưới": "water (plants)"
+            },
+            "advancedVocab": {
+                "lẳng lặng": "quietly; silently (nuanced: without drawing attention)",
+                "gấp chăn": "fold the blanket",
+                "tỉa tót": "trim; groom (nuanced: carefully adjust appearance)",
+                "bộ râu": "beard (nuanced: set of facial hair, not just 'mustache')"
+            }
+        },
+        {
+            "index": 21,
+            "startTimestamp": "00:03:02.040",
+            "endTimestamp": "00:03:10.879",
+            "vocab": {
+                "tắm": "bathe; water (for plants)",
+                "cho": "for; to (give to)",
+                "những": "the; those (plural marker)",
+                "chậu cây non": "young plant pots; seedling pots",
+                "rồi": "then; after that",
+                "mặc quần áo": "put on clothes; get dressed",
+                "đi làm": "go to work",
+                "mua": "buy",
+                "cà phê": "coffee",
+                "từ": "from",
+                "chiếc máy bán hàng tự động": "vending machine",
+                "vọt lên": "jump onto; hop onto; quickly get on",
+                "chiếc xe bán": "sales vehicle; vending vehicle (context: food truck or similar)"
+            },
+            "beginnerVocab": {
+                "tắm": "bathe; shower",
+                "cây": "tree; plant",
+                "non": "young",
+                "mặc": "wear; put on (clothes)",
+                "quần áo": "clothes",
+                "đi làm": "go to work",
+                "mua": "buy",
+                "cà phê": "coffee",
+                "máy": "machine",
+                "xe": "vehicle; car"
+            },
+            "advancedVocab": {
+                "chậu cây non": "young potted plant; seedling (note: 'chậu' is a pot, 'cây non' is a young plant)",
+                "máy bán hàng tự động": "vending machine (note: literally 'automatic selling machine')",
+                "vọt lên": "jump onto; hop onto; dash onto (note: 'vọt' implies quick, sudden movement)"
+            }
+        },
+        {
+            "index": 22,
+            "startTimestamp": "00:03:08.519",
+            "endTimestamp": "00:03:19.040",
+            "vocab": {
+                "tải nhỏ": "small load; small cart",
+                "chứa đầy": "filled with; full of",
+                "vật liệu tẩy rửa": "cleaning materials; cleaning supplies",
+                "phục vụ cho": "serve for; used for",
+                "công việc": "work; job; task",
+                "rời khỏi": "leave; depart",
+                "căn hộ": "apartment",
+                "kiểu Spartan": "Spartan style (note: refers to simplicity, austerity)",
+                "khu dân cư": "residential area; neighborhood",
+                "dành cho": "for; reserved for",
+                "tầng lớp lao động": "working class"
+            },
+            "beginnerVocab": {
+                "tải": "carry; load",
+                "nhỏ": "small",
+                "đầy": "full",
+                "vật liệu": "material",
+                "tẩy rửa": "clean; wash",
+                "công việc": "work; job",
+                "rời khỏi": "leave",
+                "căn hộ": "apartment",
+                "khu dân cư": "residential area"
+            },
+            "advancedVocab": {
+                "tải nhỏ": "small load; small cart (context: cleaning work equipment)",
+                "tẩy rửa": "cleaning; cleansing (context: cleaning agents or detergents)",
+                "kiểu Spartan": "Spartan style (note: refers to something very simple, bare, or austere)",
+                "khu dân cư dành cho tầng lớp lao động": "residential area for the working class"
+            }
+        },
+        {
+            "index": 23,
+            "startTimestamp": "00:03:17.440",
+            "endTimestamp": "00:03:25.840",
+            "vocab": {
+                "chuyển đến": "move to",
+                "chỗ làm": "workplace; place of work",
+                "khu vực": "area; region",
+                "trung tâm thành phố": "city center; downtown",
+                "dọc theo": "along",
+                "đường cao tốc": "highway; expressway",
+                "Tokyo": "Tokyo",
+                "tháp Tokyo Sky": "Tokyo Sky Tower (note: refers to Tokyo Skytree or Tokyo Tower, context-dependent)",
+                "có thể": "can; be able to",
+                "thấy": "see"
+            },
+            "beginnerVocab": {
+                "chuyển": "move",
+                "đến": "to; arrive",
+                "chỗ làm": "workplace; place of work",
+                "khu vực": "area; region",
+                "trung tâm": "center",
+                "thành phố": "city",
+                "đường cao tốc": "highway; expressway",
+                "tháp": "tower"
+            },
+            "advancedVocab": {
+                "khu vực trung tâm thành phố": "city center; downtown (urban core, not just 'center')",
+                "dọc theo": "along; following (directional phrase, not just 'next to')",
+                "các đường cao tốc": "expressways; highways (major urban roads, not just 'roads')",
+                "tháp Tokyo Sky": "Tokyo Skytree (specific landmark, not just 'tower')"
+            }
+        },
+        {
+            "index": 24,
+            "startTimestamp": "00:03:23.720",
+            "endTimestamp": "00:03:34.200",
+            "vocab": {
+                "tre": "climb; go up",
+                "tòa tháp": "tower",
+                "cao nhất": "tallest; highest",
+                "thế giới": "world",
+                "thấp thoáng": "faintly visible; glimpsed",
+                "từ xa": "from afar; from a distance",
+                "trên đường đi": "on the way; while going",
+                "ông": "he; grandfather; the man (context-dependent)",
+                "thường": "usually; often",
+                "chọn": "choose; select",
+                "một": "a; one",
+                "cuốn băng cát sét": "cassette tape",
+                "trong số": "among; out of",
+                "rất nhiều": "very many; a lot of",
+                "cuộn": "roll; reel; tape (context: cassette)",
+                "được cất": "stored; kept",
+                "phía trên": "above; on top of",
+                "kính chắn": "windshield; protective glass"
+            },
+            "beginnerVocab": {
+                "tòa tháp": "tower",
+                "cao": "tall; high",
+                "thế giới": "world",
+                "xa": "far",
+                "đường": "road; way",
+                "đi": "go; walk",
+                "chọn": "choose; pick",
+                "cuốn": "volume; roll (note: often used for books, tapes)",
+                "băng cát sét": "cassette tape",
+                "nhiều": "many; much",
+                "cất": "store; put away",
+                "phía trên": "above; on top",
+                "kính": "glass",
+                "chắn": "shield; block"
+            },
+            "advancedVocab": {
+                "thấp thoáng": "faintly visible; glimpsed (often used for something seen from afar or partially obscured)",
+                "băng cát sét": "cassette tape",
+                "kính chắn": "windshield (note: short for 'kính chắn gió', the front glass of a vehicle)"
+            }
+        },
+        {
+            "index": 25,
+            "startTimestamp": "00:03:32.239",
+            "endTimestamp": "00:03:44.959",
+            "vocab": {
+                "gió": "wind",
+                "thường": "usually; often",
+                "là": "is; are",
+                "những": "those; the (plural marker)",
+                "bàn nhạc": "band; music group",
+                "từ": "from",
+                "thập niên": "decade",
+                "nghệ sĩ": "artist; performer",
+                "hoặc": "or",
+                "các": "the; (plural marker)",
+                "vĩ đại": "great; grand",
+                "vang bóng một thời": "once famous; legendary (literally: echoed in the past)",
+                "như": "like; such as",
+                "trước": "before; earlier"
+            },
+            "beginnerVocab": {
+                "gió": "wind",
+                "bàn nhạc": "band",
+                "nghệ sĩ": "artist",
+                "thập niên": "decade",
+                "trước": "before; earlier"
+            },
+            "advancedVocab": {
+                "vang bóng một thời": "once-famous; glorious in the past (nostalgic, refers to something or someone who was prominent in the past)",
+                "bàn nhạc": "band; music group (note: 'bàn nhạc' is a common misspelling or mispronunciation of 'ban nhạc')"
+            }
+        },
+        {
+            "index": 26,
+            "startTimestamp": "00:03:43.239",
+            "endTimestamp": "00:03:51.400",
+            "vocab": {
+                "hết": "all; finished; out of",
+                "bạn": "you; friend",
+                "có thể": "can; may; possible",
+                "bất ngờ": "surprised; unexpected",
+                "với": "with",
+                "những": "those; the (plural marker)",
+                "lựa chọn": "choices; selections",
+                "âm nhạc": "music",
+                "của": "of",
+                "như": "like; such as",
+                "mình": "I; me; myself",
+                "tiếp đến": "next; following",
+                "ông": "he; Mr.; old man",
+                "bắt tay vào": "start; begin; get to work",
+                "dọn dẹp": "clean up; tidy up",
+                "được": "can; able to; passive marker (context-dependent)",
+                "trang": "page; place; (context-dependent)"
+            },
+            "beginnerVocab": {
+                "bạn": "you; friend",
+                "có thể": "can; may (possibility)",
+                "bắt tay": "shake hands; start (begin an action)",
+                "dọn dẹp": "clean; tidy up",
+                "âm nhạc": "music"
+            },
+            "advancedVocab": {
+                "Bất ngờ": "surprised; unexpected (note: often used as an exclamation or to indicate something is surprising)",
+                "bắt tay vào": "get started on; begin (note: idiomatic, literally 'put hands into')",
+                "dọn dẹp": "clean up; tidy up (note: can refer to both physical and metaphorical cleaning)"
+            }
+        },
+        {
+            "index": 27,
+            "startTimestamp": "00:03:49.799",
+            "endTimestamp": "00:03:58.079",
+            "vocab": {
+                "bị": "equipped; supplied (passive marker)",
+                "với": "with",
+                "tất cả": "all; every",
+                "dụng cụ": "tools; instruments",
+                "hành nghề": "practice a profession; professional",
+                "cần thiết": "necessary; essential",
+                "một": "a; one",
+                "chiếc": "classifier for objects (e.g., mirror)",
+                "gương": "mirror",
+                "cầm tay": "handheld; portable",
+                "nhỏ gọn": "compact; small",
+                "giúp": "help; enable",
+                "ông": "he; him; Mr. (polite male)",
+                "soi": "look at; examine (with a mirror)",
+                "hết": "all; completely",
+                "mọi": "every; all",
+                "ngóc ngách": "nooks and crannies; corners"
+            },
+            "beginnerVocab": {
+                "dụng cụ": "tool; instrument",
+                "gương": "mirror",
+                "cầm tay": "handheld; hand-held",
+                "nhỏ gọn": "compact; small",
+                "soi": "look at; examine (with a mirror)",
+                "mọi": "every; all"
+            },
+            "advancedVocab": {
+                "dụng cụ hành nghề": "professional tools; tools of the trade",
+                "ngóc ngách": "nooks and crannies (hidden or hard-to-reach places)"
+            }
+        },
+        {
+            "index": 28,
+            "startTimestamp": "00:03:55.920",
+            "endTimestamp": "00:04:04.959",
+            "vocab": {
+                "bộ": "set; unit (classifier)",
+                "cây lau nhà": "mop",
+                "đồng phục": "uniform",
+                "áo liền quần": "jumpsuit; coverall",
+                "thái độ": "attitude",
+                "lịch sự": "polite; courteous",
+                "câu toàn": "complete; thorough (note: possibly a typo or mishearing of 'cẩn thận' or 'chu toàn')",
+                "đóng vai trò": "play a role; act as",
+                "người": "person"
+            },
+            "beginnerVocab": {
+                "bộ": "set",
+                "cây lau nhà": "mop",
+                "đồng phục": "uniform",
+                "áo liền quần": "jumpsuit",
+                "thái độ": "attitude",
+                "lịch sự": "polite; politeness",
+                "người": "person"
+            },
+            "advancedVocab": {
+                "áo liền quần": "jumpsuit; coveralls (one-piece garment)",
+                "thái độ lịch sự": "polite attitude; courteous demeanor",
+                "đóng vai trò": "play a role; serve as (function/role in context)"
+            }
+        },
+        {
+            "index": 29,
+            "startTimestamp": "00:04:02.799",
+            "endTimestamp": "00:04:13.319",
+            "vocab": {
+                "bạn": "you; friend",
+                "trầm mặc": "silent; reserved",
+                "thẩm lặng": "quiet; taciturn",
+                "người đồng nghiệp": "colleague",
+                "trẻ tuổi": "young",
+                "ồn ào": "noisy",
+                "sôi nổi": "enthusiastic; lively",
+                "chú tâm": "pay attention; focus",
+                "mọi thứ": "everything",
+                "ngoại trừ": "except; besides",
+                "công việc": "work; job",
+                "di chuyển": "move; transfer",
+                "nhà vệ": "restroom; toilet (note: incomplete phrase, likely 'nhà vệ sinh')"
+            },
+            "beginnerVocab": {
+                "bạn": "you; friend",
+                "người": "person",
+                "trẻ": "young",
+                "tuổi": "age",
+                "công việc": "work; job",
+                "Takashi": "Takashi (name)",
+                "di chuyển": "move; travel",
+                "nhà vệ": "toilet; restroom"
+            },
+            "advancedVocab": {
+                "trầm mặc": "silent; contemplative (nuanced, often describes a quiet, introspective demeanor)",
+                "thẩm lặng": "quietly; in silence (poetic, less common than 'im lặng')",
+                "sôi nổi": "boisterous; exuberant (describes lively, energetic behavior)",
+                "chú tâm": "pay close attention; focus (nuanced, implies deep concentration)",
+                "ngoại trừ": "except for; apart from (can be tricky in complex sentences)"
+            }
+        },
+        {
+            "index": 30,
+            "startTimestamp": "00:04:11.799",
+            "endTimestamp": "00:04:19.959",
+            "vocab": {
+                "sinh công cộng": "public restroom; public toilet",
+                "sang": "to; toward; move to",
+                "khác": "other; different",
+                "suốt cả tuần": "all week; throughout the week",
+                "giờ nghỉ trưa": "lunch break; noon break",
+                "ăn trưa": "eat lunch",
+                "ở": "at; in",
+                "công viên": "park",
+                "ngước mặt": "look up (face); raise face"
+            },
+            "beginnerVocab": {
+                "sinh": "live; be born",
+                "công cộng": "public",
+                "nhà vệ sinh": "toilet; restroom",
+                "khác": "different; other",
+                "tuần": "week",
+                "giờ": "hour; time",
+                "nghỉ trưa": "lunch break; noon break",
+                "ăn": "eat",
+                "công viên": "park",
+                "ngước mặt": "look up (face)"
+            },
+            "advancedVocab": {
+                "sinh công cộng": "public restroom (note: 'sinh' is short for 'nhà vệ sinh', not 'life')",
+                "ngước mặt": "look up; raise one's face (note: often implies a thoughtful or reflective gesture)"
+            }
+        },
+        {
+            "index": 31,
+            "startTimestamp": "00:04:18.239",
+            "endTimestamp": "00:04:28.240",
+            "vocab": {
+                "lên bầu trời": "up to the sky",
+                "tận hưởng": "enjoy",
+                "vuốt ve": "caress; gentle touch",
+                "giọt nắng": "sunbeam; drop of sunlight",
+                "xuyên qua": "through",
+                "tán lá": "canopy; foliage",
+                "gió thoảng": "gentle breeze",
+                "khẽ": "gently; softly",
+                "đung đưa": "sway; swing",
+                "cành cây": "branch",
+                "ngắm nhìn": "look at; gaze at",
+                "cây yêu thích": "favorite tree",
+                "của mình": "of oneself; one's own"
+            },
+            "beginnerVocab": {
+                "bầu trời": "sky",
+                "giọt nắng": "sunbeam; sunlight (drops of sunlight)",
+                "tán lá": "canopy; foliage",
+                "gió": "wind",
+                "cây": "tree",
+                "cành cây": "branch; tree branch",
+                "ngắm nhìn": "look at; watch",
+                "yêu thích": "favorite; beloved"
+            },
+            "advancedVocab": {
+                "vuốt ve": "caress; gentle touch (metaphorical, often used for sunlight or wind)",
+                "giọt nắng": "sunbeam; drop of sunlight (poetic/metaphorical)",
+                "xuyên qua tán lá": "pierce through the foliage; filter through the leaves (poetic, not literal piercing)",
+                "gió thoảng": "gentle breeze; passing breeze (poetic, soft wind)",
+                "khẽ đung đưa": "sway gently; softly swing (nuanced, gentle movement)",
+                "ngắm nhìn": "gaze at; contemplate (more poetic/intense than just 'look at')"
+            }
+        },
+        {
+            "index": 32,
+            "startTimestamp": "00:04:26.440",
+            "endTimestamp": "00:04:34.800",
+            "vocab": {
+                "lặng lẽ": "quietly; silently",
+                "chào": "greet; say hello",
+                "khuôn mặt": "face",
+                "quen thuộc": "familiar",
+                "mới mẻ": "new; fresh",
+                "nếu": "if",
+                "thích": "like; enjoy",
+                "lấy ... ra": "take out; bring out",
+                "chiếc máy ảnh cũ": "old camera",
+                "chụp": "take (a photo); photograph"
+            },
+            "beginnerVocab": {
+                "lặng lẽ": "quietly; silently",
+                "chào": "hello; greet",
+                "khuôn mặt": "face",
+                "quen thuộc": "familiar",
+                "mới mẻ": "new",
+                "ông": "he; old man (polite for older man)",
+                "máy ảnh": "camera",
+                "cũ": "old",
+                "chụp": "take (a photo); shoot (a photo)"
+            },
+            "advancedVocab": {
+                "lặng lẽ": "quietly; silently (nuanced: without drawing attention)",
+                "khuôn mặt quen thuộc": "familiar faces (nuanced: people one knows well)",
+                "mới mẻ": "new; novel (nuanced: fresh, not just 'new')"
+            }
+        },
+        {
+            "index": 33,
+            "startTimestamp": "00:04:32.800",
+            "endTimestamp": "00:04:42.479",
+            "vocab": {
+                "bức ảnh": "photo; picture",
+                "trắng đen": "black and white",
+                "cây cối": "trees; plants",
+                "cùng một địa điểm": "same place; same location",
+                "ngoài trời": "outdoors; outside",
+                "tan ca": "end of shift; after work",
+                "ông": "he; the man; grandfather (context-dependent)",
+                "về nhà": "go home; return home",
+                "rồi lại": "then again; and then",
+                "đạp xe": "ride a bicycle; cycle",
+                "đến": "to; arrive at",
+                "nhà tắm công cộng": "public bathhouse",
+                "tận": "all the way to; as far as (emphasizes distance)"
+            },
+            "beginnerVocab": {
+                "bức ảnh": "photo; picture",
+                "trắng đen": "black and white",
+                "cây cối": "trees; plants",
+                "ngoài trời": "outdoor; outside",
+                "về nhà": "go home; return home",
+                "đạp xe": "ride a bicycle; bike",
+                "nhà tắm": "bathhouse; bathroom"
+            },
+            "advancedVocab": {
+                "tan ca": "end of shift; after work (workplace context)",
+                "tận": "all the way to; as far as (emphasizes distance or extent, often at the end of a phrase)"
+            }
+        },
+        {
+            "index": 34,
+            "startTimestamp": "00:04:40.199",
+            "endTimestamp": "00:04:48.800",
+            "vocab": {
+                "hưởng": "enjoy",
+                "thời gian cuối ngày": "end of the day; late hours",
+                "ở đó": "there",
+                "sau đó": "after that; then",
+                "đi đến": "go to",
+                "quán bar": "bar",
+                "uống nước": "drink (water; beverage)",
+                "hàng ngày": "every day; daily",
+                "trở về nhà": "return home; go home",
+                "đọc sách": "read books",
+                "mà": "but; that (linking word, often softens or connects clauses)",
+                "mình đoán": "I guess; I suppose",
+                "nhà ông": "his house; your house (depending on context, 'ông' can mean 'he', 'you (older man)')"
+            },
+            "beginnerVocab": {
+                "thời gian": "time",
+                "ngày": "day",
+                "đi": "go",
+                "quán bar": "bar",
+                "uống": "drink",
+                "nước": "water; drink (beverage)",
+                "nhà": "house; home",
+                "đọc": "read",
+                "sách": "book"
+            },
+            "advancedVocab": {
+                "hưởng thời gian": "enjoy time (nuanced, formal/literary)",
+                "uống nước": "have a drink (can mean alcohol in context, not just water)",
+                "mà mình đoán": "which I guess; which I suppose (discourse marker, hedging)",
+                "nhà ông": "your house; his house (context-dependent, 'ông' can mean 'you' (older male) or 'he' (respectful))"
+            }
+        },
+        {
+            "index": 35,
+            "startTimestamp": "00:04:47.120",
+            "endTimestamp": "00:04:58.360",
+            "vocab": {
+                "cũng": "also; too",
+                "chẳng": "not; no",
+                "có gì": "anything",
+                "giá trị": "value; valuable",
+                "hơn": "more; than",
+                "ngoài": "except; besides",
+                "những": "those; (plural marker)",
+                "quyển sách": "book",
+                "Patricia H Smith": "Patricia H Smith (proper name)",
+                "William Forner": "William Forner (proper name)",
+                "kinh điển": "classic",
+                "bìa mềm": "paperback",
+                "được mượn": "borrowed",
+                "ở": "at; in",
+                "thư viện": "library",
+                "lập tức": "immediately"
+            },
+            "beginnerVocab": {
+                "sách": "book",
+                "thư viện": "library",
+                "bìa mềm": "paperback"
+            },
+            "advancedVocab": {
+                "giá trị hơn": "more valuable; of greater value",
+                "kinh điển": "classic; canonical (literary/cultural term)",
+                "bìa mềm": "paperback (bookbinding term)",
+                "lập tức": "immediately; at once (discourse marker for urgency or immediacy)"
+            }
+        },
+        {
+            "index": 36,
+            "startTimestamp": "00:04:56.360",
+            "endTimestamp": "00:05:05.039",
+            "vocab": {
+                "khiến": "make; cause",
+                "ta": "me; us",
+                "phải": "must; have to",
+                "trầm trù": "ponder; reflect",
+                "một lần nữa": "once again; one more time",
+                "trước": "before; in front of",
+                "những": "those; the (plural marker)",
+                "lựa chọn": "choices; selections",
+                "mang": "carry; bring; have",
+                "tí": "a bit; a little",
+                "nghệ thuật": "art; artistic",
+                "ông": "he; him; Mr. (respectful for older man)",
+                "cũng": "also; too",
+                "có": "have; has",
+                "giấc mơ": "dream(s)",
+                "hầu hết": "mostly; most"
+            },
+            "beginnerVocab": {
+                "khiến": "make; cause",
+                "lựa chọn": "choice; selection",
+                "nghệ thuật": "art",
+                "giấc mơ": "dream"
+            },
+            "advancedVocab": {
+                "trầm chù": "to ponder deeply; to be contemplative (nuanced, literary expression)",
+                "mang tí nghệ thuật": "artistic; with a touch of artistry (nuanced, not literal 'a little art')"
+            }
+        },
+        {
+            "index": 37,
+            "startTimestamp": "00:05:03.000",
+            "endTimestamp": "00:05:13.680",
+            "vocab": {
+                "về": "about; regarding",
+                "cây cối": "plants; trees",
+                "thỉnh thoảng": "sometimes; occasionally",
+                "những người": "people",
+                "mà": "that; which; who (relative pronoun)",
+                "ông": "he; the man; Mr. (formal, older man)",
+                "có": "have; there is/are",
+                "tương tác": "interact; interaction",
+                "ở đời thường": "in real life; in daily life",
+                "nhưng": "but",
+                "đều": "all; both; every",
+                "được": "be (passive marker); get",
+                "diễn giải": "interpret; explain",
+                "kỳ lạ": "strange; unusual",
+                "qua": "through; via",
+                "các thước ảnh trắng đen": "black-and-white photos (literally: black-and-white frames/photos)",
+                "rồi": "then; after that",
+                "ông tỉnh dậy": "he wakes up",
+                "khi": "when",
+                "tia": "ray; beam (of light)"
+            },
+            "beginnerVocab": {
+                "cây": "tree",
+                "người": "person; people",
+                "ông": "he; old man (respectful)",
+                "tỉnh dậy": "wake up",
+                "đen": "black",
+                "trắng": "white"
+            },
+            "advancedVocab": {
+                "cây cối": "plants; trees (collective, general term)",
+                "đời thường": "everyday life; ordinary life",
+                "diễn giải": "interpret; explain; render (can imply creative or subjective interpretation)",
+                "kỳ lạ": "strange; bizarre; unusual (nuanced, not just 'strange')",
+                "thước ảnh": "photograph; frame (literally 'photo ruler', refers to a photo or film frame, somewhat literary)"
+            }
+        },
+        {
+            "index": 38,
+            "startTimestamp": "00:05:11.840",
+            "endTimestamp": "00:05:21.639",
+            "vocab": {
+                "nắng": "sunlight; sunshine",
+                "đầu ngày": "beginning of the day; early in the day",
+                "bắt đầu": "begin; start",
+                "mân mê": "caress; gently touch (poetic, often used for light or wind)",
+                "ô cửa sổ": "window",
+                "tiếng": "sound",
+                "quét sân": "sweeping the yard",
+                "hàng xóm": "neighbor",
+                "mon men": "creep; edge closer (often used for something moving quietly or gradually)",
+                "tràn lên": "spill over; rise up",
+                "khung hình": "frame (as in a visual frame, e.g., of a camera or window)",
+                "khi đó": "at that moment; then",
+                "một ngày": "one day; a day"
+            },
+            "beginnerVocab": {
+                "nắng": "sunlight; sunshine",
+                "ngày": "day",
+                "bắt đầu": "start; begin",
+                "cửa sổ": "window",
+                "tiếng": "sound",
+                "quét": "sweep",
+                "sân": "yard",
+                "hàng xóm": "neighbor"
+            },
+            "advancedVocab": {
+                "nắng đầu ngày": "early morning sunlight; first sunlight of the day",
+                "mân mê": "caress; gently touch (often used for tactile, affectionate, or lingering touch)",
+                "mon men": "creep up; edge closer (suggests tentative or sneaky movement)",
+                "tràn lên khung hình": "spill into the frame; enter the frame (film/photography term)"
+            }
+        },
+        {
+            "index": 39,
+            "startTimestamp": "00:05:18.960",
+            "endTimestamp": "00:05:33.280",
+            "vocab": {
+                "mới lại": "again; once more (emphasizing repetition)",
+                "tiếp tục": "continue",
+                "lặp lại": "repeat",
+                "làm từng thứ": "do each thing; do things one by one",
+                "không vội vã": "not hurried; not in a rush",
+                "không dồn dập": "not rushed; not hectic",
+                "việc nào xong việc nấy": "finish one thing before starting another; one thing at a time",
+                "gọn ghẽ": "neat; tidy",
+                "vuông vức": "square; orderly (metaphor for precision)",
+                "kiệm lời": "taciturn; sparing with words",
+                "hết sức": "extremely; very"
+            },
+            "beginnerVocab": {
+                "mới": "new",
+                "lặp lại": "repeat",
+                "làm": "do; make",
+                "không vội vã": "not hurry; not rush",
+                "việc": "work; task; thing (to do)",
+                "xong": "finished; done",
+                "gọn ghẽ": "neat; tidy",
+                "vuông vức": "square (shape); neat (note: literally 'square-shaped', often means neat or orderly)",
+                "ông": "he; Mr.; old man",
+                "kiệm lời": "quiet; not talkative"
+            },
+            "advancedVocab": {
+                "không vội vã": "unhurried; not in a hurry",
+                "không dồn dập": "not rushed; not hectic",
+                "gọn ghẽ": "neat; tidy (note: often refers to doing things in an orderly, precise way)",
+                "vuông vức": "square; well-ordered (note: metaphor for something being proper, precise, or well-done)",
+                "kiệm lời": "taciturn; sparing with words; laconic",
+                "hết sức": "to the utmost; extremely (note: intensifier, not literal 'out of strength')"
+            }
+        },
+        {
+            "index": 40,
+            "startTimestamp": "00:05:31.199",
+            "endTimestamp": "00:05:42.160",
+            "vocab": {
+                "như thể": "as if",
+                "dành hết": "spend all; devote all",
+                "năng lượng": "energy",
+                "việc nói": "speaking; the act of speaking",
+                "quan sát": "observe; observation",
+                "tận hưởng": "enjoy; enjoyment",
+                "trong trường hợp": "in case; in the event",
+                "cần phải": "need to; must",
+                "dừng": "stop; pause",
+                "từ ngữ": "words; vocabulary",
+                "vô cùng": "extremely; very",
+                "chính xác": "exact; precise",
+                "đúng mực": "appropriate; proper (note: refers to being measured or moderate)"
+            },
+            "beginnerVocab": {
+                "ông": "he; man; gentleman",
+                "nói": "speak; say; talk",
+                "quan sát": "observe; watch",
+                "tận hưởng": "enjoy",
+                "trường hợp": "case; situation",
+                "từ ngữ": "words",
+                "chính xác": "exact; accurate",
+                "đúng": "correct; right"
+            },
+            "advancedVocab": {
+                "như thể": "as if; as though",
+                "dành hết mọi năng lượng của việc nói": "devote all energy for speaking (nuanced: focus all communicative effort)",
+                "tận hưởng": "enjoy (nuanced: savor, relish)",
+                "trong trường hợp cần phải nói": "in case (he) needs to speak (nuanced: only if necessary)",
+                "dừng những từ ngữ vô cùng chính xác đúng mực": "use extremely precise and appropriate words (nuanced: choose words with utmost accuracy and propriety)"
+            }
+        },
+        {
+            "index": 41,
+            "startTimestamp": "00:05:40.360",
+            "endTimestamp": "00:05:49.479",
+            "vocab": {
+                "như": "like; as (comparison)",
+                "sử dụng": "use",
+                "một thứ": "a kind of; a type of",
+                "tài sản": "asset; property",
+                "quý giá": "precious; valuable",
+                "người ta": "people; one (impersonal subject)",
+                "phải": "must; have to",
+                "rè xèn": "be frugal; be thrifty",
+                "chất chiêu": "save up; accumulate (for later use)",
+                "có lẽ": "perhaps; maybe",
+                "khi": "when",
+                "biết": "know",
+                "cảnh giác": "be cautious; be alert",
+                "hơn": "more",
+                "với": "with",
+                "việc": "the act of; the matter of",
+                "phung": "be wasteful; squander (note: usually appears as 'phung phí')"
+            },
+            "beginnerVocab": {
+                "sử dụng": "use",
+                "tài sản": "property; asset",
+                "quý giá": "precious; valuable",
+                "người": "person; people",
+                "biết": "know",
+                "cảnh giác": "be careful; be cautious",
+                "việc": "thing; action; work"
+            },
+            "advancedVocab": {
+                "rè xèn": "be frugal; be thrifty (nuanced, often implies careful saving)",
+                "chất chiêu": "accumulate little by little; save up (nuanced, gradual careful accumulation)",
+                "cảnh giác": "be cautious; be on guard (can imply wariness, not just simple caution)",
+                "phung": "be wasteful; squander (short for 'phung phí', colloquial/truncated form)"
+            }
+        },
+        {
+            "index": 42,
+            "startTimestamp": "00:05:47.080",
+            "endTimestamp": "00:05:56.039",
+            "vocab": {
+                "phí": "waste; squander",
+                "ra": "out; away",
+                "hết thảy": "all; everything",
+                "những": "those; the (plural marker)",
+                "món quà": "gift; present",
+                "mình": "oneself; my; our",
+                "có": "have; possess",
+                "là": "is; are; to be",
+                "đôi mắt": "pair of eyes; eyes",
+                "để": "to; in order to",
+                "nhìn": "look; see",
+                "nhưng": "but",
+                "không": "not; no",
+                "quan sát": "observe; watch",
+                "đôi tai": "pair of ears; ears",
+                "nghe": "hear; listen",
+                "lắng đọng": "absorb; reflect; settle (context: listen deeply)"
+            },
+            "beginnerVocab": {
+                "món quà": "gift; present",
+                "đôi mắt": "eyes",
+                "nhìn": "look; see",
+                "đôi tai": "ears",
+                "nghe": "hear; listen"
+            },
+            "advancedVocab": {
+                "phí ra": "waste; squander (nuanced: to use up wastefully)",
+                "hết thảy": "all; everything (emphatic, formal)",
+                "lắng đọng": "to settle; to absorb deeply (nuanced: to listen deeply, to let something sink in)"
+            }
+        },
+        {
+            "index": 43,
+            "startTimestamp": "00:05:54.000",
+            "endTimestamp": "00:06:03.080",
+            "vocab": {
+                "đôi môi": "lips",
+                "để nói": "to speak; to say",
+                "nhưng không phải là": "but not",
+                "lời hay ý đẹp": "beautiful words or ideas",
+                "đôi tay": "hands",
+                "để chạm": "to touch",
+                "nhưng không thể": "but cannot",
+                "cảm": "feel",
+                "đầu lưỡi": "tip of the tongue",
+                "để nếm": "to taste"
+            },
+            "beginnerVocab": {
+                "đôi môi": "lips",
+                "nói": "speak; say",
+                "đôi tay": "hands",
+                "chạm": "touch",
+                "đầu lưỡi": "tip of the tongue",
+                "nếm": "taste"
+            },
+            "advancedVocab": {
+                "lời hay ý đẹp": "beautiful words; kind thoughts (set phrase for eloquent or positive speech)",
+                "đầu lưỡi": "tip of the tongue (literal and metaphorical meanings)"
+            }
+        },
+        {
+            "index": 44,
+            "startTimestamp": "00:06:01.440",
+            "endTimestamp": "00:06:10.720",
+            "vocab": {
+                "tận hưởng": "enjoy; savor",
+                "được": "can; able to (indicates possibility)",
+                "hết": "all; completely",
+                "sự ngon lành": "deliciousness; tastiness",
+                "từng": "each; every (emphasizes individual items)",
+                "món": "dish; food item",
+                "ta": "we; I (informal, literary)",
+                "ăn": "eat",
+                "sống": "live",
+                "cảm nhận": "feel; perceive",
+                "bất cứ": "any; whatever",
+                "thứ gì": "thing; anything",
+                "không cố": "does not try; not attempt",
+                "để": "to; in order to"
+            },
+            "beginnerVocab": {
+                "tận hưởng": "enjoy",
+                "ngon": "delicious; tasty",
+                "món": "dish; food",
+                "ăn": "eat",
+                "sống": "live"
+            },
+            "advancedVocab": {
+                "tận hưởng": "enjoy to the fullest; savor (nuanced: deep appreciation, not just 'enjoy')",
+                "ngon lành": "delicious; tasty (nuanced: wholesome, satisfying, not just 'delicious')",
+                "cảm nhận": "feel; perceive (nuanced: to sense or experience emotionally, not just physical feeling)",
+                "bất cứ thứ gì": "anything at all (emphatic, total negation)"
+            }
+        },
+        {
+            "index": 45,
+            "startTimestamp": "00:06:08.720",
+            "endTimestamp": "00:06:20.680",
+            "vocab": {
+                "lãng mạn hóa": "romanticize",
+                "cuộc sống": "life",
+                "như": "like; as",
+                "những kẻ": "those people; people (derogatory)",
+                "đang dần": "gradually",
+                "đánh mất": "lose",
+                "niềm tin": "faith; belief",
+                "vào": "in; into",
+                "trên hết": "above all; most importantly",
+                "chỉ": "only; just",
+                "làm thật tốt": "do very well; do properly",
+                "những việc": "the things; tasks",
+                "cần phải": "need to; must",
+                "sống": "live",
+                "mỗi ngày": "every day; each day",
+                "đều": "all; every (emphasizer)",
+                "giống": "the same; similar"
+            },
+            "beginnerVocab": {
+                "lãng mạn": "romantic",
+                "hóa": "to make; to turn into",
+                "cuộc sống": "life",
+                "kẻ": "person; one (someone)",
+                "đánh mất": "lose",
+                "niềm tin": "belief; faith",
+                "làm": "do; make",
+                "tốt": "good; well",
+                "việc": "thing; task; work",
+                "cần": "need",
+                "phải": "must; have to",
+                "sống": "live",
+                "mỗi ngày": "every day"
+            },
+            "advancedVocab": {
+                "lãng mạn hóa": "romanticize",
+                "đánh mất niềm tin": "lose faith; lose trust (note: idiomatic, not literal 'lose belief')",
+                "trên hết": "above all; most importantly (note: discourse marker, signals priority)"
+            }
+        },
+        {
+            "index": 46,
+            "startTimestamp": "00:06:18.400",
+            "endTimestamp": "00:06:27.680",
+            "vocab": {
+                "nhau": "each other; different (contextual)",
+                "mỗi ngày": "every day",
+                "cũng": "also; too",
+                "đều": "all; every",
+                "khác nhau": "different",
+                "tìm thấy": "find; discover",
+                "vẻ đẹp": "beauty",
+                "cuộc sống": "life",
+                "lặp lại": "repeat; repetition",
+                "những điều": "things",
+                "tuy": "although; even though",
+                "bình dị": "simple; ordinary",
+                "nhưng": "but",
+                "đem": "bring; carry"
+            },
+            "beginnerVocab": {
+                "ngày": "day",
+                "khác": "different",
+                "tìm": "find",
+                "đẹp": "beauty; beautiful",
+                "cuộc sống": "life",
+                "lặp lại": "repeat",
+                "bình dị": "simple; ordinary"
+            },
+            "advancedVocab": {
+                "bình dị": "simple; plain (connotes unpretentious, humble beauty)",
+                "lặp lại": "repetitive; recurring (can imply monotony or routine)",
+                "vẻ đẹp": "beauty (often used for abstract or subtle beauty, not just physical)"
+            }
+        },
+        {
+            "index": 47,
+            "startTimestamp": "00:06:25.560",
+            "endTimestamp": "00:06:34.000",
+            "vocab": {
+                "lại": "again; return (repetition, return to a state)",
+                "hạnh phúc": "happiness; happy",
+                "thấy": "see; feel; experience",
+                "điều mới lạ": "new things; novelty",
+                "tương tác": "interaction",
+                "tinh tế": "subtle; delicate; refined",
+                "cuộc đời": "life",
+                "sự mới mẻ": "newness; freshness",
+                "tìm kiếm": "search for; seek",
+                "đôi lúc": "sometimes; at times"
+            },
+            "beginnerVocab": {
+                "hạnh phúc": "happiness; happy",
+                "mới": "new",
+                "lạ": "strange; unusual",
+                "điều": "thing",
+                "tìm kiếm": "search; look for"
+            },
+            "advancedVocab": {
+                "mới lạ": "novel; unusual (nuanced: new and strange in a positive way)",
+                "tinh tế": "subtle; delicate (nuanced: refined, sensitive to detail)",
+                "tương tác": "interaction (specialized: often used in psychology, education, or technology)",
+                "cuộc đời": "life (nuanced: poetic or philosophical sense, not just 'life' as existence)"
+            }
+        },
+        {
+            "index": 48,
+            "startTimestamp": "00:06:32.479",
+            "endTimestamp": "00:06:40.880",
+            "vocab": {
+                "đến từ": "come from",
+                "bài nhạc": "song; music piece",
+                "khác đi": "different",
+                "chọn": "choose; select",
+                "cuốn sách": "book",
+                "mới": "new",
+                "đọc": "read",
+                "trước khi": "before",
+                "ngủ": "sleep",
+                "ở": "at; in",
+                "chỗ làm": "workplace; work",
+                "gặp gỡ": "meet; encounter"
+            },
+            "beginnerVocab": {
+                "đến": "come; arrive",
+                "bài nhạc": "song; music",
+                "chọn": "choose; select",
+                "cuốn sách": "book",
+                "đọc": "read",
+                "ngủ": "sleep",
+                "chỗ làm": "workplace; work",
+                "gặp": "meet"
+            },
+            "advancedVocab": {
+                "khác đi": "different; changed (nuanced form of 'different', implies a shift or variation)",
+                "gặp gỡ": "meet; encounter (more formal or literary than 'gặp')"
+            }
+        },
+        {
+            "index": 49,
+            "startTimestamp": "00:06:38.759",
+            "endTimestamp": "00:06:47.520",
+            "vocab": {
+                "cậu": "you (male); guy; young man",
+                "đồng nghiệp": "colleague",
+                "trẻ": "young",
+                "cô": "she; girl; female",
+                "bạn": "friend",
+                "thích": "like",
+                "hoặc": "or",
+                "gật đầu": "nod",
+                "chào": "greet; hello",
+                "bắt gặp": "encounter; run into",
+                "rửa": "wash",
+                "ăn trưa": "lunch; eat lunch",
+                "cậu bé": "boy",
+                "bị": "be (passive marker)"
+            },
+            "beginnerVocab": {
+                "cậu": "you; boy (informal, young male)",
+                "trẻ": "young",
+                "bạn": "friend",
+                "cô": "she; girl; Ms.",
+                "gái": "girl",
+                "ông": "he; man; Mr.",
+                "chào": "hello; greet",
+                "ăn": "eat",
+                "trưa": "noon; lunch",
+                "cậu bé": "boy"
+            },
+            "advancedVocab": {
+                "gật đầu chào": "nod in greeting; nod hello (gesture of acknowledgment, not just a literal nod)",
+                "bắt gặp": "run into; encounter (unexpectedly meet, not just 'see')"
+            }
+        },
+        {
+            "index": 50,
+            "startTimestamp": "00:06:45.479",
+            "endTimestamp": "00:06:57.120",
+            "vocab": {
+                "lạc mẹ": "lost mother; separated from mother",
+                "hoặc": "or",
+                "chuyến thăm bất ngờ": "unexpected visit; surprise visit",
+                "cháu gái": "niece; granddaughter",
+                "cao trào": "climax; peak (of emotion or story)",
+                "cuộc trò chuyện": "conversation; talk",
+                "em gái": "younger sister",
+                "khiến": "make; cause",
+                "chúng ta": "we; us",
+                "phải": "must; have to",
+                "tự hỏi": "wonder; ask oneself",
+                "có": "have; there is/are; (question particle) (context-dependent)"
+            },
+            "beginnerVocab": {
+                "mẹ": "mother",
+                "cháu gái": "niece; granddaughter (note: can mean both depending on context)",
+                "em gái": "younger sister"
+            },
+            "advancedVocab": {
+                "lạc mẹ": "separated from mother; lost mother (note: 'lạc' means lost, 'mẹ' means mother; often used for children lost in a crowd)",
+                "chuyến thăm bất ngờ": "unexpected visit; surprise visit",
+                "cao trào": "climax; peak (note: used for the most intense or emotional moment)",
+                "cuộc trò chuyện": "conversation; talk (note: formal or significant conversation)",
+                "phải tự hỏi": "must ask oneself; have to wonder (note: reflexive, implies self-reflection)"
+            }
+        },
+        {
+            "index": 51,
+            "startTimestamp": "00:06:54.919",
+            "endTimestamp": "00:07:02.840",
+            "vocab": {
+                "bao giờ": "when; ever",
+                "bạn": "you",
+                "phát ngán": "get bored; get fed up",
+                "việc": "the act of; the matter of",
+                "sống": "live",
+                "một": "a; one",
+                "cuộc đời": "life",
+                "lặp đi lặp lại": "repetitive; repeated",
+                "thế giới": "world",
+                "ngoài kia": "out there",
+                "tung hô": "praise; acclaim; cheer",
+                "những người": "people; those (plural marker)"
+            },
+            "beginnerVocab": {
+                "bạn": "you",
+                "sống": "live",
+                "đời": "life",
+                "thế giới": "world",
+                "người": "person; people"
+            },
+            "advancedVocab": {
+                "phát ngán": "fed up; sick and tired (nuanced: strong feeling of being fed up)",
+                "lặp đi lặp lại": "repetitive; repeated over and over",
+                "tung hô": "praise; cheer; acclaim (nuanced: public enthusiastic praise)"
+            }
+        },
+        {
+            "index": 52,
+            "startTimestamp": "00:07:00.919",
+            "endTimestamp": "00:07:13.000",
+            "vocab": {
+                "chinh phục": "conquer; overcome",
+                "đỉnh Everest": "Everest peak; Mount Everest",
+                "kiếm": "earn; make (money)",
+                "hàng triệu đô la": "millions of dollars",
+                "ở tuổi": "at the age of",
+                "đi vòng quanh thế giới": "travel around the world; go around the world",
+                "an nhàn": "leisurely; comfortable (note: implies a relaxed, easy life)",
+                "nghỉ ngơi": "rest; relax",
+                "họ nói với ta rằng": "they tell us that",
+                "cuộc đời": "life",
+                "như thế": "like that; in that way",
+                "mới": "only then; just (note: used for emphasis or condition)"
+            },
+            "beginnerVocab": {
+                "chinh phục": "conquer",
+                "đỉnh": "peak; summit",
+                "kiếm": "earn; get",
+                "tuổi": "age",
+                "thế giới": "world",
+                "nghỉ ngơi": "rest",
+                "họ": "they",
+                "cuộc đời": "life"
+            },
+            "advancedVocab": {
+                "chinh phục": "conquer; overcome (often used for ambitious achievements)",
+                "đỉnh Everest": "Mount Everest (cultural reference to the world's highest mountain, symbolizing ultimate challenge)",
+                "kiếm hàng triệu đô la": "earn millions of dollars (colloquial, implies great financial success)",
+                "an nhàn nghỉ ngơi": "rest in comfort; enjoy leisure (nuanced: implies a life free from worries or work)",
+                "cuộc đời như thế": "a life like that (nuanced: refers to an idealized or model life as defined by society)"
+            }
+        },
+        {
+            "index": 53,
+            "startTimestamp": "00:07:10.560",
+            "endTimestamp": "00:07:22.840",
+            "vocab": {
+                "là": "is; to be",
+                "đáng sống": "worth living",
+                "rằng": "that (introducing reported speech or thought)",
+                "ta": "we; I; one (formal/literary)",
+                "phải": "must; have to",
+                "sống": "live",
+                "khác đi": "differently",
+                "mạo hiểm hơn": "more adventurous; riskier",
+                "nhanh hơn": "faster",
+                "mạnh hơn": "stronger",
+                "bởi": "because; since",
+                "chỉ cần": "just need; only need",
+                "một phút": "one minute",
+                "nghỉ ngơi": "rest",
+                "bị": "be (passive marker)",
+                "bỏ lại": "left behind",
+                "đằng sau": "behind",
+                "rơi xuống": "fall down",
+                "bực đáy": "bottom level; lowest point"
+            },
+            "beginnerVocab": {
+                "sống": "live",
+                "khác": "different",
+                "mạo hiểm": "risk; adventurous",
+                "nhanh": "fast; quick",
+                "mạnh": "strong",
+                "nghỉ ngơi": "rest",
+                "bị bỏ lại": "be left behind",
+                "rơi": "fall",
+                "đáy": "bottom"
+            },
+            "advancedVocab": {
+                "đáng sống": "worth living",
+                "mạo hiểm hơn": "more adventurous; riskier",
+                "bị bỏ lại đằng sau": "be left behind",
+                "rơi xuống bực đáy": "fall to the bottom (metaphorical: reach the lowest point)"
+            }
+        },
+        {
+            "index": 54,
+            "startTimestamp": "00:07:20.960",
+            "endTimestamp": "00:07:30.800",
+            "vocab": {
+                "chẳng là ai": "nobody; not anyone",
+                "sẽ không bao giờ": "will never",
+                "một ai cả": "anyone at all",
+                "có nhất thiết phải": "is it necessary to; must",
+                "trở thành": "become",
+                "không phải mình": "not oneself; not me",
+                "thế giới": "world"
+            },
+            "beginnerVocab": {
+                "ai": "who; someone",
+                "không": "no; not",
+                "mình": "myself; me",
+                "thế giới": "world"
+            },
+            "advancedVocab": {
+                "chẳng là ai": "to be nobody; to be no one (emphatic negation, existential)",
+                "một ai cả": "anyone at all; anybody (emphatic, total negation)",
+                "có nhất thiết phải": "is it really necessary to; must one absolutely (nuanced modal, expresses necessity/obligation)",
+                "trở thành một ai đó không phải mình": "become someone who is not oneself (nuanced, about authenticity/identity)"
+            }
+        },
+        {
+            "index": 55,
+            "startTimestamp": "00:07:29.000",
+            "endTimestamp": "00:07:40.680",
+            "vocab": {
+                "còn": "still; remaining",
+                "chỗ nào": "place; spot",
+                "cho": "for",
+                "những người": "people; those who",
+                "chỉ": "only; just",
+                "đang": "currently; in the process of",
+                "làm tốt nhất có thể": "do the best they can",
+                "để sống": "to live",
+                "xuất hiện": "appear; show up",
+                "ở đấy": "there; in that place",
+                "trong": "in; within",
+                "những thước phim": "scenes; film frames",
+                "đầy Duy Mỹ": "full of aestheticism (Duy Mỹ = aestheticism)",
+                "đặt trong bối cảnh": "set in the context of",
+                "đời thường": "everyday life; ordinary life"
+            },
+            "beginnerVocab": {
+                "người": "person; people",
+                "làm": "do; make",
+                "sống": "live",
+                "phim": "film; movie",
+                "đẹp": "beautiful",
+                "đời thường": "everyday life"
+            },
+            "advancedVocab": {
+                "còn chỗ nào": "is there still a place; any room left (nuanced: questioning belonging or opportunity)",
+                "Duy Mỹ": "aestheticism; pursuit of beauty (specialized, literary/cultural term)",
+                "bối cảnh đời thường": "everyday context; ordinary life setting (nuanced: contrast with artistic or idealized settings)",
+                "thước phim": "film footage; cinematic scenes (can be metaphorical for life moments)"
+            }
+        },
+        {
+            "index": 56,
+            "startTimestamp": "00:07:38.360",
+            "endTimestamp": "00:07:49.240",
+            "vocab": {
+                "nói với": "tell; say to",
+                "cuộc sống": "life",
+                "chúng ta": "we; us; our",
+                "dù...đến đâu": "no matter how...; however...",
+                "thường nhật": "ordinary; everyday",
+                "vẫn": "still; yet",
+                "rất nhiều": "a lot of; many; much",
+                "điều": "thing; matter",
+                "khám phá": "explore; discover",
+                "học hỏi": "learn",
+                "trải nghiệm": "experience",
+                "về": "about; regarding (topic marker)"
+            },
+            "beginnerVocab": {
+                "nói": "say; speak",
+                "cuộc sống": "life",
+                "chúng ta": "we; us",
+                "thường nhật": "everyday; daily",
+                "điều": "thing",
+                "khám phá": "explore; discover",
+                "học hỏi": "learn",
+                "trải nghiệm": "experience"
+            },
+            "advancedVocab": {
+                "thường nhật": "everyday; ordinary (nuanced: daily routine, mundane)",
+                "khám phá": "explore; discover (nuanced: to find out new things, not just physical exploration)",
+                "học hỏi": "learn; acquire knowledge (nuanced: to learn from experience or others, not just formal study)",
+                "trải nghiệm": "experience (nuanced: to live through or undergo, often with a sense of personal growth)"
+            }
+        },
+        {
+            "index": 57,
+            "startTimestamp": "00:07:47.639",
+            "endTimestamp": "00:07:56.440",
+            "vocab": {
+                "những": "those; the (plural marker)",
+                "điều": "thing; matter",
+                "khác biệt": "difference",
+                "tạo nên": "create; make up",
+                "mỗi": "each; every",
+                "con người": "person; human",
+                "nếu": "if",
+                "một ngày": "one day; a day",
+                "chúng ta": "we; us",
+                "lột bỏ": "strip away; remove",
+                "hoàn toàn": "completely; entirely",
+                "lớp áo": "layer of clothing; cover (metaphorical)",
+                "màu mè": "colorful; showy; flashy (often figurative, meaning superficial or decorative)",
+                "đến mức": "to the extent that; so much that"
+            },
+            "beginnerVocab": {
+                "ngày": "day",
+                "chúng ta": "we; us",
+                "áo": "shirt; clothes",
+                "màu": "color"
+            },
+            "advancedVocab": {
+                "lột bỏ": "strip away; remove (metaphorical, not literal undressing)",
+                "lớp áo màu mè": "showy layers; flashy facade (metaphor for superficial traits or appearances)"
+            }
+        },
+        {
+            "index": 58,
+            "startTimestamp": "00:07:54.000",
+            "endTimestamp": "00:08:04.280",
+            "vocab": {
+                "tối thiểu": "at least; minimum",
+                "có thể": "can; may; possible",
+                "ta": "we; I; one (informal, literary)",
+                "sẽ": "will (future marker)",
+                "thấy": "see; perceive",
+                "vẻ đẹp": "beauty",
+                "của": "of",
+                "nó": "it",
+                "rõ hơn": "more clearly",
+                "niềm hạnh phúc": "happiness; joy",
+                "giản đơn": "simple; simplicity",
+                "khi": "when",
+                "thức dậy": "wake up",
+                "đi làm": "go to work",
+                "khi đó": "then; at that time"
+            },
+            "beginnerVocab": {
+                "tối thiểu": "minimum; at least",
+                "thấy": "see",
+                "đẹp": "beauty; beautiful",
+                "rõ": "clear; clearly",
+                "hạnh phúc": "happiness",
+                "đơn": "simple",
+                "thức dậy": "wake up",
+                "đi làm": "go to work"
+            },
+            "advancedVocab": {
+                "tối thiểu": "at least; minimum (nuanced: not just a number, but a baseline expectation)",
+                "vẻ đẹp": "beauty (nuanced: often refers to inner or abstract beauty, not just appearance)",
+                "niềm hạnh phúc giản đơn": "simple happiness (nuanced: a culturally valued concept of contentment with little things)"
+            }
+        },
+        {
+            "index": 59,
+            "startTimestamp": "00:08:02.120",
+            "endTimestamp": "00:08:11.360",
+            "vocab": {
+                "ta": "I; we (formal, literary)",
+                "sẽ": "will (future marker)",
+                "biết cách": "know how to",
+                "sống": "live",
+                "mỗi ngày": "every day; each day",
+                "đều": "all; every (emphasizer)",
+                "khắc đi": "carve away; reduce (figurative: improve oneself)",
+                "dùng": "use; spend",
+                "thật nhiều": "a lot; very much",
+                "thời gian": "time",
+                "thay đổi": "change",
+                "làm tốt hơn nữa": "do even better",
+                "bởi lẽ": "because; since"
+            },
+            "beginnerVocab": {
+                "sống": "live",
+                "ngày": "day",
+                "thời gian": "time",
+                "thay đổi": "change",
+                "làm": "do; make",
+                "tốt": "good; better"
+            },
+            "advancedVocab": {
+                "khắc đi": "carve away; reduce (metaphor for self-improvement, not literal carving)",
+                "bởi lẽ": "because; for the reason that (formal, literary discourse marker)"
+            }
+        },
+        {
+            "index": 60,
+            "startTimestamp": "00:08:09.639",
+            "endTimestamp": "00:08:18.360",
+            "vocab": {
+                "đâu cần": "no need; not necessary",
+                "đến": "to; until",
+                "hai phút cuối đời": "last two minutes of life",
+                "làm": "do; make",
+                "những việc": "things; tasks",
+                "hàng chục năm": "dozens of years; many years",
+                "sống": "live; living",
+                "trước": "before",
+                "chưa": "not yet",
+                "nói": "say; speak",
+                "trong": "in; within"
+            },
+            "beginnerVocab": {
+                "hai": "two",
+                "phút": "minute",
+                "cuối": "end; last",
+                "đời": "life",
+                "làm": "do; make",
+                "việc": "thing; work; task",
+                "năm": "year",
+                "sống": "live",
+                "trước": "before",
+                "nói": "say; speak"
+            },
+            "advancedVocab": {
+                "hai phút cuối đời": "the last two minutes of life",
+                "hàng chục năm": "dozens of years; decades",
+                "trước hai phút đó": "before those two minutes (nuanced: refers to the time before the final moments of life)"
+            }
+        },
+        {
+            "index": 61,
+            "startTimestamp": "00:08:16.039",
+            "endTimestamp": "00:08:29.080",
+            "vocab": {
+                "bao nhiêu năm": "how many years; so many years",
+                "tại sao": "why",
+                "không": "not; no",
+                "sống": "live; living",
+                "cách": "way; manner",
+                "đang": "currently; in the process of (progressive marker)",
+                "tận": "fully; to the fullest",
+                "chọn": "choose; select",
+                "không nối tiếc": "no regrets; without regret",
+                "tìm thấy": "find; discover",
+                "niềm vui": "joy; happiness",
+                "ngay cả": "even",
+                "trong": "in; inside"
+            },
+            "beginnerVocab": {
+                "năm": "year",
+                "tại sao": "why",
+                "sống": "live; life",
+                "chọn": "choose",
+                "không": "no; not",
+                "niềm vui": "joy; happiness",
+                "tìm": "find"
+            },
+            "advancedVocab": {
+                "sống tận sống": "live to the fullest; live fully (nuanced, emphatic repetition)",
+                "sống không nối tiếc": "live without regret (nuanced, idiomatic)",
+                "niềm vui": "joy; delight (nuanced, deeper than 'vui', often used in literary or formal contexts)"
+            }
+        },
+        {
+            "index": 62,
+            "startTimestamp": "00:08:27.039",
+            "endTimestamp": "00:08:37.839",
+            "vocab": {
+                "những điều nhỏ nhặt": "small things; little things",
+                "không phải": "not; is not",
+                "loại": "type; kind",
+                "niềm vui": "joy; happiness",
+                "người ta": "people; one; they",
+                "phải": "must; have to",
+                "chạy cả đời": "run all life; spend whole life",
+                "tìm kiếm": "search for; seek",
+                "tiền tài": "wealth; money",
+                "danh tiếng": "fame; reputation",
+                "toát ra": "emanate; radiate",
+                "từ bên trong": "from within; from inside",
+                "một": "a; one"
+            },
+            "beginnerVocab": {
+                "nhỏ": "small",
+                "niềm vui": "joy; happiness",
+                "người": "person; people",
+                "chạy": "run",
+                "tìm kiếm": "search; look for",
+                "tiền": "money",
+                "danh tiếng": "fame; reputation",
+                "bên trong": "inside"
+            },
+            "advancedVocab": {
+                "nhỏ nhặt": "trivial; petty (nuance: small, insignificant things)",
+                "chạy cả đời để tìm kiếm": "spend a lifetime chasing; spend one's whole life searching for (idiom; nuance: lifelong pursuit)",
+                "toát ra từ bên trong": "emanate from within; radiate from inside (nuance: inner source, not external)"
+            }
+        },
+        {
+            "index": 63,
+            "startTimestamp": "00:08:36.159",
+            "endTimestamp": "00:08:44.680",
+            "vocab": {
+                "kiểu": "type; kind; style",
+                "niềm vui": "joy; happiness",
+                "có sức mạnh": "has power; is powerful",
+                "biến": "transform; change",
+                "những điều bình thường": "ordinary things",
+                "trở nên": "become",
+                "phi thường": "extraordinary",
+                "giúp": "help",
+                "vượt trên": "overcome; surpass",
+                "hỉ": "joys; happiness (classical/literary)"
+            },
+            "beginnerVocab": {
+                "niềm vui": "joy; happiness",
+                "sức mạnh": "strength; power",
+                "biến": "change; transform",
+                "bình thường": "normal; ordinary",
+                "phi thường": "extraordinary",
+                "giúp": "help",
+                "vượt": "overcome; surpass"
+            },
+            "advancedVocab": {
+                "kiểu niềm vui": "the kind of joy; type of happiness (nuanced, refers to a specific quality or style of joy)",
+                "có sức mạnh biến": "has the power to transform (emphasizes transformative ability)",
+                "trở nên phi thường": "become extraordinary (nuanced, not just 'special' but 'out of the ordinary')",
+                "vượt trên": "rise above; surpass (idiomatic, to overcome or go beyond something)",
+                "hỉ": "joys; happiness (formal/literary, rarely used alone in modern speech)"
+            }
+        },
+        {
+            "index": 64,
+            "startTimestamp": "00:08:42.399",
+            "endTimestamp": "00:08:51.519",
+            "vocab": {
+                "nộ": "anger",
+                "ái": "love",
+                "ố": "hatred",
+                "cuộc đời": "life",
+                "xuyên qua": "through",
+                "buồn": "sadness",
+                "vui": "happiness; joy",
+                "thất vọng": "disappointment",
+                "khiến": "make; cause",
+                "trở nên": "become",
+                "hoàn hảo": "perfect",
+                "hoặc": "or",
+                "chính nó": "itself",
+                "đã là": "already is; has been",
+                "những": "those; the (plural marker)"
+            },
+            "beginnerVocab": {
+                "cuộc đời": "life",
+                "buồn": "sad; sadness",
+                "vui": "happy; happiness",
+                "ngày": "day",
+                "hoàn hảo": "perfect"
+            },
+            "advancedVocab": {
+                "nộ ái ố": "anger, love, hatred (range of intense emotions; literary/poetic)",
+                "xuyên qua": "to go through; to penetrate (can be literal or figurative)",
+                "trở nên hoàn hảo": "become perfect (nuanced: reach a state of perfection, not just 'perfect')"
+            }
+        },
+        {
+            "index": 65,
+            "startTimestamp": "00:08:49.560",
+            "endTimestamp": "00:08:57.440",
+            "vocab": {
+                "điều không hoàn hảo": "imperfection",
+                "một cách hoàn hảo": "perfectly",
+                "một cuộc sống đúng nghĩa": "a true life; a meaningful life",
+                "đầy chất thơ": "full of poetry; poetic",
+                "không còn": "no longer",
+                "tham vọng": "ambition",
+                "vẫy": "wave (as in waving hand); flutter"
+            },
+            "beginnerVocab": {
+                "điều": "thing",
+                "cuộc sống": "life",
+                "người": "person; people"
+            },
+            "advancedVocab": {
+                "đầy chất thơ": "full of poetry; poetic (figurative, describing something as poetic or romanticized)",
+                "cuộc sống đúng nghĩa": "a truly meaningful life; a life in the truest sense (emphasizing authenticity or fulfillment)",
+                "không còn tham vọng": "no longer ambitious; without ambition (nuanced, suggesting letting go of striving)",
+                "vẫy": "wave; beckon (can be literal or figurative, sometimes used in idioms)"
+            }
+        },
+        {
+            "index": 66,
+            "startTimestamp": "00:08:55.680",
+            "endTimestamp": "00:09:07.440",
+            "vocab": {
+                "vùng": "area; region",
+                "chống đối lại": "oppose; resist",
+                "dòng chảy": "flow; current",
+                "nhịp điệu": "rhythm",
+                "sống đúng với": "live true to; live according to",
+                "những gì": "what; that which",
+                "đã làm nên": "made up; created",
+                "có lẽ": "perhaps; maybe",
+                "vì thế": "because of that; therefore",
+                "sự tồn tại": "existence",
+                "trông có vẻ": "seems; appears",
+                "buồn tẻ": "dull; boring",
+                "gần như": "almost; nearly",
+                "đơn độc": "alone; solitary"
+            },
+            "beginnerVocab": {
+                "vùng": "area; region",
+                "dòng chảy": "flow; stream",
+                "nhịp điệu": "rhythm",
+                "sống": "live",
+                "làm": "do; make",
+                "buồn": "sad",
+                "gần": "near; close",
+                "đơn độc": "alone; lonely"
+            },
+            "advancedVocab": {
+                "vùng chống đối": "zone of resistance; area of opposition (metaphorical, not physical region)",
+                "dòng chảy": "flow; current (can refer to time, life, or trends, not just water)",
+                "nhịp điệu": "rhythm (can refer to life or routine, not just music)",
+                "sống đúng với": "live true to; live in accordance with (nuanced, about authenticity)",
+                "sự tồn tại": "existence (philosophical nuance)",
+                "buồn tẻ": "dull; monotonous (stronger than just 'sad')",
+                "gần như đơn độc": "almost solitary; nearly alone (emphasizes emotional isolation)"
+            }
+        },
+        {
+            "index": 67,
+            "startTimestamp": "00:09:05.279",
+            "endTimestamp": "00:09:17.200",
+            "vocab": {
+                "cùng": "together; with",
+                "lối sống": "lifestyle; way of living",
+                "giản dị": "simple; simplicity",
+                "khổ hạnh": "ascetic; austere",
+                "khiến": "make; cause",
+                "vỡ lẽ": "realize; come to understand",
+                "bận rộn": "busy",
+                "khó nhằn": "difficult; tough",
+                "tự kỷ luật": "self-discipline"
+            },
+            "beginnerVocab": {
+                "cùng": "together; with",
+                "lối sống": "lifestyle; way of living",
+                "giản dị": "simple; simplicity",
+                "khổ hạnh": "ascetic; austere",
+                "bận rộn": "busy",
+                "khó nhằn": "difficult; tough"
+            },
+            "advancedVocab": {
+                "giản dị đến khổ hạnh": "ascetic; austere (note: literally 'simple to the point of asceticism')",
+                "vỡ lẽ": "realize suddenly; have an epiphany (note: idiomatic, means to suddenly understand something)",
+                "khó nhằn": "challenging; tough; hard to deal with (note: informal, colloquial)",
+                "tự kỷ luật": "self-discipline (note: literally 'self-discipline', but can imply strictness with oneself)"
+            }
+        },
+        {
+            "index": 68,
+            "startTimestamp": "00:09:15.200",
+            "endTimestamp": "00:09:23.160",
+            "vocab": {
+                "các triết lý": "philosophies",
+                "thiền định": "meditation",
+                "chánh niệm": "mindfulness",
+                "để": "to; in order to",
+                "đạt đến": "reach; achieve",
+                "sự hòa hợp": "harmony",
+                "ngây ngất": "ecstatic; blissful",
+                "về mặt tinh thần": "spiritually; in terms of spirit",
+                "tôi không biết": "I don't know",
+                "liệu": "whether; if (expressing uncertainty)",
+                "mình": "myself; I (informal)",
+                "có thể": "can; be able to",
+                "làm": "do; make"
+            },
+            "beginnerVocab": {
+                "biết": "know",
+                "làm": "do; make",
+                "mình": "myself; oneself",
+                "có thể": "can; be able to"
+            },
+            "advancedVocab": {
+                "triết lý": "philosophy; philosophies (note: often used in academic or spiritual contexts)",
+                "thền định": "meditation (note: specific to Buddhist or spiritual meditation)",
+                "chánh niệm": "mindfulness (note: Buddhist concept, not just general awareness)",
+                "hòa hợp ngây ngất": "ecstatic harmony; blissful harmony (note: 'ngây ngất' adds a sense of rapture or ecstasy, not just simple harmony)",
+                "về mặt tinh thần": "spiritually; in terms of the spirit (note: refers to the spiritual or mental aspect, not physical)"
+            }
+        },
+        {
+            "index": 69,
+            "startTimestamp": "00:09:21.480",
+            "endTimestamp": "00:09:29.760",
+            "vocab": {
+                "được": "to get; to receive; to be able to (passive/resultative marker)",
+                "điều này": "this thing; this",
+                "khi": "when",
+                "còn trẻ": "young; still young",
+                "hay không": "or not",
+                "nếu": "if",
+                "thực sự": "really; truly",
+                "sống": "to live",
+                "trong hiện tại": "in the present",
+                "thói quen": "habit",
+                "hằng ngày": "daily; everyday",
+                "sẽ": "will (future marker)"
+            },
+            "beginnerVocab": {
+                "trẻ": "young",
+                "sống": "live",
+                "hiện tại": "present (time)",
+                "thói quen": "habit",
+                "ngày": "day"
+            },
+            "advancedVocab": {
+                "điều này": "this (often refers to an abstract concept or situation)",
+                "hiện tại": "the present; now (can also mean 'current' in other contexts)",
+                "thói quen hằng ngày": "daily habits (hằng ngày emphasizes regularity; 'habitual routines')"
+            }
+        },
+        {
+            "index": 70,
+            "startTimestamp": "00:09:27.959",
+            "endTimestamp": "00:09:37.360",
+            "vocab": {
+                "trở thành": "become",
+                "mới mẻ": "new; novel",
+                "thú vị": "interesting; exciting",
+                "có lẽ": "perhaps; maybe",
+                "vì thế": "therefore; because of that",
+                "sự tĩnh lặng": "quietness; silence; tranquility",
+                "lời mời gọi": "invitation; call",
+                "hấp dẫn": "attractive; appealing"
+            },
+            "beginnerVocab": {
+                "mới": "new",
+                "thú vị": "interesting; fun",
+                "tĩnh lặng": "quiet; calm",
+                "lời mời": "invitation",
+                "hấp dẫn": "attractive; appealing"
+            },
+            "advancedVocab": {
+                "mới mẻ": "novel; fresh (nuanced: not just 'new', but with a sense of originality)",
+                "tĩnh lọng": "serenity; tranquility (nuanced, poetic, not everyday speech)",
+                "lời mời gọi": "invitation; beckoning (nuanced: a call or enticement, not just a formal invite)"
+            }
+        },
+        {
+            "index": 71,
+            "startTimestamp": "00:09:35.560",
+            "endTimestamp": "00:09:47.320",
+            "vocab": {
+                "cho": "for",
+                "những người trẻ": "young people",
+                "ở": "at; in; on",
+                "những": "those; the (plural marker)",
+                "dây đầu": "early stage; beginning (note: should be 'giai đoạn đầu')",
+                "bước vào": "enter; step into",
+                "quỹ đạo": "orbit; trajectory; path",
+                "phim": "film; movie",
+                "đặc biệt": "especially; particularly",
+                "với": "with; for",
+                "ai": "who; anyone",
+                "mưu cầu": "seek; pursue",
+                "sự chân thực": "authenticity; truthfulness",
+                "bản thân": "oneself; self",
+                "khao khát": "desire; crave; long for",
+                "tận hưởng": "enjoy; savor",
+                "trọn vẹn": "fully; completely; wholly",
+                "cuộc đời": "life"
+            },
+            "beginnerVocab": {
+                "người trẻ": "young people",
+                "phim": "movie; film",
+                "bản thân": "oneself; yourself",
+                "cuộc đời": "life"
+            },
+            "advancedVocab": {
+                "dây đầu": "early stage; beginning (note: uncommon phrasing, usually 'giai đoạn đầu')",
+                "quỹ đạo": "orbit; trajectory (metaphorical: life path, direction)",
+                "mưu cầu": "to seek; to aspire to (formal, literary)",
+                "sự chân thực": "authenticity; genuineness (nuanced: being true to oneself)",
+                "tận hưởng trọn vẹn": "to fully enjoy; to enjoy to the fullest (emphasis on completeness)"
+            }
+        },
+        {
+            "index": 72,
+            "startTimestamp": "00:09:44.720",
+            "endTimestamp": "00:09:54.720",
+            "vocab": {
+                "đầu phim": "beginning of the film",
+                "bắt gặp": "encounter; come across",
+                "cậu bé": "boy",
+                "bị lạc": "lost",
+                "mẹ": "mother",
+                "nắm tay": "hold (someone's) hand",
+                "dắt": "lead; guide",
+                "ra ngoài": "go outside; out",
+                "lời hỏi han": "words of inquiry; asking (about someone)",
+                "về": "about; regarding (contextual particle)"
+            },
+            "beginnerVocab": {
+                "đầu": "beginning; head",
+                "phim": "movie; film",
+                "bắt gặp": "meet; encounter",
+                "cậu bé": "boy",
+                "bị lạc": "lost",
+                "mẹ": "mother; mom",
+                "nắm tay": "hold (hand)",
+                "dắt": "lead; guide",
+                "ra ngoài": "go outside; outside"
+            },
+            "advancedVocab": {
+                "bắt gặp": "to come across; to catch sight of",
+                "dắt": "to lead (by the hand); to guide",
+                "hỏi han": "to ask after; to inquire (about someone's well-being)",
+                "vũ về": "to comfort; to reassure (note: 'vũ về' is a gentle, soothing way of speaking to calm someone, often a child)"
+            }
+        },
+        {
+            "index": 73,
+            "startTimestamp": "00:09:52.440",
+            "endTimestamp": "00:10:02.200",
+            "vocab": {
+                "nhằm": "in order to; to aim to",
+                "làm dịu": "soothe; calm",
+                "cơn khóc": "crying fit; bout of crying",
+                "sự hoảng loạn": "panic",
+                "sợ sệt": "fear; being afraid",
+                "hớt hoảng": "in a hurry; panic-stricken",
+                "chạy đến": "run over; rush over",
+                "không một lời cảm ơn": "not a word of thanks; without saying thank you",
+                "vội": "hurriedly; in a rush",
+                "lau đi": "wipe away",
+                "đôi bàn": "pair of hands (note: 'đôi bàn' is usually followed by 'tay' meaning 'hands')"
+            },
+            "beginnerVocab": {
+                "làm": "do; make",
+                "khóc": "cry",
+                "sợ": "afraid; scared",
+                "mẹ": "mother; mom",
+                "chạy": "run",
+                "đến": "come; arrive",
+                "cảm ơn": "thank you",
+                "lau": "wipe",
+                "đi": "go (here: away, off)",
+                "đôi": "pair (note: often used for things in pairs, like hands, feet)",
+                "bàn": "hand (note: in context, 'bàn tay' means 'hand')"
+            },
+            "advancedVocab": {
+                "nhằm": "in order to; with the aim of (formal, often used in written or official contexts)",
+                "dịu cơn khóc": "soothe the crying (nuanced: 'cơn' is a classifier for bouts of emotion)",
+                "hoảng loạn": "panic; in a state of panic",
+                "sợ sệt": "fearful; timid (nuanced, more intense than just 'sợ')",
+                "hớt hoảng": "in a fluster; in a hurry due to worry (colloquial, urgent connotation)",
+                "không một lời cảm ơn": "not a word of thanks; without a single word of thanks (emphatic, formal structure)",
+                "vội": "hurriedly; in haste (often used to indicate urgency or lack of thoroughness)"
+            }
+        },
+        {
+            "index": 74,
+            "startTimestamp": "00:10:00.360",
+            "endTimestamp": "00:10:08.680",
+            "vocab": {
+                "tay": "hand",
+                "mà": "that; which (relative clause marker)",
+                "cậu": "you",
+                "vừa": "just; just now",
+                "víu chặt vào": "hold tightly onto; cling to",
+                "dù": "even though; although",
+                "không": "not; no",
+                "bất kỳ": "any; whatever",
+                "lời miệt thị": "insulting words; derogatory remarks",
+                "gây tranh cãi": "controversial; causing controversy",
+                "nào": "any (used for emphasis)",
+                "đâu đó": "somewhere; somehow",
+                "ta": "we; one (formal/literary 'I')",
+                "vẫn": "still",
+                "thấy": "see; feel; perceive",
+                "một": "one; a"
+            },
+            "beginnerVocab": {
+                "tay": "hand",
+                "chặt": "tight; tightly",
+                "lời": "word; speech"
+            },
+            "advancedVocab": {
+                "víu chặt vào": "cling tightly to; hold on tightly to",
+                "miệt thị": "disparagement; contempt; scorn (note: formal, strong negative judgment)",
+                "gây tranh cãi": "cause controversy; controversial (note: often used for actions/statements that provoke debate)"
+            }
+        },
+        {
+            "index": 75,
+            "startTimestamp": "00:10:07.160",
+            "endTimestamp": "00:10:15.240",
+            "vocab": {
+                "kiểu": "type; style",
+                "thái độ": "attitude",
+                "thường": "often",
+                "bị bắt gặp": "encountered; seen",
+                "xã hội": "society",
+                "phân hóa": "stratified; divided",
+                "tầng lớp": "class; social class",
+                "cách": "way; manner",
+                "nhìn": "look at; view",
+                "người công nhân": "worker; laborer",
+                "bị gián": "interrupted; disrupted (note: 'gián' here is likely a truncated or context-specific usage, may mean 'interrupted' or 'disturbed')"
+            },
+            "beginnerVocab": {
+                "thái độ": "attitude",
+                "xã hội": "society",
+                "cách": "way; manner",
+                "nhìn": "look; see; view",
+                "người công nhân": "worker",
+                "bị": "be (passive marker)",
+                "bắt gặp": "encounter; catch (see)",
+                "người": "person; people"
+            },
+            "advancedVocab": {
+                "phân hóa tầng lớp": "class stratification; social stratification",
+                "bị bắt gặp": "to be encountered; to be seen (passive construction)",
+                "trong cái cách mà": "in the way that (nuanced, formal phrasing)",
+                "công nhân bị gián": "workers who are alienated (gián here is short for 'bị gián đoạn' or 'bị gián cách', meaning alienated or separated; contextually refers to alienation in a Marxist/social sense)"
+            }
+        },
+        {
+            "index": 76,
+            "startTimestamp": "00:10:12.839",
+            "endTimestamp": "00:10:25.160",
+            "vocab": {
+                "nhãn": "label; tag",
+                "lao động cấp thấp": "low-level worker; menial labor",
+                "không một chút để tâm": "not care at all; pay no attention",
+                "vui vẻ": "cheerful; happily",
+                "vẫy chào": "wave hello; greet by waving",
+                "mỉm cười": "smile",
+                "an lòng": "feel at ease; reassured",
+                "đoàn tụ": "reunite; reunion",
+                "đạo diễn": "director"
+            },
+            "beginnerVocab": {
+                "nhãn": "label",
+                "lao động": "labor; worker",
+                "cấp thấp": "low level; low rank",
+                "không": "no; not",
+                "vui vẻ": "happy; cheerful",
+                "vẫy chào": "wave hello; greet (by waving)",
+                "đứa trẻ": "child; kid",
+                "mỉm cười": "smile",
+                "an lòng": "feel at ease; feel reassured",
+                "đứa bé": "child; baby",
+                "mẹ": "mother; mom"
+            },
+            "advancedVocab": {
+                "lao động cấp thấp": "low-level worker; menial laborer",
+                "không một chút để tâm": "not care at all; pay no attention (nuanced: completely unconcerned)",
+                "an lòng": "feel at ease; reassured (nuanced: inner peace, comfort)",
+                "đoàn tụ": "reunite; reunion (nuanced: emotional or family reunion)"
+            }
+        },
+        {
+            "index": 77,
+            "startTimestamp": "00:10:23.360",
+            "endTimestamp": "00:10:31.720",
+            "vocab": {
+                "không chừa": "leave no; spare none",
+                "khoảng không gian": "space; room",
+                "phân định": "distinguish; differentiate",
+                "cách hành xử": "behavior; way of acting",
+                "đúng sai": "right and wrong",
+                "bởi": "because; since",
+                "tất cả": "everyone; everything; all",
+                "cúi mình": "bow; yield; humble oneself",
+                "nhường chỗ": "make room; give way"
+            },
+            "beginnerVocab": {
+                "không": "no; not",
+                "cho": "give; for",
+                "ta": "me; us",
+                "khoảng": "space; area",
+                "không gian": "space",
+                "nào": "which; any",
+                "cách": "way; method",
+                "đúng": "right; correct",
+                "sai": "wrong; incorrect",
+                "tất cả": "all; everything",
+                "cúi": "bow; bend down",
+                "mình": "oneself; myself",
+                "nhường": "yield; give way",
+                "chỗ": "place; seat"
+            },
+            "advancedVocab": {
+                "không chừa": "leave no; spare no (nuanced: not leaving any room/opportunity)",
+                "phân định": "distinguish; demarcate (formal, nuanced: to clearly separate or define)",
+                "cúi mình": "bow down; yield (nuanced: to show humility or deference)",
+                "nhường chỗ": "make way; give up one's place (nuanced: to yield space or opportunity to someone/something else)"
+            }
+        },
+        {
+            "index": 78,
+            "startTimestamp": "00:10:29.640",
+            "endTimestamp": "00:10:40.800",
+            "vocab": {
+                "sự tự nhận thức": "self-awareness",
+                "bản thân": "oneself; self",
+                "con người": "person; human",
+                "đường Hoàng": "dignified; upright (note: often means 'honorable')",
+                "đúng mực": "proper; appropriate",
+                "yêu": "love",
+                "công việc": "work; job",
+                "âm nhạc": "music",
+                "rách": "torn (note: can mean 'ragged', but context may vary)",
+                "cuộc sống": "life",
+                "Thầm Lặng": "silent; quiet",
+                "không cần": "do not need; does not need",
+                "giây": "seconds; moments"
+            },
+            "beginnerVocab": {
+                "bản thân": "oneself; myself; yourself",
+                "con người": "person; human",
+                "yêu": "love",
+                "công việc": "work; job",
+                "âm nhạc": "music",
+                "cuộc sống": "life",
+                "ông": "he; Mr.; old man"
+            },
+            "advancedVocab": {
+                "đường Hoàng": "dignified; upright (note: often written 'đường hoàng', means proper, respectable)",
+                "đúng mực": "proper; appropriate; decorous",
+                "âm nhạc rách": "trashy music; low-quality music (note: 'rách' literally means 'torn', but here is slang for 'bad' or 'trashy')",
+                "cuộc sống Thầm Lặng": "quiet life; silent life (note: 'Thầm Lặng' means silent, unassuming, or unobtrusive)"
+            }
+        },
+        {
+            "index": 79,
+            "startTimestamp": "00:10:38.959",
+            "endTimestamp": "00:10:50.320",
+            "vocab": {
+                "phút": "minute; moment",
+                "dằn xé": "struggle; torn",
+                "phức tạp": "complicated; complex",
+                "vượt qua": "overcome; get through",
+                "định kiến xã hội": "social prejudice; social bias",
+                "bởi": "because; by",
+                "tự thân": "oneself; self",
+                "biết": "know",
+                "mình": "oneself; myself; himself",
+                "là ai": "who (someone) is",
+                "sức mạnh": "strength; power",
+                "nội tại": "internal; inner",
+                "uy quyền": "authority; powerful",
+                "tới mức": "to the extent; so much that",
+                "giúp": "help",
+                "ông": "he; him; Mr.",
+                "sự": "the; (nominalizer, makes a noun)"
+            },
+            "beginnerVocab": {
+                "phút": "minute",
+                "biết": "know",
+                "mình": "myself; oneself",
+                "ai": "who",
+                "sức mạnh": "strength; power",
+                "giúp": "help",
+                "ông": "he; him; Mr."
+            },
+            "advancedVocab": {
+                "dằn xé": "torment; inner struggle",
+                "định kiến xã hội": "social prejudice; societal bias",
+                "tự thân": "oneself; by oneself (emphasizing self-reliance)",
+                "Nội tại": "inner; intrinsic (with nuance of internal strength or essence)",
+                "uy quyền": "authority; power (with nuance of commanding presence)"
+            }
+        },
+        {
+            "index": 80,
+            "startTimestamp": "00:10:48.079",
+            "endTimestamp": "00:10:59.240",
+            "vocab": {
+                "nội tâm hóa": "internalize",
+                "định kiến": "prejudice; bias",
+                "gắn liền với": "associated with; attached to",
+                "công việc": "work; job",
+                "quan tâm đến": "care about; be interested in",
+                "cách": "way; manner",
+                "mọi người": "everyone; people",
+                "nhìn": "look; see",
+                "thế giới cảm xúc": "emotional world",
+                "đôi mắt": "eyes",
+                "kết nối": "connect; connection"
+            },
+            "beginnerVocab": {
+                "công việc": "job; work",
+                "mọi người": "everyone; people",
+                "thế giới": "world",
+                "cảm xúc": "emotion; feeling",
+                "đôi mắt": "eyes",
+                "kết nối": "connect"
+            },
+            "advancedVocab": {
+                "nội tâm hóa": "internalize (psychological term)",
+                "định kiến": "prejudice; bias (can be nuanced depending on context)",
+                "gắn liền với": "associated with; attached to (idiomatic, not literal)",
+                "quan tâm đến": "care about; be concerned with (can be nuanced, not just 'like')"
+            }
+        },
+        {
+            "index": 81,
+            "startTimestamp": "00:10:57.079",
+            "endTimestamp": "00:11:06.160",
+            "vocab": {
+                "với": "with",
+                "trái tim": "heart",
+                "dạ dày": "stomach",
+                "như thế nào": "how; in what way",
+                "hoặc": "or",
+                "bất cứ nơi nào": "wherever; anywhere",
+                "cảm giác": "feeling; sense",
+                "điều gì": "what; something",
+                "tốt": "good",
+                "đáng sống": "worth living",
+                "nó": "it",
+                "đẹp": "beautiful"
+            },
+            "beginnerVocab": {
+                "trái tim": "heart",
+                "dạ dày": "stomach",
+                "cảm giác": "feeling; sense",
+                "tốt": "good",
+                "sống": "live",
+                "đẹp": "beautiful"
+            },
+            "advancedVocab": {
+                "dạ dày": "stomach (literal; can also refer to 'gut feeling')",
+                "điều gì đáng sống": "something worth living for",
+                "nó Đẹp": "it's beautiful (nuanced emphasis on beauty or value)"
+            }
+        },
+        {
+            "index": 82,
+            "startTimestamp": "00:11:04.200",
+            "endTimestamp": "00:11:13.600",
+            "vocab": {
+                "đến nỗi": "to the extent that; so much that",
+                "mỗi người": "each person; everyone",
+                "có": "have; has",
+                "một cách nhìn": "a perspective; a way of seeing",
+                "khác nhau": "different; various",
+                "mỗi chúng ta": "each of us",
+                "tự nó": "itself; by itself",
+                "là": "is; are",
+                "một vũ trụ": "a universe",
+                "chính": "main; core (note: can mean 'main' or 'core' depending on context)",
+                "triết lý sống": "philosophy of life",
+                "này": "this",
+                "của": "of",
+                "wenders": "Wenders (proper name)",
+                "đã": "already; (past tense marker)"
+            },
+            "beginnerVocab": {
+                "người": "person; people",
+                "cách": "way; method",
+                "nhìn": "look; view",
+                "khác": "different",
+                "chúng ta": "we; us",
+                "sống": "live; life"
+            },
+            "advancedVocab": {
+                "đến nỗi": "to the extent that; so much that (intensifier, cause-effect marker)",
+                "vũ trụ": "universe (can be metaphorical for 'world' or 'inner world')",
+                "chính triết lý sống này": "this very philosophy of life (emphatic, nuanced phrasing)"
+            }
+        },
+        {
+            "index": 83,
+            "startTimestamp": "00:11:11.600",
+            "endTimestamp": "00:11:22.120",
+            "vocab": {
+                "được": "to be; to get (passive marker)",
+                "đan cài": "interwoven; intertwined",
+                "một cách": "in a way; in a manner",
+                "cởi mở": "open; open-minded",
+                "khiến": "to make; to cause",
+                "như": "like; as",
+                "một nhân vật": "a character",
+                "đã": "already (past marker)",
+                "đạt được": "to achieve; to attain",
+                "sự cuốn hút": "attraction; charm",
+                "nội dung chính": "main content",
+                "xuyên suốt": "throughout",
+                "tuy nhiên": "however",
+                "người ta": "people; one (impersonal subject)"
+            },
+            "beginnerVocab": {
+                "phim": "movie; film",
+                "nhân vật": "character",
+                "nội dung": "content",
+                "người": "person; people"
+            },
+            "advancedVocab": {
+                "đan cài": "interwoven; intertwined (nuanced, often used for subtle integration)",
+                "cởi mờ": "subtly open; gently revealed (unusual, nuanced expression)",
+                "sự cuốn hút": "attraction; allure (nuanced, often used for charisma or magnetic quality)",
+                "xuyên suốt": "throughout; across (specialized, often used for something running consistently through a work)"
+            }
+        },
+        {
+            "index": 84,
+            "startTimestamp": "00:11:20.600",
+            "endTimestamp": "00:11:30.839",
+            "vocab": {
+                "thể tránh được": "can avoid; able to avoid",
+                "nỗi thống khổ": "suffering; agony",
+                "móc câu": "hook",
+                "quấn chặt vào": "tightly wrapped around; entangled in",
+                "sự tồn tại": "existence",
+                "mỗi cuộc đời": "each life; every life",
+                "bởi lẽ": "because; since",
+                "nếu không có": "if there is no; without",
+                "sự xuất hiện": "appearance; presence",
+                "khổ đau": "suffering; pain",
+                "niềm vui": "joy; happiness"
+            },
+            "beginnerVocab": {
+                "tránh": "avoid",
+                "móc câu": "hook",
+                "đời": "life",
+                "niềm vui": "joy; happiness",
+                "khổ đau": "suffering; pain"
+            },
+            "advancedVocab": {
+                "nỗi thống khổ": "agony; deep suffering (intensified form of suffering)",
+                "móc câu": "fishhook (metaphor for something that latches on tightly)",
+                "quấn chặt vào": "tightly wrapped around; entwined with (metaphor for inescapable attachment)",
+                "sự tồn tại": "existence (philosophical nuance)",
+                "Bởi lẽ": "because; for the reason that (formal discourse marker)",
+                "sự xuất hiện": "appearance; emergence (nuanced as 'coming into being')"
+            }
+        },
+        {
+            "index": 85,
+            "startTimestamp": "00:11:29.200",
+            "endTimestamp": "00:11:38.040",
+            "vocab": {
+                "chỉ còn": "only remains; is just",
+                "ám ảnh": "obsession; haunting memory",
+                "không nguôi": "unceasing; never-ending",
+                "giấc mơ": "dream",
+                "bí ẩn": "mysterious; secret",
+                "loài người": "humankind; humanity",
+                "tưởng chừng như": "seem as if; appear as though",
+                "mãi": "forever; always",
+                "hạnh phúc": "happy; happiness"
+            },
+            "beginnerVocab": {
+                "chỉ": "only",
+                "còn": "remain; left",
+                "một": "one; a",
+                "trong": "in; inside",
+                "giấc mơ": "dream",
+                "người": "person; people",
+                "hạnh phúc": "happy; happiness"
+            },
+            "advancedVocab": {
+                "ám ảnh Không Nguôi": "persistent obsession; unceasing haunting (intensifier 'Không Nguôi' means 'unceasingly')",
+                "tưởng chừng như": "it seemed as if; seemingly (discourse marker indicating something appears a certain way but may not be true)"
+            }
+        },
+        {
+            "index": 86,
+            "startTimestamp": "00:11:36.000",
+            "endTimestamp": "00:11:46.440",
+            "vocab": {
+                "những": "those; the (plural marker)",
+                "niềm vui": "joy; happiness",
+                "nhỏ nhặt": "small; trivial",
+                "cuộc sống": "life",
+                "bỗng nhiên": "suddenly",
+                "bị đảo lộn": "turned upside down; disrupted",
+                "cháu": "grandchild; niece/nephew (younger person)",
+                "tìm đến": "come to; seek out",
+                "tỏ ra": "show; appear",
+                "hứng khởi": "excited; enthusiastic",
+                "bước vào": "enter; step into",
+                "quỹ đạo": "orbit; trajectory (figurative: sphere of influence)",
+                "thầm nhập vào": "quietly enter; infiltrate"
+            },
+            "beginnerVocab": {
+                "niềm vui": "joy; happiness",
+                "nhỏ": "small; little",
+                "cuộc sống": "life",
+                "ông": "grandfather; old man",
+                "cháu": "grandchild; child",
+                "cô bé": "girl",
+                "bước": "step",
+                "vào": "enter; go in"
+            },
+            "advancedVocab": {
+                "nhỏ nhặt": "trivial; insignificant (nuanced: often used to downplay importance)",
+                "bị đảo lộn": "turned upside down; disrupted",
+                "quỹ đạo": "orbit; trajectory (metaphorical: sphere of influence or life)",
+                "thầm nhập": "to infiltrate quietly; to permeate secretly"
+            }
+        },
+        {
+            "index": 87,
+            "startTimestamp": "00:11:44.880",
+            "endTimestamp": "00:11:53.800",
+            "vocab": {
+                "thói quen": "habit",
+                "sống": "live; living",
+                "một cách": "in a way; in a manner",
+                "tò mò": "curious; curiosity",
+                "thích thú": "enjoy; interested",
+                "theo chân": "follow (someone)",
+                "đi làm": "go to work",
+                "đọc sách": "read books",
+                "hàn huyên": "chat; converse (friendly talk)",
+                "tâm sự": "confide; share feelings",
+                "tiết lộ": "reveal; disclose",
+                "từ đó": "from then; since then"
+            },
+            "beginnerVocab": {
+                "thói quen": "habit",
+                "sống": "live",
+                "đi làm": "go to work",
+                "đọc sách": "read books"
+            },
+            "advancedVocab": {
+                "Tò bò": "curious; inquisitive (note: playful or childlike curiosity)",
+                "hàn huyên tâm sự": "chat intimately; confide (note: deep, heartfelt conversation)",
+                "theo chân": "follow (someone's footsteps; accompany closely)",
+                "tiết lộ": "reveal; disclose (note: often used for secrets or private information)"
+            }
+        },
+        {
+            "index": 88,
+            "startTimestamp": "00:11:52.320",
+            "endTimestamp": "00:11:58.920",
+            "vocab": {
+                "khía cạnh": "aspect; side",
+                "tiêu cực": "negative",
+                "trong": "in; within",
+                "cuộc sống": "life",
+                "hiện tại": "present; current",
+                "của": "of",
+                "cô": "she; her",
+                "chính": "exactly; precisely; just",
+                "cuộc gặp gỡ": "meeting; encounter",
+                "này": "this",
+                "đã": "already; (past marker)",
+                "đầy": "full; filled"
+            },
+            "beginnerVocab": {
+                "cuộc sống": "life",
+                "gặp gỡ": "meeting; encounter",
+                "hiện tại": "present (time); now"
+            },
+            "advancedVocab": {
+                "khía cạnh": "aspect; facet",
+                "tiêu cực": "negative (nuanced: pessimistic, adverse)",
+                "cuộc gặp gỡ": "meeting; encounter (nuanced: significant or fateful meeting)"
+            }
+        },
+        {
+            "index": 89,
+            "startTimestamp": "00:11:56.680",
+            "endTimestamp": "00:12:08.680",
+            "vocab": {
+                "phim": "film; movie",
+                "đến": "arrive; come",
+                "cuộc chạm mặt": "encounter; meeting",
+                "cao trào hơn": "more climactic; more intense",
+                "hirayama": "Hirayama (name)",
+                "em gái": "younger sister",
+                "khi": "when",
+                "đến để đón": "come to pick up",
+                "về nhà": "go home; return home",
+                "chỉ cần": "only need; just need",
+                "một đến hai": "one to two",
+                "cảnh quay": "scene; shot",
+                "đã có thể": "already can; can",
+                "thấy": "see; perceive"
+            },
+            "beginnerVocab": {
+                "phim": "movie; film",
+                "em gái": "younger sister",
+                "nhà": "house; home",
+                "cảnh quay": "scene; shot"
+            },
+            "advancedVocab": {
+                "chạm mặt": "encounter; run into (can imply confrontation or unexpected meeting)",
+                "cao trào": "climax; high point (often used for dramatic or emotional peak)",
+                "cảnh quay": "scene; shot (film/TV terminology)"
+            }
+        },
+        {
+            "index": 90,
+            "startTimestamp": "00:12:07.000",
+            "endTimestamp": "00:12:16.320",
+            "vocab": {
+                "được": "receive; get; be able to (context-dependent)",
+                "sự khác biệt": "difference",
+                "to lớn": "big; huge",
+                "giai cấp xã hội": "social class",
+                "mỗi người": "each person; everyone",
+                "cô em gái": "younger sister; young woman",
+                "bước ra": "step out; walk out",
+                "chiếc xe sang": "luxury car",
+                "có": "have; there is/are",
+                "tài xế riêng": "private driver; chauffeur",
+                "ăn mặc": "dress; clothing (to dress; to wear)"
+            },
+            "beginnerVocab": {
+                "khác biệt": "difference",
+                "to lớn": "big; large",
+                "giai cấp": "class (social class)",
+                "xã hội": "society",
+                "em gái": "younger sister",
+                "xe": "car",
+                "tài xế": "driver",
+                "ăn mặc": "dress; wear (clothes)"
+            },
+            "advancedVocab": {
+                "giai cấp xã hội": "social class",
+                "xe sang": "luxury car",
+                "tài xế riêng": "private driver; personal chauffeur"
+            }
+        },
+        {
+            "index": 91,
+            "startTimestamp": "00:12:13.959",
+            "endTimestamp": "00:12:25.199",
+            "vocab": {
+                "sang trọng": "luxurious; elegant",
+                "trái ngược với": "contrary to; in contrast with",
+                "bộ đồ giản dị": "simple outfit; plain clothes",
+                "có phần": "somewhat; rather",
+                "hơi": "a bit; slightly",
+                "xuề xòa": "sloppy; casual (in appearance)",
+                "hai thân phận": "two identities; two statuses",
+                "được đặt cạnh nhau": "placed next to each other",
+                "cùng một khung hình": "in the same frame"
+            },
+            "beginnerVocab": {
+                "sang trọng": "luxurious; elegant",
+                "trái ngược": "opposite",
+                "bộ đồ": "clothes; outfit",
+                "giản dị": "simple",
+                "hơi": "a little; slightly",
+                "khi": "when",
+                "hai": "two",
+                "cạnh": "beside; next to",
+                "cùng": "together; same",
+                "hình": "picture; image"
+            },
+            "advancedVocab": {
+                "sang trọng": "luxurious; elegant",
+                "giản dị": "simple; plain (positive nuance)",
+                "xuề xòa": "sloppy; careless (about appearance)",
+                "thân phận": "social status; identity (nuanced, often about one's place in society)",
+                "khung hình": "frame (of a film or photo)",
+                "đặt cạnh nhau": "placed side by side (nuanced: for comparison or contrast)"
+            }
+        },
+        {
+            "index": 92,
+            "startTimestamp": "00:12:23.519",
+            "endTimestamp": "00:12:31.079",
+            "vocab": {
+                "giản dựng": "construct; build (context: setting up a scene)",
+                "bối cảnh": "context; setting; background",
+                "một cách": "in a way; in a manner",
+                "đầy tinh tế": "very subtle; full of subtlety",
+                "khéo léo": "skillful; cleverly",
+                "tạo ra": "create; generate",
+                "sự căng thẳng": "tension; stress",
+                "giai cấp": "class (social class)",
+                "đưa ta trở lại": "bring us back",
+                "trước hiện": "before the present (context: prior to current events)"
+            },
+            "beginnerVocab": {
+                "giản": "simple",
+                "dựng": "build; set up",
+                "bối cảnh": "context; setting",
+                "tinh tế": "delicate; subtle",
+                "khéo léo": "skillful; clever",
+                "tạo ra": "create; make",
+                "căng thẳng": "tension; stress",
+                "giai cấp": "class (social class)",
+                "trở lại": "return; go back",
+                "trước": "before; in front of",
+                "hiện": "present (now)"
+            },
+            "advancedVocab": {
+                "giản dựng": "to simply construct; to set up simply (note: uncommon/possibly a typo for 'giản dựng' instead of 'giàn dựng', which means 'to stage' or 'to set up')",
+                "bối cảnh": "context; setting (note: can refer to social, historical, or narrative background)",
+                "tinh tế": "subtle; sophisticated; delicate (note: nuance, refinement)",
+                "khéo léo": "skillful; deft; clever (note: implies finesse or artfulness)",
+                "sự căng thẳng trong giai cấp": "class tension; social class tension (note: refers to conflict or stress between social classes)",
+                "đưa ta trở lại": "bring us back; return us (note: idiomatic, can mean to evoke or recall a previous time or situation)"
+            }
+        },
+        {
+            "index": 93,
+            "startTimestamp": "00:12:29.320",
+            "endTimestamp": "00:12:38.040",
+            "vocab": {
+                "thực phũ phàng": "truly harsh; really cruel",
+                "chỉ vừa": "just now; only just",
+                "một tiếng trước đây": "an hour ago",
+                "cuộc đời": "life",
+                "bài thơ": "poem",
+                "cuộc trò chuyện": "conversation",
+                "chỉ vòn vẹn": "only; merely; just",
+                "vài phút": "a few minutes"
+            },
+            "beginnerVocab": {
+                "cuộc đời": "life",
+                "bài thơ": "poem",
+                "cuộc trò chuyện": "conversation",
+                "phút": "minute"
+            },
+            "advancedVocab": {
+                "thực phũ phàng": "truly harsh; brutally harsh (note: emphasizes emotional impact)",
+                "vòn vẹn": "only; merely (note: stresses smallness or limitation, often with time or quantity)"
+            }
+        },
+        {
+            "index": 94,
+            "startTimestamp": "00:12:36.279",
+            "endTimestamp": "00:12:46.480",
+            "vocab": {
+                "nhưng": "but",
+                "hầu hết": "mostly; most",
+                "lấp đầy": "fill; filled",
+                "bằng": "by; with",
+                "sự ngượng ngùng": "embarrassment; awkwardness",
+                "bối rối": "confusion; bewilderment",
+                "tiết lộ": "reveal; disclosure",
+                "đáng kể": "significant; considerable",
+                "quá khứ tiêu cực": "negative past",
+                "có thể": "can; may; could",
+                "thấy": "see; realize",
+                "ông": "he; him; Mr. (formal for older man)",
+                "gia đình": "family",
+                "đã": "already; past tense marker"
+            },
+            "beginnerVocab": {
+                "nhưng": "but",
+                "hầu hết": "most",
+                "lấp đầy": "fill",
+                "bằng": "by; with",
+                "có thể": "can; may",
+                "thấy": "see"
+            },
+            "advancedVocab": {
+                "lấp đầy": "fill up; fill (metaphorical, not literal)",
+                "ngượng ngùng": "embarrassment; awkwardness",
+                "bối rối": "confusion; bewilderment",
+                "tiết lộ": "reveal; disclose",
+                "đáng kể": "significant; considerable",
+                "quá khứ tiêu cực": "negative past (nuanced, refers to unfavorable history)"
+            }
+        },
+        {
+            "index": 95,
+            "startTimestamp": "00:12:44.199",
+            "endTimestamp": "00:12:53.079",
+            "vocab": {
+                "có": "have; there is/are",
+                "nhiều": "many; much",
+                "bất đồng quan điểm": "disagreement; difference of opinion",
+                "lối sống": "lifestyle; way of living",
+                "phép thử": "test; trial",
+                "xoa dịu": "soothe; ease; calm",
+                "sang chấn": "trauma; shock",
+                "quá khứ": "past",
+                "rõ ràng": "clearly; obviously",
+                "người": "person; people"
+            },
+            "beginnerVocab": {
+                "có": "have; there is; there are",
+                "nhiều": "many; much; a lot",
+                "người": "person; people"
+            },
+            "advancedVocab": {
+                "bất đồng quan điểm": "disagreement in viewpoints; difference of opinion",
+                "phép thử": "test; trial (metaphorical, not a literal test)",
+                "xoa dịu": "soothe; ease; calm (emotional context)",
+                "sang chấn": "trauma; psychological shock (specialized, psychological term)"
+            }
+        },
+        {
+            "index": 96,
+            "startTimestamp": "00:12:51.079",
+            "endTimestamp": "00:13:00.399",
+            "vocab": {
+                "ta": "we; I (formal/literary)",
+                "phải": "must; have to",
+                "trải qua": "go through; experience",
+                "những gì": "what; the things that",
+                "để": "in order to; to",
+                "có được": "obtain; get",
+                "sự tĩnh lặng": "calmness; tranquility",
+                "thái độ": "attitude",
+                "biết ơn": "gratitude; thankful",
+                "bền bì": "enduring; persistent",
+                "trong cái cách": "in the way (that)",
+                "sống": "live",
+                "chơi với": "play with"
+            },
+            "beginnerVocab": {
+                "ta": "I; we",
+                "phải": "must; have to",
+                "trải qua": "go through; experience",
+                "có": "have; get",
+                "sự tĩnh lặng": "calm; silence",
+                "thái độ": "attitude",
+                "biết ơn": "grateful; thankful",
+                "sống": "live",
+                "chơi": "play"
+            },
+            "advancedVocab": {
+                "sự tĩnh lặng": "serenity; tranquility (note: inner calm, not just silence)",
+                "thái độ biết ơn bền bì": "enduring attitude of gratitude; persistent gratefulness (note: 'bền bì' means persistent, enduring)",
+                "cái cách mà": "the way that (note: emphasizes manner, sometimes nuanced in Vietnamese)",
+                "hama": "Hama (note: likely a name or specific reference, may require cultural/contextual understanding)"
+            }
+        },
+        {
+            "index": 97,
+            "startTimestamp": "00:12:57.920",
+            "endTimestamp": "00:13:06.480",
+            "vocab": {
+                "đời": "life",
+                "mục đích": "purpose; aim",
+                "sâu xa": "deep; profound",
+                "chữa lành": "heal",
+                "vết thương": "wound; injury",
+                "máu": "blood",
+                "bất kỳ lúc nào": "at any time; whenever",
+                "ai đó": "someone; anyone",
+                "chạm đến": "touch; reach",
+                "sự": "the (nominalizer; turns verb/adjective into noun)"
+            },
+            "beginnerVocab": {
+                "đời": "life",
+                "chữa lành": "heal",
+                "vết thương": "wound; injury",
+                "máu": "blood",
+                "ai": "who; someone",
+                "chạm": "touch"
+            },
+            "advancedVocab": {
+                "mụ đích": "true purpose; real aim (colloquial, nuanced)",
+                "chữa lành": "to heal (often used metaphorically for emotional healing)",
+                "dì máu": "to ooze blood; to bleed (rare, poetic usage)",
+                "vết thương mà có thể dì máu bất kỳ lúc nào": "wounds that can bleed at any time (metaphor for emotional pain that can resurface)"
+            }
+        },
+        {
+            "index": 98,
+            "startTimestamp": "00:13:04.839",
+            "endTimestamp": "00:13:16.880",
+            "vocab": {
+                "thận trọng": "cautious; careful",
+                "bình tĩnh": "calm; composed",
+                "không còn chỗ đứng": "no longer has a place; no longer relevant",
+                "nỗi đau": "pain; sorrow",
+                "giấc mơ": "dream",
+                "đen trắng": "black and white",
+                "đem lại": "bring; bring about",
+                "cảm giác": "feeling; sense",
+                "lơ thơ": "vague; faint (poetic, artistic sense)",
+                "nghệ sĩ": "artist; artistic",
+                "lờ mờ": "dim; unclear; vague",
+                "u ám": "gloomy; dark",
+                "chính là": "is exactly; is precisely",
+                "cách": "way; method"
+            },
+            "beginnerVocab": {
+                "thận trọng": "careful; cautious",
+                "bình tĩnh": "calm",
+                "nỗi đau": "pain",
+                "giấc mơ": "dream",
+                "đen trắng": "black and white",
+                "cảm giác": "feeling",
+                "nghệ sĩ": "artist"
+            },
+            "advancedVocab": {
+                "không còn chỗ đứng": "no longer has a place; no longer relevant (idiom)",
+                "lơ thơ": "vague; drifting (often used to describe a dreamy, unfocused state)",
+                "lờ mờ": "dim; indistinct; hazy (can refer to unclear perception or understanding)",
+                "u ám": "gloomy; somber (often used for mood or atmosphere)"
+            }
+        },
+        {
+            "index": 99,
+            "startTimestamp": "00:13:14.079",
+            "endTimestamp": "00:13:23.560",
+            "vocab": {
+                "mà": "that; which (relative clause marker)",
+                "đang": "is; are (progressive marker)",
+                "tìm kiếm": "search for; seek",
+                "trật tự": "order",
+                "không chỉ ... mà còn": "not only ... but also",
+                "thế giới": "world",
+                "hỗn loạn": "chaotic; chaos",
+                "tâm trí": "mind",
+                "ông": "he; him; Mr. (polite male pronoun)",
+                "khác với": "different from",
+                "nhân vật": "character; figure",
+                "đã": "already; past marker"
+            },
+            "beginnerVocab": {
+                "tìm kiếm": "search; look for",
+                "thế giới": "world",
+                "tâm trí": "mind",
+                "nhân vật": "character"
+            },
+            "advancedVocab": {
+                "trật tự": "order (as in social or mental order)",
+                "Hỗn Loạn": "chaos (capitalized, possibly personified or emphasized)",
+                "tâm trí": "mind; psyche (nuanced, not just 'brain')"
+            }
+        },
+        {
+            "index": 100,
+            "startTimestamp": "00:13:21.920",
+            "endTimestamp": "00:13:34.279",
+            "vocab": {
+                "được": "be; get (passive marker)",
+                "biểu diễn": "perform; express",
+                "trong": "in; inside",
+                "các": "plural marker",
+                "tác phẩm": "works; creations",
+                "vĩ đại": "great; grand",
+                "không": "not; no",
+                "tìm kiếm": "search; seek",
+                "nói": "say; speak",
+                "tất cả": "all; everything",
+                "bộ phim": "movie; film",
+                "đều": "all; every (emphasizer)",
+                "đề cập đến": "mention; refer to",
+                "câu hỏi": "question",
+                "cách sống": "way of living; lifestyle"
+            },
+            "beginnerVocab": {
+                "được": "be; get (passive marker)",
+                "biểu diễn": "perform; show",
+                "tác phẩm": "work; artwork",
+                "vĩ đại": "great; grand",
+                "không": "no; not",
+                "tìm kiếm": "search; look for",
+                "nói": "say; speak",
+                "bộ phim": "movie; film",
+                "câu hỏi": "question",
+                "cách sống": "way of living; lifestyle"
+            },
+            "advancedVocab": {
+                "biểu diễn": "to perform; to present (can mean 'to depict' in art/literature context)",
+                "tác phẩm": "work; piece (of art/literature)",
+                "vĩ đại": "great; grand (nuanced, often used for highly respected works/people)",
+                "đề cập đến": "to refer to; to mention; to address (formal, often used in academic or analytical contexts)",
+                "câu hỏi về cách sống": "question about way of living; question about lifestyle (philosophical nuance)"
+            }
+        },
+        {
+            "index": 101,
+            "startTimestamp": "00:13:32.279",
+            "endTimestamp": "00:13:40.720",
+            "vocab": {
+                "là": "is; are (to be)",
+                "một": "a; one",
+                "câu trả lời": "answer",
+                "khá": "quite; rather",
+                "chính xác": "accurate; exact",
+                "tôi nghĩ": "I think",
+                "nhiều người": "many people",
+                "sẽ": "will (future marker)",
+                "xem": "watch; see",
+                "và": "and",
+                "khao khát": "yearn for; crave",
+                "một lối sống": "a lifestyle",
+                "đơn giản": "simple",
+                "hơn": "more (comparative)"
+            },
+            "beginnerVocab": {
+                "người": "person; people",
+                "xem": "watch; see",
+                "khao khát": "desire; crave; long for",
+                "lối sống": "lifestyle",
+                "đơn giản": "simple"
+            },
+            "advancedVocab": {
+                "khao khát": "to yearn for; to crave (strong desire, often emotional)",
+                "lối sống": "lifestyle (way of living, sometimes with cultural nuance)"
+            }
+        },
+        {
+            "index": 102,
+            "startTimestamp": "00:13:38.720",
+            "endTimestamp": "00:13:49.639",
+            "vocab": {
+                "giảm bớt": "reduce; lessen",
+                "những gì": "what; the things that",
+                "chúng ta": "we; us",
+                "có": "have",
+                "tiêu dùng": "consume; consumption",
+                "bởi lẽ": "because; since",
+                "bi kịch": "tragedy",
+                "lớn nhất": "biggest; greatest",
+                "loài người": "humankind; humanity",
+                "khao khát": "desire; longing; craving",
+                "tìm kiếm": "seek; search for",
+                "chính": "this; exactly; precisely (emphasizer)",
+                "mở ra": "open up; lead to"
+            },
+            "beginnerVocab": {
+                "giảm": "reduce; decrease",
+                "bớt": "less; reduce",
+                "có": "have",
+                "tiêu dùng": "consume; use",
+                "khao khát": "desire; crave; want",
+                "tìm kiếm": "search; look for"
+            },
+            "advancedVocab": {
+                "Bởi lẽ": "because; since (formal, literary discourse marker)",
+                "bị kịch": "tragedy (literary, formal)",
+                "khao khát": "craving; intense desire (nuanced, strong emotional connotation)",
+                "loài người": "humankind; humanity (formal, collective term)"
+            }
+        },
+        {
+            "index": 103,
+            "startTimestamp": "00:13:47.800",
+            "endTimestamp": "00:13:58.079",
+            "vocab": {
+                "những": "the; those; (plural marker)",
+                "điều kỳ diệu": "miracle; wonder; marvelous thing",
+                "nhất": "most; -est (superlative marker)",
+                "nhưng": "but",
+                "cũng": "also; too",
+                "giết chết": "kill; destroy",
+                "cả": "all; even",
+                "khác": "other; different",
+                "khi": "when",
+                "liên tục": "continuously; constantly",
+                "bị": "be (passive marker)",
+                "đầy vào": "filled with; pushed into",
+                "phiền muộn": "sorrow; trouble; sadness",
+                "bắt đầu từ": "starting from; beginning with",
+                "việc": "the matter of; the act of; thing (nominalizer)",
+                "người đồng": "companion; colleague; fellow (note: context needed for precise meaning)"
+            },
+            "beginnerVocab": {
+                "điều": "thing",
+                "giết": "kill",
+                "chết": "die; dead",
+                "liên tục": "continuously; constantly",
+                "bắt đầu": "start; begin",
+                "người": "person"
+            },
+            "advancedVocab": {
+                "kỳ diệu": "miraculous; wondrous (nuanced: extraordinary, awe-inspiring)",
+                "giết chết": "destroy; kill (nuanced: to completely eliminate, not literal killing)",
+                "liên tục bị đầy vào": "constantly pushed into; repeatedly forced into (unusual passive construction)",
+                "phiền muộn": "melancholy; sorrow; distress (nuanced: deep emotional trouble)",
+                "bắt đầu từ": "starting from; originating from (can indicate causal sequence, not just temporal)"
+            }
+        },
+        {
+            "index": 104,
+            "startTimestamp": "00:13:56.519",
+            "endTimestamp": "00:14:03.680",
+            "vocab": {
+                "nghiệp": "career; profession",
+                "quyết định": "decide; decision",
+                "nghỉ": "leave; quit; take a break",
+                "không báo trước": "without notice; without informing beforehand",
+                "phải": "must; have to",
+                "làm": "do; work",
+                "công việc": "work; job; task",
+                "hai người": "two people",
+                "nghĩa là": "means; that is",
+                "thời gian": "time",
+                "dành cho": "for; allocated to"
+            },
+            "beginnerVocab": {
+                "nghỉ": "to rest; to stop; to quit",
+                "báo": "to inform; to report",
+                "trước": "before",
+                "làm": "to do; to make; to work",
+                "công việc": "work; job; task",
+                "người": "person; people",
+                "thời gian": "time"
+            },
+            "advancedVocab": {
+                "nghỉ mà không báo trước": "quit without notice; resign without prior notice",
+                "thời gian dành cho công": "time allocated for work (note: 'công' here is short for 'công việc', meaning 'work' or 'job')"
+            }
+        },
+        {
+            "index": 105,
+            "startTimestamp": "00:14:02.160",
+            "endTimestamp": "00:14:12.759",
+            "vocab": {
+                "việc": "work; task; thing",
+                "chiếm": "occupy; take up",
+                "công việc hàng ngày": "daily work; daily tasks",
+                "đầu tiên": "first; firstly",
+                "không còn": "no longer; not anymore",
+                "mở nhạc": "play music; turn on music",
+                "lái xe": "drive; driving",
+                "trên đường": "on the road",
+                "giai điệu": "melody; tune",
+                "còn sót lại": "remaining; left over",
+                "cuốn": "volume; book (classifier)",
+                "và cả": "and also; and even",
+                "tiếng": "sound; voice"
+            },
+            "beginnerVocab": {
+                "việc": "work; job; thing (to do)",
+                "công việc": "work; job",
+                "hàng ngày": "daily; every day",
+                "ông": "he; Mr.; grandfather (note: polite male pronoun)",
+                "mở": "open; turn on",
+                "nhạc": "music",
+                "lái xe": "drive; driving",
+                "đường": "road; street",
+                "gia điệu": "melody; tune",
+                "tiếng": "sound; voice"
+            },
+            "advancedVocab": {
+                "chiếm chọn": "take over; occupy completely (nuanced: to fully take up, leaving no room for other things)",
+                "sót lại": "left over; remaining (nuanced: what is left after most is gone)",
+                "cuốn bă cé": "the 'ba ce' tape (note: possibly a specific or culturally significant music tape, unclear without more context)"
+            }
+        },
+        {
+            "index": 106,
+            "startTimestamp": "00:14:11.160",
+            "endTimestamp": "00:14:19.320",
+            "vocab": {
+                "vọng": "longing; yearning",
+                "văn chương": "literature",
+                "không phải lúc nào cũng": "not always",
+                "chất chứa": "contain; be filled with",
+                "nỗi nhớ": "nostalgia; longing (for something/someone)",
+                "quá khứ": "past",
+                "huy hoảng": "glorious; splendid (note: poetic/literary term)",
+                "mà còn": "but also",
+                "sợi dây": "thread; bond; connection",
+                "giúp": "help",
+                "hiểu hơn": "understand better"
+            },
+            "beginnerVocab": {
+                "không": "no; not",
+                "phải": "must; is; are",
+                "lúc nào": "anytime; always",
+                "nỗi nhớ": "missing; longing (emotion of missing someone/something)",
+                "quá khứ": "past",
+                "giúp": "help",
+                "hiểu": "understand",
+                "hơn": "more"
+            },
+            "advancedVocab": {
+                "vọng văn chương": "literary aspiration; longing for literature",
+                "chất chứa": "to be filled with; to contain (emotional nuance)",
+                "quá khứ Huy hoảng": "glorious past (note: 'Huy hoảng' is poetic for 'glorious')",
+                "sợi dây": "bond; connection (metaphorical use)"
+            }
+        },
+        {
+            "index": 107,
+            "startTimestamp": "00:14:17.279",
+            "endTimestamp": "00:14:27.040",
+            "vocab": {
+                "về": "about; regarding",
+                "sự cô độc": "loneliness; solitude",
+                "yên bình": "peaceful; tranquility",
+                "giữa": "amid; among; between",
+                "nhịp sống": "pace of life; rhythm of life",
+                "xô động": "bustling; hectic",
+                "hiện tại": "now; currently; at present",
+                "Sợi dây": "the thread; the bond",
+                "biến mất": "disappear; vanish",
+                "tiếp đến": "next; following that",
+                "bắt": "start; begin; catch (context-dependent)"
+            },
+            "beginnerVocab": {
+                "về": "about",
+                "ông": "he; him; Mr. (polite for older man)",
+                "Tokyo": "Tokyo",
+                "hiện tại": "now; at present",
+                "biến mất": "disappear; vanish",
+                "bắt": "catch; start"
+            },
+            "advancedVocab": {
+                "sự cô độc yên bình": "peaceful solitude (nuanced: positive, tranquil loneliness)",
+                "nhịp sống xô động": "hectic pace of life; bustling rhythm of life (nuanced: busy, chaotic urban life)",
+                "Sợi dây đó": "that bond; that connection (nuanced: metaphorical, not literal rope)"
+            }
+        },
+        {
+            "index": 108,
+            "startTimestamp": "00:14:25.360",
+            "endTimestamp": "00:14:33.360",
+            "vocab": {
+                "gặp": "meet; encounter",
+                "người mình thương": "the person I love; loved one",
+                "cùng với": "together with; with",
+                "chồng cũ": "ex-husband",
+                "đã dấy lên": "aroused; stirred up; caused",
+                "một sự đau đớn": "a pain; a hurt",
+                "nhiều đến nỗi": "so much that; to the extent that",
+                "người đàn ông": "the man",
+                "quyết định": "decide; decided",
+                "mua": "buy",
+                "ba lon bia": "three cans of beer"
+            },
+            "beginnerVocab": {
+                "gặp": "meet",
+                "người": "person",
+                "mình": "my; me (reflexive, informal)",
+                "thương": "love; care for",
+                "chồng": "husband",
+                "cũ": "old; former",
+                "đàn ông": "man",
+                "mua": "buy",
+                "ba": "three",
+                "lon": "can (as in can of drink)",
+                "bia": "beer"
+            },
+            "advancedVocab": {
+                "chồng cũ": "ex-husband",
+                "dấy lên": "arouse; stir up; ignite (emotional nuance)",
+                "nhiều đến nỗi": "so much that; to the extent that (emphasizes degree of emotion)"
+            }
+        },
+        {
+            "index": 109,
+            "startTimestamp": "00:14:31.040",
+            "endTimestamp": "00:14:39.079",
+            "vocab": {
+                "và": "and",
+                "bao thuốc lá": "pack of cigarettes",
+                "điều mà": "the thing that; what",
+                "ta": "we; one; I (context-dependent)",
+                "tưởng chừng": "seem; as if",
+                "sẽ không bao giờ": "will never",
+                "bắt gặp": "encounter; come across",
+                "ở": "at; in",
+                "sau đó": "after that; then",
+                "gặp lại": "meet again",
+                "người chồng cũ": "ex-husband",
+                "đó": "that"
+            },
+            "beginnerVocab": {
+                "và": "and",
+                "bao thuốc lá": "cigarette pack",
+                "gặp": "meet; encounter",
+                "người chồng": "husband",
+                "không bao giờ": "never",
+                "ở": "at; in"
+            },
+            "advancedVocab": {
+                "tưởng chừng": "seem; appear (gives a sense of something almost happening or being the case, but not quite)",
+                "bắt gặp": "encounter; come across (often used for unexpectedly meeting someone or something)",
+                "người chồng cũ": "ex-husband (literally 'old husband', a common way to refer to an ex-husband in Vietnamese)"
+            }
+        },
+        {
+            "index": 110,
+            "startTimestamp": "00:14:38.199",
+            "endTimestamp": "00:14:52.920",
+            "vocab": {
+                "bên sông": "riverside; by the river",
+                "trong phim": "in the film",
+                "những giấc mơ": "dreams",
+                "luôn": "always",
+                "được miêu tả": "described; depicted",
+                "chuỗi": "sequence; series",
+                "màu đen trắng": "black-and-white",
+                "cô đọng": "condensed; succinct",
+                "trường phái ấn tượng": "impressionist style",
+                "đã được tiết lộ": "was revealed",
+                "vợ": "wife",
+                "nhiếp ảnh gia": "photographer",
+                "chụp lại": "photographed; took a photo"
+            },
+            "beginnerVocab": {
+                "bên sông": "by the river; riverside",
+                "phim": "movie; film",
+                "màu đen trắng": "black and white (color)",
+                "vợ": "wife",
+                "nhiếp ảnh": "photography",
+                "chụp": "take a photo; photograph"
+            },
+            "advancedVocab": {
+                "cô đọng": "condensed; succinct (note: often used for style or expression)",
+                "trường phái ấn tượng": "Impressionist school; Impressionism (note: refers to an art movement, can be metaphorical)",
+                "nhiếp ảnh ra": "photographer (note: 'nhiếp ảnh gia' is standard; 'ra' is a nonstandard variant, possibly a typo or dialectal)"
+            }
+        },
+        {
+            "index": 111,
+            "startTimestamp": "00:14:51.040",
+            "endTimestamp": "00:15:00.000",
+            "vocab": {
+                "xuất lặp lại": "repeated; recurring",
+                "nhiều nhất": "most; the most",
+                "bức ảnh": "photo; picture",
+                "cây cối": "trees; plants",
+                "lấy cảm hứng": "take inspiration; inspired",
+                "dựa trên": "based on",
+                "khái niệm": "concept; notion",
+                "komori": "komori (Japanese concept)",
+                "nghĩa": "meaning"
+            },
+            "beginnerVocab": {
+                "bức ảnh": "photo; picture",
+                "cây cối": "trees",
+                "cô": "she; miss; woman",
+                "Nhật Bản": "Japan"
+            },
+            "advancedVocab": {
+                "xuất lặp lại": "recur; appear repeatedly (nuanced phrasing)",
+                "cây cối": "trees and plants (collective, not just 'trees')",
+                "lấy cảm hứng": "take inspiration; be inspired (idiomatic)",
+                "khái niệm": "concept; notion (specialized vocabulary)",
+                "komori": "komori (Japanese cultural concept; may require explanation)"
+            }
+        },
+        {
+            "index": 112,
+            "startTimestamp": "00:14:58.000",
+            "endTimestamp": "00:15:08.440",
+            "vocab": {
+                "là": "is; are (to be)",
+                "Tia Nắng Mặt Trời": "sunlight; sun rays",
+                "Xuyên Qua": "through; penetrate",
+                "Kẽ Lá": "leaf gaps; gaps between leaves",
+                "đan xen": "intertwined; interwoven",
+                "cuộc gặp gỡ": "meeting; encounter",
+                "hàng ngày": "daily; everyday",
+                "nhập nhằng": "blurred; ambiguous",
+                "cõi ý thức": "realm of consciousness",
+                "tiềm thức": "subconscious",
+                "chuỗi": "series; sequence",
+                "giấc mơ": "dream",
+                "hoạt động": "activity; operate"
+            },
+            "beginnerVocab": {
+                "tia nắng": "sunbeam; sunlight",
+                "mặt trời": "sun",
+                "lá": "leaf; leaves",
+                "gặp gỡ": "meet; meeting",
+                "ông": "he; old man (note: 'ông' is a respectful term for an older man)",
+                "giấc mơ": "dream"
+            },
+            "advancedVocab": {
+                "Tia Nắng Mặt Trời Xuyên Qua Kẽ Lá": "Sunlight filtering through leaves (poetic imagery)",
+                "đan xen": "interwoven; intertwined",
+                "nhập nhằng": "blurred; ambiguous; indistinct (nuanced, often about unclear boundaries)",
+                "cõi ý thức": "realm of consciousness",
+                "tiềm thức": "subconscious",
+                "chuỗi giấc mơ": "sequence of dreams"
+            }
+        },
+        {
+            "index": 113,
+            "startTimestamp": "00:15:06.920",
+            "endTimestamp": "00:15:17.440",
+            "vocab": {
+                "như": "like; as",
+                "tác phẩm nghệ thuật": "artwork; work of art",
+                "trừu tượng": "abstract",
+                "phim": "film; movie",
+                "cơ hồ": "almost; nearly",
+                "cánh cửa": "door; gateway",
+                "độc đáo": "unique",
+                "đi vào": "enter; go into",
+                "tiềm thức": "subconscious",
+                "nhân vật chính": "main character; protagonist",
+                "từ đó": "from there; from that point",
+                "thôi thúc": "urge; prompt; stimulate",
+                "người xem": "viewer; audience"
+            },
+            "beginnerVocab": {
+                "phim": "film; movie",
+                "cửa": "door",
+                "nhân vật": "character",
+                "người xem": "viewer; audience"
+            },
+            "advancedVocab": {
+                "trủ tượng": "abstract (artistic term)",
+                "cơ hồ": "almost; seemingly (literary, formal)",
+                "tiềm thức": "subconscious; unconscious mind",
+                "thôi thúc": "urge; impel; prompt (strong internal motivation)"
+            }
+        },
+        {
+            "index": 114,
+            "startTimestamp": "00:15:15.199",
+            "endTimestamp": "00:15:27.639",
+            "vocab": {
+                "một": "one; a; an",
+                "cảm giác": "feeling; sense",
+                "tò mò": "curiosity; curious",
+                "bí ẩn": "mystery; mysterious",
+                "về": "about; regarding",
+                "những gì": "what; whatever",
+                "có thể": "can; could; possible",
+                "đọng lại": "remain; linger",
+                "dưới": "under; beneath",
+                "vẻ ngoài": "appearance; exterior",
+                "điểm tĩnh": "calm; tranquility (note: 'điểm tĩnh' is likely a typo or variant of 'điềm tĩnh')",
+                "trầm mặc": "silent; reserved",
+                "bắt đầu": "begin; start",
+                "từ": "from",
+                "sự bình yên": "peace; peacefulness",
+                "kết thúc": "end; finish",
+                "cũng vậy": "also; as well; likewise",
+                "thế giới": "world",
+                "được": "is; are; passive marker (note: used to indicate passive voice or result)"
+            },
+            "beginnerVocab": {
+                "một": "one; a; an",
+                "cảm giác": "feeling; sense",
+                "bí ẩn": "mystery; mysterious",
+                "dưới": "under; below",
+                "vẻ ngoài": "appearance; outside",
+                "bình yên": "peaceful; peace",
+                "kết thúc": "end; finish",
+                "thế giới": "world"
+            },
+            "advancedVocab": {
+                "tò mò": "curiosity",
+                "bí ẩn": "mystery; mysterious",
+                "đọng lại": "linger; remain (emotionally or metaphorically)",
+                "vẻ ngoài điểm Tĩnh trầm mặc": "calm and silent exterior (nuanced, poetic description)",
+                "bắt đầu từ sự bình yên và kết thúc cũng vậy": "beginning with peace and ending the same way (idiomatic, cyclical structure)"
+            }
+        },
+        {
+            "index": 115,
+            "startTimestamp": "00:15:25.399",
+            "endTimestamp": "00:15:36.160",
+            "vocab": {
+                "tạo thành": "form; create",
+                "từ": "from",
+                "nhiều": "many",
+                "thế giới": "world; worlds",
+                "một số": "some",
+                "được kết nối": "are connected",
+                "có": "have; there is",
+                "thì không": "not; do not",
+                "và": "and",
+                "tuy": "although; though",
+                "gần gũi": "close; familiar",
+                "nhưng": "but",
+                "đầy": "full of",
+                "mới lạ": "novel; new; strange",
+                "biểu diễn": "perform; present",
+                "trong": "in",
+                "Perfect Days": "Perfect Days (film title)"
+            },
+            "beginnerVocab": {
+                "tạo": "create; make",
+                "thành": "become; form",
+                "nhiều": "many; much",
+                "thế giới": "world",
+                "một số": "some",
+                "kết nối": "connect",
+                "không": "no; not",
+                "gần gũi": "close; familiar",
+                "mới lạ": "new; strange",
+                "biểu diễn": "perform; show"
+            },
+            "advancedVocab": {
+                "tạo thành từ": "formed from; made up of",
+                "kết nối": "connected; linked",
+                "gần gũi": "close; familiar (note: can refer to emotional or physical closeness)",
+                "mới lạ": "novel; new and strange",
+                "biểu diễn": "perform; present (note: can refer to artistic or cinematic presentation)"
+            }
+        },
+        {
+            "index": 116,
+            "startTimestamp": "00:15:34.560",
+            "endTimestamp": "00:15:44.199",
+            "vocab": {
+                "chính là": "exactly; precisely; is",
+                "thế giới": "world",
+                "bất kỳ ai": "anyone; whoever",
+                "chúng ta": "we; us",
+                "đều": "all; both; every",
+                "đã từng": "have ever; once",
+                "trải nghiệm": "experience",
+                "thông qua": "through; via",
+                "muôn vàn": "countless; myriad",
+                "khoảnh khắc": "moments",
+                "cuộc sống": "life",
+                "tài năng": "talent",
+                "kể chuyện": "storytelling; telling stories",
+                "sự tinh": "subtlety; sophistication (note: 'sự tinh' is incomplete, usually part of 'sự tinh tế' meaning 'subtlety')"
+            },
+            "beginnerVocab": {
+                "thế giới": "world",
+                "ai": "who;anyone",
+                "chúng ta": "we;us",
+                "khoảnh khắc": "moment",
+                "cuộc sống": "life"
+            },
+            "advancedVocab": {
+                "chính là": "precisely; exactly (emphatic marker)",
+                "thống qua": "to permeate; to run through (note: uncommon/possibly a typo for 'thấm qua')",
+                "muôn vàn": "countless; myriad",
+                "khoảnh khắc": "moment; instant",
+                "tài năng kể chuyện": "storytelling talent; narrative skill",
+                "sự tinh": "subtlety; finesse (note: often part of 'sự tinh tế', here possibly truncated)"
+            }
+        },
+        {
+            "index": 117,
+            "startTimestamp": "00:15:42.680",
+            "endTimestamp": "00:15:53.000",
+            "vocab": {
+                "kết hợp": "combine; combine with",
+                "biểu tượng": "symbol; icon",
+                "diễn suất nội tâm": "internal acting; inner performance (acting expressing inner feelings)",
+                "khơi dậy": "evoke; arouse",
+                "chất liệu": "material; substance",
+                "chữ Tình Khắc Kỳ": "Khac Ky's Love Letter (proper noun; possibly a literary/cultural reference)",
+                "khiến": "make; cause",
+                "đắm chìm": "immerse; sink into",
+                "câu chuyện": "story; narrative",
+                "bằng": "by; with",
+                "sự": "the; (nominalizer, turns adjective/verb into noun)"
+            },
+            "beginnerVocab": {
+                "kết hợp": "combine; mix",
+                "biểu tượng": "symbol",
+                "câu chuyện": "story",
+                "chất liệu": "material",
+                "khiến": "make; cause",
+                "đắm chìm": "immerse; sink into"
+            },
+            "advancedVocab": {
+                "diễn suất nội tâm": "internal performance; inner acting (refers to subtle, psychological acting)",
+                "khơi dậy chất liệu": "evoke material; awaken substance (figurative, means to bring out a certain quality or theme)",
+                "Chữ Tình Khắc Kỳ": "Khac Ky's Romantic Script (culturally specific, refers to a particular style or motif in Vietnamese literature or art)",
+                "đắm chìm": "immerse; be absorbed (often used figuratively for deep emotional involvement)"
+            }
+        },
+        {
+            "index": 118,
+            "startTimestamp": "00:15:51.040",
+            "endTimestamp": "00:16:00.120",
+            "vocab": {
+                "im lặng": "silence; quiet",
+                "triết lý": "philosophy",
+                "thiền định": "meditation",
+                "quan sát": "observe; observation",
+                "cuộc sống": "life",
+                "nhận ra": "realize; recognize",
+                "vốn": "inherently; by nature (note: emphasizes the natural state)",
+                "không có": "does not have; there is no",
+                "Kỳ Diệu": "miraculous; magical",
+                "thần": "divine; supernatural"
+            },
+            "beginnerVocab": {
+                "im lặng": "silent; silence",
+                "quan sát": "observe; watch",
+                "cuộc sống": "life",
+                "nhận ra": "realize; recognize"
+            },
+            "advancedVocab": {
+                "im lặng triết lý": "philosophical silence (note: refers to contemplative, thoughtful silence, not just being quiet)",
+                "thiền định": "meditation (note: Buddhist or spiritual meditation)",
+                "vốn": "inherently; by nature (note: used to emphasize something's essential quality)",
+                "Kỳ Diệu": "miraculous; wondrous (note: often used for something extraordinary or magical)"
+            }
+        },
+        {
+            "index": 119,
+            "startTimestamp": "00:15:57.440",
+            "endTimestamp": "00:16:08.839",
+            "vocab": {
+                "thánh": "saint; holy (note: can mean 'saintly' or 'holy person')",
+                "nhưng": "but",
+                "nó là là": "it is (note: repetition for emphasis or hesitation)",
+                "như vậy": "like that; such; that way",
+                "không hơn không kém": "no more no less; exactly",
+                "việc của ta": "my job; our job; what we have to do",
+                "tìm ra": "find; discover",
+                "vẻ đẹp": "beauty",
+                "trong": "in; inside",
+                "những điều bình thường": "ordinary things; normal things",
+                "đó": "that; those",
+                "để": "so that; in order to",
+                "ai cũng có thể": "anyone can; everyone can",
+                "tìm thấy": "find",
+                "sự bình yên": "peace; tranquility",
+                "và": "and",
+                "rung": "vibrate; tremble; be moved (emotionally) (note: can mean 'to be touched' or 'emotionally moved')"
+            },
+            "beginnerVocab": {
+                "việc": "work; job; task",
+                "tìm": "find; search",
+                "đẹp": "beautiful; beauty",
+                "bình thường": "normal; ordinary",
+                "ai": "who; anyone",
+                "có thể": "can; able to"
+            },
+            "advancedVocab": {
+                "không hơn không kém": "no more no less; exactly (emphasizing precision)",
+                "rung": "to resonate; to be moved (emotionally) (note: can mean 'to vibrate' literally, but here refers to emotional resonance)"
+            }
+        },
+        {
+            "index": 120,
+            "startTimestamp": "00:16:07.000",
+            "endTimestamp": "00:16:32.560",
+            "vocab": {
+                "động": "move; active",
+                "trước": "before; in front of",
+                "vẻ đẹp": "beauty",
+                "tĩnh lặng": "quiet; tranquil",
+                "giản dị": "simple; simplicity",
+                "khỏe khắc": "moment (note: should be 'khoảnh khắc')",
+                "đời thường": "everyday life; ordinary life",
+                "trên hết": "above all; most of all",
+                "bây giờ": "now",
+                "lần sau": "next time",
+                "sau": "after; later",
+                "baby": "baby (English loanword)"
+            },
+            "beginnerVocab": {
+                "đẹp": "beautiful; beauty",
+                "giản dị": "simple; simplicity",
+                "đời thường": "everyday life; ordinary life",
+                "bây giờ": "now",
+                "lần sau": "next time",
+                "sau": "after; later",
+                "baby": "baby (note: English loanword, often means 'baby' or 'darling')"
+            },
+            "advancedVocab": {
+                "tĩnh lặng": "serene; tranquil (note: implies peaceful stillness)",
+                "giản dị": "simple; unpretentious (note: often used to praise understated beauty or lifestyle)",
+                "khỏe khắc đời thường": "everyday moments (note: 'khắc' is a poetic/literary word for 'moment')",
+                "trên hết": "above all; most importantly (note: discourse marker for emphasis)",
+                "bây giờ là bây giờ": "now is now (note: emphasizes living in the present moment)",
+                "lần sau là lần sau": "next time is next time (note: idiomatic, means not to worry about the future)"
+            }
+        }
+    ],
+    "topics": [
+        "slow living",
+        "minimalism",
+        "monk lifestyle",
+        "daily routines",
+        "gratitude",
+        "solitude",
+        "nature appreciation",
+        "class differences",
+        "spiritual harmony",
+        "finding joy",
+        "simple pleasures",
+        "inner peace"
+    ]
+}

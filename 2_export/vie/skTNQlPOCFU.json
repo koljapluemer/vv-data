@@ -1,0 +1,595 @@
+{
+    "videoId": "skTNQlPOCFU",
+    "language": {
+        "iso3": "vie",
+        "subtitleLanguage": "vi",
+        "humanReadable": "Vietnamese"
+    },
+    "segments": [
+        {
+            "index": 1,
+            "startTimestamp": "00:00:11.639",
+            "endTimestamp": "00:00:21.720",
+            "vocab": {
+                "hay": "or",
+                "chi tiết hơn": "more specifically; in more detail",
+                "hình tượng": "image; figure; persona",
+                "khác": "other; different",
+                "của": "of",
+                "chẳng phải": "not; isn't",
+                "câu chuyện": "story",
+                "xa lạ": "strange; unfamiliar",
+                "bất kỳ ai": "anyone; anybody",
+                "nữa": "anymore; any longer",
+                "vũ trụ": "universe",
+                "mọi": "every; all",
+                "khác biệt": "difference; distinction",
+                "đều": "all; every (emphasizer)"
+            },
+            "beginnerVocab": {
+                "Spiderman": "Spiderman",
+                "hình tượng": "image; figure; character (as in representation)",
+                "khác": "different; other",
+                "câu chuyện": "story",
+                "ai": "who; anyone",
+                "vũ trụ": "universe",
+                "mọi": "every; all",
+                "khác biệt": "difference"
+            },
+            "advancedVocab": {
+                "hình tượng": "image; figure; archetype (can refer to symbolic or iconic representation)",
+                "field Parker": "field Parker (likely a mishearing or typo for 'Peter Parker', but may confuse learners)",
+                "xa lạ": "strange; unfamiliar",
+                "đáo vũ trụ": "the universe; cosmos (đáo is unusual here, possibly a typo or rare usage)",
+                "mọi khác biệt": "every difference; all differences (nuanced: emphasizes inclusivity of differences)"
+            }
+        },
+        {
+            "index": 2,
+            "startTimestamp": "00:00:19.199",
+            "endTimestamp": "00:00:27.199",
+            "vocab": {
+                "có thể": "can; may (possibility)",
+                "xảy ra": "happen; occur",
+                "bởi lẽ": "because; since",
+                "tạo hình": "character design; modeling",
+                "hoạt ảnh": "animation",
+                "chất riêng": "unique quality; distinct style",
+                "không hề": "not at all; absolutely not",
+                "đụng hàng": "duplicate; overlap (with others)",
+                "bất kỳ": "any",
+                "nhân vật": "character"
+            },
+            "beginnerVocab": {
+                "có thể": "can; may",
+                "tạo hình": "design; shaping",
+                "hoạt ảnh": "animation",
+                "nhân vật": "character"
+            },
+            "advancedVocab": {
+                "bởi lẽ": "because; since (formal, nuanced)",
+                "tạo hình": "character design; modeling (animation/film context)",
+                "hoạt ảnh": "animation",
+                "chất riêng": "distinctive quality; unique style (nuanced, idiomatic)",
+                "động hàng": "overlap; be the same as (slang, means 'to be identical with others, to clash)'"
+            }
+        },
+        {
+            "index": 3,
+            "startTimestamp": "00:00:28.960",
+            "endTimestamp": "00:00:45.680",
+            "vocab": {
+                "nào": "which; any (question word, context-dependent)",
+                "giờ thì": "now; at this moment",
+                "người bố": "father",
+                "nhện": "spider",
+                "của": "of",
+                "môn nhà": "our house; our group (context: 'nhà' can mean 'house' or 'group/family')",
+                "đến rồi": "has arrived; is here",
+                "khác với": "different from",
+                "thì": "then; as for (topic marker)",
+                "là": "is; are",
+                "một trong những": "one of the",
+                "nhân vật": "character; figure"
+            },
+            "beginnerVocab": {
+                "giờ": "now; time",
+                "người bố": "father",
+                "nhện": "spider",
+                "nhà": "house; family",
+                "đến": "come; arrive",
+                "khác": "different",
+                "với": "with"
+            },
+            "advancedVocab": {
+                "giờ thì": "now; at this moment (discourse marker, signals a transition)",
+                "người bố nhện": "Spider-Dad; spider father (playful, nonstandard way to refer to Spider-Man as a father figure)",
+                "môn nhà": "our side; our team (colloquial, means 'our group' or 'our representative')"
+            }
+        },
+        {
+            "index": 4,
+            "startTimestamp": "00:00:44.200",
+            "endTimestamp": "00:00:50.920",
+            "vocab": {
+                "không": "not; no",
+                "có": "have; there is/are",
+                "quá nhiều": "too much; too many",
+                "sự khác biệt": "difference",
+                "với": "with",
+                "bản gốc": "original version; original",
+                "có thể": "can; may; possible",
+                "hiểu": "understand",
+                "lý do": "reason",
+                "nhân vật": "character (in story, film, etc.)",
+                "này": "this",
+                "gắn bó": "closely attached; bonded",
+                "mật thiết": "close; intimate",
+                "yếu tố": "factor; element"
+            },
+            "beginnerVocab": {
+                "không": "no; not",
+                "có": "have; there is",
+                "nhiều": "many; much",
+                "khác": "different",
+                "bản gốc": "original version (note: 'bản' = version, 'gốc' = original)",
+                "nhân vật": "character",
+                "yếu tố": "factor; element"
+            },
+            "advancedVocab": {
+                "sự khác biệt": "difference (formal, abstract)",
+                "bản gốc": "original version; original (context: source material)",
+                "gắn bó mật thiết": "closely attached; intimately connected (nuanced, strong emotional or functional bond)",
+                "yếu tố": "element; factor (context: component part, often abstract)"
+            }
+        },
+        {
+            "index": 5,
+            "startTimestamp": "00:00:49.239",
+            "endTimestamp": "00:00:56.760",
+            "vocab": {
+                "văn hóa": "culture",
+                "xã hội": "society",
+                "ngoài đời": "in real life",
+                "như": "like; as",
+                "hai người nhện": "two Spider-Men",
+                "mới": "just; recently",
+                "nêu": "mention; raise",
+                "phần một": "part one",
+                "điều lưu ý": "note; thing to pay attention to",
+                "ngoại hình": "appearance",
+                "có lẽ": "maybe; perhaps"
+            },
+            "beginnerVocab": {
+                "văn hóa": "culture",
+                "xã hội": "society",
+                "người": "person; people",
+                "đời": "life (real life)",
+                "hai": "two",
+                "một": "one",
+                "điều": "thing; point",
+                "ngoại hình": "appearance"
+            },
+            "advancedVocab": {
+                "văn hóa xã hội": "social culture; societal culture (nuanced, refers to cultural norms and practices in society)",
+                "ngoài đời": "in real life; outside (of fiction/media)",
+                "hai người nhện": "two Spider-Men (cultural reference to Spider-Man meme)",
+                "mới nêu": "just mentioned; newly raised (discourse marker, formal)",
+                "điều lưu ý": "point to note; thing to pay attention to (nuanced, formal)",
+                "ngoại hình": "appearance; physical appearance (can be nuanced, not just 'looks')"
+            }
+        },
+        {
+            "index": 6,
+            "startTimestamp": "00:00:54.879",
+            "endTimestamp": "00:01:04.400",
+            "vocab": {
+                "việc": "the act of; the matter of",
+                "các nhà làm phim": "filmmakers",
+                "chuyển": "change; convert; turn",
+                "từ": "from",
+                "người da trắng": "white person",
+                "ông bố": "father",
+                "người Island": "Icelandic person",
+                "mẹ": "mother",
+                "người Mexico": "Mexican person",
+                "thành": "into; become",
+                "người thuần Latin": "pure Latin person; fully Latino (note: 'thuần' means pure or full-blooded)",
+                "giống như": "like; similar to",
+                "Jessica Drew": "Jessica Drew (proper name)"
+            },
+            "beginnerVocab": {
+                "nhà làm phim": "filmmaker; movie maker",
+                "người": "person; people",
+                "bố": "father; dad",
+                "mẹ": "mother; mom",
+                "Mexico": "Mexico",
+                "Latin": "Latin (refers to Latin American)",
+                "giống": "like; similar to"
+            },
+            "advancedVocab": {
+                "chuyển": "to change; to transform (note: can refer to changing identity or characteristics, not just physical movement)",
+                "người thuần Latin": "fully Latin; pure Latin (note: 'thuần' implies unmixed or pure heritage)",
+                "giống như": "like; similar to (note: used for comparison, sometimes nuanced in context)"
+            }
+        },
+        {
+            "index": 7,
+            "startTimestamp": "00:01:03.039",
+            "endTimestamp": "00:01:10.920",
+            "vocab": {
+                "người da trắng": "white person",
+                "người da đen": "black person",
+                "cơ bắp": "muscle",
+                "lực lưỡng": "muscular; strong (physique)",
+                "ối giồi ôi": "oh my god; wow (exclamation)",
+                "cùng với đó": "along with that; together with that",
+                "do": "because; due to",
+                "không": "not; no"
+            },
+            "beginnerVocab": {
+                "người": "person; people",
+                "da trắng": "white (skin)",
+                "da đen": "black (skin)",
+                "cơ bắp": "muscle",
+                "lực lưỡng": "muscular; strong"
+            },
+            "advancedVocab": {
+                "lực lưỡng": "muscular; brawny (emphasizing strong, well-built physique)",
+                "ối giồi ôi": "oh my god; wow (Vietnamese exclamation of surprise or amazement)",
+                "Cùng với đó": "along with that; at the same time (discourse marker for adding information)"
+            }
+        },
+        {
+            "index": 8,
+            "startTimestamp": "00:01:09.159",
+            "endTimestamp": "00:01:18.920",
+            "vocab": {
+                "dựa trên": "based on",
+                "nền văn hóa xã hội": "social culture",
+                "thực tế": "real; reality; actual",
+                "nào": "which; any (question word)",
+                "Thế nên": "therefore; so",
+                "phong cách thiết kế": "design style",
+                "nhân vật": "character",
+                "này": "this",
+                "Thoạt đầu": "at first; initially",
+                "không khác": "not different",
+                "những": "those; the (plural marker)",
+                "comic": "comic",
+                "khác": "other; different",
+                "như": "like; such as",
+                "hay": "or",
+                "Peter": "Peter (name)"
+            },
+            "beginnerVocab": {
+                "dựa trên": "based on",
+                "nền": "foundation; base",
+                "văn hóa": "culture",
+                "xã hội": "society",
+                "thực tế": "reality; real",
+                "phong cách": "style",
+                "thiết kế": "design",
+                "nhân vật": "character",
+                "ban đầu": "at first; initially",
+                "khác": "different",
+                "như": "like; such as"
+            },
+            "advancedVocab": {
+                "dựa trên": "based on",
+                "nền văn hóa xã hội thực tế": "realistic social culture; real-world social culture (nuanced, refers to actual societal context)",
+                "Thoạt đầu": "at first; initially (discourse marker, signals sequence or contrast)"
+            }
+        },
+        {
+            "index": 9,
+            "startTimestamp": "00:01:16.640",
+            "endTimestamp": "00:01:28.799",
+            "vocab": {
+                "làm": "do; make",
+                "ấy": "that (demonstrative)",
+                "tuy nhiên": "however",
+                "chúng ta": "we; us",
+                "hãy": "let's (suggestion particle)",
+                "đảo sâu hơn": "dig deeper; go deeper",
+                "nhé": "(softening particle; suggestion)",
+                "Đến Từ": "come from",
+                "Tương Lai": "future",
+                "chi tiết": "detail",
+                "vì thế": "therefore; because of that",
+                "bạn": "you",
+                "có thể": "can; may; be able to",
+                "nhận thấy": "notice; realize"
+            },
+            "beginnerVocab": {
+                "làm": "do; make",
+                "chúng ta": "we; us",
+                "hãy": "let's",
+                "bạn": "you",
+                "có thể": "can; may",
+                "nhận": "recognize; notice",
+                "thấy": "see"
+            },
+            "advancedVocab": {
+                "tuy nhiên": "however; nevertheless",
+                "hãy đảo sâu hơn nhé": "let's dig deeper (imperative, inviting tone)",
+                "Earth 928": "Earth 928 (specific alternate universe in Marvel lore)",
+                "bạn có thể nhận thấy": "you may notice; you can observe (nuanced polite suggestion)"
+            }
+        },
+        {
+            "index": 10,
+            "startTimestamp": "00:01:27.240",
+            "endTimestamp": "00:01:34.680",
+            "vocab": {
+                "rất nhiều": "a lot; many",
+                "chi tiết": "details",
+                "nhân vật": "character",
+                "vũ trụ": "universe",
+                "thiết kế": "design",
+                "hiện đại": "modern",
+                "gần như": "almost; nearly",
+                "yên bình": "peaceful",
+                "đầy": "full of",
+                "máy móc": "machines; machinery"
+            },
+            "beginnerVocab": {
+                "rất nhiều": "a lot; many",
+                "nhân vật": "character",
+                "vũ trụ": "universe",
+                "hiện đại": "modern",
+                "yên bình": "peaceful",
+                "máy móc": "machines"
+            },
+            "advancedVocab": {
+                "vũ trụ": "universe (can refer to fictional universe/world)",
+                "thiết kế hiện đại": "modern design",
+                "gần như là yên bình": "almost peaceful; nearly tranquil (nuanced, not fully peaceful)",
+                "máy móc": "machines; machinery (can imply advanced technology)"
+            }
+        },
+        {
+            "index": 11,
+            "startTimestamp": "00:01:32.759",
+            "endTimestamp": "00:01:41.799",
+            "vocab": {
+                "tiết": "lesson; period (class context)",
+                "Hình Học": "Geometry",
+                "hoàn hảo": "perfect",
+                "nghệ thuật": "art",
+                "địch nghĩa": "definition (note: likely a mishearing or typo for 'định nghĩa')",
+                "chủ nghĩa vị lai": "futurism",
+                "trường phái vị lai": "futurist school; futurism",
+                "futurism": "futurism",
+                "đây": "here; this (emphasis particle)"
+            },
+            "beginnerVocab": {
+                "nghệ thuật": "art"
+            },
+            "advancedVocab": {
+                "địch nghĩa": "define; give a definition (formal, academic usage)",
+                "chủ nghĩa vị lai": "futurism (art movement)",
+                "trường phái vị lai": "futurist school; futurism (artistic school)",
+                "futurism": "futurism (used as a loanword, refers to the art movement)"
+            }
+        },
+        {
+            "index": 12,
+            "startTimestamp": "00:01:40.040",
+            "endTimestamp": "00:01:49.479",
+            "vocab": {
+                "là": "is; are; to be",
+                "trào lưu": "movement; trend",
+                "nghệ thuật": "art",
+                "bắt đầu": "begin; start",
+                "thế kỷ 20": "20th century",
+                "chính xác": "exactly; precisely",
+                "năm 1909": "year 1909",
+                "tại": "at; in (location)",
+                "ý": "Italy",
+                "chủ nghĩa vị lai": "futurism",
+                "tập trung vào": "focus on",
+                "sự tiến": "progress; advancement (note: incomplete phrase, usually 'sự tiến bộ' means 'progress')"
+            },
+            "beginnerVocab": {
+                "nghệ thuật": "art",
+                "bắt đầu": "start; begin",
+                "năm": "year",
+                "ý": "Italy",
+                "tập trung": "focus",
+                "tiến": "advance; progress (note: often means 'move forward' or 'advance')"
+            },
+            "advancedVocab": {
+                "trào lêu": "movement; trend (note: should be 'trào lưu', possible typo)",
+                "chủ nghĩa vị lai": "futurism (art movement)",
+                "ý": "Italy (note: 'Ý' is the Vietnamese name for Italy, not 'idea')"
+            }
+        },
+        {
+            "index": 13,
+            "startTimestamp": "00:01:47.399",
+            "endTimestamp": "00:01:54.799",
+            "vocab": {
+                "bộ hiện đại": "modernist; modern school",
+                "chối bỏ": "reject; deny",
+                "quan điểm nghệ thuật truyền thống": "traditional artistic views; traditional art perspectives",
+                "ngợi chủ nghĩa máy móc": "praise mechanism; praise mechanistic ideology (note: 'ngợi' = praise, 'chủ nghĩa máy móc' = mechanism/mechanistic ideology)",
+                "hình tượng đô thị": "urban imagery; urban symbols",
+                "kết hợp": "combine; combine with"
+            },
+            "beginnerVocab": {
+                "hiện đại": "modern",
+                "chối bỏ": "reject; refuse",
+                "nghệ thuật": "art",
+                "truyền thống": "traditional; tradition",
+                "máy móc": "machine; mechanical",
+                "hình tượng": "image; figure",
+                "đô thị": "urban; city",
+                "kết hợp": "combine; combine with"
+            },
+            "advancedVocab": {
+                "chối bỏ": "reject; deny (nuanced: actively refuse or repudiate)",
+                "ngợi chủ nghĩa máy móc": "praise mechanistic ideology; glorify machinery (note: 'ngợi' is short for 'ca ngợi', and 'chủ nghĩa máy móc' refers to a belief in or emphasis on machinery/mechanization)",
+                "hình tượng đô thị": "urban imagery; urban iconography (nuanced: refers to symbolic representations of the city)"
+            }
+        },
+        {
+            "index": 14,
+            "startTimestamp": "00:01:53.360",
+            "endTimestamp": "00:02:01.119",
+            "vocab": {
+                "với": "with",
+                "những": "those; the (plural marker)",
+                "phương tiện di chuyển": "means of transportation",
+                "tốc độ cao": "high speed",
+                "máy bay": "airplane",
+                "tàu lửa": "train",
+                "yếu tố": "factor; element",
+                "tốc độ": "speed",
+                "bạo lực": "violence",
+                "hung bạo": "violent; aggressive",
+                "tầng lớp lao động": "working class"
+            },
+            "beginnerVocab": {
+                "máy bay": "airplane",
+                "tàu lửa": "train",
+                "tốc độ": "speed",
+                "bạo lực": "violence",
+                "lao động": "labor; work"
+            },
+            "advancedVocab": {
+                "phương tiện di chuyển tốc độ cao": "high-speed means of transportation",
+                "bạo lực": "violence; violent (note: can refer to both physical violence and aggressive behavior)",
+                "hung bạo": "ferocious; brutal; aggressive (note: stronger than 'bạo lực', often implies cruelty)",
+                "tầng lớp lao động": "working class (note: refers to social class, not just people who work)"
+            }
+        },
+        {
+            "index": 15,
+            "startTimestamp": "00:01:59.439",
+            "endTimestamp": "00:02:08.679",
+            "vocab": {
+                "thường xuyên": "frequently; regularly",
+                "được": "to be (passive marker)",
+                "nghệ sĩ": "artist; artists",
+                "trường phái": "school (of thought); movement",
+                "vị Lài": "Vi Lai (proper noun; name of a school/movement)",
+                "áp dụng": "apply; applied",
+                "tôn vinh": "honor; glorify",
+                "sự thay đổi": "change",
+                "thời đại": "era; age; period",
+                "hay nói cách khác": "in other words"
+            },
+            "beginnerVocab": {
+                "nghệ sĩ": "artist",
+                "trường phái": "style; school (of art)",
+                "áp dụng": "apply; use",
+                "thay đổi": "change",
+                "thời đại": "era; age"
+            },
+            "advancedVocab": {
+                "trường phái vị Lài": "Vi Lai school; Vi Lai movement (note: 'vị Lài' is a play on 'vị lai' meaning 'future', often used as a term for Futurism in Vietnamese art contexts)",
+                "áp dụng": "apply; adopt (note: can mean to implement a method or style, not just 'use')",
+                "tôn vinh": "honor; glorify; celebrate (note: often used in formal or ceremonial contexts)",
+                "nói cách khác": "in other words (note: discourse marker for rephrasing or clarification)"
+            }
+        },
+        {
+            "index": 16,
+            "startTimestamp": "00:02:06.880",
+            "endTimestamp": "00:02:16.560",
+            "vocab": {
+                "người nghệ sĩ": "artist",
+                "mường tượng": "imagine; envision",
+                "thế giới xã hội": "social world; society",
+                "tương lai": "future",
+                "ca ngợi": "praise; extol",
+                "sức mạnh": "strength; power",
+                "sự sáng tạo": "creativity; creation",
+                "loài người": "humankind; humanity",
+                "trước": "in the face of; before (context: facing something)",
+                "sự bào mòn": "erosion; wearing away",
+                "tự nhiên": "nature",
+                "Dòng Chảy Thời gian": "the Flow of Time (note: poetic expression for time's passage)"
+            },
+            "beginnerVocab": {
+                "người": "person; people",
+                "nghệ sĩ": "artist",
+                "thế giới": "world",
+                "xã hội": "society",
+                "tương lai": "future",
+                "sức mạnh": "strength; power",
+                "sáng tạo": "creativity; create",
+                "loài người": "humankind; humans",
+                "tự nhiên": "nature",
+                "thời gian": "time"
+            },
+            "advancedVocab": {
+                "mường tượng": "imagine; envision (nuanced, more poetic than 'tưởng tượng')",
+                "ca ngợi": "praise; extol (formal, literary)",
+                "bà mòn": "erosion; wearing down (unusual, poetic phrasing)",
+                "Dòng Chảy Thời gian": "the Flow of Time (capitalized, metaphorical expression)"
+            }
+        },
+        {
+            "index": 17,
+            "startTimestamp": "00:02:15.120",
+            "endTimestamp": "00:02:22.360",
+            "vocab": {
+                "đối với": "regarding; for (preposition, introduces topic)",
+                "những bạn": "those of you; you (plural, informal)",
+                "chuyên về": "specialize in; focus on",
+                "mảng": "field; area (context: subject area)",
+                "nghệ thuật": "art",
+                "không khó để": "not hard to; easy to",
+                "nhận ra": "recognize; realize",
+                "học hỏi": "learn from; take inspiration from",
+                "không hề nhẹ": "not at all slight; significant (emphasizes degree)",
+                "từ": "from"
+            },
+            "beginnerVocab": {
+                "bạn": "you; friend",
+                "nghệ thuật": "art",
+                "khó": "difficult; hard",
+                "nhận ra": "recognize; realize",
+                "học hỏi": "learn"
+            },
+            "advancedVocab": {
+                "mảng": "field; sector; area (specialized domain, not 'piece')",
+                "không hề nhẹ": "not at all slight; considerable (emphasizes degree, idiomatic)",
+                "học hỏi không hề nhẹ từ": "learned a lot from; heavily influenced by (idiomatic, nuanced)"
+            }
+        },
+        {
+            "index": 18,
+            "startTimestamp": "00:02:20.640",
+            "endTimestamp": "00:02:30.760",
+            "vocab": {
+                "nhà thiết kế": "designer",
+                "một trong những": "one of",
+                "cái tên lớn": "big name; major figure",
+                "xây dựng": "build; establish",
+                "phát triển": "develop",
+                "phong trào": "movement",
+                "nghệ thuật": "art",
+                "Tân Vị Lai": "Neo-futurism (lit. New Futurism)",
+                "ông": "he; Mr.",
+                "họa sĩ": "painter; artist",
+                "hình ảnh": "image; visual"
+            },
+            "beginnerVocab": {
+                "nhà thiết kế": "designer",
+                "xây dựng": "build; construct",
+                "phát triển": "develop",
+                "nghệ thuật": "art",
+                "họa sĩ": "painter; artist",
+                "hình ảnh": "image; picture"
+            },
+            "advancedVocab": {
+                "nhà thiết kế": "designer",
+                "phong trào nghệ thuật Tân Vị Lai": "Neo-futurism art movement (note: 'Tân Vị Lai' is a calque of 'Neo-futurism')",
+                "họa sĩ hình ảnh": "visual artist (note: literally 'image painter', refers to someone who creates visual art, not just paintings)"
+            }
+        }
+    ]
+}
